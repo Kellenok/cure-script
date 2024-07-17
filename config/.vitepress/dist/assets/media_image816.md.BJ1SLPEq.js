@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.CX7ejjvq.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"media/image816.md","filePath":"media/image816.md"}'),r={name:"media/image816.md"};function i(o,m,s,c,n,d){return t(),a("div")}const f=e(r,[["render",i]]);export{_ as __pageData,f as default};
