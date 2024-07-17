@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Cure Dolly script",
   description: "Cure dolly markdown",
   srcDir: 'docs',
-  base: '/repo/',
+  base: '/cure-script/',
   markdown: {
     image: {
       // image lazy loading is disabled by default
