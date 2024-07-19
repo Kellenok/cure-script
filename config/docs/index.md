@@ -4,15 +4,16 @@ layout: home
 
 hero:
   name: <code>Cure Dolly script</code>
-  text: <code>Cure dolly markdown</code>
-  tagline: My great project tagline
+  text: <code>in Markdown</code>
+  tagline: Read all Dolly's japanese course on a handy and fast website
+  image: /public/background.png
   actions:
     - theme: brand
       text: Read from 1st lesson
       link: /1-the-basic-types-of-sentences
     - theme: alt
-      text: Table of Contents
-      link: /table-of-contents
+      text: About
+      link: /about
 
 
 ---

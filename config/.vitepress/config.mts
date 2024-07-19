@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Cure Dolly script",
-  description: "Cure dolly markdown",
+  title: "Cure Dolly",
+  description: "in markdown",
   srcDir: 'docs',
   base: '/cure-script/',
   markdown: {
@@ -23,6 +23,10 @@ export default defineConfig({
     ],
     [
       'link',
+      { rel: 'icon', href: '/cure-script/favicon.ico' }
+    ],
+    [
+      'link',
       { href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet', rel: 'stylesheet' }
     ]
   ],
@@ -30,14 +34,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Table Of Contents', link: '/table-of-contents' }
+      { text: 'About', link: '/about' }
     ],
 
     sidebar: [
       {
-        text: 'Intro',
+        text: 'About',
+        collapsed: false,
         items: [
-          { text: 'Table Of Contents', link: '/table-of-contents' },
+          { text: 'Intro', link: '/about' },
+          { text: 'From original Docs', link: '/original' }
+        ]
+      },
+      { 
+        text: 'Basic Sentence Structure and Core Grammar',
+        collapsed: false,
+        items: [
           {
             text: '1. The Basic Types Of Sentences',
             link: '/1-the-basic-types-of-sentences'
@@ -117,6 +129,12 @@ export default defineConfig({
             text: ' 20. Directionals それ その そんな そう Etc',
             link: '/20-directionals-それ-その-そんな-そう-etc'
           },
+        ]
+      },
+      { 
+        text: 'Advanced Grammar and Expressions',
+        collapsed: false,
+        items: [
           { text: ' 21. てある ている ておく', link: '/21-てある-ている-ておく' },
           { text: ' 22. ては ても', link: '/22-ては-ても' },
           { text: ' 23. だって だから それから', link: '/23-だって-だから-それから' },
@@ -179,6 +197,12 @@ export default defineConfig({
             text: ' 40. 3 Pitfalls In Japanese And How To Avoid Them',
             link: '/40-3-pitfalls-in-japanese-and-how-to-avoid-them'
           },
+        ]
+      },
+      { 
+        text: 'Language Learning Strategies and Sentence Analysis',
+        collapsed: false,
+        items: [
           {
             text: ' 41. 5 Key Facts About The Basic Structure Of Japanese',
             link: '/41-5-key-facts-about-the-basic-structure-of-japanese'
@@ -259,6 +283,12 @@ export default defineConfig({
             text: ' 60. The Other Half Of Japanese Structure Non Logical Topic Comment Structure',
             link: '/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure'
           },
+        ]
+      },
+      { 
+        text: 'Advanced Topics and Cultural Context',
+        collapsed: false,
+        items: [
           {
             text: ' 61. は And が The Deeper Secrets The Yin Yang Structure Of Japanese',
             link: '/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese'
@@ -339,6 +369,12 @@ export default defineConfig({
             text: ' 80. Dropped Particles Casual Omissions',
             link: '/80-dropped-particles-casual-omissions'
           },
+        ]
+      },
+      { 
+        text: 'Fine-tuning Your Japanese',
+        collapsed: false,
+        items: [
           {
             text: ' 81. Global Principle Of All Japanese Word Forms',
             link: '/81-global-principle-of-all-japanese-word-forms'
@@ -403,11 +439,16 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Kellenok/cure-script' }
     ],
 
     search: {
       provider: 'local'
+    },
+
+    footer: {
+      message: 'Created by <a href="https://bento.me/kln">Kellen</a>',
+      copyright: 'Originally transripted by <a href="https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc">nunko/dinuz</a>.'
     }
 
     
