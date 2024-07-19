@@ -18,6 +18,10 @@ Example of new note
 Rarely, there are also containers like this
 :::
 
+::: details And something like his (Click)
+Badoom
+:::
+
 4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
 5. WIP merge line-by-line text into paragraph text
 
