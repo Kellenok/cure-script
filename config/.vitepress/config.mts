@@ -6,6 +6,7 @@ export default defineConfig({
   description: "in markdown",
   srcDir: 'docs',
   base: '/cure-script/',
+  ignoreDeadLinks: true,
   markdown: {
     image: {
       // image lazy loading is disabled by default
