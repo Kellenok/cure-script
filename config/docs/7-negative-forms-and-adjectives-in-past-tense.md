@@ -96,7 +96,6 @@ Notice the っ before た instead of just た, as given in Lesson 5 Godan Verb G
 :::
 
 and if we want to say <code>Sakura didn't run (in the past)</code>, we say <code>さくらがはしらなかった</code>. <code>はしらない</code>, and then we put <code>ない</code> into the past: <code>はしらなかった</code>. 
-img src=<code>media/image187.png</code> style=<code>width:6.5in;height:3.625in</code> /
 ![](media/image187.png)
 
 Now, as we all know. <code>さくらがはしる</code> is rather unnatural Japanese, just as it's rather unnatural English. We say <code>Sakura is running</code> in English, and in Japanese we say <code>さくらがはしっている</code>. So if we want to put all that in the past, what do we do? Well, all we have to do is put that <code>いる</code> into the past. 
