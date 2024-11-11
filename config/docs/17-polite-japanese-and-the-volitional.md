@@ -13,7 +13,7 @@ Whenever Dolly uses the term <code>formal</code> for です or ます, it should
 
 Some people may be surprised that we've gone for sixteen lessons without using this at all, when most courses use it from the very first lesson.
 
-![](media/image1107.png)
+![](media/image1107.webp)
 
 Now, there are good reasons why we haven't. **One reason is that です/ます form is actually quite eccentric**. **It does various things that most of the rest of Japanese doesn't do.**
 
@@ -39,7 +39,7 @@ It's a helper verb like lots of other helper verbs that we've looked at up to th
 
 **It attaches to our old friend the い-stem, and it doesn't change the meaning of the word it attaches to in any way.**
 
-![](media/image851.png)
+![](media/image851.webp)
 
 **It simply makes it formal.**
 
@@ -63,7 +63,7 @@ It works the same way as any other す-ending verb: it's <code>**ました**</co
 
 But the negative is not <code>まさない</code>; **it's <code>ません</code>.**
 
-![](media/image68.png)
+![](media/image68.webp)
 
 ### ません
 
@@ -134,13 +134,13 @@ So let's move on to <code>です</code>.
 
 **It's the copula. It works exactly like <code>だ</code>, so if you know <code>だ</code>, you know <code>です</code> already.**
 
-![](media/image54.png)
+![](media/image54.webp)
 
 Except that this also has a strange quirk, which is that
 
 if we take an adjective like <code>赤い</code> meaning <code>is red</code>, we put <code>です</code> on to the end of it in formal speech.
 
-![](media/image178.png)
+![](media/image178.webp)
 
 **It doesn't do anything; it just decorates the sentence and makes it formal.**
 
@@ -148,7 +148,7 @@ Again, this is something you just have to learn and it's not very difficult to l
 
 if you learn it at the beginning you get the impression that you need the copula with an adjective like <code>赤い</code> just as you need the copula with an adjectival noun like <code>綺麗/きれい</code>.
 
-![](media/image246.png)
+![](media/image246.webp)
 
 And of course the fact that they call adjectival nouns <code>な-adjectives</code> *(Lesson 6)* just makes it even more confusing. You think that adjectives take the copula and they don't.
 
@@ -172,7 +172,7 @@ A couple of other things worth knowing: one of the things is that as well as say
 
 **we can also say <code>ないです</code>.**
 
-![](media/image390.png)
+![](media/image390.webp)
 
 So we can say <code>さくらが話しません</code> – <code>Sakura doesn't talk</code>,
 
@@ -192,7 +192,7 @@ And that of course is perfectly logical and sensible, if any of it is,
 
 **However, we can use both <code>です</code> and <code>ます</code> with the volitional helper verb.**
 
-![](media/image964.png)
+![](media/image964.webp)
 
 And once again <code>ます</code> behaves eccentrically,
 
@@ -210,7 +210,7 @@ And since we're raising the subject of the volitional, let's cover that too.
 
 Its formation is very simple, and **it's one of the few things that we do with the お-stem of verbs**.
 
-![](media/image356.png)
+![](media/image356.webp)
 
 **The godan volitional helper,** like the potential helper – potential helper is just a single kana, る(-ru), and **the volitional helper is just the single kana う**(-u),
 
@@ -264,7 +264,7 @@ But one use of this form that is worth knowing because you'll see it pretty ofte
 
 **we use the volitional form of the copula, <code>だ</code> or <code>です</code> – <code>だ</code>, which isn't really a verb in the usual sense, the volitional is <code>だろう</code> ­– and if we add that to any other sentence it gives the meaning of <code>probably</code>.**
 
-![](media/image891.png)
+![](media/image891.webp)
 
 ::: info
 For です it is でしょう. Sometimes, you may see だろう called a volitional form of である instead of だ. From my research, it seems that である is just a more literary/older form of だ.  
@@ -282,5 +282,5 @@ Even though だろう is a volitional form of the だ copula, it actually seems 
 
 So now we know how to use the volitional and how to use formal Japanese.
 
-![](media/image308.png)
+![](media/image308.webp)
 :::

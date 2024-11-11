@@ -24,7 +24,7 @@ As I've said before, almost all Japanese words divide into three kinds,
 
 that is, nouns, verbs and adjectives.
 
-![](media/image20.png)
+![](media/image20.webp)
 
 There are a few words that are outside these three but not a great number.
 
@@ -36,7 +36,7 @@ However, there's another way of dividing Japanese words which is used in Japanes
 
 and <code>active words</code> or <code>active elements</code>.
 
-![](media/image452.png)
+![](media/image452.webp)
 
 Now, static or body words essentially boil down to nouns,
 
@@ -112,7 +112,7 @@ So for example when we add the soft copula <code>な</code> to an adjectival nou
 
 we have <code>綺麗な</code>, and <code>綺麗な</code> is regarded as a unit in itself.
 
-![](media/image434.png)
+![](media/image434.webp)
 
 And actually that unit *could* be called a <code>な-adjective</code>, because <code>綺麗</code> plus <code>な</code> or <code>だ</code> becomes an adjectival unit.
 
@@ -136,7 +136,7 @@ Now, the other thing to understand is that when we attach the copula to a noun,
 
 that combination is in fact a <code>用言</code> or active unit.
 
-![](media/image1085.png)
+![](media/image1085.webp)
 
 And that's obvious, because once you've attached the copula to it,
 
@@ -154,7 +154,7 @@ this means that the three engines, the three possible ways of ending a sentence,
 
 are all <code>用言</code>, or active units. That's to say, verb, adjective and noun-plus-copula.
 
-![](media/image474.png)
+![](media/image474.webp)
 
 These are the three possible engines of a sentence
 
@@ -276,7 +276,7 @@ And because of this **we can also say** <code>このラーメンは世界で一�
 
 But we **can't** say <code>このラーメンは世界の一番美味しい</code>
 
-![](media/image446.png)
+![](media/image446.webp)
 
 Why can't we?
 

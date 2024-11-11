@@ -43,7 +43,7 @@ So what are self-move and other-move words?
 
 So, one very good example is <code>出る(でる)</code> and <code>出す(だす)</code>.
 
-![](media/image986.png)
+![](media/image986.webp)
 
 They both use the same kanji which means <code>come out</code>.
 
@@ -93,7 +93,7 @@ The first thing to know is that there is, as it were, an Adam and Eve of self-mo
 
 other-move words, the mother and father of them all. And these are <code>ある</code> and <code>する</code>.
 
-![](media/image147.png)
+![](media/image147.webp)
 
 **<code>ある</code> is the mother of all self-move words. It simply means <code>be</code>. So it's a completely inward-directed verb. You can't be or exist something else; you can only be and exist in yourself. It's fundamentally and absolutely inward-directed, self-directed.**
 
@@ -109,7 +109,7 @@ Well, there are what I call 3 laws of move-word pairs.
 
 **And the first of those laws is that if one of a pair ends in -す, that is going to be the other-move word, always. Why? Because that -す is related to <code>する</code>.**
 
-![](media/image983.png)
+![](media/image983.webp)
 
 So, in the example we gave before, <code>出る (でる) / 出す (だす)</code>,
 
@@ -121,7 +121,7 @@ And an awful lot of those -す pairs actually make that particular transformatio
 
 -す. **But not always.**
 
-![](media/image131.png)
+![](media/image131.webp)
 
 In some cases... we have, for example, <code> 落ちる (おちる)</code>, which means <code>fall</code>, and <code>落とす (おとす)</code>, which means <code>drop</code>. They have the same kanji; they are a pair, they don't have that regular -える to -す ending, but <code>落とす (おとす)</code> still has -す on the end,
 
@@ -135,7 +135,7 @@ it ends in the sound -ある, **that is going to be the self-move partner of the
 
 Because that -ある is related to <code>ある</code>, the mother of all self-move verbs.
 
-![](media/image532.png)
+![](media/image532.webp)
 
 The usual pattern here is -える to -ある.
 
@@ -147,7 +147,7 @@ So we have <code>上がる (あがる)</code> and<code>上げる(あげる)</cod
 
 The usual form here is -える to -ある, **but again it doesn't have to be.**
 
-![](media/image494.png)
+![](media/image494.webp)
 
 There are other cases, such as <code>包む(くるむ)</code>, which means <code>wrap</code>, and <code>包まる(くるまる)</code>, which means <code>be wrapped</code>, but again it doesn't matter because we know that
 
@@ -165,7 +165,7 @@ do) **and change it to the え-row and add -る, which means that it ends in -�
 
 **word will be flipped.**
 
-![](media/image577.png)
+![](media/image577.webp)
 
 However, this is not as difficult as it seems, because first of all this is not a large number
 
@@ -207,7 +207,7 @@ And also -つ/-てる – **the -てる is always the other-move pair.**
 
 So in the end we really have very few wild cards in this pack.
 
-![](media/image872.png)
+![](media/image872.webp)
 
 **The only ones that we really can't tell which way they are going is**
 
@@ -217,7 +217,7 @@ So in the end we really have very few wild cards in this pack.
 
 So these are in fact the only exceptions where you really can't tell structurally which way they are going.
 
-![](media/image47.png)
+![](media/image47.webp)
 
 So is there anything we can actually do about this last small minority of self-move/other-move flips? And the answer to that is yes.
 
@@ -235,7 +235,7 @@ The rules I've given you cover most of the cases.
 
 So to take an example, <code>売**る**(うる)</code> means <code>sell</code>; it's a very common word.
 
-![](media/image367.png)
+![](media/image367.webp)
 
 There's a less common version of it which is <code>売**れる**(うれる)</code>, and **that's the flipped version.** Now, <code>selling</code> is obviously an other-move verb – I sell **something**.
 
@@ -259,7 +259,7 @@ Now, if we take one that goes the other way,
 
 and it has a flipped version, <code>従**える**(したがえる)</code>, which means to <code>be followed by</code> or <code>be obeyed by</code>.
 
-![](media/image958.png)
+![](media/image958.webp)
 
 Now, it's clear here that **the basic idea is obeying or following and that the extended**
 

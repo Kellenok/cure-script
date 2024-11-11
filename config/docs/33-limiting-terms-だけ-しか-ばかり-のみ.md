@@ -34,13 +34,13 @@ So, if I say <code>千円だけ持っている</code>, what I'm saying is "I hav
 
 / A thousand yen is the limit of what I have".
 
-![](media/image706.png)
+![](media/image706.webp)
 
 <code>だけ</code> is a noun, and when we put <code>千円</code> behind it, we're using <code>千円</code> as the modifier
 
 to the noun <code>だけ</code>.
 
-![](media/image766.png)
+![](media/image766.webp)
 
 So we're saying I have a limit of a thousand yen, a thousand yen is all I have.
 
@@ -60,7 +60,7 @@ And what it in fact means is the opposite of <code>だけ</code>.
 
 <code>しか</code> means <code>more than</code>.
 
-![](media/image374.png)
+![](media/image374.webp)
 
 And if we understand that, we'll never get confused about <code>しか</code> because it's very simple.
 
@@ -127,7 +127,7 @@ No, it's exactly the same.
 
 / <code>to the limit of the possibility I will study.</code>
 
-![](media/image837.png)
+![](media/image837.webp)
 
 ::: info
 In case someone may have been wondering…
@@ -140,7 +140,7 @@ And we're often told that it means something like <code>not for nothing</code>.
 
 So <code>留学しただけあって英語はうまい</code>.
 
-![](media/image667.png)
+![](media/image667.webp)
 
 And this literally means <code>Because of the limit of the fact that she studied abroad...</code>
 
@@ -164,7 +164,7 @@ Now, it wouldn't make any sense here to say, would it, <code>Not for nothing was
 
 What we're actually saying is <code>Precisely because it was cheap, it broke quickly.</code>
 
-![](media/image274.png)
+![](media/image274.webp)
 
 That <code>だけ</code> is using the limiting function to limit something down to something precise.
 
@@ -206,7 +206,7 @@ doesn't mean, any more than it would in English, that there really aren't any Ja
 
 So, we can put these three on a sliding scale.
 
-![](media/image770.png)
+![](media/image770.webp)
 
 <code>パンしか売らない</code> is implying that only selling bread is very little, it's insufficient.
 

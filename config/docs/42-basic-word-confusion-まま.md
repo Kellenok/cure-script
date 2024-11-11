@@ -70,7 +70,7 @@ So, let's look at some of the ways in which it's used.
 
 We can say <code>自然のままの森</code> -- that's <code>a forest in its natural *(unchanged)* state</code>.
 
-![](media/image876.png)
+![](media/image876.webp)
 
 <code>自然</code> is nature<code> and </code>まま<code> is </code>unchanged state<code> or </code>unchanged condition".
 
@@ -90,7 +90,7 @@ you might say <code>そのままで食べられるの?</code>
 
 -- <code>Can you eat them just as they are / can you eat them in their unchanged condition?</code>
 
-![](media/image981.png)
+![](media/image981.webp)
 
 Now, that <code>で</code> is in fact the copula, so we're saying <code>being their unchanged condition, can we eat them?</code>
 
@@ -134,7 +134,7 @@ That means <code>Eat breakfast while we're still in our pyjamas</code>.
 
 In other words, <code>in the unchanged condition of being still in our pyjamas, eat breakfast</code>.
 
-![](media/image500.png)
+![](media/image500.webp)
 
 And as we can see, once again the implication here is that the condition could change but hasn't changed.
 
@@ -142,7 +142,7 @@ And as we can see, once again the implication here is that the condition could c
 
 <code>I'd like to stay in the unchanged condition of being young forever.</code>
 
-![](media/image931.png)
+![](media/image931.webp)
 
 And notice here that we're saying <code>若いまま</code>,
 
@@ -158,7 +158,7 @@ and that is <code>思いのまま</code> or <code>心のまま</code>.
 
 And what this means is <code>in the unchanged condition that's in our thoughts</code> or <code>...in our hearts</code>.
 
-![](media/image815.png)
+![](media/image815.webp)
 
 So what does this actually mean?
 
@@ -184,7 +184,7 @@ And they said <code>思いのままに動けない</code> --
 
 or <code>...the unchanged condition of our will or desire</code>.
 
-![](media/image755.png)
+![](media/image755.webp)
 
 Now, we should understand here that <code>思い</code> sometimes does imply desire.
 
@@ -203,7 +203,7 @@ And it's really from this use of <code>まま</code> that we get <code>わがま
 
 which means <code>selfish</code> or <code>selfishness</code>.
 
-![](media/image898.png)
+![](media/image898.webp)
 
 Why does it mean that?
 

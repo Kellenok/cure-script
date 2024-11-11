@@ -10,7 +10,7 @@ Today we're going to talk about <code>限る</code> and <code>限り</code>.
 
 and **<code>限り</code> is the い-stem, therefore the noun-form of that verb.**
 
-![](media/image270.png)
+![](media/image270.webp)
 
 If you don't know about い-stems making noun-forms,
 
@@ -50,11 +50,11 @@ and can confuse people if they don't understand where they're coming from.
 
 **You can't attend the meeting or whatever unless you are an invited person.**
 
-![](media/image561.png)
+![](media/image561.webp)
 
 Now, another mainly literal use is <code>声の**限りに**呼んだ</code> (I called **at the limit** of my voice).
 
-![](media/image977.png)  
+![](media/image977.webp)  
 In English we might say <code>the top of my voice</code>.
 
 **What we're saying here is the limit as loud as my voice would go.**
@@ -69,7 +69,7 @@ So, <code>夏はアイスクリイムに**限る**</code> -- now, loosely in Eng
 
 <code>In summer, ice cream **is the best thing**</code>.
 
-![](media/image960.png)
+![](media/image960.webp)
 
 What we're actually saying is  
 <code>Speaking of summer, when it comes to summer, it **reaches its limit** at ice cream</code>,
@@ -91,11 +91,11 @@ And this can be used in all kinds of different expressions, for example:
 
 swimming **is absolutely the best kind of** exercise).
 
-![](media/image310.png)
+![](media/image310.webp)
 
 And moving on from this we get expressions like <code>彼女に**限って**そんなことはしない</code>.
 
-![](media/image465.png)
+![](media/image465.webp)
 
 And again, in loose English this would be  
 "She **of all people** wouldn't do such a thing
@@ -124,7 +124,7 @@ Now, **the concept of <code>限る</code> (limit) is often used negatively to sh
 
 So, <code>辞書に書いてあることが常に正しいとは限らない</code>.
 
-![](media/image406.png)
+![](media/image406.webp)
 
 **And this <code>-とは限らない</code> essentially sums up the previous statement**
 
@@ -144,7 +144,7 @@ Now, again, this <code>限り</code> can be used for the limits of one's knowled
 
 so <code>私の知っている**限り**ではそんな言葉はない</code>.
 
-![](media/image41.png)
+![](media/image41.webp)
 
 So, in English we would say <code>As far as I know, there's no such word</code>,  
 but the expression strategy here is to modify the noun <code>限り</code> -- <code>私の知っている**限り**</code>
@@ -172,7 +172,7 @@ we find in <code>急いでいる時に**限って**バスが遅れる</code>
 
 (**limited to** times when we are in a hurry, the bus comes late).
 
-![](media/image392.png)
+![](media/image392.webp)
 
 Now, **this is obviously not literal, but it expresses a sentiment often felt,**
 
@@ -193,7 +193,7 @@ Now, another expression is <code>その場限り</code>.
 So, <code>その場限りことを言う</code> means  
 she says things **on the spur of the moment** / she talks right off the top of her head.
 
-![](media/image53.png)
+![](media/image53.webp)
 
 **<code>その場</code>**, which we've discussed in another video, which I'll link *(Lesson 75)*, means literally
 
@@ -217,7 +217,7 @@ And a very common expression related to this is <code>喧嘩はその場限り�
 
 and **this is a popular expression, it's not exactly a full sentence.**
 
-![](media/image1025.png)
+![](media/image1025.webp)
 
 ::: info
 I used Kanji form for ケンカ (喧嘩), but both are fine.
@@ -228,7 +228,7 @@ I used Kanji form for ケンカ (喧嘩), but both are fine.
 
 And it's translated into English as <code>quarrels should not be continued</code>.
 
-![](media/image597.png)
+![](media/image597.webp)
 
 Sometimes it's even translated as <code>let not the sun settle on your wrath</code>,
 
@@ -246,15 +246,15 @@ So this is a range of the circumstances in which the <code>限り / 限る</code
 
 is applied in Japanese.
 
-![](media/image482.png)
+![](media/image482.webp)
 
 There are others, of course, but with this information
 
 I think you'll be in a better position to see what's going on.
 
-![](media/image1091.png)
+![](media/image1091.webp)
 
-![](media/image879.png)
+![](media/image879.webp)
 
 ::: info
 The links referred are [**くらい vs ほど**](https://www.youtube.com/watch?v=6PEQTcDnbBk&ab_channel=OrganicJapanesewithCureDolly) and Lesson 68 for わけ. You can check other comments under the video as usual.  

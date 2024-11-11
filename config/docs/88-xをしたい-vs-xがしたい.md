@@ -20,7 +20,7 @@ And in doing that we're going to look at a puzzle
 
 that's posed by the title of a very popular work.
 
-![](media/image772.png)
+![](media/image772.webp)
 
 It's been a manga, an anime, a live-action movie:
 
@@ -52,7 +52,7 @@ in the minds of anybody who's got some grasp of the real structure of Japanese, 
 
 **Why is the particle を, rather than the particle が, used here?**
 
-![](media/image1149.png)
+![](media/image1149.webp)
 
 If we want to say what in English would be  
 <code>I want to eat that **bread**</code> or <code>I want to eat that **cake**</code>, we would say  
@@ -104,7 +104,7 @@ So if we say, <code>お腹が空いた、 *(zeroが)* 早く食べたい</code>,
 
 we're saying <code>Tummy is empty, I want to eat soon</code>.
 
-![](media/image585.png)
+![](media/image585.webp)
 
 **Now that <code>たい</code> is pointing at me, not at any particular thing, like cake or anything else.**
 
@@ -133,7 +133,7 @@ We can say <code>*We* were **happy** that day</code>, in which case **the adject
 
 <code>That was a **happy** *day*</code>, and now **the adjective of subjectivity is pointing at the day, which is the cause of our happiness.**
 
-![](media/image1096.png)
+![](media/image1096.webp)
 
 We can say <code>*I* am **suspicious** of her behavior</code> and **the adjective <code>suspicious</code> is pointing at me**
 
@@ -151,7 +151,7 @@ It's because they may have spent months or even years in this terribly confusing
 
 where particles just change their meaning depending on which side of bed they got out of that morning.
 
-![](media/image1125.png)
+![](media/image1125.webp)
 
 ::: info
 (Dolly here 👇 is making an example of the confusing <code>trying to force English into Japanese</code>)  
@@ -181,7 +181,7 @@ that way", well, the answer to that is no, it doesn't matter to the model.
 
 **It's quite irrelevant to the model.**
 
-![](media/image840.png)
+![](media/image840.webp)
 
 **Whether we choose** to say <code>パン**が**食べたい</code> (bread is making me want to eat) or
 
@@ -198,7 +198,7 @@ If we say <code> *(zeroが)* **パンを**食べたい</code>, we're saying that
 ::: info
 Here, zeroが is the implied/hidden <code>I</code> Subject, while パンを is the Direct Object = bread.
 :::
-![](media/image980.png)
+![](media/image980.webp)
 
 **And the model doesn't care which way we say it.**
 
@@ -210,7 +210,7 @@ Here, zeroが is the implied/hidden <code>I</code> Subject, while パンを is t
 
 Now, can we justify this grammatically?
 
-![](media/image724.png)
+![](media/image724.webp)
 
 So if we say, for example, <code>パン**を**食べたい</code>, surely the problem here is that  
 **with <code>たい</code> we have an adjective, so we have an adjectival sentence,  
@@ -226,7 +226,7 @@ And the answer to this is really very simple.
 
 **one element or taking them apart at will.**
 
-![](media/image980.png)
+![](media/image980.webp)
 
 **And what's going on in a sentence like <code>パンを食べたい</code> is that  
 **<code>たい</code> is no longer being attached simply to the verb <code>食べる</code>.****
@@ -248,7 +248,7 @@ And while <code>パン**を**食べたい</code> **is a less common way of putti
 <code>何々**を**食べたい</code> is the less common way of putting it,  
 **there are some kinds of sentence in which it is the one that we always use.**
 
-![](media/image934.png)
+![](media/image934.webp)
 
 For example, <code>助けたい</code> (want to help) or <code>守りたい</code> (want to defend).
 
@@ -258,7 +258,7 @@ For example, <code>助けたい</code> (want to help) or <code>守りたい</cod
 
 **And if we're talking about <code>正義</code> (justice) or <code>平和</code> (peace) or even <code>国</code> (country), it's the same.**
 
-![](media/image927.png)
+![](media/image927.webp)
 
 **We don't say Sakura is making me want to defend her, we don't say the country is making me**
 
@@ -326,7 +326,7 @@ In the sentence above, <code>I</code> should be the Subject, which is hidden in 
 :::
 ****than**** <code>**パンが**食べたい時</code> (when **bread***=Subject* makes me want to eat it).
 
-![](media/image239.png)
+![](media/image239.webp)
 
 ****And this isn't a firm and definite rule but this is the kind of tendency,****
 
@@ -338,7 +338,7 @@ In the sentence above, <code>I</code> should be the Subject, which is hidden in 
 
 So if we come back to <code>君の膵臓**を**食べたい</code>, **why is を being used here?**
 
-![](media/image1124.png)
+![](media/image1124.webp)
 
 Well, essentially **because again this is not an impulse to eat.**
 
@@ -354,15 +354,15 @@ So I hope this time we really laid to rest the final question of polarity switch
 
 **It does not threaten the model. And it does happen.**
 
-![](media/image908.png)
+![](media/image908.webp)
 
 ****And it happens for reasons which are a little subtle, that will probably take time to ingest****
 
 ****and immersion to ingest, because you can't learn everything through raw structure.****
 
-![](media/image361.png)
+![](media/image361.webp)
 
-![](media/image844.png)
+![](media/image844.webp)
 
 ::: info
 Read [****THIS COMMENT TREE****](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly) where Dolly gives some useful info about が use.  

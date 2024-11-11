@@ -18,7 +18,7 @@ which is the stem system.
 
 If you've been following my lessons at all, you know that there is no conjugation in Japanese.
 
-![](media/image1061.png)
+![](media/image1061.webp)
 
 ::: info
 As you know, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, as given in the Lesson 7.5 note screenshot citation from Dolly’s book.  
@@ -29,7 +29,7 @@ As you know, take this not as a definitive statement, it is just to dodge some a
 
 **And then we attach various kinds of helpers, helper nouns, helper verbs, helper adjectives.**
 
-![](media/image138.png)
+![](media/image138.webp)
 
 But what I didn't explain at the time I introduced this is that it goes much further than this.
 
@@ -53,7 +53,7 @@ As you know, **there are two kinds of word in Japanese**,
 
 and that is, **active, changeable words and static** *(inert)* **words.**
 
-![](media/image1024.png)
+![](media/image1024.webp)
 
 **Active, changeable words consist of the three kinds of word that can make the engine of a sentence**, that's to say, **verbs, adjectives, and the copula**.
 
@@ -69,7 +69,7 @@ We have to know two things about them.
 
 That's the う-row kana in a verb or the い in an adjective.
 
-![](media/image188.png)
+![](media/image188.webp)
 
 **Nothing before that can change.**
 
@@ -91,7 +91,7 @@ a kind of morphing or conjugation of the whole word,
 
 **-た and -て are regarded as helpers, as entities in themselves that attach to the stem of a word.**
 
-![](media/image262.png)
+![](media/image262.webp)
 
 So essentially **verbs have not one stem-system, but two stem-systems.**
 
@@ -107,7 +107,7 @@ The second stem-system, that's the て-stem, you already know. We'll go over it 
 
 **into a small っ, and then we can add the -た or the -て.**
 
-![](media/image442.png)
+![](media/image442.webp)
 
 ### ぬ-ぶ-む group
 
@@ -146,7 +146,7 @@ So, there we have the second verb-stem system, **the て-stem**, and **we use th
 
 **Adjectives also have their own stem-system. Adjectives in fact have four stems.**
 
-![](media/image273.png)
+![](media/image273.webp)
 
 **You can form adjective stems by dropping the い, just as we drop the る in ichidan verbs,**
 
@@ -164,7 +164,7 @@ so with the て-stem of verbs, verbs ending in く, the き turns into い, and 
 
 **The く-stem attaches the -ない helper adjective, negativizing the adjective,**
 
-![](media/image495.png)
+![](media/image495.webp)
 
 and also if it stands on its own -- and as we know, stems sometimes can stand on their own.
 
@@ -185,7 +185,7 @@ So, we can say <code>早い車</code> (fast(-is) car) or <code>**速く**走る<
 and we use that to attach the past-helper -た,  
 so we say -かった: <code>おいしかった</code> (that was delicious).
 
-![](media/image1036.png)
+![](media/image1036.webp)
 
 ### The け stem (けれ)
 
@@ -197,7 +197,7 @@ so we say -かった: <code>おいしかった</code> (that was delicious).
 
 and I'll put a link above and in the information section below).
 
-![](media/image796.png)
+![](media/image796.webp)
 
 ### The zero stem
 
@@ -207,7 +207,7 @@ and I'll put a link above and in the information section below).
 
 and **also to attach helper verbs like がる**.
 
-![](media/image324.png)
+![](media/image324.webp)
 
 So to the stem of <code>**欲し**い</code> we can attach **がる** to make <code>**欲しがる**</code>
 
@@ -217,7 +217,7 @@ Or to the **たい helper** we can drop that い and attach がる and get <code
 
 (**show signs of wanting to do something, appear to want to do something**).
 
-![](media/image88.png)
+![](media/image88.webp)
 
 ---
 
@@ -229,7 +229,7 @@ Now, what about the copula?
 
 That's the other dynamic element, the other engine.
 
-![](media/image1066.png)
+![](media/image1066.webp)
 
 Now, the copula's only one kana *(だ in this case)* to start with,  
 so generally we add something to that.
@@ -252,7 +252,7 @@ so it doesn't have lots of other things in the same group for it to be regular w
 
 So, that's the overall structure of Japanese.
 
-![](media/image207.png)
+![](media/image207.webp)
 
 **It*/Japanese* has two kinds of words, active and passive words, transforming and inert words.**
 
@@ -269,4 +269,4 @@ Much simpler than foreign grammatical systems.
 **and they always do it according to the stem-helper system.**
 
 When we understand that, the whole thing becomes a great deal easier to conceptualize and deal with.  
-![](media/image1053.png)
+![](media/image1053.webp)

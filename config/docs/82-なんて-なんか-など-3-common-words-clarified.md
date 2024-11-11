@@ -26,7 +26,7 @@ It's very helpful to know what it is that's causing problems.
 
 **They have different meanings but they overlap in certain areas.**
 
-![](media/image1130.png)
+![](media/image1130.webp)
 
 And the simplest one is <code>など</code>, so we're going to start off with that.
 
@@ -38,7 +38,7 @@ And the simplest one is <code>など</code>, so we're going to start off with th
 
 **it has higher status than <code>etcetera</code> in English.**
 
-![](media/image249.png)
+![](media/image249.webp)
 
 **In English, <code>etcetera</code> tends to be treated in many cases as a bit of a cop-out.**
 
@@ -60,7 +60,7 @@ two-or-more-kanji words that really aren't words in quite the English sense of t
 
 that's to say, **they are really phrases**.
 
-![](media/image1110.png)
+![](media/image1110.webp)
 
 **They bring together two known entities, which are known if we've done much Japanese,**
 
@@ -116,7 +116,7 @@ And this <code>など</code> is a very typical use of the word.
 
 **It can be used to mildly denigrate or belittle a word that it's attached to.**
 
-![](media/image513.png)
+![](media/image513.webp)
 
 Now, <code>denigrate</code> and <code>belittle</code> are not exactly the right words to use here,
 
@@ -162,7 +162,7 @@ And as I say, this use overlaps with our other two words.
 
 but it has quite a few colloquial uses.
 
-![](media/image348.png)
+![](media/image348.webp)
 
 And it’s the denigrating one we'll hear sometimes very strongly in cases where...
 
@@ -210,7 +210,7 @@ and **this is often used to stress a perceived inferior position**
 
 **a contraction of <code>なにか / 何か</code>, which is <code>something</code>.**
 
-![](media/image661.png)
+![](media/image661.webp)
 
 And **it can be used simply as a contraction of <code>なにか / 何か</code>** in, for example,
 
@@ -224,7 +224,7 @@ Now, **from there it goes on to preface things in order, as with <code>something
 
 **or <code>somewhat</code> in English, to make them a bit vaguer.**
 
-![](media/image375.png)
+![](media/image375.webp)
 
 So we might say <code>**なんか**違う</code> (**something's** different */ **something** differs* --
 
@@ -248,7 +248,7 @@ Now, from there it gets worse.
 
 **It goes on to become even vaguer.**
 
-![](media/image244.png)
+![](media/image244.webp)
 
 **So in very casual and (I would say) rather sloppy speech,**
 
@@ -285,7 +285,7 @@ So, **we should look out for this very loose use of <code>なんか</code>**
 and I've done another video about this -って, which is a contraction of -と or <code>-という</code>.  
 *(Lesson 18)*
 
-![](media/image433.png)
+![](media/image433.webp)
 
 And it's the same with <code>なんて</code>.
 
@@ -317,7 +317,7 @@ as used in expressions like <code>**What a** nice day!</code>,
 
 <code>**What a** stupid person!</code>, <code>**What a** beautiful flower!</code> etcetera.
 
-![](media/image1004.png)
+![](media/image1004.webp)
 
 **And this is an abbreviation of <code>なんという / 何という</code>, but it's more often than not,**
 
@@ -341,7 +341,7 @@ So, for example, we can say <code>試験**なんて**嫌いだ</code> (I hate ex
 
 <code>お金**なんて**いらない</code> (I don't want money).
 
-![](media/image376.png)
+![](media/image376.webp)
 
 **Like <code>なんか</code>, it both stresses the noun that it follows**
 
@@ -351,7 +351,7 @@ So, for example, we can say <code>試験**なんて**嫌いだ</code> (I hate ex
 
 **And it can also be used at the end of a complete statement to express surprise.**
 
-![](media/image660.png)
+![](media/image660.webp)
 
 So **in this sense it's rather like the first one** we looked at,
 
@@ -419,7 +419,7 @@ And finally, **we can use it in a way that comes right back more or less**
 
 **to the original meaning of <code>-という</code>, but adding a bit of vagueness to it.**
 
-![](media/image976.png)
+![](media/image976.webp)
 
 So if we say <code>山田**なんて**人は知らない</code>,
 
@@ -452,6 +452,6 @@ to how they work, what they mean, how they're used.
 ::: info
 Damn, quite a few sub-titles in this one, heh* (ノ\*°▽°\*)  
 Wanted to make it a bit easier to search, if anything. Also, this is quite interesting:  
-*![](media/image750.png)*  
+*![](media/image750.webp)*  
 Sorry for the microscopic font, Youtube again hides the text parts if I zoom-in for some reason...
 :::

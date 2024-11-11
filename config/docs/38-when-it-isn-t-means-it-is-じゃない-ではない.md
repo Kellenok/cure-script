@@ -18,7 +18,7 @@ Now, how does this work, how do we recognize it, and how do we understand it?
 
 For a start, <code>じゃない</code> is the contraction of <code>ではない</code> which, of course, is the negative of the copula, as we learned right back in our lesson on Japanese negatives.
 
-![](media/image427.png)
+![](media/image427.webp)
 
 So, <code>A,Bだ</code> or <code>A,Bです</code> means <code>A is B</code>.
 
@@ -54,7 +54,7 @@ So if we say <code>さくらじゃないですか</code> we're saying exactly th
 
 <code>Isn't that Sakura?</code> meaning we think it is.
 
-![](media/image283.png)
+![](media/image283.webp)
 
 The first problem that arises here is that, while we say in formal speech <code>さくらじゃないですか</code> because in formal speech the <code>か</code> acts as a verbal question mark, turning any statement into a question, we don't usually use <code>か</code> as a question-making sentence-ender in ordinary, non-formal Japanese.
 
@@ -86,7 +86,7 @@ And if we say <code>She came on Saturday?!</code> we've just received the inform
 
 she came on Saturday and we are expressing surprise about it.
 
-![](media/image1046.png)
+![](media/image1046.webp)
 
 We know how to interpret this in English and it's easy to learn how to interpret <code>じゃない</code>
 
@@ -129,7 +129,7 @@ So if we say <code>これはペンだ</code> we're saying <code>This is a pen</c
 
 we're saying <code>This is not a pen</code>, and you can't properly use <code>ではない</code> with anything but two nouns.
 
-![](media/image835.png)
+![](media/image835.webp)
 
 I don't actually think that these colloquial statements are fundamentally ungrammatical.
 
@@ -143,7 +143,7 @@ So, for example, if we say <code>その理論が間違っているのではな�
 
 we're saying <code>Might that theory not be in error?</code>
 
-![](media/image1106.png)
+![](media/image1106.webp)
 
 And we see we have essentially the same construction that we've been dealing with before:
 
@@ -153,7 +153,7 @@ Why?
 
 Because <code>その理論が間違っている</code> means literally <code>that theory exists in a state of mistaking</code>. That's a verbal clause complete in itself.
 
-![](media/image155.png)
+![](media/image155.webp)
 
 However, when we add <code>の</code>, that <code>の</code>, as we've seen in [**other lessons**](https://www.youtube.com/watch?v=Bq3GO63D9bw&ab_channel=OrganicJapanesewithCureDolly), plays the role
 
@@ -163,7 +163,7 @@ So now we have <code>that theory exists in a state of error one</code>.
 
 So we have two nouns and we now need the copula to join them together.
 
-![](media/image775.png)
+![](media/image775.webp)
 
 So <code>その理論が間違っているのではない</code> means <code>that theory existing-in-error-one is not</code>.
 
@@ -200,7 +200,7 @@ with <code>ですからその理論は間違っているのではないでしょ
 
 And that means exactly the same thing, allowing for cultural differences…
 
-![](media/image914.png)  
+![](media/image914.webp)  
 ::: info
 if anything is still unclear, delving into the comments of the video might be helpful.
 :::

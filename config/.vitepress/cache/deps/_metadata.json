@@ -1,52 +1,52 @@
 {
-  "hash": "f4262271",
-  "configHash": "cc48faf3",
-  "lockfileHash": "3909216c",
-  "browserHash": "bce7a407",
+  "hash": "f61c8065",
+  "configHash": "b89a880d",
+  "lockfileHash": "19c1a3d9",
+  "browserHash": "68c4d36c",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "8ecb7963",
+      "fileHash": "a3061888",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "71c79e90",
+      "fileHash": "403fcfde",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "32aa8efe",
+      "fileHash": "00dce0a8",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "3e8c873d",
+      "fileHash": "2f4daa1c",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "ccfa4236",
+      "fileHash": "cbb4bb65",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "0e85a067",
+      "fileHash": "5c6218ec",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-5T5HKNKV": {
-      "file": "chunk-5T5HKNKV.js"
+    "chunk-3FTTGHQH": {
+      "file": "chunk-3FTTGHQH.js"
     },
-    "chunk-XJZ34XUT": {
-      "file": "chunk-XJZ34XUT.js"
+    "chunk-L2JNJ22P": {
+      "file": "chunk-L2JNJ22P.js"
     }
   }
 }

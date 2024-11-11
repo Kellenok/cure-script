@@ -18,7 +18,7 @@ and contrasting it with something different from what I normally contrast it wit
 
 Normally, I contrast Japanese with the conventional <code>Eihongo</code> Japanese grammar models.
 
-![](media/image120.png)
+![](media/image120.webp)
 
 And some people actually have criticized me for criticizing those models too much,
 
@@ -30,7 +30,7 @@ And I do this for a reason, and the reason is this:
 
 conventional Eihongo/Western Japanese grammar really hasn't changed since hundreds of years ago, when Western people started imposing classical European grammar on the Japanese language in an attempt to explain it to other Western people.
 
-![](media/image533.png)
+![](media/image533.webp)
 
 And these explanations are enshrined in the most prestigious places.
 
@@ -50,7 +50,7 @@ And the answer is of course that we can't actually reconcile them.
 
 If 2 and 2 equal 4, then they can't also equal 5.
 
-![](media/image504.png)
+![](media/image504.webp)
 
 And it's necessary to point this out because people will try to reconcile them if they're not aware of that, and that's going to lead us into all kinds of logical tangles.
 
@@ -74,7 +74,7 @@ I respect him greatly and I recognize that he was just about the only person (ap
 
 and had the courage to try to do something about it.
 
-![](media/image105.png)
+![](media/image105.webp)
 
 ::: info
 Jay Rubin seems to have been what Dolly based her explanations.
@@ -103,7 +103,7 @@ the copula <code>だ</code>, which is essential to all non-adjectival A-is-B str
 
 and the myth of Japanese conjugation *(Lesson 10)*.
 
-![](media/image1160.png)
+![](media/image1160.webp)
 
 So, as you see, this is quite a formidable threesome that really casts a shadow over everything.
 
@@ -121,7 +121,7 @@ The first is the が-particle.
 
 Now, the が-particle, as I've explained on various occasions before, is the absolute core of Japanese *(Lesson 1)*.
 
-![](media/image695.png)
+![](media/image695.webp)
 
 You can't have a sentence without the が-particle, even though you can't always see it.
 
@@ -152,7 +152,7 @@ and even going so far as to say that there is no such thing as a subject in Japa
 
 and saying that there is a subject is simply imposing European concepts on the language.
 
-![](media/image158.png)
+![](media/image158.webp)
 
 Now, the truth is that every human language has a subject, which is what we call an A-car,
 
@@ -198,7 +198,7 @@ So, the example he uses to <code>prove</code> that Japanese has no subject is th
 
 which of course in all the textbooks gets translated as <code>I want to eat crepes</code>.
 
-![](media/image357.png)
+![](media/image357.webp)
 
 ::: info
 Tae Kim-sensei’s explanation.
@@ -229,13 +229,13 @@ to know that this happens all the time. It happens in Spanish.
 
 It's saying <code>Tequila does pleasing to me</code>.
 
-![](media/image1032.png)
+![](media/image1032.webp)
 
 Now, this may not be the way English wants to put it, but it is the way Spanish puts it.
 
 <code>クレープが食べたい</code> means <code>Crepes are eat want-inducing (to me)</code>.
 
-![](media/image219.png)
+![](media/image219.webp)
 
 Again, this may not be the way English wants to put it, but it is the way Japanese puts it.
 
@@ -247,7 +247,7 @@ It's just that the subject, the doer, the A-car, of the sentence in Japanese is 
 
 it would be if an English person tried to express the same sentiment.
 
-![](media/image339.png)
+![](media/image339.webp)
 
 The subject of the sentence is the crepes.
 
@@ -271,7 +271,7 @@ Human language has to have subjects and predicates or it ceases to be language.
 
 Now, some of you may be asking, how can I say that my model is the truth?
 
-![](media/image1097.png)
+![](media/image1097.webp)
 
 ::: info
 And yes, Linguistics is in fact a scientific field too.
@@ -338,7 +338,7 @@ Now, when we talk about models or theories, being falsifiable may sound like a n
 
 It's a positive.
 
-![](media/image293.png)
+![](media/image293.webp)
 
 Because if there are no circumstances under which a theory can be falsified,
 
@@ -379,7 +379,7 @@ Now, this vagueness might be considered not very destructive, but in fact it is 
 
 because it essentially takes away our ability to define anything.
 
-![](media/image957.png)
+![](media/image957.webp)
 
 We can't see how the core Japanese sentence works because we don't have the が-particle.
 

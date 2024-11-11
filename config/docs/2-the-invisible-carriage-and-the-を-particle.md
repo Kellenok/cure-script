@@ -10,7 +10,7 @@ Now we are going to look at some of those extra carriages. Previously, I stated 
 
 So, what is the invisible carriage? In English, the closest equivalent is <code>it</code>.
 
-![](media/image75.png)
+![](media/image75.webp)
 
 Let's begin by seeing what <code>it</code> does in English. Let's look at this example:
 
@@ -48,15 +48,15 @@ So, if a small child, or even an adult, comes down to the kitchen at night and s
 
 So let's look at this at work in Japanese. I might say, <code>ドリーだ</code>, and that means <code>I am Dolly</code>. Initially this looks as if it only has an engine and no main carriage, but actually the main carriage is simply the invisible carriage. The full sentence is really, <code>(**zeroが**)ドリーだ</code>.
 
-![](media/image975.png)
+![](media/image975.webp)
 
 We can say that <code>I</code> is the default value of the zero pronoun, the invisible carriage. However, the context can define it as anything. For example, if we hear a rustling in the woods and look over in the direction of it, and I say, <code>ウサギだ!</code>, that means <code>(**zeroが**)ウサギだ!</code> <code>It is a rabbit!</code> It, that thing we just looked toward, rustling in the trees, that's a rabbit.
 
-![](media/image617.png)
+![](media/image617.webp)
 
 If I say, <code>土曜日だ</code> (土曜日/どようび means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
 
-![](media/image490.png)
+![](media/image490.webp)
 
 ## The を particle
 
@@ -64,17 +64,17 @@ I'm going to introduce you to one more kind of carriage and that is an を car. 
 
 So the を car looks like this, and as you see, it's white. It's white because it's not part of the core train. **The core train always consists of just two elements, the engine and the main carriage.** When we see white cars, we know that they're telling us something more about the engine or about the main carriage.
 
-![](media/image77.png)
+![](media/image77.webp)
 
 So let's take a sentence here: <code>わたしがケーキを食べる</code>. This means <code>I eat cake</code>.
 
-![](media/image146.png)
+![](media/image146.webp)
 
 Now, the core sentence here is <code>I eat</code>. Those are the two black carriages. The white carriage, <code>ケーキを</code>, is telling us more about the engine. The core sentence is <code>I eat</code> and <code>ケーキを</code> is telling us what it is that I eat.
 
 Now, the interesting thing here is that we may often see this said like this: <code>ケーキをたべる</code>. And you already know what's going on when this happens. This is another case where we have the invisible A car.
 
-![](media/image280.png)
+![](media/image280.webp)
 
 **We can't have a sentence without a が. We can't have an action being done without a doer.** If we say <code>ケーキをたべる</code>, what we're really saying is <code>(zeroが)ケーキをたべる</code>. And the default value for <code>zero</code>, for the invisible carriage, is <code>わたし</code>. So usually this is going to be <code>I eat cake</code>, although if you were talking about someone else at the time, it might mean that that person eats cake.
 

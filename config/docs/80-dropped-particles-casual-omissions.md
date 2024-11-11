@@ -27,7 +27,7 @@ So, **first of all let's talk about omission in language.**
 
 **legal omission and illegal omission.**
 
-![](media/image634.png)
+![](media/image634.webp)
 
 ## Legal Omission
 
@@ -43,7 +43,7 @@ that's considered a grammatical phrase.
 
 What we actually mean is <code>The night **that** we met</code>.
 
-![](media/image974.png)
+![](media/image974.webp)
 
 And **in French or Spanish you can't do that.**
 
@@ -73,7 +73,7 @@ If we say <code> *(zeroが)* 疲れた</code>, which is <code>tired</code>, **we
 
 and **this is a hundred percent legal, grammatical Japanese.**
 
-![](media/image818.png)
+![](media/image818.webp)
 
 **You can use it in an academic essay or a legal document or anywhere.**
 
@@ -115,7 +115,7 @@ Fundamentally, three kinds.
 
 The first is when we leave out bits of words or phrases.
 
-![](media/image993.png)
+![](media/image993.webp)
 
 So, for example, instead of <code>している</code> (am doing / is doing) we say <code>してる</code>;
 
@@ -141,7 +141,7 @@ once you know them they're no more difficult than anything else.
 
 **The other thing that gets left out a lot is anything that attaches to a noun.**
 
-![](media/image1145.png)
+![](media/image1145.webp)
 
 As I've said before, **Japanese is a very noun-centered language.**
 
@@ -171,7 +171,7 @@ So, for example, if I say <code>私アンドロイド</code>,
 
 **I've also left off <code>だ</code> after <code>アンドロイド</code>**.
 
-![](media/image89.png)
+![](media/image89.webp)
 
 Now, if you know that I'm introducing myself or saying something about myself,
 
@@ -211,7 +211,7 @@ And I think you know what those three ways are, don't you? Let's say it together
 
 **A Japanese sentence can only end with a verb, an adjective, or a noun-plus-copula.**
 
-![](media/image176.png)
+![](media/image176.webp)
 
 Now, once we know that, we know why the copula can get left off very easily.
 
@@ -271,7 +271,7 @@ but if you think about it it's perfectly obvious why <code>だ</code> does get d
 
 **In the first place, we drop less in formal speech.**
 
-![](media/image1041.png)
+![](media/image1041.webp)
 
 We don't drop as many things in a formal sentence as we do in an informal sentence.
 
@@ -301,7 +301,7 @@ Now, **there are various rules about when you can and can't**
 
 **drop things like を out of a casual sentence.**
 
-![](media/image828.png)
+![](media/image828.webp)
 
 ::: info
 Obviously it’s a joke…just in case (ノ\*°▽°\*)
@@ -385,7 +385,7 @@ The other kind of thing that gets dropped,
 
 the third category of things that get dropped, are essentially entire clauses.
 
-![](media/image1104.png)
+![](media/image1104.webp)
 
 **People often end a sentence with a て-form**
 

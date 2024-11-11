@@ -44,7 +44,7 @@ so we'll take a look at it and see how it all works.
 
 The base meaning of this word could be translated into English as <code>hang</code> or possibly <code>hook</code>,
 
-![](media/image113.png)
+![](media/image113.webp)
 
 but as I pointed out in a [**recent video**](https://www.youtube.com/watch?v=CpiELpGR-VU&ab_channel=OrganicJapanesewithCureDolly), it's not usual for any two words from different languages
 
@@ -56,7 +56,7 @@ And then there are these two versions, <code>かかる</code> and <code>かけ�
 
 which are the self-move and other-move versions of the word.
 
-![](media/image287.png)
+![](media/image287.webp)
 
 And if you don't know what I mean by that, I'll put a link above my head.
 
@@ -70,7 +70,7 @@ Now, I say that it's not exactly the same as <code>hang</code> or <code>hook</co
 
 so, when we cover something with a blanket, we use the word <code>かける</code>.
 
-![](media/image371.png)
+![](media/image371.webp)
 
 Now, in English we'd probably say <code>put</code> a blanket over it, but in Japanese we say <code>かける</code>.
 
@@ -88,7 +88,7 @@ This is part of the meaning spectrum of <code>かける</code>.
 
 Now, similarly, when we put on a necklace or put on a pair of glasses, we say <code>かける</code>.
 
-![](media/image1117.png)
+![](media/image1117.webp)
 
 Glasses we're definitely hooking or hanging onto our ears.
 
@@ -104,7 +104,7 @@ or when we shake powdered ingredients over rice,
 
 making furikake rice, we say <code>かける</code> here as well.
 
-![](media/image967.png)
+![](media/image967.webp)
 
 That's why it's called <code>furi-kake</code> rice: <code>shake</code> and <code>かける</code>.
 
@@ -126,7 +126,7 @@ it also can have the sense, especially in the self-move version <code>かかる<
 
 of being caught or stuck in something, caught in a trap or caught in a swindle or anything like that.
 
-![](media/image566.png)
+![](media/image566.webp)
 
 And again, this notion of putting something onto something
 
@@ -136,7 +136,7 @@ can be used for putting an effect on someone.
 
 It could be a magical spell: <code>かける</code>. It could be anesthetic: <code>かける</code>.
 
-![](media/image590.png)
+![](media/image590.webp)
 
 It can also be nuisance or annoyance, which is where we get the very, very common phrase
 
@@ -146,7 +146,7 @@ And when we sit down we place our hips in a fixed manner on a chair
 
 with our legs hanging down the sides as it were, and so we say <code>腰をかける</code>.
 
-![](media/image944.png)
+![](media/image944.webp)
 
 <code>腰</code> is our hips, the bottom end of the torso, so <code>腰をかける</code> is to <code>sit down</code>,
 
@@ -156,7 +156,7 @@ to hang the bottom end of our torso somewhere.
 
 Now, one expression that very often confuses people is <code>かぎをかける</code>.
 
-![](media/image107.png)
+![](media/image107.webp)
 
 Now this means, this gets translated as to <code>lock</code>: lock the door, lock the box, whatever.
 
@@ -178,7 +178,7 @@ by placing a great wooden bar over wooden hafts or hooks along the length of the
 
 this is the kind of <code>かぎ</code> that you'd have had back in the old days and this and variants on this.
 
-![](media/image63.png)
+![](media/image63.webp)
 
 And you hang this great thing called a <code>かぎ</code> to keep the door shut and secure.
 
@@ -216,7 +216,7 @@ particularly in the self-move form, which is the form we hear it in most often,
 
 is <code>時間がかかる</code> or <code>お金がかかる</code>, which means to <code>take time</code> or to <code>take money</code>.
 
-![](media/image182.png)
+![](media/image182.webp)
 
 We say an activity <code>takes time</code> or a project <code>takes money</code>, that sort of thing.
 
@@ -246,7 +246,7 @@ in English what we'd be saying would be <code>Learning Japanese takes time</code
 
 but here we're saying that <code>to (or on) learning Japanese time hangs</code>.
 
-![](media/image248.png)
+![](media/image248.webp)
 
 Now, again, the word <code>hangs</code> is not a very good definition.
 
@@ -266,7 +266,7 @@ It's a little easier when we use the other-move form, <code>かける</code>, wh
 
 which means that we <code>hang time</code> on the matter of learning Japanese.
 
-![](media/image871.png)
+![](media/image871.webp)
 
 Now also, with making a telephone call,
 
@@ -278,7 +278,7 @@ So either way what do we mean here? --we hang the telephone, the telephone hangs
 
 It's nothing to do with the technological metaphor in the English expression <code>hang up</code>.
 
-![](media/image924.png)
+![](media/image924.webp)
 
 It's a rather different thing.
 
@@ -311,7 +311,7 @@ So, back to hooking up.
 
 What we're doing when we <code>電話をかける</code> is we hook up our telephone.
 
-![](media/image379.png)
+![](media/image379.webp)
 
 When <code>電話がかかる</code>, again, as I explained in my Untranslatable Japanese lesson *(Lesson 59)*,
 
@@ -329,13 +329,13 @@ And again, when we start up a conversation we often say <code>話しかける</c
 
 and that means essentially <code>start hooking-up/connecting with another person in conversation</code>.
 
-![](media/image708.png)
+![](media/image708.webp)
 
 And from this we can see how we get expressions like <code>食べかけたクッキー</code>
 
 and that means a <code>part-eaten cookie, a half-eaten cookie</code>.
 
-![](media/image810.png)
+![](media/image810.webp)
 
 So what do we really mean by this?
 
@@ -357,4 +357,4 @@ and I think they give you the idea of how this metaphor works and why it works
 
 and should allow you to work out how the others work.
 
-![](media/image811.png)
+![](media/image811.webp)

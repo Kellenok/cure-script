@@ -22,7 +22,7 @@ However, once we get clear about this, it's very, very easy to understand.
 
 **The expression is <code>くせに</code>.**
 
-![](media/image261.png)
+![](media/image261.webp)
 
 Now, the etymological problem is that
 
@@ -50,7 +50,7 @@ whereas we all know what <code>くせ / 癖</code> means
 
 **is a contrastive conjunction like <code>のに</code>.**
 
-![](media/image759.png)
+![](media/image759.webp)
 
 Now, [**I've done a video**](https://www.youtube.com/watch?v=Au5JOtcwE7A) about <code>のに</code> and I'll put a link here,
 
@@ -87,7 +87,7 @@ but I'm going to assume that you basically know what it is and what it does.
 
 **but it has most of the time a very specific kind of negative implication.**
 
-![](media/image266.png)
+![](media/image266.webp)
 
 **And this special usage is essentially**
 
@@ -105,7 +105,7 @@ but I'm going to assume that you basically know what it is and what it does.
 
 **It often sounds like severe criticism.**
 
-![](media/image233.png)
+![](media/image233.webp)
 
 **And, as we say, it's making this kind of contrast,**
 
@@ -119,7 +119,7 @@ So, for example, we might say, <code>お金持ちの**くせに**ケチだ</code
 
 (**despite the fact that** she's well off / she's rich, she's stingy).
 
-![](media/image462.png)
+![](media/image462.webp)
 
 <code>女の**くせに**部屋が目茶苦茶だ</code>
 
@@ -139,7 +139,7 @@ So, for example, we might say, <code>お金持ちの**くせに**ケチだ</code
 
 **and then saying something that's in contrast to it.**
 
-![](media/image1128.png)
+![](media/image1128.webp)
 
 **But very often we also leave that out.**
 
@@ -153,7 +153,7 @@ The heroine might just say, <code>男の**くせに**</code>, which literally me
 
 **but doesn't then say anything about it.**
 
-![](media/image250.png)
+![](media/image250.webp)
 
 In English probably a non-structural but natural translation would be
 
@@ -175,7 +175,7 @@ Now what's going on here?
 
 <code>**Despite the fact that** you're a man, stop crying</code>?
 
-![](media/image205.png)
+![](media/image205.webp)
 
 **Is that what it's saying? Well, no, it isn't.**
 
@@ -241,7 +241,7 @@ For example, we might say
 
 This means <code>**despite the fact that** he's unskilful / useless, he's enthusiastic</code>.
 
-![](media/image637.png)
+![](media/image637.webp)
 
 **Now, this generally isn't used in a positive sense.**
 
@@ -270,7 +270,7 @@ we would talk about what they call the <code>接続</code> (the conjunctions):
 :::
 how does <code>くせに</code> attach to what comes before it?
 
-![](media/image833.png)
+![](media/image833.webp)
 
 **We know how it attaches to what comes after it:**
 
@@ -296,7 +296,7 @@ with an adjective you don't use anything.
 
 **anything that isn't a verb or an adjective is a noun in Japanese.**
 
-![](media/image838.png)
+![](media/image838.webp)
 
 **What comes before <code>くせ</code> is modifying <code>くせ</code>,**
 
@@ -306,7 +306,7 @@ with an adjective you don't use anything.
 
 **And it does that in exactly the same way that every modifier always modifies a noun.**
 
-![](media/image570.png)
+![](media/image570.webp)
 
 **So, if it's a noun, which it most often is,**
 
@@ -334,7 +334,7 @@ So we might say <code>**若い**くせにお年寄りに席を譲らない</code
 
 **If it were a verb, obviously we'd just use the verb to modify the noun as we always do.**
 
-![](media/image34.png)
+![](media/image34.webp)
 
 So I think now that you won't have any problems with <code>くせに</code>.
 

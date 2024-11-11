@@ -8,7 +8,7 @@ Today we're going to look at something that is important in itself but also thro
 
 So, what we're going to look at is four different ways of saying something that in English are all covered by the one word <code>open</code>.
 
-![](media/image867.png)
+![](media/image867.webp)
 
 Now, these are <code>開く</code>, <code>開ける</code>, <code>開く</code>, <code>開ける</code>.　
 
@@ -34,7 +34,7 @@ Right. So first let's take the top two, <code>あく・あける</code>. <code>�
 
 That at least is the theory.
 
-![](media/image730.png)
+![](media/image730.webp)
 
 In practice, we will often hear Japanese people say things like <code>目を開く</code> (open one's eyes), which is technically incorrect in the eyes of the grammarians because <code>開く</code> is self-move and they're using it in an other-move way: open one's eyes.
 
@@ -48,7 +48,7 @@ Well, I've got a slight feeling here that Japanese grammarians are a little bit 
 
 When Japanese people say <code>目を開く</code>, I believe the instinct or the feeling behind it is that opening one's eyes is toward the ある side of the ある・する map that we talked about in my transitivity lesson.
 
-![](media/image669.png)
+![](media/image669.webp)
 
 In other words, opening one's eyes is closer to being self-move, closer to being then doing, as opposed to opening the door, opening a bottle or some other external object.
 
@@ -58,7 +58,7 @@ Now, that's my take on this, and you can ignore it if you want to, but we'll get
 
 So now let's look at the difference between <code>あく</code> and <code>ひらく</code>.
 
-![](media/image990.png)
+![](media/image990.webp)
 
 They both mean <code>open</code>. <code>あく</code> is officially speaking self-move, although we can see that there's a little bit of leeway here; <code>ひらく</code> is both self-move and other-move quite formally.
 
@@ -74,7 +74,7 @@ Something that simply becomes open instead of closed is <code>あく・あける
 
 And if you like Japanese children's songs, you may well have heard the hand game song that goes 「むすんでひらいててをうってむすんで」.
 
-![](media/image919.png)
+![](media/image919.webp)
 
 <code>むすんで</code> is <code>結ぶ</code>, which means <code>gathered or joined</code> and that refers to a closed hand.
 
@@ -82,7 +82,7 @@ And if you like Japanese children's songs, you may well have heard the hand game
 
 Now, there are various areas where these two are interchangeable, but even when they're interchangeable they stress one aspect rather than another.
 
-![](media/image621.png)
+![](media/image621.webp)
 
 So, for example, a French door can <code>あく</code> (open) or <code>ひらく</code> (spread open).
 
@@ -100,7 +100,7 @@ For example, we can say <code>店をあらく</code> or <code>店をひらく</c
 
 but <code>店を 開ける</code> implies simply opening in the morning for business or opening after the lunch break or something like that, simply literally opening the shop, just opening the doors so the customers can come in.
 
-![](media/image60.png)
+![](media/image60.webp)
 
 <code>店をひらく</code> implies opening a shop for the first time, opening to the public.
 
@@ -108,7 +108,7 @@ In other words, spreading out like a flower, changing from something that was cl
 
 And just a side note here: with an umbrella, which also spreads out and you might be inclined to say <code>ひらく</code>, we don't usually use that, it's generally <code>さす</code> for opening an umbrella.
 
-![](media/image1062.png)
+![](media/image1062.webp)
 
 ## 開ける
 
@@ -116,13 +116,13 @@ Now, what about <code>ひらける</code>?
 
 The Japanese grammarians, or at least many of them, actually designate <code>ひらける</code> as the self-move version of <code>ひらく</code>.
 
-![](media/image73.png)
+![](media/image73.webp)
 
 But that doesn't really make any sense, because <code>ひらく</code> itself is both self-move and other-move. So what's actually going on here? This is quite interesting.
 
 <code>ひらく</code>, which can be either self-move or other-move, is further over to the <code>する</code> side of the map than <code>ひらける</code>. And what do I mean by that?
 
-![](media/image540.png)
+![](media/image540.webp)
 
 Well, I did a video a while ago about what I call untranslatable Japanese.
 
@@ -130,7 +130,7 @@ And this is about Japanese verbs that really can't be reproduced in English beca
 
 A very simple and common example is <code>分かる</code>, which is often translated by English dictionaries and textbooks as <code>understand</code>.
 
-![](media/image622.png)
+![](media/image622.webp)
 
 It certainly doesn't mean <code>understand</code>, but when you get a better translation that will tend to be <code>be understandable</code> or <code>be clear</code>, and that's much closer to what <code>分かる</code> actually means,
 
@@ -148,7 +148,7 @@ It may mean <code>become wet and then continue to be wet</code> or it can just m
 
 The same with <code>ひらける</code>. So it's used in cases like, for example, we often say <code>運が開ける</code>, which means <code>one's luck opens</code>.
 
-![](media/image278.png)
+![](media/image278.webp)
 
 Now, we could say <code>運が開く</code>, and that would mean <code>one's luck unfolds like a flower, becomes open</code>, but <code>ひらける</code> implies not just unfolding but continuing to exist in that state of unfolded-ness.
 

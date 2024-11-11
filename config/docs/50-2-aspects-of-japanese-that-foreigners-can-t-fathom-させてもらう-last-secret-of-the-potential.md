@@ -72,7 +72,7 @@ In Japanese, of course, we use the causative for this.
 
 So, <code>知る</code> is <code>know</code> and <code>知らせる</code> is <code>cause someone to know</code>.
 
-![](media/image543.png)
+![](media/image543.webp)
 
 So this is essentially doing what English <code>let me know</code> is doing,
 
@@ -86,13 +86,13 @@ And we might say <code>後で聞かせよう</code>, which means "I'll tell you 
 
 tomorrow I'll cause you to hear / tomorrow I'll give you all the information".
 
-![](media/image682.png)
+![](media/image682.webp)
 
 And we can lego this together with other words, so we can have something like <code>読み聞かせる</code>,
 
 which means <code>read and cause to hear</code>/*read-cause-to-hear*.
 
-![](media/image666.png)
+![](media/image666.webp)
 
 And this is what we say if we're reading someone a story, reading a letter to someone,
 
@@ -106,7 +106,7 @@ For example, we might say <code>聞かせてもらえますか</code>, which mea
 
 <code>聞かせて</code> -- <code>cause me to hear</code>; <code>もらえる</code>, which is the potential form of <code>もらう</code>, in other words <code>possible to receive</code>.
 
-![](media/image1101.png)
+![](media/image1101.webp)
 
 <code>Is it possible to receive you causing me to hear?</code> which in English, we'd probably say <code>Can you tell me?</code>
 
@@ -124,7 +124,7 @@ But literally what it's saying is <code>Even if one is a student ...</code> -- <
 
 <code>...is it not possible to receive being caused to lodge here?</code>
 
-![](media/image133.png)
+![](media/image133.webp)
 
 That's the structure of this, so when you see this <code>学生でも下宿させてもらえませんか</code>
 
@@ -141,7 +141,7 @@ this gets translated as <code>I was fitted for glasses</code>,
 
 but what it literally means is <code>to receive the glasses being caused to fit</code>.
 
-![](media/image954.png)
+![](media/image954.webp)
 
 So it's the glasses that are being caused.
 
@@ -166,7 +166,7 @@ what we're really literally saying is <code>I will receive your allowing me to g
 
 That's the literal meaning.
 
-![](media/image1134.png)
+![](media/image1134.webp)
 
 It's rather like saying in English <code>With your permission, I'll leave now</code>, which could very well mean <code>I'll leave now, with or without your permission</code>, but it puts a veneer of politeness over the matter.
 
@@ -220,7 +220,7 @@ And this piece of 敬語 can get used a little more often than regular 敬語
 
 because it adds politeness to the concept of <code>もらう</code>.
 
-![](media/image1060.png)
+![](media/image1060.webp)
 
 So sometimes if there seems to be a danger of being a bit demanding or grabby by saying what you're going to receive or what you want to receive,
 

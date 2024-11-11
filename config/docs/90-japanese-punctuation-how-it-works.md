@@ -12,7 +12,7 @@ Today we're going to talk about Japanese punctuation.
 
 **Most of it came in during the Meiji era, about a hundred and fifty years ago.**
 
-![](media/image156.png)
+![](media/image156.webp)
 
 **This was when Japan was modernizing, and a lot of the reason it came in**
 
@@ -34,13 +34,13 @@ So, the first mark we're going to look at is the Japanese full stop or <code>ま
 
 **which looks like a little circle at the foot of a <code>letter</code>.**
 
-![](media/image193.png)
+![](media/image193.webp)
 
 And **this is really the exception to the rule, because it really is structurally clear.**
 
 **What it does is end a sentence.**
 
-![](media/image731.png)
+![](media/image731.webp)
 
 **And this is very important for us in understanding how complex Japanese sentences are structured.**
 
@@ -65,7 +65,7 @@ And this means <code>The candy **that I bought at the market and done dropped in
 ::: info
 I guess, done in the translation is used to point out the more literal translation of ちゃった.
 :::
-![](media/image589.png)
+![](media/image589.webp)
 
 Now, **the problem with this when we're reading a complex sentence is that we can get confused**
 
@@ -96,7 +96,7 @@ So, we might say, <code>市場で買って川に落としちゃったお菓子**
 
 The candy*(**=subject**)* (I) bought at the market and done dropped in the river got eaten by a fish.
 
-![](media/image505.png)
+![](media/image505.webp)
 
 ::: info
 If I understand correctly, because we marked お菓子 with が subject, we can now build another clause out of it, hence we get another logical clause of <code>お菓子が魚さんに食べられた</code>.
@@ -167,7 +167,7 @@ Now, the next one we're going to look at is the Japanese comma,
 
 which looks like a little diagonal line at the foot of a letter.
 
-![](media/image1054.png)
+![](media/image1054.webp)
 
 **And that's kind of the opposite of a <code>まる / 。</code>,**
 
@@ -197,7 +197,7 @@ and the reason for this is not incorrect comma usage,
 
 Now, the next one we'll look at is the question mark or <code>はてな</code>.
 
-![](media/image1109.png)
+![](media/image1109.webp)
 
 Now, **in English the question mark is subject to a rule.**
 
@@ -235,7 +235,7 @@ But **in informal Japanese we can use <code>か</code> but mostly we don't.**
 
 **for telling us that this is a question, not a statement.**
 
-![](media/image579.png)
+![](media/image579.webp)
 
 **In English, you have to use the question mark at the end of a question**
 
@@ -255,7 +255,7 @@ The next thing we'll look at is quotation marks.
 
 **and they work exactly the same as English quotation marks.**
 
-![](media/image956.png)
+![](media/image956.webp)
 
 **They just tell us that something is a quotation: it's what somebody's saying.**
 
@@ -277,7 +277,7 @@ Now, the last thing I want to talk about is something that really puzzles people
 
 **running along the left-hand side of a word or a phrase.**
 
-![](media/image1065.png)
+![](media/image1065.webp)
 
 What on earth is this doing?
 
@@ -309,10 +309,10 @@ in the first place to render italicization when translating Western literature.
 
 **in Japanese texts and that's what it means.**
 
-![](media/image559.png)
+![](media/image559.webp)
 
-![](media/image260.png)
+![](media/image260.webp)
 
-![](media/image437.png)
+![](media/image437.webp)
 
 *Dolly’s link is for Lesson 80.*

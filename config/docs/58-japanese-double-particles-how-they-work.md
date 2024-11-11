@@ -53,7 +53,7 @@ is the distinction between logical and non-logical particles. This is absolutely
 
 ## Logical & non-logical particles
 
-![](media/image109.png)
+![](media/image109.webp)
 
 So, let's start by looking at the five main logical particles.
 
@@ -61,7 +61,7 @@ These are the particles that tell us what's going on in the sentence.
 
 They mark each noun with the role it plays in the sentence, whether it's the person doing something, the thing that's being done, the thing it's being done to, the place where it's being done, etc. etc.
 
-![](media/image101.png)
+![](media/image101.webp)
 
 Now, the first obvious thing to understand is that you can't combine
 
@@ -100,7 +100,7 @@ or the primary and secondary particle, that is,
 
 **が and を, don't combine with non-logical particles.**
 
-![](media/image517.png)
+![](media/image517.webp)
 
 Why don't they?
 
@@ -147,7 +147,7 @@ So, for example, I can say <code>I talk to Sakura</code>
 
 but in English, as you see, we have to have a preposition there.
 
-![](media/image458.png)
+![](media/image458.webp)
 
 We're not saying <code>I talk Sakura</code>, so we're not directly transitive,
 
@@ -161,7 +161,7 @@ which would be the equivalent in English of <code>I talk Sakura</code>.
 
 We say <code>さくらと話す</code> or <code>さくらに話す</code>.
 
-![](media/image534.png)
+![](media/image534.webp)
 
 Now, please don't run away from this with the idea that
 
@@ -233,7 +233,7 @@ So, if we say <code>さくらはなぐった</code>-- <code>I hit Sakura</code> 
 
 this means <code> *(zeroが)* さくらは**zeroを**なぐった</code>,
 
-![](media/image569.png)
+![](media/image569.webp)
 
 **but we don't say <code>さくらはをなぐった</code> or <code>さくらをはなぐった</code>.**
 
@@ -266,7 +266,7 @@ So the most straightforward thing we do here is simply make something into a top
 
 If we say <code> *(zeroが)* 冬には雪だるまを作る</code>, we're saying <code>In the winter we make a snowman.</code>
 
-![](media/image502.png)
+![](media/image502.webp)
 
 Now, we could say <code> *(zeroが)* 冬に雪だるまを作る</code>.
 
@@ -300,7 +300,7 @@ from a very, very cold place, they might say
 
 <code> *(zeroが)* 春にも雪だるまを作る</code>.
 
-![](media/image499.png)
+![](media/image499.webp)
 
 So what they're saying is <code>We make a snowman in the spring as well.</code>
 
@@ -359,7 +359,7 @@ so, for example, <code>泳ぐの</code> is <code>swimming</code>,
 
 **the noun** <code>swimming</code>, the activity called <code>swimming</code>.
 
-![](media/image252.png)
+![](media/image252.webp)
 
 We can say <code>泳ぐのが好きです</code>.
 
@@ -375,7 +375,7 @@ It could be a longer logical clause:
 ::: info
 gave a bit more literal translation just in case, 好き is an adjectival noun. Go by Dolly tho.
 :::
-![](media/image190.png)
+![](media/image190.webp)
 
 But the point is that once you've put that nominalizing の onto the end of it,
 

@@ -10,13 +10,13 @@ Now, near the beginning of this course we talked about <code>もの</code> and <
 
 and <code>こと</code> is an abstract thing, like a situation, a circumstance, an action.
 
-![](media/image791.png)
+![](media/image791.webp)
 
 Now, this is broadly true and it's certainly the best way to grasp it in the beginning, but then we come across some other situations which don't seem to fit in with that.
 
 One of my Patrons wrote to discuss the sentence: <code>愛はすばらしいいもの</code>, which means <code>Love is a wonderful thing</code>.
 
-![](media/image97.png)
+![](media/image97.webp)
 
 Now, surely love is abstract. You can't put it in a box and carry it from Kyoto to Tokyo.
 
@@ -48,7 +48,7 @@ And we need to bear this in mind as we look at some of the more extended meaning
 
 But before we get to that, let's look at some of the other extended uses of <code>こと</code>.
 
-Now, one of the most common ones is <code>したことがある</code>.![](media/image455.png)
+Now, one of the most common ones is <code>したことがある</code>.![](media/image455.webp)
 
 For example, we might say <code>日本に行ったことがある</code>.
 
@@ -92,7 +92,7 @@ It doesn't do it by means of conjugating verbs.
 
 In fact, as I've said before, Japanese doesn't conjugate verbs at all, even in cases that look a bit more like it to Western eyes.
 
-![](media/image472.png)
+![](media/image472.webp)
 
 It uses an entirely different kind of strategy.
 
@@ -114,7 +114,7 @@ that would have to be the past-present-and-future-occasionally-happening tense,
 
 which is nonsense, but then so's all the rest of it.
 
-![](media/image202.png)
+![](media/image202.webp)
 
 It's simply the Japanese strategy for saying that a certain category of event sometimes happens–the fact of its happening exists.
 
@@ -124,7 +124,7 @@ And the first way in which this happens is when we add <code>mono だ</code> to 
 
 And what this means is that the logical clause we're talking about, as a generalization, is a reality–it's a <code>もの</code>, it's a thing, it's something we have to contend with, it's something we have to accept.
 
-![](media/image426.png)
+![](media/image426.webp)
 
 And this is why we're using <code>もの</code> here and not <code>こと</code>.
 
@@ -142,7 +142,7 @@ Someone says <code>Ooh, it's cold</code> and you say <code>冬は寒いものだ
 
 <code>winter IS cold / winter's a cold thing</code>.
 
-![](media/image1154.png)
+![](media/image1154.webp)
 
 Now, we can actually parse it out in that way.
 
@@ -166,7 +166,7 @@ Now, there's no way of tying this up logically. We simply have the complete logi
 
 <code>希望のあるところには必ず試練がある</code> and then we're adding to the end of it, as a kind of sentence-ender, <code>ものだ</code>.
 
-![](media/image139.png)
+![](media/image139.webp)
 
 It doesn't make logical sense, but what you're doing is making that statement and then emphasizing it and also putting a particular kind of stress on it by saying <code>ものだ</code> – <code>that's just how it is, it's a thing, that's something we have to understand, that's something we have to get used to, it's something that doesn't change, it's something that's inevitable</code>: <code>ものだ</code> – <code>it's a thing</code>.
 
@@ -174,11 +174,11 @@ Now, interestingly, that's when we have <code>ものだ</code> in the present; w
 
 And again, this isn't some strange rule we have to learn.
 
-![](media/image372.png)Just as with <code>することがある</code> versus <code>したことがある</code>, there are perfectly good reasons why it has to be like that. The <code>ものだ</code> we've just discussed has to be in the present tense
+![](media/image372.webp)Just as with <code>することがある</code> versus <code>したことがある</code>, there are perfectly good reasons why it has to be like that. The <code>ものだ</code> we've just discussed has to be in the present tense
 
 because we're talking about generalization, and the present tense, as we know, isn't really a present tense.
 
-It covers the present and the future, and it can, even though it's called the non-past tense![](media/image680.png)
+It covers the present and the future, and it can, even though it's called the non-past tense![](media/image680.webp)
 
 -- it's really the indefinite tense – it can cover the past as well so long as it's also covering the present and the future. So it's a generalization tense in this case. But when we say it in the past it has a different meaning.
 
@@ -220,7 +220,7 @@ What it marks is a rule or a regulation.
 
 And that's an important distinction. You'll see why in a minute.
 
-![](media/image492.png)
+![](media/image492.webp)
 
 So, if you're going to a dojo and see a list of rules pinned to the wall,
 
@@ -232,7 +232,7 @@ You might go into one of those Penguin Cafés where the waiters and waitresses a
 
 and you may see a sign saying <code>ペンギンをくすぐらないこと</code> and that means <code>Don't tickle the penguins</code>.
 
-![](media/image1112.png)
+![](media/image1112.webp)
 
 And the reason it's marked with <code>こと</code> is because this is a rule of the establishment.
 

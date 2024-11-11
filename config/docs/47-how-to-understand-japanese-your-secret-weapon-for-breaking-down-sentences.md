@@ -16,7 +16,7 @@ and becomes our friend, because it allows us to break down any complicated Japan
 
 I told you right from the beginning of this course that every Japanese sentence consists of two elements, and they are the A-car (the subject) and the B-engine.
 
-![](media/image668.png)
+![](media/image668.webp)
 
 The A-car is always marked by が.
 
@@ -64,7 +64,7 @@ Now, a very simple example of this is if we say <code> *(zeroが)* お店に行�
 
 which in English is <code>I went to the shops and bought bread.</code>
 
-![](media/image346.png)
+![](media/image346.webp)
 
 Now, in both English and Japanese, this is two logical clauses made into one compound sentence.
 
@@ -134,7 +134,7 @@ So the first law of Japanese word order is that the engine of the sentence,
 
 which can be a verb, an adjective or a noun-plus-copula, always has to come at the end of the sentence.
 
-![](media/image638.png)
+![](media/image638.webp)
 
 And the second law, and this is the most important one for our present purposes, is that
 
@@ -158,7 +158,7 @@ So, let's go back to a somewhat complex sentence that we analyzed last week.
 
 -- <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
 
-![](media/image610.png)
+![](media/image610.webp)
 
 Now, I colored this in order to show the process of noun modification.
 
@@ -202,7 +202,7 @@ But the main verb-sentence logical particles, を, に, で, and へ, do one thi
 
 **They modify the verb; they tell us more about it.**
 
-![](media/image1026.png)
+![](media/image1026.webp)
 
 So in this sentence, the sentence itself is <code>I gave</code>, and then these modified nouns provide
 
@@ -258,7 +258,7 @@ an invisible actor because it's not going to have anything behind it.
 
 In this sentence, as we see, there's a lot of modifying going on but it's all modifying the verb.
 
-![](media/image428.png)
+![](media/image428.webp)
 
 We can't have anything modifying the A-car, the が-marked actor, because the が-marked actor isn't visible and we can only modify something that we can actually see within a sentence.
 
@@ -275,7 +275,7 @@ Let's try doing that.
 
 -- <code>That ugly foreigner who hit Sakura gave the dress I bought at the market to a girl wearing glasses.</code>
 
-![](media/image520.png)
+![](media/image520.webp)
 
 Now we're starting the sentence out with a non-logical topic marked by は.
 
@@ -297,7 +297,7 @@ What did he do?
 
 ::: info
 I am going to put this comment here.  
-*![](media/image825.png)
+*![](media/image825.webp)
 :::
 
 And let's notice that everything, everything in this sentence apart from the core
@@ -308,7 +308,7 @@ Even the word <code>外国人</code>, which is so often seen together that we te
 
 one thing modifying the thing that comes after it.
 
-![](media/image523.png)
+![](media/image523.webp)
 
 So, <code>コク/国</code> is the on-reading of <code>くに/国</code> -- <code>country</code>.
 
@@ -341,7 +341,7 @@ If there's anything modifying the B-engine, it comes directly before that.
 Every noun marked with a main logical particle,  
 the detectives of our logical particle video *(Lesson 8b)*:
 
-![](media/image804.png)
+![](media/image804.webp)
 
 を, に, で and -へ, are in fact **modifying the verb.**
 
@@ -355,7 +355,7 @@ And that's because their function is to tell us more about the verb, to modify t
 
 So, every sentence has this same structure: the A-car, the B-engine, the things that are modifying the A-car, and the things that are modifying the B-engine.
 
-![](media/image393.png)
+![](media/image393.webp)
 
 And there's nothing else that can be in a sentence except for things like sentence-ender particles.
 

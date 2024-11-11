@@ -40,7 +40,7 @@ But the second reason is this: people have this problem because I've spoiled the
 
 I say that somewhat humorously, but the truth is that people come out of this world of English <code>Japanese grammar explanations</code> in Genki and the various Japanese grammar (so-called) websites and they're leaving a world of an entangled mass of strange things that just happen to mean what they mean for no particular reason and with a whole range of exceptions and random rules into a world of crystalline logic where everything makes sense, where everything is what it is for a good reason.
 
-![](media/image413.png)
+![](media/image413.webp)
 
 And so when they come across something that looks like an exception or a random rule,
 
@@ -68,7 +68,7 @@ And the second part of the core sentence is always the same: it's a noun marked 
 
 We can't always see it, but it's always there.
 
-![](media/image747.png)
+![](media/image747.webp)
 
 And those two elements, the engine and the が-marked subject (or main carriage),
 
@@ -80,13 +80,13 @@ about either the engine or the が-marked carriage.
 
 It can't do anything else.
 
-![](media/image115.png)
+![](media/image115.webp)
 
 The core of the sentence is the sentence and everything else is an appendage to one of those two core elements.
 
 So, with <code>*(私は)* クレープが食べたい</code>, the が-marked carriage is not <code>I</code>, so it can't be <code>I want to eat crepes</code>.
 
-![](media/image1014.png)
+![](media/image1014.webp)
 
 Because <code>I</code> am not doing something here, the crepes are the が-marked main carriage.
 
@@ -115,7 +115,7 @@ If there is an action, a subjectivity, it always wants to put an ego-actor at th
 
 Japanese doesn't have that strong imperative.
 
-![](media/image636.png)
+![](media/image636.webp)
 
 Now, if we look at it in terms of subjectivities --
 
@@ -168,7 +168,7 @@ Now, <code>早く食べたい</code> doesn't have a visible actor, but the actor
 
 so it's <code>(zeroが) 早く食べたい</code> -- <code>I want to eat soon.</code>
 
-![](media/image515.png)
+![](media/image515.webp)
 
 Now, this is the final problem.
 
@@ -208,7 +208,7 @@ Let's take the sentence <code> *(zeroが)*  東京に行きたい.</code>
 
 This means <code>I want to go to Tokyo.</code>
 
-![](media/image370.png)
+![](media/image370.webp)
 
 Now, there is no possible other <code>zeroが</code> in this sentence than <code>I</code>.
 
@@ -230,7 +230,7 @@ For example, the potential.
 
 When we say <code>本が読める</code>, we're saying <code>The book does readable.</code>
 
-![](media/image684.png)
+![](media/image684.webp)
 
 We can't translate this directly into English because it's a verb and <code>readable</code> isn't a verb in English, but in Japanese we're saying <code>The book does readable.</code>
 
@@ -315,7 +315,7 @@ but all kinds of things. For example, let's take the word <code>不思議</code>
 
 It's a noun, it means <code>mystery</code>.
 
-![](media/image103.png)
+![](media/image103.webp)
 
 And it can be used as an adjectival noun, in which case it means something like <code>mysterious</code>.
 

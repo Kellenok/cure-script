@@ -84,7 +84,7 @@ So the two logical clauses are <code>zeroがいる</code> and <code>zeroがい�
 
 but both of them state their own subtopics.
 
-![](media/image297.png)
+![](media/image297.webp)
 
 So, why are they doing that?
 
@@ -126,7 +126,7 @@ If we want to say that the comment is the same,
 
 then we have to use the other topic-marker, も.
 
-![](media/image630.png)
+![](media/image630.webp)
 
 And this sentence actually doubles down on that
 
@@ -170,7 +170,7 @@ So, this comes from a Disney song, <code>The Bells of Notre Dame</code>,
 
 and the first line is <code>朝のパリに響くのは鐘だよ</code>.
 
-![](media/image979.png)
+![](media/image979.webp)
 
 So, as you see, this is quite a short and simple-looking sentence.
 
@@ -198,7 +198,7 @@ which has been defined for us by that の.
 
 So, <code>that which resounds in morning Paris, it is (or they are) bells, よ.</code>
 
-![](media/image1135.png)
+![](media/image1135.webp)
 
 So why is it being put in this way?
 
@@ -257,7 +257,7 @@ But really the important point of this lesson
 
 is the concept of agility itself,
 
-![](media/image436.png)
+![](media/image436.webp)
 
 because we're going to come across in Japanese as we go forward
 

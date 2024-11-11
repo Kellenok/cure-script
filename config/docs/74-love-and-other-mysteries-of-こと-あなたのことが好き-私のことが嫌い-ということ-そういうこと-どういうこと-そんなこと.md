@@ -10,7 +10,7 @@ And this can indeed be very mysterious to foreign learners,
 
 because some meanings really can't be translated into English or other languages.
 
-![](media/image164.png)
+![](media/image164.webp)
 
 We can understand them, but we have to understand them as Japanese concepts.
 
@@ -28,7 +28,7 @@ which would be <code>愛してる</code>, and that's an expression that,
 
 while it technically means <code>I love you</code>, almost nobody ever uses it in Japanese.
 
-![](media/image1144.png)
+![](media/image1144.webp)
 
 <code>あなたのことが好きだ</code> is fairly understandable
 
@@ -36,7 +36,7 @@ if it were just <code>あなたが好きだ</code> (<code>I like you</code>),
 
 but actually what we're saying is that I like your <code>こと</code>.
 
-![](media/image699.png)
+![](media/image699.webp)
 
 Now what does that really mean?
 
@@ -52,7 +52,7 @@ you've become familiar by observation or proximity with various things about the
 
 and that this has gradually accumulated into feelings of love.
 
-![](media/image635.png)
+![](media/image635.webp)
 
 Now, you can't say that in English without writing a little essay or a song to somebody,
 
@@ -96,7 +96,7 @@ Now, similarly, we may say things like <code>*(zeroは)*私のことが嫌いら
 
 (<code>that person, or those people, appear to find my **こと** dislikeable</code>).
 
-![](media/image751.png)
+![](media/image751.webp)
 
 Why would we say that?
 
@@ -129,7 +129,7 @@ Now, where there isn't a cultural factor,
 
 <code>こと</code> can in some circumstances be much easier to translate and understand.
 
-![](media/image689.png)
+![](media/image689.webp)
 
 So, for example, if we say <code>田中さんのこと</code> and we don't have any particular affection for Tanaka-san, this translates most of the time fairly easily into things like
 
@@ -151,7 +151,7 @@ But a lot of people have asked me to explain expressions like
 
 and I've touched on these before *(Lesson 20)*, so I'll just go over this a little.
 
-![](media/image949.png)
+![](media/image949.webp)
 
 <code>言う/いう</code> and <code>こと</code> in a way belong together, because a <code>こと</code> is a situation, a circumstance, by implication something that actually requires a bit of explanation.
 
@@ -181,7 +181,7 @@ So the question <code>どういうこと</code> is one that we often hear.
 
 It means, in a way, <code>what kind of こと?</code>
 
-![](media/image479.png)
+![](media/image479.webp)
 
 And <code>what kind of...</code>, we're taught in Genki and other textbooks, is <code>どんな</code> in Japanese, and indeed it is, but we tend to use <code>どういう</code> more often in cases where either more explanation might be required or where the explanation would be perhaps a little less expected.
 
@@ -199,7 +199,7 @@ Similarly, when Katrielle Layton solves the case, she says
 
 <code>そういうことでした</code> (<code>So that's how the situation was explained</code>).
 
-![](media/image831.png)
+![](media/image831.webp)
 
 And it's thrown into the past tense
 
@@ -217,7 +217,7 @@ and in these cases the implication is often that while the <code>こと</code> i
 
 easily understood or explained, we have some kind of a negative reaction to it.
 
-![](media/image742.png)
+![](media/image742.webp)
 
 Now, that could be denial or it could be protest or disappointment.
 
@@ -239,7 +239,7 @@ and the implication of this is that what is happening is very unsatisfactory
 
 or that what someone has said was a bad or unkind thing to say.
 
-![](media/image353.png)
+![](media/image353.webp)
 
 So, <code>そんなこと</code>, or more often <code>そんな</code>, represents a negative reaction to the situation.
 

@@ -14,7 +14,7 @@ which, as you probably know, means <code>deer</code>,
 ::: info
 Just in case, this しか is different to the particle しか of this lesson, hence the Katakana, there is a lot of different しか nouns and whatnot with their own Kanji, but only one particle しか
 :::
-![](media/image754.png)
+![](media/image754.webp)
 
 **but there's another <code>しか</code> element in Japanese which is a particle**
 
@@ -26,7 +26,7 @@ One of my commenters reminded me of a rather charming Japanese word play:
 
 <code>ならならしかしかしかられない</code>, / *奈良なら鹿しか叱られない (how it might be in Kanji form)*
 
-![](media/image140.png)
+![](media/image140.webp)
 
 and in natural English we would translate this as
 
@@ -52,7 +52,7 @@ This is what my commenter was really asking.
 
 **Does it have a zero-A-car somewhere, or does it even have an A-car at all?"**
 
-![](media/image341.png)
+![](media/image341.webp)
 
 What is the A-car of a sentence like this?
 
@@ -74,7 +74,7 @@ In natural English we'd translate this as,
 
 <code>There's nobody here but Sakura.</code>
 
-![](media/image774.png)
+![](media/image774.webp)
 
 **So what's <code>しか</code> doing here?**
 
@@ -96,7 +96,7 @@ so this isn't something that we're not already familiar with.
 
 **But the other thing <code>しか</code> does is a little bit more unusual.**
 
-![](media/image591.png)
+![](media/image591.webp)
 
 I don't know if you've ever used Photoshop,
 
@@ -104,13 +104,13 @@ but in Photoshop you can invert a selection.
 
 **What happens is that you select an object,**
 
-![](media/image626.png)
+![](media/image626.webp)
 
 **you press the key selection to invert that selection**
 
 **and what happens is that everything outside of that object is selected.**
 
-![](media/image1078.png)
+![](media/image1078.webp)
 
 **The object is the only thing there now that isn't selected.**
 
@@ -140,7 +140,7 @@ it's exactly the same thing: <code>奈良なら鹿**しか**叱られない</cod
 
 (if it's Nara, **everything other than** the deer are not scolded).
 
-![](media/image215.png)
+![](media/image215.webp)
 
 **So again, we're selecting the deer,**
 
@@ -157,7 +157,7 @@ so when we say <code>さくらしかいない</code>
 
 **We mean there's nobody here but Sakura.**
 
-![](media/image1034.png)
+![](media/image1034.webp)
 
 **Now, the <code>いない</code> partly tells us that**, but it isn't just that,
 
@@ -165,7 +165,7 @@ because **it also **doesn't mean** that there are no bunny rabbits here**,
 
 **there are no birds, there are no capybara** (did I pronounce that right?)
 
-![](media/image1029.png)
+![](media/image1029.webp)
 
 ::: info
 It should simply select the relevance that **no other Sakura / no other people** are there.* ---
@@ -180,7 +180,7 @@ It should simply select the relevance that **no other Sakura / no other people**
 
 **a が-marked subject, so what's going on here?**
 
-![](media/image961.png)
+![](media/image961.webp)
 
 Let's take a look at one. Suppose we say,
 
@@ -249,7 +249,7 @@ the inverse-selection structure of a <code>しか</code> sentence works.
 
 **And this is when we say <code>しかない</code>.**
 
-![](media/image25.png)
+![](media/image25.webp)
 
 Now, in an ordinary <code>しか</code> sentence obviously
 
@@ -303,8 +303,8 @@ and again, **that's ungrammatical and for the same reason**
 ::: info
 Some useful comments I guess under the video…
 :::
-![](media/image124.png)
+![](media/image124.webp)
 
-![](media/image477.png)
+![](media/image477.webp)
 
-*One miscellaneous about くせに (癖に?), for the full lesson, she made [**this video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lesson 93*![](media/image556.png)
+*One miscellaneous about くせに (癖に?), for the full lesson, she made [**this video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lesson 93*![](media/image556.webp)

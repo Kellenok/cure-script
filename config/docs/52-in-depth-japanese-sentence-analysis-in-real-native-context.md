@@ -28,7 +28,7 @@ So, the next part is <code>飲み会が終了した後</code> and this is a time
 
 It's setting the time of the action we're now going to describe.
 
-![](media/image285.png)
+![](media/image285.webp)
 
 Now, strictly speaking, we should say <code>後に</code> rather than simply <code>後</code>,
 
@@ -38,13 +38,13 @@ So having set the time, we then say what happened:
 
 <code>彼女はアパートを出てしばらく歩いていた</code>.
 
-![](media/image749.png)
+![](media/image749.webp)
 
 So, she left the apartment and walked for a while.
 
 So then we have <code>ふと先輩の家に携帯電話を忘れてきたことに気づいた</code>.
 
-![](media/image448.png)
+![](media/image448.webp)
 
 <code>ふと</code> -- suddenly -- <code>先輩の家に</code> -- in senpai's house -- <code>携帯電話</code> -- portable telephone --
 
@@ -62,7 +62,7 @@ So forgetting her phone in senpai's apartment was the <code>こと</code> that s
 
 So why is it <code>ことに気づく</code> and not <code>ことを気づく</code>?
 
-![](media/image485.png)
+![](media/image485.webp)
 
 The English-language Japanese dictionaries and textbooks will tell you
 
@@ -123,7 +123,7 @@ Now, this is important to know, because it's another small example of the way th
 
 the stuff you find in the textbooks and the websites everywhere –
 
-![](media/image743.png)
+![](media/image743.webp)
 
 it's another way in which it simply messes up our understanding
 
@@ -145,7 +145,7 @@ and "this is one of those weird quirks of Japanese that you have to learn in eve
 
 because it's so random and irrational". It's not random and irrational at all.
 
-![](media/image104.png)
+![](media/image104.webp)
 
 While <code>気づく</code> is broadly equivalent to <code>realize</code> in English, it's not the same structure.
 
@@ -165,7 +165,7 @@ And if I can just pop in a little footnote here.
 
 This talk of verbs taking particles is hugely, hugely misleading.
 
-![](media/image753.png)
+![](media/image753.webp)
 
 It's not just a quibble to say that logical particles can only ever belong to nouns, never to verbs.
 
@@ -189,7 +189,7 @@ Because it seems so illogical and random when in fact it's completely logical.
 
 That's why we call them <code>logical particles</code>.
 
-![](media/image471.png)
+![](media/image471.webp)
 
 They never change their function regardless of what adjective or verb is involved in the sentence.
 
@@ -199,7 +199,7 @@ And if you're at all confused about what I'm saying here, please see the ninth l
 
 <code>彼女はアパートで引き返し先輩の部屋に戻って呼び鈴を押す</code>
 
-![](media/image806.png)
+![](media/image806.webp)
 
 So she returned to senpai's apartment. <code>引き返し</code>, that means <code>return</code>,
 
@@ -229,7 +229,7 @@ She pressed the bell.
 
 <code>ところが反応がない</code>
 
-![](media/image839.png)
+![](media/image839.webp)
 
 <code>ところが</code> is an expression that we'll often find in narrative, again.
 
@@ -269,7 +269,7 @@ A slightly confusing-seeming expression because it comes from the fact that
 
 Japanese people often lump together the concept of a key and the concept of a lock into one. Strictly speaking, this could be called incorrect.
 
-![](media/image454.png)
+![](media/image454.webp)
 
 Really we're saying <code>錠前が掛かった</code> -- the lock was fixed or hooked,
 
@@ -281,7 +281,7 @@ and it would seem even a little unnatural to say it correctly.
 
 And because the door was unlocked, <code>彼女はそのまま中に入っていた</code> -- she went in.
 
-![](media/image121.png)
+![](media/image121.webp)
 
 <code>そのまま</code> we discussed in another video *(Lesson 42)* and, as we know, a <code>まま</code> is an unchanged condition.
 

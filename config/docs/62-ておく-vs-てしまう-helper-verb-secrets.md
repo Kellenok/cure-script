@@ -16,7 +16,7 @@ Now, Kimika-sama is able to translate this pretty much correctly (it means broad
 
 but still doesn't understand why <code>おく</code> is used as a helper verb to <code>説明する</code>.
 
-![](media/image807.png)
+![](media/image807.webp)
 
 And to understand that more fully, I think we need to look into something a little more deeply.
 
@@ -26,7 +26,7 @@ We do the same thing in English, though not so much with verbs as with prepositi
 
 particularly the prepositions <code>up</code> and <code>out</code>.
 
-![](media/image536.png)
+![](media/image536.webp)
 
 We eat things up, we make things up, we cry out, we lose out, we think up an idea, we think out an idea, etcetera etcetera. Now, **Japanese doesn't have any prepositions.**
 
@@ -51,7 +51,7 @@ If we say <code>窓を開けておく</code>, what we're saying is
 
 ventilation is going to come into the room".
 
-![](media/image784.png)
+![](media/image784.webp)
 
 Open it for a purpose, put that action in place:
 
@@ -80,7 +80,7 @@ We could say <code>説明してしまう</code>,
 
 but that would have a completely different implication.
 
-![](media/image613.png)
+![](media/image613.webp)
 
 In this particular case it would probably mean something like  
 "I'll go ahead and explain to them, even though that's not what I'm expected to do,
@@ -94,7 +94,7 @@ In another situation we might say something like
 
 which means <code>Don't ask, because Sakura will explain</code>
 
-![](media/image688.png)
+![](media/image688.webp)
 
 -- but what that <code>しまう</code> is implying is probably something like  
 "Don't ask, because if you do Sakura's going to explain

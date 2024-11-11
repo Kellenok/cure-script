@@ -10,7 +10,7 @@ and the implications they can have in different uses.
 
 Last week *(Lesson 60)* we looked at the fact that topic-comment structure is fundamental to Japanese.
 
-![](media/image658.png)
+![](media/image658.webp)
 
 Every Japanese sentence has a topic as well as a subject,
 
@@ -26,7 +26,7 @@ is strictly <code>zeroはzeroが日本人です</code> --
 
 <code>I am the topic, I am the subject, and I am a Japanese person.</code>
 
-![](media/image535.png)
+![](media/image535.webp)
 
 On the whole, we don't need to worry about the invisible は,
 
@@ -221,7 +221,7 @@ So if we say <code>私は</code> or <code>私が</code>, **we're specifically ma
 Now, from this direction of the emphasis forward or backward,  
 は, and が can mark particularities as opposed to generalities.
 
-![](media/image966.png)
+![](media/image966.webp)
 
 So, for example, if we say <code>花が綺麗だ</code>,
 
@@ -297,7 +297,7 @@ So <code>雨が降っている</code> simply means <code>rain is falling</code>.
 
 there was an expectation that it was going to snow.
 
-![](media/image284.png)
+![](media/image284.webp)
 
 Rain is the topic and the comment on it is that it's falling,  
 with the implication that if the topic were different the comment would also be different,
@@ -353,7 +353,7 @@ And **she's made a sub-topic out of <code>休み</code> -- <code>rests</code>.**
 
 Why has she done that?
 
-![](media/image302.png)
+![](media/image302.webp)
 
 **Because when you make something a topic, even if it's a kind of sub-topic like this,**
 

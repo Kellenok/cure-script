@@ -75,7 +75,7 @@ For example, we might say <code>もう言ったってば</code>, which is <code>
 ::: info
 This may be a useful note about たら, so I will leave it here.
 :::
-![](media/image1063.png)
+![](media/image1063.webp)
 
 ## なら Conditional
 

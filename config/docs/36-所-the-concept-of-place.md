@@ -26,7 +26,7 @@ However, in Japanese, the figurative sense of <code>place</code> goes a lot furt
 
 For example, if I say <code>さくらのどこが好きなの?</code>
 
-![](media/image399.png)
+![](media/image399.webp)
 
 I'm asking, literally <code>Sakura's where do you like?</code> or <code>What place of Sakura do you like?</code>  
 ::: info
@@ -89,7 +89,7 @@ What's the structure of this?
 
 Well, it ends with <code>だ</code>, so we know that what we have is an <code>A is B</code> sentence, even though the original sentence sandwiched into it is an <code>A does B</code> sentence.
 
-![](media/image679.png)
+![](media/image679.webp)
 
 So we're saying that <code>(something) is place</code>.
 

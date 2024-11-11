@@ -16,11 +16,11 @@ Today we're going to continue with the narrative lessons that we started last we
 
 >「おもしろいことがない」とアリスは言った。
 
-![](media/image1099.png)
+![](media/image1099.webp)
 
 「おもしろい」 means `interesting or amusing`; 「こと」 means `a thing`. And in Japanese we have two common words for `thing` , and they are もの and こと.
 
-![](media/image369.png)
+![](media/image369.webp)
 
 Now, a **もの is a thing in the most usual sense: a physical thing – a hat, a book, a pair of glasses, Mount Fuji.** **こと is a more abstract kind of `thing`: an affair, a matter, a circumstance.** So, when we say, `Is there anything in that box?` we mean もの. And when we say, `The thing is...` we usually mean こと. 
 
@@ -28,11 +28,11 @@ So, 「おもしろいことがない」means `There's nothing interesting going
 
 言った － 言う means `say` and you can see it's like a mouth with soundwaves coming out of it. 
 
-![](media/image539.png)
+![](media/image539.webp)
 
 **But the important thing to notice here is that little particle と.**
 
-![](media/image431.png)
+![](media/image431.webp)
 
 **There are actually two と particles:** one means `and` and it's very simple; **the other one is what we call the `quotation particle`**, and that's what we're dealing with here. **When we quote someone as saying something or even as thinking something, we use this particle と. It's kind of like a quotation mark that you can hear.** 
 
@@ -40,7 +40,7 @@ As you see, we use the square quotation marks in Japanese, which are the equival
 
 >そのとき、白いウサギがとおりすぎた。
 
-![](media/image580.png)
+![](media/image580.webp)
 
 「そのとき」: その means `that` and とき means `time`, so we're literally saying thattime, ` but this is a bit more like saying ` just then / at that moment / at that time. **So we use just the way we use other relative time expressions: we don't need to put に or anything else with it, we just state the time and then continue with what was happening at that time.**
 
@@ -50,7 +50,7 @@ In this particular sentence, the point of 「そのとき」 is that just at tha
 
 白い means `white`; it's an い-adjective. ウサギ means `rabbit`. And 「とおりすぎた」is made up of two words, and it's doing something that we're going to see over and over and over again in Japanese. **It's using the い-stem of one verb to attach another verb to give it extra meaning.** So とおる means to `pass through` and すぎる means to `exceed or go beyond`. So とおりすぎる connects those two words together: とおる (pass through); すぎる (go beyond) and it means `passing by`. A white rabbit passed by. 
 
-![](media/image46.png)
+![](media/image46.webp)
 
 そのとき、白いウサギ (white rabbit) とおりすぎた (passed by)。
 
@@ -58,7 +58,7 @@ In this particular sentence, the point of 「そのとき」 is that just at tha
 
 >ふつうのウサギではなくて、チョッキをきているウサギだった。
 
-![](media/image595.png)
+![](media/image595.webp)
 
 > ふつうのウサギではなくて…
 
@@ -72,13 +72,13 @@ So, 「ふつうのウサギではなくて」= `It was not an ordinary rabbit.`
 
 チョッキ means a vest; きる means `wear`, so 「きている」 means to `be wearing / be in the act of wearing`. **And `だった`, of course, is the past tense of the copula.** 
 
-![](media/image857.png)
+![](media/image857.webp)
 
 So this is: `It was not an ordinary rabbit, it was a wearing-a-vest rabbit / it was a rabbit that was wearing a vest.`
 
 >ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
-![](media/image56.png)
+![](media/image56.webp)
 
 > ウサギはかいちゅうどけいを見て…
 
@@ -92,7 +92,7 @@ So the parts of this noun, 「かいちゅうどけい」: かいちゅう/懐�
 
 And the reason we say 「**ど**けい」instead of 「とけい」 is what Alice in "Alice in Kanji Land calls "ten-ten hooking", **and this is that when you push two nouns together, in the way that we are doing here, and the second one begins with a sharp sound like `t` or `k`, we turn it into its equivalent dull sound like `d` or `b`.** *(=Rendaku - sequential voicing)*
 
-![](media/image899.png)
+![](media/image899.webp)
 
 ::: info
 It USUALLY seems to happen when the 2nd noun in the compound has a sharp Kun’yomi sound that has an equivalent dull sound - h -> b, t -> d, k -> g, tsu/s -> z, sh -> j etc. On’yomi compounds USUALLY don’t have this change, SOMETIMES, if `n` is before, it can trigger it too.
@@ -114,7 +114,7 @@ And then we have:
 
 Now, we're going to look at what this と actually does, and as we get into more complex sentences, three-level compound sentences like this one, we start to see how useful it becomes.
 
-![](media/image2.png)
+![](media/image2.webp)
 
 **What と actually does structurally is that it takes whatever it marks** – and that could be two words like this or it could be a whole paragraph with all kinds of other grammar going on in it – **it takes whatever it marks as a quotation and turns it effectively into a single noun.**
 
@@ -122,7 +122,7 @@ Now, we're going to look at what this と actually does, and as we get into more
 
 So a と carriage is a white noun-carriage marked with と. And we're going to find as we go on that **this is used not only to mark things people say and things people think, but all kinds of other things.** And we'll have an example of that a little later in this lesson. **But this と structure is essentially making a quasi-noun out of whatever is marked with と, and the と then makes it function as a modifier to the verb that follows.**
 
-![](media/image322.png)
+![](media/image322.webp)
 
 When it's a simple quotation like that, the verb is going to be 言う (to say), but it could also be 考える (to think) or 思う (to think or feel), but it can be many other things too, as you're going to see in a moment. **So this is the structure of a と marked statement of any kind.**
 
@@ -130,7 +130,7 @@ When it's a simple quotation like that, the verb is going to be 言う (to say),
 
 おそい means `late`. **And in order to make it a sentence, obviously we have to have a zero-pronoun here.** So the rabbit is either saying `It's late!` or `I'm late!`
 
-![](media/image56.png)
+![](media/image56.webp)
 
 ***ウサギは(zeroが)かいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。***
 
@@ -148,7 +148,7 @@ In the Disney version, of course, it was `I'm late!`
 
 And that 言って is another compound 言って, so this time we have a three deep compound sentence.
 
-![](media/image175.png)
+![](media/image175.webp)
 
 ::: info
 Blue box - the quoted rabbit’s words also seem to have a zeroが since meaning (I) late.
@@ -160,7 +160,7 @@ The rabbit looked at his watch, he said 「おそい！おそい！」, and then
 
 はしる means `run` and 出す literally means to `take out`, but this is a combination we're going to see very often in Japanese. Once again, we're using that い-stem , which is the main connecting stem, to connect はしる to 出す. And what does it mean here?
 
-![](media/image480.png)
+![](media/image480.webp)
 
 Well, **that 出す when it's connected to a verb means that the action of the verb `erupted`.** So we can say that someone 泣き出した: 泣く/なく is `cry`, and we connect the い stem of 泣くto 出す, and 泣き出す means `burst out crying`. We can say 笑い出す: 笑う is `laugh` and if we connect the い-stem of 笑う to 出す, we're saying `burst out laughing`. And in this case what happened? The rabbit suddenly burst out running – it broke into a run.
 
@@ -168,11 +168,11 @@ Well, **that 出す when it's connected to a verb means that the action of the v
 
 (The rabbit looked at its pocket watch, it cried **I**m late! I'm late!' and it broke into running.)
 
-![](media/image793.png)
+![](media/image793.webp)
 
 >「ちょっとまってください」とアリスはよんだ。
 
-![](media/image228.png)
+![](media/image228.webp)
 
 「ちょっとまってください」is a phrase you're going to hear a lot in Japanese. Sometimes the ください will get left off. What does it mean? 
 
@@ -186,7 +186,7 @@ Now, because this is so common, very often when we put a verb into て-form and 
 
 So we've got that と particle again, the quotation particle, which we need when we quote anything, and then よんだ. 「よんだ」: what does that mean? Well, we've come across よんだ before I think, haven't we? And it means `read`, `read` in the past. That is the た form —the だ-form in this case—of 読む. **But in this case it's different. It's the だ form of 呼ぶ.**
 
-![](media/image801.png)
+![](media/image801.webp)
 
 If you remember from our て and た form lesson *(Lesson 5)*, the New Boom group of verbs, ぬ, ぶ, and む ending verbs, all form their て form with んで and their た form with んだ. **So both 読む and 呼ぶ have the past form よんだ.** Fortunately, we're not very often likely to get reading and calling mixed up, are we? This 呼ぶ means to `call`, to `shout out`. It can mean `call` in any of the senses that `call` is used in English. You can call someone a name, you can call an apple a lemon (but you'd be wrong) or you can call out.
 
@@ -196,7 +196,7 @@ If you remember from our て and た form lesson *(Lesson 5)*, the New Boom grou
 
 でもウサギはピョンピョンとはしりつづけた。
 
-![](media/image836.png)
+![](media/image836.webp)
 
 ::: tip
 If you want to type 続ける/つづける, you must type tsuDUkeru. Dzu gives `ｄず`.

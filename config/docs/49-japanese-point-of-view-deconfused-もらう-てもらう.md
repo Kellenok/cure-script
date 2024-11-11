@@ -22,7 +22,7 @@ And up to a point this is true.
 
 But dealing with them in this way is actually more confusing than it is helpful.
 
-![](media/image852.png)
+![](media/image852.webp)
 
 Quite a while ago I dealt with <code>くれる</code> and <code>あげる</code> *(Lesson 11)* and at the time I quite specifically didn't include <code>もらう</code> because I believe teaching them together in the way that is common causes a great deal of unnecessary confusion.
 
@@ -40,11 +40,11 @@ So, as we know, <code>あげる</code> and <code>くれる</code> mean respectiv
 
 someone else <code>giving down</code> to oneself or to one's in-group or someone one identifies with.
 
-![](media/image1090.png)
+![](media/image1090.webp)
 
 It can refer to giving an actual object, a present or something, or it can refer to giving an action, doing an action for the benefit of another person or another person doing an action for one's own benefit.
 
-![](media/image744.png)
+![](media/image744.webp)
 
 And before we move on from there, I just want to make a little point that people sometimes misunderstand and that is that while giving up and giving down are originally honorific,
 
@@ -62,7 +62,7 @@ And the reason for that is that <code>あげる</code> is not in fact honorific
 
 and **it's generally considered rude if you use it to a superior when you're talking about an action**, because <code>してあげる</code> means <code>doing for the benefit of (someone else)</code>, doing someone a favor, essentially.
 
-![](media/image693.png)
+![](media/image693.webp)
 
 **So if you talk to a superior in such a way as to imply that you're doing them a favor,**
 
@@ -87,7 +87,7 @@ And while <code>くれる</code> is, as it were, a <code>push</code> download --
 
 to download to you, <code>もらう</code> is more like a <code>pull</code> download.
 
-![](media/image1103.png)
+![](media/image1103.webp)
 
 And that really is about where the similarities end,
 
@@ -150,7 +150,7 @@ The ball is the **direct** object (what I threw).
 
 Mary is the **indirect** object (the ultimate receiver of the action).
 
-![](media/image875.png)
+![](media/image875.webp)
 
 In a pull-sentence, where the receiver is the が-marked actor, then the に-marked person
 
@@ -168,7 +168,7 @@ because of course they confuse the whole issue by calling the receptive <code>-�
 ::: info
 Btw. you can’t use both of these receptives at once. Dolly explains in the* [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
 :::
-![](media/image890.png)
+![](media/image890.webp)
 
 And they work very similarly.
 
@@ -183,7 +183,7 @@ So let's talk about receiving a service.
 A very, very common expression is <code>(zeroが)お医者さんに見てもらう</code> which is translated in dictionaries and English grammars as <code>see a doctor</code>.  
 And this is a terrible, terrible, terrible, irresponsible translation.
 
-![](media/image1012.png)
+![](media/image1012.webp)
 
 I don't know why they do this exactly.
 
@@ -203,7 +203,7 @@ Now, we can see this much more clearly if we're talking about hairdressing or a 
 
 And if we say <code>散髪をしてもらう</code>, we're saying <code>have someone cut my hair</code>.
 
-![](media/image417.png)
+![](media/image417.webp)
 
 <code>お医者さんに見てもらう</code> -- <code>have a doctor look at me / examine me</code>.
 

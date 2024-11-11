@@ -10,7 +10,7 @@ and that we've talked about right from the very first lesson.
 
 **And that is, the grammatical subject, what we call, in train language, the <code>A-car</code>.**
 
-![](media/image732.png)
+![](media/image732.webp)
 
 And as we know, every Japanese sentence has to have  
 **an A-car, a subject, a <code>主語</code> in Japanese**, and  
@@ -18,13 +18,13 @@ And as we know, every Japanese sentence has to have
 
 **In other words, every sentence is saying something about something.**
 
-![](media/image112.png)
+![](media/image112.webp)
 
 Now, some people argue that there's no subject in Japanese;
 
 some teachers do this, including Tae Kim-sensei, and
 
-![](media/image906.png)  
+![](media/image906.webp)  
 generally this is because they don't have a very good grip on how the language actually works.
 
 Some Japanese people, a minority of linguists, also propose a no-subject model for Japanese.
@@ -34,7 +34,7 @@ Again, this is simply due to the difference in models, just like how Dolly propo
 Just like Dolly says below, these models are there to just describe the language in some coherent chunk while finding some common ground, but they may differ in some instances.  
 It is up to you which model you will use, eventually you should achieve fluency either way once you don’t need explanations and terminologies anymore and you have the language automatised, but it helps studying the general consensus in most (esp. native) linguistic models.
 
-![](media/image342.png)
+![](media/image342.webp)
 :::
 
 **As I've said before, grammar, structure, models, whatever you want to call them,**
@@ -69,7 +69,7 @@ I teach Japanese as Japanese.
 ::: info
 This invisible Subject thing is much easier to grasp in Japanese if your native language has it too like that (obviously). Which is why English natives tend to (obviously) struggle with it due to how English mostly needs directly voiced/visible Subject & why there are those confusing explanations that try to force the English <code>Subject must be voiced/visible</code>-way onto Japanese.
 :::
-![](media/image805.png)
+![](media/image805.webp)
 
 In Spanish, for example, **we don't generally say**, <code>**Yo** soy Americana</code>, although
 
@@ -97,7 +97,7 @@ Japanese doesn't work this way, because Japanese doesn't have conjugations like
 
 **This is almost exactly what English <code>it</code> does, except that <code>it</code> in English isn't zeroed.**
 
-![](media/image930.png)
+![](media/image930.webp)
 
 So if I say <code>**It** fell from the sky / **It** ate my breakfast / **It**'s half the size of the other one</code>,
 
@@ -110,7 +110,7 @@ So if we take the kind of sentence that people try to call <code>subjectless</co
 
 let's take a sentence like <code> *(zeroが)* 疲れた</code>.
 
-![](media/image467.png)
+![](media/image467.webp)
 
 **Now, literally this just means <code>Tired</code>, so it could be called a subjectless sentence,**  
 **but it absolutely isn't** -- unless you want to avoid the term <code>subject</code> for reasons of your own.
@@ -129,7 +129,7 @@ which is to make Statement B about Thing A.
 
 If I look at a girl and say <code> *(zeroが)* 綺麗なのね?</code>
 
-![](media/image381.png)
+![](media/image381.webp)
 
 **again, I am not saying that the rabbit in the moon is pretty or that life in general is pretty.**
 
@@ -145,7 +145,7 @@ might try to argue that these at least are our mystical subjectless Japanese sen
 
 So we might say <code> *(zeroが)* 晴れそうだ</code>, which means <code>*(***it***)* looks like being fine</code>.
 
-![](media/image224.png)
+![](media/image224.webp)
 
 And you can ask <code>What looks like being fine? The weather, the day, this part of the world?</code>
 
@@ -159,14 +159,14 @@ And you can ask <code>What looks like being fine? The weather, the day, this par
 
 **Are we just shoehorning a subject in? No, we aren't. Notice <code>だ</code>, the copula <code>だ</code>.**
 
-![](media/image760.png)
+![](media/image760.webp)
 
 We all know what <code>だ</code> is *(Lesson 79)* (& if you don't, [**I'll link a video**](https://www.youtube.com/watch?v=euHYPcMoao4) so that you can follow it up). *  
 *---
 
 **The copula tells us that one thing is another thing.**
 
-![](media/image686.png)
+![](media/image686.webp)
 
 If we say <code>Roses **are** flowers / Mary **is** an artist / Today **is** Saturday</code>
 
@@ -177,7 +177,7 @@ or the A-car to the B-engine.**
 
 **So we know that this sentence has a zero-subject even though it isn't place-marked by <code>it</code>.**
 
-![](media/image567.png)
+![](media/image567.webp)
 
 **We can't see it, we can't hear it, but we know for a fact that it's there,**
 
@@ -194,7 +194,7 @@ And **it's a sentence like** <code>大阪にたどり着いた桜たち</code> *
 ::: info
 I put the name Hanako into Katakana in the second example sentence.
 :::
-![](media/image869.png)
+![](media/image869.webp)
 
 **These are not in fact sentences, and they wouldn't be seen as sentences by most linguists**
 
@@ -209,7 +209,7 @@ in Japanese. **What they are is simple modified nouns.** So we're saying
 **<code>恥ずかしくなったハナコ</code> -- We're not saying <code>Hanako became embarrassed</code>,**
 
 **we're saying <code>Embarrassed Hanako</code>.** ::: info
-Or I guess <code>Hanako, **who became embarrassed**…</code>* ![](media/image925.png)
+Or I guess <code>Hanako, **who became embarrassed**…</code>* ![](media/image925.webp)
 :::
 ::: info
 Sorry for the bad zoom, got <code>Youtubed</code> again. This kind of modifying can be basically translated into English as sort-of a relative clause. The link by Dolly references Lesson 46.
@@ -262,6 +262,6 @@ straightforward subject-predicate analysis. Thank you for watching this lesson�
 ::: info
 This is interesting, if hard to read, see it* [**here**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Recommend reading through all comments.
 :::
-![](media/image212.png)
+![](media/image212.webp)
 
-![](media/image764.png)
+![](media/image764.webp)

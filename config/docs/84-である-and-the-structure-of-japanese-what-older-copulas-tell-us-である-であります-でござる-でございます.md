@@ -10,7 +10,7 @@ that gives us the key to about a third of all Japanese sentences,
 
 and that is the copula.
 
-![](media/image23.png)
+![](media/image23.webp)
 
 ::: info
 Notice how copula LINKS together the A (Subject) and B (Predicate), that is its function.
@@ -29,7 +29,7 @@ and that raise certain questions about the structure of the copula itself
 
 which we're going to address.
 
-![](media/image826.png)
+![](media/image826.webp)
 
 **These are: <code>である</code>, <code>であります</code>, <code>でございます</code> and <code>でござる</code>.**
 
@@ -41,7 +41,7 @@ Now, we can deal with the last three very quickly,
 
 **<code>であります</code> is obviously <code>である</code> with the <code>ます</code> helper verb attached.**
 
-![](media/image1050.png)
+![](media/image1050.webp)
 
 ## でござる
 
@@ -60,7 +60,7 @@ Well, we'll talk about that in a minute.
 :::
 **So <code>ござる / ご座る</code> is just <code>ある</code> in fancy form.**
 
-![](media/image1122.png)
+![](media/image1122.webp)
 
 **You won't hear <code>でござる</code> very much at all because since it's an honorific form**
 
@@ -79,7 +79,7 @@ and you'll hear it used by speakers in anime etc who are using very honorific sp
 
 perhaps sub-villains talking to the main villain.
 
-![](media/image916.png)
+![](media/image916.webp)
 
 So that's really all we need to say about those three.
 
@@ -91,7 +91,7 @@ You could call it, in a way, **the <code>straight copula</code>.**
 
 **<code>だ</code> sounds casual, <code>です</code> is polite, but <code>である</code> is just the copula.**
 
-![](media/image33.png)
+![](media/image33.webp)
 
 **We see it used in contexts where we're simply being objective,**
 
@@ -119,7 +119,7 @@ We can say <code>花が**綺麗だ**</code> (flower **pretty-is**)
 
 or we can say <code>**綺麗な**花</code> (**pretty-is** flower).
 
-![](media/image1019.png)
+![](media/image1019.webp)
 
 And it's precisely because this group of nouns --
 
@@ -159,7 +159,7 @@ But suppose we don't want to say that.
 
 **Suppose we actually want to say <code>Sakura who is a university student</code>?** *(make a relative clause)*
 
-![](media/image803.png)
+![](media/image803.webp)
 
 It's not quite the same, in Japanese or English.
 
@@ -187,7 +187,7 @@ And you'll see that sometimes, especially in written material.
 
 you would say <code>円形**である**さま</code>.
 
-![](media/image1156.png)
+![](media/image1156.webp)
 
 Now, **<code>さま</code> is a state or condition.**
 
@@ -205,7 +205,7 @@ there's another reason for this,
 
 **and <code>です</code> is an abbreviation of <code>であります</code>.**
 
-![](media/image873.png)
+![](media/image873.webp)
 
 So, if you've followed my course, if you've been
 
@@ -238,7 +238,7 @@ Why do <code>で</code> plus <code>ある</code> make the copula concept?
 
 **There's the particle <code>で</code> and then there's the て-form of the copula.**
 
-![](media/image194.png)
+![](media/image194.webp)
 
 The textbooks don't tell you this.
 
@@ -277,7 +277,7 @@ it’s a bit hard to say which videos Dolly meant, but if so review Lessons 40, 
 
 That's what the copula does. **That's all it does.**
 
-![](media/image184.png)
+![](media/image184.webp)
 
 So if we say <code>さくらが日本人だ</code>
 
@@ -312,7 +312,7 @@ I've made a video about that and I'll link it. *(Lesson 55)*
 <code>**公園で**遊ぶ</code> (play **in the park**) --  
 **the park, which is marked by <code>で</code>, is the field, the area, the parameters, within which I play;**
 
-![](media/image834.png)
+![](media/image834.webp)
 
 <code>**世界で**一番おいしいラーメン</code> (the most delicious ramen **in the world**) --
 
@@ -337,7 +337,7 @@ Now, when we take <code>である</code>, what this is saying is
 
 in other words, **exist within a set.**
 
-![](media/image823.png)
+![](media/image823.webp)
 
 **And that's what the copula tells us.**
 
@@ -366,7 +366,7 @@ The second question is, **does this mean that it isn't really**
 
 **<code>ある</code> is a verb that we can use it as a pre-modifier.**
 
-![](media/image654.png)
+![](media/image654.webp)
 
 We can say <code>大学生**である**さくら</code> because
 
@@ -402,7 +402,7 @@ So **<code>綺麗</code> is not a 形容動詞;** <code>**綺麗な**</code> or 
 
 **and do all the things that those entities do: we have the four stems, etc.**
 
-![](media/image773.png)
+![](media/image773.webp)
 
 ::: info
 This further shows that there are different ways to view language, and both can work in their own systems, so it is best to be aware of both ways & use them as what works for you.
@@ -427,7 +427,7 @@ we use the three-engine structure.
 
 We regard verbs, adjectives and the copula as three unique entities.
 
-![](media/image1008.png)
+![](media/image1008.webp)
 
 **This is not a statement about the etymology of Japanese.**
 
@@ -457,7 +457,7 @@ And I use and recommend the three-engine model.
 
 **with the verb of being, <code>ある</code>.**
 
-![](media/image22.png)
+![](media/image22.webp)
 
 And that happens all too easily to English speakers
 
@@ -485,7 +485,7 @@ So if we say <code>That animal **is** a rabbit</code>, this is **the copula**.
 
 **We're placing <code>that animal</code> into the set <code>rabbit</code>.**
 
-![](media/image620.png)
+![](media/image620.webp)
 
 ---
 
@@ -493,7 +493,7 @@ If we say <code>There **is** a rabbit</code>, **that's not the copula, it's the 
 
 **We're saying a rabbit exists, there in that place.**
 
-![](media/image328.png)
+![](media/image328.webp)
 
 Now, because these two concepts are very easily confusable,
 
@@ -509,4 +509,4 @@ do a very, very poor job of differentiating them,
 ::: info
 This is quite interesting, [**link here**](https://www.youtube.com/watch?v=hS02cADsjfI&lc=Ugwa71x6w5weNeypWEh4AaABAg&ab_channel=OrganicJapanesewithCureDolly) if the screenshot is too hard to read. Highly recommend reading the entire comment section under this video, as there are some interesting comments.
 :::
-![](media/image83.png)
+![](media/image83.webp)

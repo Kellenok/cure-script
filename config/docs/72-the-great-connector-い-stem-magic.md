@@ -22,7 +22,7 @@ So, what it is, what we are going to talk about, is the い-stem of Japanese ver
 
 In Japanese this is called the <code>連用形 / れんようけい</code>, which means the <code>connective use form</code>.
 
-![](media/image918.png)
+![](media/image918.webp)
 
 And we might call it <code>The Great Connector</code>, because it does a whole range of different connecting jobs, which we're going to talk about now.
 
@@ -36,7 +36,7 @@ the so-called ます-form of verbs, which means verbs shifted into the い-stem
 
 and having the <code>ます</code> helper verb attached to them, were the base-form of verbs.
 
-![](media/image883.png)
+![](media/image883.webp)
 
 It's not the base-form of verbs.
 
@@ -54,11 +54,11 @@ So, what is this い-stem, this <code>連用形 / れんようけい</code> and 
 
 Well, obviously, what it is is simply the verb shifted from its base う-row form to the い-row.
 
-![](media/image614.png)
+![](media/image614.webp)
 
 So that く-ending verbs end in -き, す-ending verbs end in -し, and so forth.
 
-![](media/image558.png)
+![](media/image558.webp)
 
 Because this is such a wide-ranging structural element,
 
@@ -94,7 +94,7 @@ And we don't necessarily expect consistency in fantasy.
 
 So, the い-stem, as we know, connects the <code>ます</code> helper verb.
 
-![](media/image677.png)
+![](media/image677.webp)
 
 It also connects a variety of what we may call dedicated helper nouns and helper adjectives.
 
@@ -129,7 +129,7 @@ The <code>そう</code> helper, which gives us the meaning of likeness,
 
 that also is attached to verbs with the い-stem.
 
-![](media/image87.png)
+![](media/image87.webp)
 
 So we say <code>雨が降りそうだ</code> (it looks like rain) / *Rain is fall-seeming.*
 
@@ -145,7 +145,7 @@ Now, the て-form is the other great connector, of course.
 
 It connects all kinds of things.
 
-![](media/image903.png)
+![](media/image903.webp)
 
 The い-stem is an even greater connector:
 
@@ -171,7 +171,7 @@ And to return to our friend <code>読む</code>, we can say <code>読み始め�
 
 or <code>読み込む</code>, which means read + pack in, which actually means <code>load</code> in the computer sense.
 
-![](media/image411.png)
+![](media/image411.webp)
 
 And I've done a whole video on this <code>込む</code> which you can watch if you're interested. *(Lesson 57)*
 
@@ -197,7 +197,7 @@ And this leads on to something that the い-stem can do that the て-form can't.
 
 And that is, join verbs to nouns to make new nouns.
 
-![](media/image26.png)
+![](media/image26.webp)
 
 So, for example, we have <code>泣き虫</code>: <code>泣き</code> is the い-stem of <code>泣く</code> (cry), <code>虫</code> means <code>insect</code>.
 
@@ -205,7 +205,7 @@ So <code>泣き虫</code> is a <code>cry-bug</code>, which is the Japanese term 
 
 And to come again to our friend <code>読む</code>, we can have <code>読み方</code>:
 
-![](media/image221.png)
+![](media/image221.webp)
 
 <code>方 / かた</code> means <code>form, or manner, or way</code> --
 
@@ -227,7 +227,7 @@ because, as we know, the て-form can connect the two halves of a compound sente
 
 We could say <code>お店に行ってパンを買った</code>.
 
-![](media/image59.png)
+![](media/image59.webp)
 
 So we have two logical clauses there: <code>I went to the shops</code> and <code>I bought some bread</code>.
 
@@ -243,7 +243,7 @@ Now, the い-stem can do exactly the same thing.
 We can say <code>お店に行きパンを買った</code>, which is exactly the same as saying  
 <code>お店に行ってパンを買った</code>.
 
-![](media/image58.png)
+![](media/image58.webp)
 
 We don't hear it quite so often, but it's not uncommon at all.
 
@@ -261,7 +261,7 @@ With compound words it doesn't compound the same words as the て-form
 
 but it compounds words in very much the same manner.
 
-![](media/image74.png)
+![](media/image74.webp)
 
 ## 連用形 giving noun-form of verbs (verb clauses)
 
@@ -271,7 +271,7 @@ It can do one other thing which is very important.
 
 It gives us the noun-form of verbs.
 
-![](media/image527.png)
+![](media/image527.webp)
 
 We've talked before about what's sometimes called nominalizing verbs,
 
@@ -285,7 +285,7 @@ but turning an entire verb-clause into some kind of a noun.
 
 We're not actually turning it into a noun.
 
-![](media/image216.png)
+![](media/image216.webp)
 
 What we're doing is bundling it into a box created by a pronoun like の or -こと,
 
@@ -297,7 +297,7 @@ so if we say <code>泳ぐのが好きだ</code>, we're saying <code>I like swimm
 
 and that means <code>I like the activity of swimming</code>.
 
-![](media/image242.png)
+![](media/image242.webp)
 
 But, again, this isn't what the い-stem does.
 
@@ -321,7 +321,7 @@ We use the verb <code>rest</code> when we say <code>I need to rest</code>.
 
 We use the noun <code>rest</code> when we say <code>I need a rest</code>.
 
-![](media/image118.png)
+![](media/image118.webp)
 
 So, if we take the verb <code>休む</code> in Japanese as a kind of rough equivalent to <code>rest</code> in English,
 
@@ -347,7 +347,7 @@ it can mean a vacation, like <code>夏休み</code>.
 
 But the point is that the verb-form is <code>休む</code>, the noun-form is <code>休み</code>.
 
-![](media/image707.png)
+![](media/image707.webp)
 
 And just about any verb that can have, logically, a noun-form
 
@@ -357,7 +357,7 @@ And very often these will be the same thing in English; sometimes they will be d
 
 So, for example, <code>痛む</code> means <code>hurt</code>; <code>痛み</code> means <code>pain</code>.
 
-![](media/image948.png)
+![](media/image948.webp)
 
 Again, we have the noun-form of <code>hurt</code>, which is <code>pain</code>.
 
@@ -371,7 +371,7 @@ but also it plays a role in other structures which are very rarely explained by 
 
 So if we say, for example, <code>お店にパンを買いに行く</code> or <code>公園に遊びに行く</code>,
 
-![](media/image327.png)
+![](media/image327.webp)
 
 what do we mean by the い-stem of <code>買う</code>, which is <code>買い</code>,
 
@@ -443,4 +443,4 @@ If anyone wants to read up on い-stem in a more <code>text-booky</code> languag
 :::
 **Also, check [**this comment discussion under this video.**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)*
 
-![](media/image67.png)
+![](media/image67.webp)

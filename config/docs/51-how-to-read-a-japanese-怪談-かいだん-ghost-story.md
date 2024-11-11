@@ -20,7 +20,7 @@ Right. So let's start by hearing the portion of the story that we're going to li
 
 and then we'll tackle it bit by bit.
 
-![](media/image19.png)
+![](media/image19.webp)
 
 All right. So, the first word here is <code>それは</code>, and it's rather like saying in English <code>It was</code>.
 
@@ -91,7 +91,7 @@ So, we have the structure of the sentence here.
 
 And then <code>日</code>, that's all. <code>It was... day.</code>
 
-![](media/image856.png)
+![](media/image856.webp)
 
 And we don't even know that it <code>was</code>, because we need the copula on the end to give us the tense.
 
@@ -107,7 +107,7 @@ So what about the rest of this sentence?
 
 <code>ある女の子が先輩のアパートで行われた飲み会に参加した</code>
 
-![](media/image204.png)
+![](media/image204.webp)
 
 Now, as you see, between the <code>それは</code> and the <code>日</code> comes a complete logical sentence in itself.
 
@@ -119,7 +119,7 @@ So, <code>ある女の子が先輩のアパートで行われた飲み会に参�
 
 \*\*\* It's modification mania! \*\*\*
 
-![](media/image142.png)
+![](media/image142.webp)
 
 So this sentence, again, we can break down into its A-car, which is obviously <code>女の子が</code>,
 
@@ -135,13 +135,13 @@ So, <code>飲み会</code> is <code>a drinking party / a drinking meeting</code>
 
 which is put together with <code>会</code> - a meeting or party - to give us <code>drinking party</code>.
 
-![](media/image223.png)
+![](media/image223.webp)
 
 And then everything before that modifies <code>drinking party</code>.
 
 <code>先輩のアパートで行われた飲み会</code> -- <code>a drinking party held in senpai's apartment</code>.
 
-![](media/image987.png)
+![](media/image987.webp)
 
 So we have <code>ある女の子が</code> -- <code>a certain girl</code> --
 
@@ -153,7 +153,7 @@ So we have that whole logical clause:
 
 and all of that is a modifier for <code>day</code>.
 
-![](media/image382.png)
+![](media/image382.webp)
 
 So, <code>それは...</code> -- <code>It was a day when a certain girl attended a drinking party held in senpai's apartment.</code>
 

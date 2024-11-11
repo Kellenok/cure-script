@@ -60,7 +60,7 @@ So we're saying <code>The question of whether Sakura will come, do you know?</co
 
 And we should notice here that what's happening is, first of all, the -か is turning the proposition, the question, into something noun-like which we can then use as the basis of a new sentence.
 
-![](media/image1105.png)
+![](media/image1105.webp)
 
 So that's the first thing we need to notice, and the second thing we need to notice is
 
@@ -72,7 +72,7 @@ if we say <code>知ってる</code>, we say <code>(何-何)を知ってる</code
 
 the -か particle displaces the normal logical particle.
 
-![](media/image675.png)
+![](media/image675.webp)
 
 So we say <code>さくらが来るかわからない</code> not <code>さくらが来るかがわからない.</code>
 
@@ -139,7 +139,7 @@ might be there or might not be there.
 
 Now, we see this at work, for example, in <code>かも知れない</code>.
 
-![](media/image720.png)
+![](media/image720.webp)
 
 Now, this is taught as if it were a word or expression that means <code>maybe</code>.
 
@@ -171,12 +171,12 @@ Similarly with <code>かな</code>, which is sometimes presented as a particle m
 
 you see how this actually works.
 
-![](media/image468.png)
+![](media/image468.webp)
 
 ::: info
 in the video, there is a typo where the red line says が instead of か. I fixed it.
 :::
-![](media/image301.png)
+![](media/image301.webp)
 
 <code>か</code> is taking the proposition, so if we say <code>さくらが来るかな</code>, we're saying
 
@@ -206,7 +206,7 @@ Now, from this proposition-making quality and questioning quality of -か, we ge
 
 such as one which we discussed in a previous video, <code>まるでゆうれいを見たかのような顔.</code>
 
-![](media/image92.png)
+![](media/image92.webp)
 
 Now, that means <code>a face as if one had seen a ghost.</code>
 
@@ -224,7 +224,7 @@ So we're marking the proposition that she'd seen a ghost as a question and then 
 
 the logical particle の, to the か-marked noun-like entity that we have made of the proposition that she is seeing a ghost.
 
-![](media/image211.png)
+![](media/image211.webp)
 
 So with a の-particle, unlike the が and を-particle, we can attach this to a か-marked entity.
 
@@ -236,7 +236,7 @@ to its question-making quality.
 
 And that is in certain expressions where it negativizes what we're talking about.
 
-![](media/image57.png)
+![](media/image57.webp)
 
 An example of this that you've probably come across if you've been watching anime or reading manga is <code>もんか</code>.
 
@@ -275,7 +275,7 @@ Another place where we often see -か as a negativizing question marker is in <c
 Now, <code>どころ</code> is a form of <code>ところ</code>,  
 which we talked about in a recent lesson, didn't we? *(Lesson 36)*
 
-![](media/image663.png)
+![](media/image663.webp)
 
 <code>ところ</code> can mean not just <code>place</code> in the literal sense, but a time or a circumstance or condition.
 
@@ -285,7 +285,7 @@ So if we say, for example, <code>漢字が読めるどころかひらがなも�
 
 <code>Not only can't I read kanji, I can't even read hiragana.</code>
 
-![](media/image1131.png)
+![](media/image1131.webp)
 
 What's <code>どころか</code> doing here?
 
