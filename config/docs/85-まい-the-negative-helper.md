@@ -32,7 +32,7 @@ Well yes, that is pretty much the state of play. So let's do the video now.
 
 which [**I did a video on**](https://www.youtube.com/watch?v=E7Qop8dwP4w) quite recently.
 
-![](media/image594.png)
+![](media/image594.webp)
 
 **And like them it's something of a fossil,**
 
@@ -46,7 +46,7 @@ The first unusual thing about it is that unlike most helpers,
 
 **it doesn't attach to one of the verb stems.**
 
-![](media/image904.png)
+![](media/image904.webp)
 
 **It gets stuck straight onto the end of the verb in most cases.**
 
@@ -94,7 +94,7 @@ What's the difference between <code>まい</code> and <code>ない</code> apart 
 
 Well, **what <code>まい</code> actually is is the volitional form.**
 
-![](media/image148.png)
+![](media/image148.webp)
 
 Now, **adjectives don't usually have volitional forms,**
 
@@ -154,7 +154,7 @@ So, let's look at them.
 
 **Its most usual use by a long way is saying that something is unlikely.**
 
-![](media/image119.png)
+![](media/image119.webp)
 
 **It's a volitional negative, so just in the same way that**
 
@@ -168,7 +168,7 @@ and **this is very often used with the verb <code>ある</code>, so we say <code
 
 <code>この降りでは彼はこまい</code> (In this downpour, I doubt if he'll come).
 
-![](media/image848.png)
+![](media/image848.webp)
 
 And **this is rather related to the other adjectives of subjectivity**
 
@@ -178,7 +178,7 @@ that we've discussed elsewhere (and I'll put a link for that), *(Lesson 9)*
 
 **or <code>怖い</code> which represents our fear of something.**
 
-![](media/image440.png)
+![](media/image440.webp)
 
 As usual, these adjectives are pointed at the thing that we desire, that we fear, etc.
 
@@ -196,7 +196,7 @@ If we want to give an exact Japanese equivalent,
 and **<code>ではあるまい</code>** is directly equivalent to <code>ではないだろう</code>, <code>ではないでしょう</code>,  
 <code>じゃないだろう</code>, <code>じゃないでしょう</code>, *(to all of these forms)*
 
-![](media/image518.png)
+![](media/image518.webp)
 
 in other words, **<code>A isn't B, I would conjecture, it seems likely</code> etc.**
 
@@ -251,7 +251,7 @@ That's the other common meaning.
 
 **it's expressing a strong decision or determination not to do something.**
 
-![](media/image746.png)
+![](media/image746.webp)
 
 Now, beyond these few uses, there are also a couple of other
 
@@ -266,7 +266,7 @@ common constructions in which <code>まい</code> is used, and you're pretty muc
 So, for example,  
 **<code>行こうか, 行くまいか</code>** means **<code>whether I go or not</code>.**
 
-![](media/image541.png)
+![](media/image541.webp)
 
 Now, **this is very similar to a construction** that we've talked about before
 
@@ -286,7 +286,7 @@ but as we've discussed elsewhere *(Lesson 63)*,
 
 **it's often used on its own just to imply a continuing list.**
 
-![](media/image797.png)
+![](media/image797.webp)
 
 And **this gives a construction that's somewhat comparable**
 
@@ -324,5 +324,5 @@ So this is how the <code>まい</code> helper works in its various different com
 
 ::: info
 This can be useful, even if unrelated here.Sorry if hard to read, zoom-in here or [**see here**](https://www.youtube.com/watch?v=f4A9DK7Rtcw&lc=UgxlL8--buf4g_Gld_l4AaABAg&ab_channel=OrganicJapanesewithCureDolly)  
-![](media/image615.png)
+![](media/image615.webp)
 :::

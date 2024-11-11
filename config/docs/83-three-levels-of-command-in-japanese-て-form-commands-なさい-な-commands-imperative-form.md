@@ -28,7 +28,7 @@ If we say <code>ちょっと待って</code> (wait a little), **this is an abbre
 
 of <code>ちょっと待ってください</code> (wait a little please)
 
-![](media/image1039.png)
+![](media/image1039.webp)
 
 and probably because of this  
 it's the one that's least likely to be offensive, although **it's still casual.**
@@ -37,7 +37,7 @@ Now, sometimes you'll hear people saying not <code>ちょっと待って</code>
 
 but <code>ちょっと待って**て**</code>. What's going on here?
 
-![](media/image200.png)
+![](media/image200.webp)
 
 Essentially what they're saying is <code>**Wait a little bit and I'll be back**</code>.
 
@@ -81,7 +81,7 @@ by attaching -て to the く-stem, so that's <code>なくて</code>,
 
 **but it also has the irregular て-form <code>ないで</code>.**
 
-![](media/image697.png)
+![](media/image697.webp)
 
 And when attached to a verb this is only used in two kinds of circumstance.
 
@@ -107,11 +107,11 @@ And sometimes in anime you'll hear someone scream,
 
 when a monster is approaching her, <code>来ないで!</code> (don't come).
 
-![](media/image955.png)
+![](media/image955.webp)
 
 In English we'd probably say <code>Keep away!</code> In Japanese we say <code>来ないで!</code>
 
-![](media/image152.png)
+![](media/image152.webp)
 
 ## なさい
 
@@ -121,7 +121,7 @@ Now, next up in our hierarchy of commands is <code>なさい</code>.
 
 **when you attach <code>なさい</code> to the い-stem of a verb, you make it into a command.**
 
-![](media/image740.png)
+![](media/image740.webp)
 
 So, <code>起きなさい</code> is <code>get up / wake up</code>;
 
@@ -163,7 +163,7 @@ When we attach <code>な</code> **to the い-stem of a verb**, then we're actual
 
 <code>準備する</code>, い-stem of <code>する</code>, <code>し</code> + <code>なさい</code> or <code>な</code>.
 
-![](media/image402.png)
+![](media/image402.webp)
 
 Now, that in itself isn't particularly confusing.
 
@@ -171,7 +171,7 @@ What can confuse people is that if we say, for example,
 
 <code>バカにするな</code> (don't make fun of me, of her);
 
-![](media/image317.png)
+![](media/image317.webp)
 
 <code>それを食べるな</code> (don't eat that! \[could be poison\]).
 
@@ -185,7 +185,7 @@ So how do we tell the two apart? Fortunately, it's very easy.
 
 **If the <code>な</code> is attached to the い-stem, then it's an abbreviation of <code>なさい</code>.**
 
-![](media/image819.png)
+![](media/image819.webp)
 
 **It always is.**
 
@@ -197,7 +197,7 @@ So how do we tell the two apart? Fortunately, it's very easy.
 
 **It's in fact an older negative related to <code>ない</code>.**
 
-![](media/image729.png)
+![](media/image729.webp)
 
 So really, although they can seem confusing at first
 
@@ -214,13 +214,13 @@ to learn which particular forms they stick to, it's not really confusing in prac
 ::: info
 Some further info Dolly gives about なさい in the comments
 :::
-![](media/image683.png)
+![](media/image683.webp)
 
 ## The real command / imperative form - 命令形
 
 And now we come to the real command form, <code>命令形</code> in Japanese.
 
-![](media/image531.png)
+![](media/image531.webp)
 
 **And this is formed very simply by using the bare え-stem of a godan verb or,**
 
@@ -275,7 +275,7 @@ will tend to content themselves with <code>助けて!</code>
 
 **the two regular irregulars, which are <code>する</code> and <code>くる</code>.**
 
-![](media/image995.png)
+![](media/image995.webp)
 
 **So <code>くれる</code> (to give down / to me) becomes <code>くれ</code>.**
 
@@ -308,7 +308,7 @@ As I explain in the video, **it has a wide range of uses**,
 
 So if we say <code>宿題をする**のだ**</code>, we're saying literally <code>**It's that** (you) do (your) homework</code>.
 
-![](media/image220.png)
+![](media/image220.webp)
 
 This will be somewhat like the English <code>You're going to do your homework</code>. **It's a command.**
 
@@ -318,7 +318,7 @@ This will be somewhat like the English <code>You're going to do your homework</c
 
 **prayers and petitions and requests, can also form a command.**
 
-![](media/image1093.png)
+![](media/image1093.webp)
 
 ---
 
@@ -333,6 +333,6 @@ And the main reason I mention these is because **if you come across them**
 ::: info
 This might be useful:
 :::
-![](media/image363.png)
+![](media/image363.webp)
 
-![](media/image498.png)
+![](media/image498.webp)

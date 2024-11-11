@@ -28,7 +28,7 @@ Probably the first thing that makes Japanese feel ambiguous and difficult to for
 
 is the zero pronoun.
 
-![](media/image1100.png)
+![](media/image1100.webp)
 
 It's so confusing to many people that there are intelligent and respectable teachers of Japanese
 
@@ -66,7 +66,7 @@ provided we understand the structure of the language.
 
 And one of the difficulties of course is that conventional Japanese grammar textbooks and websites don't teach the real structure of the language and so they leave us in doubt on this as on many other subjects.
 
-![](media/image423.png)
+![](media/image423.webp)
 
 But that's what my course is for, so if you follow my course or have followed my course
 
@@ -76,7 +76,7 @@ So, can the zero pronoun ever cause ambiguity?
 
 Yes, it can. Just as <code>it</code> can in English.
 
-![](media/image576.png)
+![](media/image576.webp)
 
 For example, if I say, <code>My right antenna was so broken that it fell off</code>
 
@@ -116,7 +116,7 @@ If we go back to the example we used right back in our first lesson about the no
 
 <code>私は *(zeroが)* うなぎです</code> does not usually mean <code>I am an eel.</code> *As for me, (food?) eel-is*
 
-![](media/image1151.png)
+![](media/image1151.webp)
 
 If it's spoken in a restaurant and the topic of conversation is what we're going to eat,
 
@@ -152,7 +152,7 @@ three rules that we apply to interpreting sentences that can be in any way ambig
 
 And they are: **context, probability, and the absurdity rule.**
 
-![](media/image457.png)
+![](media/image457.webp)
 
 Context is the obvious one that we've already discussed.
 
@@ -248,7 +248,7 @@ that the ICHIDAN potential helper verb <code>-られる</code> and the Ichidan r
 <code>-られる</code> are identical.  
 ::: info
 For Potential, check Lesson 10, Godan potential is え-stem + -る. For Receptive L13.  
-*![](media/image125.png)
+*![](media/image125.webp)
 :::
 
 ::: info
@@ -296,7 +296,7 @@ For example in the case of a pet mouse.
 
 If we say <code>ネズミが食べられた</code>, we could mean that the mouse was able to eat something we gave her or able to eat in general or it could unfortunately mean that the mouse got eaten, perhaps by a cat.
 
-![](media/image85.png)
+![](media/image85.webp)
 
 How do we resolve this ambiguity?
 
@@ -332,14 +332,14 @@ And to give an example of that, in our last lesson we examined the sentence
 
 -- <code>I gave the dress I bought at the market to a girl wearing glasses.</code>
 
-![](media/image232.png)
+![](media/image232.webp)
 
 And then we elaborated a more complex sentence:  
 <code>あのさくらをなぐったみにくい外国人は *(zeroが)* 私がいちばで買ったドレスをメガネをかけている少女にあげた</code>
 
 And this means: <code>That ugly foreigner who hit Sakura gave the dress I bought at the market to a girl wearing glasses.</code>
 
-![](media/image953.png)
+![](media/image953.webp)
 
 Now, somebody asked me, "How do we know that the first part of this, after 'the ugly foreigner',
 

@@ -28,7 +28,7 @@ that I've been asked about recently.
 
 **The first is <code>通り</code> in its attachment to other words.**
 
-![](media/image1001.png)
+![](media/image1001.webp)
 
 **<code>通り</code> of course, on its own, is the い-stem of <code>通る</code> (pass through).**
 
@@ -42,7 +42,7 @@ and what this means literally is **<code>that road, or that way of travelling, t
 
 **And what this actually means is <code>that's right / you're absolutely right</code>.**
 
-![](media/image289.png)
+![](media/image289.webp)
 
 How does it come to mean that?
 
@@ -66,11 +66,11 @@ would imply that you're not quite there yet,
 
 **Another expression that uses <code>通り</code> is <code>ごらんの通り</code>.**
 
-![](media/image168.png)
+![](media/image168.webp)
 
 Now, <code>ごらん</code> when it's written in kanji is written like this.
 
-![](media/image450.png)
+![](media/image450.webp)
 
 ::: info
 御覧 is the full Kanji version of ごらん, even with the ご honorific in Kanji form, but overusing Kanji for everything is not that viable either, but it depends on the words and usage.
@@ -107,7 +107,7 @@ just as along the lines of your saying or thinking is correct.
 
 **Another <code>通り</code> expression is <code>おもいどおり / 思い通り</code>.**
 
-![](media/image291.png)
+![](media/image291.webp)
 
 Now, **here of course we're using the い-stem of <code>思う</code>,**
 
@@ -149,7 +149,7 @@ Now, <code>せっかく</code> has a whole range of definitions
 
 if you look in the dictionary.
 
-![](media/image507.png)
+![](media/image507.webp)
 
 **It's defined as "with trouble, great pains; rare, valuable, precious,**
 
@@ -173,7 +173,7 @@ So if we say <code>せっかくの努力が水の泡だ</code>,
 
 literally <code>...are foam on the water / bubbles on the water</code>.
 
-![](media/image776.png)
+![](media/image776.webp)
 
 So we can see that obviously as the most common usage,
 
@@ -185,7 +185,7 @@ the usage people probably think of most often,
 
 We might say <code>**せっかく**東京に来た, we ought to go to Sanrio Puroland</code>,
 
-![](media/image768.png)
+![](media/image768.webp)
 
 **because if you've taken the trouble to go all the way to Tokyo,**
 
@@ -215,7 +215,7 @@ But you might also say <code>**せっかく**の休日も雨で潰れた</code>
 
 (The **<code>せっかく</code>** day of rest / holiday was ruined by rain).
 
-![](media/image122.png)
+![](media/image122.webp)
 
 **And that's <code>せっかく</code> because it's relatively rare.**
 
@@ -229,7 +229,7 @@ So just like going all the way to Tokyo or taking all those efforts to do someth
 
 (those advertisements / those billboards ruin the **<code>せっかく</code>** scenery).
 
-![](media/image81.png)
+![](media/image81.webp)
 
 **And again, <code>せっかく</code> in this case doesn't mean hard work,**
 
@@ -251,7 +251,7 @@ It's a word that I would say is in some ways influenced by Japanese culture.
 
 **blown away by the winds or beaten down by the rain.**
 
-![](media/image880.png)
+![](media/image880.webp)
 
 The sadness, the fleetingness, the <code>儚い</code> nature of life
 

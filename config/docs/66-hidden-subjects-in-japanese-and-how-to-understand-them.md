@@ -8,7 +8,7 @@ Today we're going to talk about the <code>hidden hand</code> in Japanese.
 
 What do I mean by that?
 
-![](media/image383.png)
+![](media/image383.webp)
 
 ## No subject in Japanese?
 
@@ -22,7 +22,7 @@ although you can't always see or hear the subject.
 
 It can be a <code>zero-pronoun</code>.
 
-![](media/image160.png)
+![](media/image160.webp)
 
 By subject, of course, I mean the A-car of a sentence.
 
@@ -30,7 +30,7 @@ And since every sentence is telling us either that <code>A is B</code> or that <
 
 Obviously we can't have a sentence without A.
 
-![](media/image783.png)
+![](media/image783.webp)
 
 It's as simple as that.
 
@@ -38,7 +38,7 @@ However, there are times when not only can't we see the subject, the A-car,
 
 but it can be difficult to work out what exactly it is.
 
-![](media/image136.png)
+![](media/image136.webp)
 
 And this difficulty will be seen to derive from not fully
 
@@ -48,7 +48,7 @@ One thing we need to understand is that different languages have different expre
 
 ## Different expression strategies
 
-![](media/image430.png)
+![](media/image430.webp)
 
 We know already how damaging it is to say that <code>コーヒーが好きだ</code> means <code>I like coffee</code>.
 
@@ -78,7 +78,7 @@ but not necessarily in the same places.
 
 And also expression-strategies can vary in status between languages.
 
-![](media/image696.png)
+![](media/image696.webp)
 
 ## Receptive helper
 
@@ -122,7 +122,7 @@ which is a very good news service for beginners in Japanese.
 
 And the sentence is: <code>東京オリンピック選手が食べる料理をみんなに教えてもらう</code>
 
-![](media/image243.png)
+![](media/image243.webp)
 
 So, what do we think is the subject, the A-car, of this sentence?
 
@@ -135,7 +135,7 @@ either with a full stop, making it the end of a sentence,
 
 or with a conjunction, marking it as the first logical clause within a compound sentence.
 
-![](media/image49.png)
+![](media/image49.webp)
 
 Of course, if it comes at the end of a sentence it may be followed by one or more sentence-ender particles,
 
@@ -159,7 +159,7 @@ No, it doesn't end with any of those, does it?
 
 It's directly followed by a noun.
 
-![](media/image522.png)
+![](media/image522.webp)
 
 And, as we know, when a logical clause is directly followed by a noun,
 
@@ -183,7 +183,7 @@ The <code>選手</code> are marked with が, but we know they're not the subject
 
 they're just helping to modify <code>料理</code>.
 
-![](media/image1076.png)  
+![](media/image1076.webp)  
 ::: info
 Just put this here…the link is for Lesson 47. Check also Lesson 46.
 :::
@@ -191,13 +191,13 @@ Just put this here…the link is for Lesson 47. Check also Lesson 46.
 
 <code>みんな</code> can't be the subject of the sentence because it's marked with に, not が.
 
-![](media/image316.png)
+![](media/image316.webp)
 
 So what is going on here?
 
 ## Hidden subject sentence action 
 
-![](media/image460.png)
+![](media/image460.webp)
 
 Well, what is the sentence actually saying?
 
@@ -225,7 +225,7 @@ somebody actively had someone else do something. *(Lesson 49)*
 
 So the person doing <code>もらう</code> *(the A zeroが subject)* is getting *(the B train - もらう)* the person *(みんなに)* doing the て-formed verb to do that て-formed verb *(教えて)*.
 
-![](media/image628.png)
+![](media/image628.webp)
 
 So if we say <code>お医者さんに見てもらう</code>, we're saying <code>have the doctor look at me</code>.
 
@@ -277,7 +277,7 @@ Who's <code>they</code>? Well, we don't really know.
 
 Whoever it is that's responsible for feeding the Olympic athletes, presumably.
 
-![](media/image1116.png)
+![](media/image1116.webp)
 
 And this is a construction that you'll see quite often in Japanese,
 
@@ -285,7 +285,7 @@ this unnamed <code>they</code>, whoever they might be.
 
 You hear it in English all the time but it's of low status.
 
-![](media/image552.png)
+![](media/image552.webp)
 
 You won't see it in official documents or newspapers or anything like that.
 

@@ -36,7 +36,7 @@ what it really means and how it really works.
 
 **<code>gradually</code> in the sense of gradually progress into a state.**
 
-![](media/image795.png)
+![](media/image795.webp)
 
 So, how do we make sense of all this?
 
@@ -56,7 +56,7 @@ and nothing else, we know that it's a noun. That's all it can be.
 
 **And this one, <code>第</code>, which is the Japanese ordinal.**
 
-![](media/image1073.png)
+![](media/image1073.webp)
 
 Now, what's an ordinal?
 
@@ -74,7 +74,7 @@ we say <code>団三話</code>; so the <code>第</code> is the -rd, the <code>三
 
 **and <code>話</code> is the counter for stories or episodes.**
 
-![](media/image255.png)
+![](media/image255.webp)
 
 So, we have the <code>次 / つぎ</code> kanji, the <code>next</code> kanji,
 
@@ -107,7 +107,7 @@ If we attach <code>砂 / すな</code> to <code>時計</code> then we have a <co
 
 **the English expression <code>as soon as</code> or <code>immediately upon</code>.**
 
-![](media/image170.png)
+![](media/image170.webp)
 
 So, if we say, <code>分かり**次第**お電話します</code>,
 
@@ -142,7 +142,7 @@ So, although **here we actually have a logical clause**:
 
 **and that's attached to <code>次第</code>.**
 
-![](media/image210.png)
+![](media/image210.webp)
 
 So, "**the next thing in sequence after the preparation's been completed is eat** /
 
@@ -158,7 +158,7 @@ a completely different idea in English, which is <code>depending upon</code>.
 
 So we might say, <code>それは**天気次第**だ</code>.
 
-![](media/image1094.png)
+![](media/image1094.webp)
 
 In English we'd say <code>that **depends on the weather**</code>.
 
@@ -180,7 +180,7 @@ And a useful phrase to know here is <code>手当たり次第</code>.
 
 **<code>手あたり次第</code> means <code>whatever one can lay one's hands on / whatever comes to hand</code>.**
 
-![](media/image642.png)
+![](media/image642.webp)
 
 So, <code>**手あたり次第本**を読む</code> (I read **whatever book comes to hand**).
 
@@ -202,7 +202,7 @@ And, **as you see, it's the noun-form of this verb (touch) <code>当たる</code
 
 **Another useful trick is that we can attach <code>次第</code> directly to a person.**
 
-![](media/image1048.png)
+![](media/image1048.webp)
 
 So if we say <code>**あなた次第**です</code>, we're essentially saying
 
@@ -244,7 +244,7 @@ Within the Japanese meaning spectrum,
 
 <code>the price differs **directly following the goods**</code>.
 
-![](media/image40.png)
+![](media/image40.webp)
 
 **Now, if the goods are the same, which they usually are in this kind of a construction,**
 
@@ -268,7 +268,7 @@ We could say, <code>The price **depends on the quality** of the goods</code>.
 
 we're saying <code>live **according to** one's station in life, **according to** one's means</code>.
 
-![](media/image971.png)
+![](media/image971.webp)
 
 **We can't use <code>depend</code> here in English, but as you see**
 
@@ -310,7 +310,7 @@ So, <code>チェシャ猫は**次第に**消えた</code>
 
 (The Cheshire Cat disappeared **gradually**).
 
-![](media/image336.png)
+![](media/image336.webp)
 
 Or <code>夜は**次第に**長くなる</code>
 
@@ -337,7 +337,7 @@ The real issue here, which doesn't tend to get explained, is that
 
 So, in the example we saw earlier, <code>身分**次第に**暮らす</code>,
 
-![](media/image971.png)
+![](media/image971.webp)
 
 **that isn't an example of this. It is being used adverbially,**
 
@@ -353,4 +353,4 @@ They seem very different if you look at them through English glasses,
 
 **<code>次第</code> works pretty much the same way all the time.**
 
-![](media/image640.png)
+![](media/image640.webp)

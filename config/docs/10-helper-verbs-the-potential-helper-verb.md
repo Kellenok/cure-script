@@ -8,7 +8,7 @@ Today we're going to talk about the main helper-verbs and about the potential fo
 
 When they talk about <code>conjugation</code>, this is what they mean. **But in fact there is no such thing as conjugation in Japanese.** **All we ever do is add helper-words to the four verb stems.** And there are a lot of helper-words and most of them are just a question of extra vocabulary so long as you don't think of them as conjugation. 
 
-![](media/image942.png)
+![](media/image942.webp)
 
 In some cases they get called <code>conjugation</code>, in other cases they don't, and they're exactly the same process every time. The only difference is that some of them happen to accidentally, and only very vaguely, resemble European conjugation and others don't. All kinds of confusions arise from confusing Japanese helper-verbs and helper-adjectives with conjugations, but because we're not going to use them, we don't need to worry about that here. All right.
 
@@ -16,11 +16,11 @@ In some cases they get called <code>conjugation</code>, in other cases they don'
 
 So, the first main helper-verb we're going to look at is the potential verb. Now, we've already looked, haven't we, at helper-words. We've looked at the helper-adjectives <code>ない</code>, which forms the negative, and <code>たい</code>, which is used for the desirability of an action.
 
-![](media/image314.png)
+![](media/image314.webp)
 
 We've also looked at the helper-verb <code>がる</code>, which is attached to an adjective. **Now we're going to look at the potential helper-verb, and this attaches to the え-stem.** 
 
-![](media/image973.png)
+![](media/image973.webp)
 
 **There aren't as many things we do with the え-stem** as we do with the あ and い-stems, but there are some. And only one of them is a verb, so there's no room for confusion here. **The potential helper-verb has two forms, and they are <code>-る</code> and <code>-られる</code>.**
 
@@ -31,7 +31,7 @@ People can be a little disconcerted by **the godan form of the helper-verb** bec
 ::: info
 change to え-stem and then the godan potential form る. Also note this…  
 
-*![](media/image588.png)*
+*![](media/image588.webp)*
 
 **There is some difference in their implication, Dolly clears them up further in LESSON 54.  
 Dolly SEEMS to make an error here by calling 聞こえる other-move, but it should be self-move as she implies in the beginning of the comment (+in comparison to other sources like Imabi).**
@@ -41,15 +41,15 @@ Dolly SEEMS to make an error here by calling 聞こえる other-move, but it sho
 
 **There are only two exceptions to this formation of the potential form and they are the two Japanese irregular verbs, <code>くる</code> and <code>する</code>.** <code>くる</code> become <code>**こ**られる</code>, but <code>する</code> surprisingly becomes <code>**できる**</code>. **できる is the potential form of <code>する</code>.**
 
-![](media/image1089.png)
+![](media/image1089.webp)
 
 And **this is an interesting word because it also means <code>come out</code>** – literally it's made up of the kanji <code>out</code> and <code>come</code> – <code>出来る/できる</code>, 出る (exit) 来る (come)
 
-![](media/image656.png)
+![](media/image656.webp)
 
 And if we say <code>にほんごが**できる**</code>, we're not saying <code>I can do Japanese</code>, we're saying <code>Japanese **is possible**</code> / ***<code>does</code> possible***
 
-![](media/image1136.png)
+![](media/image1136.webp)
 
 And if we say or imply <code>わたしはにほんごが**できる**</code>, we're saying, <code>To me, Japanese **is possible**</code>. 
 
@@ -61,11 +61,11 @@ And it's interesting if you see a small child perhaps trying to make something o
 
 There's only one danger area with the potential form, and it's very very close to something we dealt with last week (Lesson 9). So if you've seen that lesson, this one should be very easy to you. Let's look at a typical sentence: <code>ほんがよめる.</code>
 
-![](media/image950.png)
+![](media/image950.webp)
 
 Now, the standard texts usually translate this as <code>I can read the book</code>. **But that isn't what it means**, as you can clearly understand if you followed our previous lesson. Look where the が is. The が is marking what? **It's marking the book!** So who is the actor of this sentence? **It's the book.**
 
-![](media/image177.png)
+![](media/image177.webp)
 
 We are saying something about the book. **So the book is the main car and <code>よめる</code> is the engine.** We are saying **the book is readable, it's possible to read the book.**
 
@@ -91,15 +91,15 @@ Can say わたしは to imply book does readable TO ME - a topic, but it’s usu
 
 So that's simple enough, and provided we remember that, we don't send all those particles into crazy illogicality.
 
-![](media/image429.png)
+![](media/image429.webp)
 
 So really this is very much similar to the questions we discussed last week about -たい and adjectives of desire. **If we just keep that が straight in our minds, everything else will fall into place.** And just as with the たい-form if we say, <code>(わたしは)ケーキがたべたい</code>, 
 
-![](media/image665.png)
+![](media/image665.webp)
 
 **it's the cake that’s being want-inducing** *(to me personally - topic)*, but if we just say <code>(わたしは)(zeroが)たべたい</code> we do mean <code>(In relation to me) (I) want to eat</code> / *eat-wanting-am*,
 
-![](media/image785.png)
+![](media/image785.webp)
 
 **because when there's no particular food there to do the being wanted, then I do the wanting.** 
 
@@ -109,22 +109,22 @@ I’m the subject that just wants to eat something because I’m hungry; here I�
 
 However, do note that no food is present there, so it defaults to <code>me</code>. Zeroが (and also zeroは) is dependent on the context of the situation/sentence, Dolly says...
 
-![](media/image31.png)
+![](media/image31.webp)
 :::
 
 It's the same with the potential form. So we say, <code>(わたしは)ほんがよめる</code> – <code>(to me) the book is read-able</code>,
 
-![](media/image315.png)
+![](media/image315.webp)
 
 but if we just want to say <code>I can read</code> – not "I can read the book or I can read the newspaper or I can read Sakura's secret diary", but <code>I can read</code> – then we say <code>わたしがよめる</code> or just <code>よめる</code>, which means <code>(zeroが)よめる</code>.
 
-![](media/image335.png)
+![](media/image335.webp)
 
 **And we really have become the subject of the sentence.** And I am sure there are people who find this confusing, but if you followed the past lesson this should be completely clear. 
 
 And let's remember that Japanese always fits together just like Lego,
 
-![](media/image625.png)
+![](media/image625.webp)
 
 so the potential helper-verb, even when it's just that single kana る(ru), is simply a regular ichidan verb like most helper-verbs, and we can do exactly the same things with it that we can do with other helper-verbs.
 
@@ -136,7 +136,7 @@ The <code>potential form</code> of godan verbs is ichidan because the る helper
 
 **We'll always recognize it, because it's the only one that goes onto the え-stem, and we can do everything with it that we do with any other ichidan verb.**
 
-![](media/image169.png)
+![](media/image169.webp)
 
 So: <code>あるける</code> – can walk; <code>あるけない</code> – can't walk; <code>あるけた</code> – could walk; <code>あるけなかった</code> – couldn't walk. **And this regularity is the same even with the irregulars.** So: できる – possible; <code>できない</code> – not possible; <code>できた</code> – was possible; <code>できなかった</code> – wasn't possible.
 

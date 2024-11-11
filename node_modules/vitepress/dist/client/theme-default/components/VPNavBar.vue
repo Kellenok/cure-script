@@ -2,7 +2,6 @@
 import { useWindowScroll } from '@vueuse/core'
 import { ref, watchPostEffect } from 'vue'
 import { useData } from '../composables/data'
-import { useLocalNav } from '../composables/local-nav'
 import { useSidebar } from '../composables/sidebar'
 import VPNavBarAppearance from './VPNavBarAppearance.vue'
 import VPNavBarExtra from './VPNavBarExtra.vue'
@@ -13,7 +12,7 @@ import VPNavBarSocialLinks from './VPNavBarSocialLinks.vue'
 import VPNavBarTitle from './VPNavBarTitle.vue'
 import VPNavBarTranslations from './VPNavBarTranslations.vue'
 
-defineProps<{
+const props = defineProps<{
   isScreenOpen: boolean
 }>()
 
@@ -23,7 +22,6 @@ defineEmits<{
 
 const { y } = useWindowScroll()
 const { hasSidebar } = useSidebar()
-const { hasLocalNav } = useLocalNav()
 const { frontmatter } = useData()
 
 const classes = ref<Record<string, boolean>>({})
@@ -31,8 +29,9 @@ const classes = ref<Record<string, boolean>>({})
 watchPostEffect(() => {
   classes.value = {
     'has-sidebar': hasSidebar.value,
-    'has-local-nav': hasLocalNav.value,
-    top: frontmatter.value.layout === 'home' && y.value === 0,
+    'home': frontmatter.value.layout === 'home',
+    'top': y.value === 0,
+    'screen-open': props.isScreenOpen
   }
 })
 </script>
@@ -76,19 +75,25 @@ watchPostEffect(() => {
   height: var(--vp-nav-height);
   pointer-events: none;
   white-space: nowrap;
-  transition: background-color 0.5s;
+  transition: background-color 0.25s;
 }
 
-.VPNavBar.has-local-nav {
+.VPNavBar.screen-open {
+  transition: none;
+  background-color: var(--vp-nav-bg-color);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.VPNavBar:not(.home) {
   background-color: var(--vp-nav-bg-color);
 }
 
 @media (min-width: 960px) {
-  .VPNavBar.has-local-nav {
+  .VPNavBar:not(.home) {
     background-color: transparent;
   }
 
-  .VPNavBar:not(.has-sidebar):not(.top) {
+  .VPNavBar:not(.has-sidebar):not(.home.top) {
     background-color: var(--vp-nav-bg-color);
   }
 }
@@ -188,12 +193,12 @@ watchPostEffect(() => {
 }
 
 @media (min-width: 960px) {
-  .VPNavBar:not(.top) .content-body {
+  .VPNavBar:not(.home.top) .content-body {
     position: relative;
     background-color: var(--vp-nav-bg-color);
   }
 
-  .VPNavBar:not(.has-sidebar):not(.top) .content-body {
+  .VPNavBar:not(.has-sidebar):not(.home.top) .content-body {
     background-color: transparent;
   }
 }
@@ -253,16 +258,16 @@ watchPostEffect(() => {
   transition: background-color 0.5s;
 }
 
-.VPNavBar.has-local-nav .divider-line {
+.VPNavBar:not(.home) .divider-line {
   background-color: var(--vp-c-gutter);
 }
 
-@media (min-width: 960px) { 
-  .VPNavBar:not(.top) .divider-line {
+@media (min-width: 960px) {
+  .VPNavBar:not(.home.top) .divider-line {
     background-color: var(--vp-c-gutter);
   }
 
-  .VPNavBar:not(.has-sidebar):not(.top) .divider {
+  .VPNavBar:not(.has-sidebar):not(.home.top) .divider {
     background-color: var(--vp-c-gutter);
   }
 }

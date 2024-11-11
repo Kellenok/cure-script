@@ -1,6 +1,6 @@
 # **65. Coming and Going: Deeper secrets of 行く and 来る、て行くand て来る (te-iku, te-kuru)**
 
-![](media/image251.png)
+![](media/image251.webp)
 
 こんにちは。
 
@@ -20,7 +20,7 @@ Essentially, <code>iku</code> means <code>go from where the speaker is to somewh
 
 and <code>kuru</code> means <code>come from somewhere else to where the speaker is</code>.
 
-> ![](media/image1005.png)
+> ![](media/image1005.webp)
 
 Isn't that just the same as English <code>come</code> and <code>go</code>?
 
@@ -30,7 +30,7 @@ For example, we can say to someone on the phone <code>Shall I come over to see y
 
 or you might say <code>Will you come to me, or shall I come to you?</code>
 
-![](media/image572.png)
+![](media/image572.webp)
 
 And in Japanese that's quite impossible, because you can't <code>come</code> to a place where you aren't.
 
@@ -50,7 +50,7 @@ so we see that <code>来る</code> and <code>行く</code> aren't exactly interc
 
 <code>行く</code> is not quite so strict.
 
-![](media/image195.png)
+![](media/image195.webp)
 
 We can talk about someone <code>行く</code>-ing from A to B when we are actually at C,
 
@@ -68,7 +68,7 @@ So <code>持ってくる</code> means <code>bring (to the place where I am)</cod
 
 But <code>the place where I am</code> can actually be a time or it can actually be a mental state of identification.
 
-![](media/image214.png)
+![](media/image214.webp)
 
 So we get more advanced meanings which are all based on the fundamental physical metaphor
 
@@ -80,7 +80,7 @@ So, a very simple example is we may say <code>雨が降ってきた</code> --
 
 and we have almost an equivalent English expression: we might say <code>It came on to rain</code>.
 
-![](media/image997.png)
+![](media/image997.webp)
 
 And the metaphor here is a time metaphor.
 
@@ -88,7 +88,7 @@ Rain came towards us in time, from a time when it wasn't there
 
 to the time where we are, when the rain is there.
 
-![](media/image882.png)
+![](media/image882.webp)
 
 If we say <code>だんだん雨が降っていく</code>, we're saying <code>It's getting rainier and rainier</code>
 
@@ -114,7 +114,7 @@ but with subjectivity, with our mental state.
 
 So, a very common expression is <code>分かってくる</code>, which in English might be rendered as
 
-<code>come to understand</code>, but this of course would be wrong.![](media/image149.png)
+<code>come to understand</code>, but this of course would be wrong.![](media/image149.webp)
 
 Let's take an example of why.
 
@@ -142,7 +142,7 @@ It means <code>be understandable / be clear</code> or literally what it actually
 
 So what we're in fact saying is that if you study, math will come to be understandable to you.
 
-![](media/image277.png)
+![](media/image277.webp)
 
 In other words, math will come from being far from you to being nearer to you and being understandable.
 
@@ -166,7 +166,7 @@ Therefore, <code>iku</code> can represent a movement from one place to another
 
 that doesn't involve us, physically, temporally, or mentally or emotionally.
 
-So, if we say <code>samuku natte kita</code>![](media/image82.png)
+So, if we say <code>samuku natte kita</code>![](media/image82.webp)
 
 we're saying <code>it became cold</code>, and adding that <code>kita</code> (<code>kuru</code>) is relating it to us:
 
@@ -184,7 +184,7 @@ It just happened. It became colder.
 
 Because this is the <code>itta</code> that in spatial terms is going from A to B, objectively, without involving me or us.
 
-Now, you may be asking, "How do I tell when it's movement in space, when it's movement in time,![](media/image496.png)
+Now, you may be asking, "How do I tell when it's movement in space, when it's movement in time,![](media/image496.webp)
 
 when it's movement in terms of mentality and subjectivity,
 
@@ -200,7 +200,7 @@ but as an aid to understanding real Japanese.
 
 As we immerse in Japanese, as we watch anime, read novels, play games in Japanese,
 
-these things start to make sense.![](media/image738.png)
+these things start to make sense.![](media/image738.webp)
 
 What we need is the principles on which they're based,
 

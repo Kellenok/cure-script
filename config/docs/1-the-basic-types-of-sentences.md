@@ -18,7 +18,7 @@ So let's look at how we do this in Japanese.
 
 In Japanese, if we want to say <code>Sakura walks</code> (A does B: Sakura walks), then A is Sakura, the main carriage, and B is walks, the thing she does, the engine of the sentence.
 
-![](media/image1055.png)
+![](media/image1055.webp)
 
 Walk in Japanese is <code>あるく</code>. We need one more thing to make the core Japanese sentence, and **that is the linchpin of every sentence, が** (ga). 
 
@@ -30,7 +30,7 @@ Now let's take an A is B sentence: <code>Sakura is Japanese</code>, or, as we sa
 
 So, さくらが日本人 – and we need one more thing. There's one other thing that I want you to make friends with, and that's だ (da). <code>さくらが日本人だ</code> = <code>Sakura is a Japanese person</code>.
 
-![](media/image632.png)
+![](media/image632.webp)
 
 Now, you may have met this だ in its fancy form, です, but there are very good reasons for learning the plain, simple form first. So we're going to learn だ. Now if you look at だ, it's like an equals sign boxed off to the left. And this is a perfect mnemonic for what it does, because **だ tells us that A is B.**
 
@@ -46,8 +46,8 @@ Now, we don't have to learn all these, but we do need to know about Japanese adj
 
 Now, you notice that we don't have a だ on this sentence. Why is that? **Because the い-adjective あかい/赤い (red) – it doesn't mean red, it means is-red. The だ function, the equals function, is built into those い-adjectives.**
 
-![](media/image557.png)
+![](media/image557.webp)
 
 So those are the three forms of Japanese sentence. **They all start with the subject of the sentence, they're all connected with が**, and they can end in three ways: with a verb, which will end in う, with the copula だ, or with an い because the last word is an adjective. And now you know the basics of Japanese.
 
-![](media/image464.png)
+![](media/image464.webp)

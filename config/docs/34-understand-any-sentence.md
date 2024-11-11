@@ -51,7 +51,7 @@ The factors complicating this are that there can be more than one logical clause
 
 and also the fact that we can't always see the A-car.
 
-![](media/image619.png)
+![](media/image619.webp)
 
 The other complicating factor is the fact that we will see the elements of logical clauses
 
@@ -61,7 +61,7 @@ And if they're not part of the sentence core, what they are doing is modifying o
 
 telling us more about either the A-car or the B-engine.
 
-![](media/image312.png)
+![](media/image312.webp)
 
 That's the only thing they can ever be doing, because the sentence is its core
 
@@ -79,13 +79,13 @@ In our recent series on conditionals, we were in fact dealing with conjunctions.
 
 There are various kinds of conjunction: and, but, when, if, etc.
 
-![](media/image1044.png)
+![](media/image1044.webp)
 
 And the two other kinds of conjunctions that we need to look out for are the て-form, which can join two clauses together into a compound sentence, as we looked at in our first lesson on compound sentences *(Lesson 11)*, and the い-stem of a verb.
 
 You've seen how the い-stem is the main conjunctive stem out of the four stems of verbs.
 
-![](media/image403.png)
+![](media/image403.webp)
 
 It can connect nouns to verbs; it can connect other verbs to verbs; it can connect various helpers to verbs; and it can also connect one logical clause to another.
 
@@ -131,7 +131,7 @@ The first sentence is <code>かさを持ってくれば</code> ; the second sent
 
 We know this because <code>よかった</code> is an engine.
 
-![](media/image526.png)
+![](media/image526.webp)
 
 It's an adjective, it's a describing word and it has to be describing something.
 
@@ -171,7 +171,7 @@ So, for example, if we say in English <code>It's sunny, isn't it!</code>
 
 In Japanese we might say <code>(zeroが)晴れだね!</code>
 
-![](media/image1143.png)
+![](media/image1143.webp)
 
 They mean the same thing.
 
@@ -225,7 +225,7 @@ But the first one is always there, and if we don't understand that we're going t
 
 great difficulty picking out the core sentence, especially as things get more complex.
 
-![](media/image884.png)
+![](media/image884.webp)
 
 So, to get directly to the question, how do we find the end of a logical clause?
 
@@ -241,7 +241,7 @@ So the last engine in the sentence will be the end of the head clause of the sen
 
 the main final clause of the sentence, always.
 
-![](media/image3.png)
+![](media/image3.webp)
 
 It will be the last thing in the sentence apart, perhaps, from one or two sentence-ender
 
@@ -265,7 +265,7 @@ that can cause problems is the question of how do we find or how do we eliminate
 
 possibility of a compound sentence?
 
-![](media/image282.png)
+![](media/image282.webp)
 
 How do we know there are no other logical clauses in the sentence or, if there are,
 
@@ -407,7 +407,7 @@ It's not a logical sentence without a doer, and there's no doer implied here.
 
 But we have the doer right afterwards, don't we?
 
-![](media/image183.png)
+![](media/image183.webp)
 
 So we know that we have here a modifier for another noun, not a logical sentence in itself:
 
@@ -419,11 +419,11 @@ And now we've come to the head-verb of the sentence: <code>-と結婚した</cod
 ::: info
 about that と*
 :::
-![](media/image812.png)
+![](media/image812.webp)
 
 So we were right. *(about the は presumption)*
 
-We have the A-car, which is the exchange student *(in the sentence it would be more specifically the zeroが after <code>留学生は</code> which implies said exchange student, that is the invisible subject, so subject is also the topic here)* who can speak Japanese that I told Sakura about married *(B car - predicate)* a woman who won an Olympic gold medal.![](media/image330.png)
+We have the A-car, which is the exchange student *(in the sentence it would be more specifically the zeroが after <code>留学生は</code> which implies said exchange student, that is the invisible subject, so subject is also the topic here)* who can speak Japanese that I told Sakura about married *(B car - predicate)* a woman who won an Olympic gold medal.![](media/image330.webp)
 
 And as you see, we've got various actions going on in this sentence; we've got various
 

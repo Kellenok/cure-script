@@ -9,7 +9,7 @@ Yomichan or Rikaichamp will be useful here…I made the decision to use Kanji fo
 :::
 Today we're going to talk about counters in Japanese.
 
-![](media/image404.png)
+![](media/image404.webp)
 
 Now, as we all know, the textbooks like to present
 
@@ -66,7 +66,7 @@ Secondly, most of the time we can avoid them by using
 
 the native Japanese counting system, which doesn't require counters.
 
-![](media/image4.png)
+![](media/image4.webp)
 
 So if we use the <code>一つ, 二つ, 三つ, 四つ, 五つ</code> counting system, we don't need any counters.
 
@@ -80,7 +80,7 @@ So the important thing here, as I'm sure you won't be surprised to hear me say,
 
 is that what we're not going to do is start learning lists of counters.
 
-![](media/image866.png)
+![](media/image866.webp)
 
 That, if you'll excuse the expression, would simply be counterproductive.
 
@@ -102,7 +102,7 @@ If they say <code>一輪の花</code>, we know they're saying <code>one flower</
 
 <code>一... 花</code>, and the <code>輪 / りん</code> must be the counter. *(輪 / りん, counter for wheels & flowers)*
 
-![](media/image329.png)
+![](media/image329.webp)
 
 If we hear someone saying <code>二羽の鳥</code>, we know that they're saying <code>two birds</code>:
 
@@ -116,7 +116,7 @@ that's not a problem because we know <code>三</code>, we know <code>猫</code>,
 
 and we know that things that come between numbers and their object are going to be counters.
 
-![](media/image69.png)
+![](media/image69.webp)
 
 Should we put them into our Anki?
 
@@ -148,7 +148,7 @@ Not quite the same thing, but it's very similar.
 
 The usage that confuses people is when we say things like <code>猫が五匹います</code> *(count. read ひき)*.
 
-![](media/image920.png)
+![](media/image920.webp)
 
 And that would be translated as <code>There are five cats</code>, and that is how we'd say it in English.
 
@@ -170,7 +170,7 @@ or a particle or a conjunction?
 
 What is it? It's a noun!
 
-![](media/image337.png)
+![](media/image337.webp)
 
 Nearly always it's a noun, and that is true of counters.
 
@@ -186,7 +186,7 @@ But when we say <code>猫が三匹いる</code> -- <code>there are three cats</c
 
 -- what are we actually saying? --
 
-![](media/image247.png)
+![](media/image247.webp)
 
 Well, the thing to understand here is that counters aren't ordinary nouns.
 
@@ -224,7 +224,7 @@ but it doesn't have to be. For example, we might say
 
 <code>写真を三枚取った</code> -- <code>I took photographs three-flat-things-ly</code>.
 
-![](media/image151.png)
+![](media/image151.webp)
 
 And while that's very different from the way we put it in English,
 
@@ -262,7 +262,7 @@ Well, that's because when the word <code>本</code> first came into being and me
 
 among other things, a book, at that time books were long round things. They were scrolls.
 
-![](media/image445.png)
+![](media/image445.webp)
 
 So a book was counted in the way that other long round things were counted.
 
@@ -288,7 +288,7 @@ We say <code>いっぴきの猫</code> -- one cat, <code>にひきの猫</code> 
 ::: info
 よんひき in Kanji looks interesting :D 四匹.
 :::
-![](media/image401.png)
+![](media/image401.webp)
 
 And then other counters have other variations.
 
@@ -306,7 +306,7 @@ First of all, if the first kana of a counter can't take a ten-ten *=〃(another 
 
 then there aren't going to be any variations at all.
 
-![](media/image238.png)
+![](media/image238.webp)
 
 That deals with over half the problem straight away.
 
@@ -350,7 +350,7 @@ What about the others?
 
 Well, which are the kana onto which you can put a ten-ten?
 
-![](media/image225.png)
+![](media/image225.webp)
 
 It's the た column, the さ column, the か column
 
@@ -365,9 +365,9 @@ or a maru *= ゜* to become ぱ-ぴ-ぷ-ぺ-ぽ.
 What do we know about these? Well, first of all, we know that in the first and last numbers of the sequence all of them work differently from the non-ten-tenable kana  
 and they all work the same as each other.
 
-![](media/image340.png)
+![](media/image340.webp)
 
-![](media/image272.png)
+![](media/image272.webp)
 
 ::: info
 [**The video link there**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), if you wanted to watch it, since it is not in the transcript (I think).
@@ -400,7 +400,7 @@ We say <code>じゅっかい / 十階</code>, tenth floor; <code>じゅっぴき
 
 #### Rule 3
 
-![](media/image354.png)
+![](media/image354.webp)
 
 Now, the <code>か</code> and <code>は</code> rows, we tend
 
@@ -412,7 +412,7 @@ And when we know that we pretty much know all of it.
 
 #### Rule 4?
 
-![](media/image10.png)
+![](media/image10.webp)
 
 Sometimes a ten-ten goes onto the counter on <code>さん</code> as well.
 

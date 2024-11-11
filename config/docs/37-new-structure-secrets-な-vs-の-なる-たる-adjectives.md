@@ -95,7 +95,7 @@ However, if we want to use a noun as an adjective, let's say the noun <code>綺�
 
 which means <code>prettiness</code> or <code>cleanness</code>, it never stops being a noun.
 
-![](media/image655.png)
+![](media/image655.webp)
 
 The dictionaries and textbooks tell us about <code>な-adjectives</code>, but the word is really nonsense.
 
@@ -171,7 +171,7 @@ a <code>な-adjective</code> or a <code>の-adjective</code>, that is to say,
 
 we can use either <code>な</code> or <code>の</code> when we're using it adjectivally.
 
-![](media/image1114.png)
+![](media/image1114.webp)
 
 Is there a difference between the two?
 
@@ -238,7 +238,7 @@ What is <code>華麗/かれい</code>? Well, it's <code>splendor</code> or <code
 
 ::: info
 there is [**a recent comment**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly) made by one Nihil, who gives a highly useful & detailed breakdown of this なる being short for にある and not のある. From my look into japanese dictionaries, I also found it referring to にある (from archaic なり) instead of のある. Thus, I highly recommend reading through Nihil’s comments under [**the video**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly). Unfortunately, since Dolly is no longer around, we may not entirely know what she meant here, but she does admit in the comments also that she did not find what なる actually means (in full form). Of course, this may not be some huge thing in the grand scheme of understanding for some, but I think it is good to know and Nihil’s answers are just incredible, so they deserve some recognition:)**  
-***![](media/image868.png)
+***![](media/image868.webp)
 :::
 
 ---
@@ -275,7 +275,7 @@ and choosing to use <code>なる</code> with it blows it up even further.
 
 actually being attributed to the thing being described rather than to the thing that's describing it.
 
-![](media/image153.png)
+![](media/image153.webp)
 
 It's saying that the thing being described exists in the way implied by the noun that
 

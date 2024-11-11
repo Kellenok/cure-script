@@ -30,7 +30,7 @@ So once we've gone through the story and you've got it clear in your mind,
 
 you can put the audio onto your phone or your mp3 player and hear it over and over again. That's going to consolidate any new vocabulary; it's going to consolidate the rhythm and spoken form of Japanese and the structure, because we need to move structure and vocabulary from the abstract area, where you know them but you have to think about them very carefully to do anything, into the area where it starts to become instinctive.
 
-![](media/image650.png)
+![](media/image650.webp)
 
 So please, use [**that audio**](https://www.youtube.com/watch?v=jjmWN2rI8e4&ab_channel=hukumusume) once we've been through the story.
 
@@ -48,7 +48,7 @@ This is a short and simple fable about a greedy dog.
 
 And the first sentence is: <code>肉をくわえた犬がはしをわたっていました.</code>
 
-![](media/image333.png)
+![](media/image333.webp)
 
 So you see this is in です/ます-style Japanese, so if you're a little bit uncertain about that
 
@@ -62,7 +62,7 @@ It's one of those words that you could do a huge core deck and still not know.
 
 And what's happening here is that very common technique of inverting a simple logical clause　to turn it into a descriptive clause.
 
-![](media/image641.png)
+![](media/image641.webp)
 
 So, <code>犬が肉をくわえた</code> is <code>a dog held meat in its mouth</code>, but <code>肉をくわえた犬</code>
 
@@ -84,7 +84,7 @@ We know what's happening.
 
 <code>ふと下を見ると、川の中にも肉をくわえた犬がいます.</code>
 
-![](media/image1147.png)
+![](media/image1147.webp)
 
 Now, the first thing to notice here is that this second sentence is in the non-past tense, isn't it?
 
@@ -140,7 +140,7 @@ And I'll [**link**](https://www.youtube.com/watch?v=9l_ZlQQU4ZE&ab_channel=Organ
 
 <code>The dog saw that and..</code> -- the て-form is giving us the <code>and</code> there.
 
-![](media/image988.png)
+![](media/image988.webp)
 
 And I'll link to compound sentences *(Lesson 4)*.
 
@@ -156,7 +156,7 @@ So, <code>犬はそれを見て</code> -- that's a logical clause in itself: <co
 
 <code>あいつの肉のほうが大きそうだ.</code>
 
-![](media/image66.png)
+![](media/image66.webp)
 
 <code>あいつ</code> is <code>that fellow/ that type/ that character</code>.
 
@@ -201,7 +201,7 @@ The dog was annoyed to an unbearable degree at seeing this other dog with what h
 And then we have a quotation from the dog:  
 <code>そうだ、あいつを脅かしてあの肉を取ってやろう.</code>
 
-![](media/image388.png)
+![](media/image388.webp)
 
 <code>そうだ</code> -- <code>Okay then/that's the case</code>; <code>あいつを脅かして</code> -- <code>脅かす</code> is to ****intimidate****
 
@@ -235,7 +235,7 @@ you're doing someone something that isn't a favor.
 
 <code>そこで、犬は川の中の犬に向かって思いっきり吠えました.</code>
 
-![](media/image320.png)
+![](media/image320.webp)
 
 <code>犬は川の中の犬に向かって.</code>
 
@@ -255,7 +255,7 @@ So, the dog faced towards the dog in the water *(river)* and put its whole effor
 
 As we all know, <code>ワンワン</code> is <code>woof woof</code> in Japanese.
 
-![](media/image150.png)
+![](media/image150.webp)
 
 <code>そのとたん...</code>
 
@@ -279,7 +279,7 @@ Ahh!
 
 <code>川の中には、がっかりした犬の顔が映っています</code>
 
-![](media/image648.png)
+![](media/image648.webp)
 
 And again we've switched into the present tense to give more immediacy to this.
 
@@ -315,7 +315,7 @@ And they're put into one long compound sentence, which looks a bit difficult,
 
 so let's just break it into two parts.
 
-![](media/image331.png)
+![](media/image331.webp)
 
 <code>同じ物を持っていても人が持っている物のほうが良く見え、</code>
 

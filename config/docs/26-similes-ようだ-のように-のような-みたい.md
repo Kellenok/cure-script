@@ -10,7 +10,7 @@ We're going to discover that <code>ようだ</code> constitutes the other end of
 
 expressions of conjecture and likeness that we discussed in the last two lessons.
 
-![](media/image709.png)
+![](media/image709.webp)
 
 At one end we have <code>そうだ</code>, at the other end we have <code>ようだ</code>, and in the middle we have <code>らしい</code>.
 
@@ -60,7 +60,7 @@ So we can say <code>まるで風のように走った</code> - <code>ran just li
 
 Literally, <code>まるで</code> means <code>roundly</code>.
 
-![](media/image137.png)
+![](media/image137.webp)
 
 <code>まる/丸</code> means a <code>circle</code> or a <code>round</code>, so when we say <code>まるで</code> we mean <code>roundly/wholly/completely</code>.
 
@@ -102,7 +102,7 @@ When we say that a person is <code>子どもらしい</code> or an animal is <co
 
 Now, if we look at the usage of these expressions, we can see that as usual in Japanese they're very logical.
 
-![](media/image1115.png)
+![](media/image1115.webp)
 
 The textbooks will sometimes give you lists of connections and ways of using them.
 
@@ -128,7 +128,7 @@ And when we attach it to a verb, as we've seen, it has a slightly different mean
 
 However, <code>ようだ</code> has a special connection that the others don't have.
 
-![](media/image510.png)
+![](media/image510.webp)
 
 As you know, we can simply pop it onto an entire sentence, as we can the other two,
 
@@ -142,7 +142,7 @@ So, for example, we can say <code>まるでゆうれいを見たかのような�
 
 <code>She had a face (or made a face) exactly as if she had seen a ghost.</code>
 
-![](media/image222.png)
+![](media/image222.webp)
 
 Now, as we see, <code>she had seen a ghost</code> is an entire logical clause.
 
@@ -186,7 +186,7 @@ Now, the other thing that we need to understand about this <code>か</code> is t
 
 the logical clause that it marks.
 
-![](media/image568.png)
+![](media/image568.webp)
 
 So what it's doing is turning this complete logical clause into a question, a hypothesis, an if, that then functions structurally as a noun.
 
@@ -212,7 +212,7 @@ We can't even do it with <code>みたい</code>, which works in most respects pr
 
 and broadly can be used in the same ways.
 
-![](media/image676.png)
+![](media/image676.webp)
 
 It's an adjectival noun just like that <code>よう</code>, can be used with <code>に</code> to make it an adverb
 
@@ -237,10 +237,10 @@ the <code>だ</code> or <code>です</code> gets left off from <code>みたい</
 
 You might say <code>まるでヒツジみたい</code> - <code>just like a sheep</code>.
 
-![](media/image1.png)
+![](media/image1.webp)
 
 This isn't correct grammar - you ought to say <code>みたいだ</code> - but it's very common to leave it off. It's not common to leave it off of <code>ようだ</code>.  
 ::: info
 I will just in case add that this adjectival noun みたい is NOT the same as 見たい (an adjective meaning <code>see-inducing</code>). These are two different <code>みたいs</code>. You can’t write this みたい as 見たい, else it will be an adjective <code>see-inducing</code>. What Dolly-先生 says in the comments:  
-*![](media/image602.png)
+*![](media/image602.webp)
 :::

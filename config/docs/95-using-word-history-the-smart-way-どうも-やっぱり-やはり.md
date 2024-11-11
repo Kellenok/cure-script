@@ -12,7 +12,7 @@ because I deal with the Japanese language structurally and people sometimes ask,
 
 **to know something about its history, to know where words come from?"**
 
-![](media/image1155.png)
+![](media/image1155.webp)
 
 And my answer to that is a pragmatic one, because my whole approach is pragmatic,
 
@@ -46,7 +46,7 @@ and give you the necessary information.
 
 **etymological ideas that aren't actually correct, can be very useful.**
 
-![](media/image923.png)
+![](media/image923.webp)
 
 That sounds strange, I know, but why is it?
 
@@ -114,7 +114,7 @@ thank you, thanks, much, very, and also things like somehow, in spite of oneself
 
 try as one might, no matter how one may try to do or not to do.
 
-![](media/image351.png)
+![](media/image351.webp)
 
 **And as you see they seem to be quite unrelated to the more common meanings of the word**
 
@@ -146,7 +146,7 @@ That negativizing -ぬ is something [**I've talked about in a recent video**](ht
 
 so if you don't know about that, I'll put a link above my head.
 
-![](media/image373.png)
+![](media/image373.webp)
 
 **And in most of the more common uses this was used**
 
@@ -224,7 +224,7 @@ So if we say <code>**どうも**落ち付かない</code>
 
 (**somehow** I just can't calm down, can't settle down).
 
-![](media/image218.png)
+![](media/image218.webp)
 
 **<code>どうも</code> (somehow), which is originally <code>どうも言えぬ</code>:**
 
@@ -234,7 +234,7 @@ I can't **in any way** say why, but I can't settle down.
 
 <code>Our breaths don't come together</code>, literally.
 
-![](media/image497.png)
+![](media/image497.webp)
 
 **Somehow** we just don't get on --
 
@@ -264,7 +264,7 @@ Now, **one where we're going to talk about a false etymology is <code>やっぱ�
 
 **which also takes the slightly more formal form <code>やはり</code>.**
 
-![](media/image275.png)
+![](media/image275.webp)
 
 **It's rather like <code>日本 / にほん</code>, which also can be said as <code>にっぽん</code>.**
 
@@ -280,7 +280,7 @@ So, if Sakura does something very silly, we might say,
 
 <code>**やっぱり**さくらはバカなのね</code> (**Just as we thought**, Sakura's an idiot).
 
-![](media/image489.png)
+![](media/image489.webp)
 
 Now, **another way** we often hear it in immersion, anime, other places,
 
@@ -297,7 +297,7 @@ and then she makes up her mind, steels her nerve, and says,
 looks around and says <code>**やっぱり**怖い</code> *(As expected, (it) scary-is)*  
 and decides not to go in after all.
 
-![](media/image181.png)
+![](media/image181.webp)
 
 Now, what's going on here?
 
@@ -307,7 +307,7 @@ we hear less often but all of which are part of the meaning of the word, like
 
 **still, as before, even so, either way, nonetheless, etcetera.**
 
-![](media/image659.png)
+![](media/image659.webp)
 
 How does all this fit into <code>やっぱり</code>?
 
@@ -316,7 +316,7 @@ Now, there is a folk etymology for <code>やっぱり</code>.
 <code>やっぱり</code> is written in kanji like this.  
 *(or rather やはり since it won’t give you the option with やっぱり)*
 
-![](media/image936.png)
+![](media/image936.webp)
 
 **Don't write it like this because you'll look like someone who's done Heisig**
 
@@ -374,7 +374,7 @@ So, **if something felt scary in the first place, then we decide to go and face 
 
 **we're pulled back to our original focus.**
 
-![](media/image769.png)
+![](media/image769.webp)
 
 **Now, what we do about this depends on us.**
 
@@ -386,7 +386,7 @@ So, **if something felt scary in the first place, then we decide to go and face 
 
 So what about these other dictionary definitions?
 
-![](media/image618.png)
+![](media/image618.webp)
 
 **As is often the case with English dictionary definitions,**
 
@@ -410,7 +410,7 @@ So, for example, if we say <code>やはり...</code> (and in cases like this it 
 
 <code>**やはり**僕も見ない</code> (I don't see it **either**).
 
-![](media/image1011.png)
+![](media/image1011.webp)
 
 What's that <code>やはり</code> doing there?
 
@@ -447,7 +447,7 @@ For example, **it can mean <code>predictably</code>:**
 
 <code>**やっぱり**雨が降り出した.</code>
 
-![](media/image780.png)
+![](media/image780.webp)
 
 Now, **in this case we may not have been specifically thinking it was going to rain,**
 
@@ -490,4 +490,4 @@ But obviously there are cases,
 ::: info
 As always, you can check the [**comments**](https://www.youtube.com/watch?v=WUmByRnrx_U&ab_channel=OrganicJapanesewithCureDolly) of the video for some interesting bits.
 :::
-![](media/image439.png)
+![](media/image439.webp)

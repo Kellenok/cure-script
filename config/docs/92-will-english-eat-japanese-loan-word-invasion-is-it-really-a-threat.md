@@ -20,7 +20,7 @@ that this could do to the language
 
 and the ways in which it could make it less Japanese.
 
-![](media/image191.png)
+![](media/image191.webp)
 
 So today I want to look at what's actually going on here
 
@@ -40,7 +40,7 @@ Most people learn it in school because it's the most useful language to learn
 
 if you don't already know it.
 
-![](media/image646.png)
+![](media/image646.webp)
 
 **And this, of course, doesn't affect only Japanese.**
 
@@ -58,7 +58,7 @@ if you don't already know it.
 
 **and introduced a lot of new terminology into their lives.**
 
-![](media/image201.png)
+![](media/image201.webp)
 
 And because most of this technology has been developed in America,
 
@@ -72,7 +72,7 @@ the language in which the new terminology exists is largely English.
 
 **It can be considered cool. It can be considered cute.**
 
-![](media/image909.png)
+![](media/image909.webp)
 
 **And if you see a magical writing in Japanese,**
 
@@ -164,7 +164,7 @@ more to foreigners by a long way than to actual Japanese natives.
 
 **which tends to be the main word for a lion in Japanese now.**
 
-![](media/image562.png)
+![](media/image562.webp)
 
 **Japanese has its own word for lion, which is <code>獅子 / しし</code>,**
 
@@ -184,7 +184,7 @@ and if we're going to talk about a lion, we tend to say <code>ライオン</code
 
 **There's a baseball team called the 阪神タイガース,**
 
-![](media/image895.png)
+![](media/image895.webp)
 
 **but this is a typical case of using the foreign word because it sounds kind of cool.**
 
@@ -208,7 +208,7 @@ either on your bookshelf or on your mobile device,
 
 **and see out of the entire page how many of the words are in katakana.**
 
-![](media/image412.png)
+![](media/image412.webp)
 
 **And you'll see that it's really a very small proportion,**
 
@@ -228,7 +228,7 @@ Is it rising? Well, probably a bit, but it's not really making very significant 
 
 **And the other thing to remember is that in Japanese foreign words come in as nouns.**
 
-![](media/image727.png)
+![](media/image727.webp)
 
 Almost always.
 
@@ -282,7 +282,7 @@ but again they had almost no impact on the structure of the language.
 
 Now we might ask, is this going to go on, this so-called English invasion?
 
-![](media/image694.png)
+![](media/image694.webp)
 
 **And we can't really tell the answer to that because it depends on**
 
@@ -349,7 +349,7 @@ as we know.
 
 and there's nothing anywhere to rival them.
 
-![](media/image902.png)
+![](media/image902.webp)
 
 If you ask someone who has no interest in Japan or Japanese
 
@@ -390,4 +390,4 @@ How many Spanish ones? This is the biggest language in the world after English.
 ::: info
 Recommend reading through [**the comments**](https://www.youtube.com/watch?v=bPWt-8Ecd7Y&ab_channel=OrganicJapanesewithCureDolly) as always.
 :::
-![](media/image1118.png)
+![](media/image1118.webp)

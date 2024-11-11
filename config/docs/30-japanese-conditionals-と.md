@@ -28,7 +28,7 @@ I'm not talking about Boolean logic here.
 
 I'm talking about the fact that Japanese has two words for <code>and</code> which are used to connect two nouns.
 
-![](media/image405.png)
+![](media/image405.webp)
 
 One is や, and や is the same as English <code>and</code>.
 
@@ -60,7 +60,7 @@ And when we understand that, it becomes much easier to see what's going on with 
 
 Now, one more thing we need to know is that this と is a particle, but it's not a logical particle. And it's not a non-logical particle either.
 
-![](media/image878.png)
+![](media/image878.webp)
 
 What do I mean by this?
 
@@ -76,7 +76,7 @@ The が particle tells us that the noun is being or doing something; the を par
 
 that it is having something done to it; the に particle tells us that it is a target.
 
-![](media/image256.png)
+![](media/image256.webp)
 
 So what logical particles do is tell us who is doing what to whom and where and when.
 
@@ -118,7 +118,7 @@ And human language does this all the time.
 
 So, someone might say <code>それを食べると病気になる</code> – <code>If you eat that, you will get sick.</code>
 
-![](media/image762.png)
+![](media/image762.webp)
 
 Now, this is not like winter coming and it getting cold or the rain falling and the ground getting wet.
 

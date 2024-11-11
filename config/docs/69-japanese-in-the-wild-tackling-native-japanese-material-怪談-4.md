@@ -46,7 +46,7 @@ She groped around in the dark to find her 携帯 and then left. And that's the s
 
 So let's see what happened the next day.
 
-![](media/image719.png)
+![](media/image719.webp)
 
 <code>翌日</code> -- that means <code>next day</code>.
 
@@ -59,7 +59,7 @@ which it now has.
 
 <code>彼女は先輩のアパートの前を通りかかると...</code>
 
-![](media/image229.png)
+![](media/image229.webp)
 
 So we have the first logical clause here
 
@@ -73,7 +73,7 @@ So she didn't go there for any purpose, she just happened to be passing by.
 
 <code>なぜか大勢の警官が集まっている</code> –
 
-![](media/image627.png)
+![](media/image627.webp)
 
 <code>大勢</code> means a large number, a crowd -- it refers to people --
 
@@ -89,7 +89,7 @@ A lot of policemen were gathered.
 
 <code>事情を聞いて彼女は驚いた</code>
 
-![](media/image444.png)
+![](media/image444.webp)
 
 <code>事情</code> is <code>the situation or circumstances</code>.
 
@@ -119,7 +119,7 @@ she was startled or shocked by what she heard.
 
 <code>That senpai, in that apartment, received the action of being killed.</code>
 
-![](media/image378.png)
+![](media/image378.webp)
 
 And this is the receptive, isn't it?
 
@@ -141,7 +141,7 @@ When she asked about the situation, it was that the senpai had been killed in th
 
 <code>部屋は荒らされており</code>
 
-![](media/image698.png)
+![](media/image698.webp)
 
 <code>荒らす</code> is <code>storm or violate or mess up</code>.
 
@@ -196,7 +196,7 @@ joined together here, and then they'll all end with -たら
 
 before we pass on to the comment about them.
 
-![](media/image325.png)
+![](media/image325.webp)
 
 So all these clauses that culminate in the -たら ending
 
@@ -210,7 +210,7 @@ So, <code>あの時</code> -- <code>at that time</code> --
 
 <code>if I had put on the light</code> –
 
-![](media/image583.png)
+![](media/image583.webp)
 
 <code>***きちんと***/ちゃんと戸締りをするようにって</code>.
 
@@ -252,7 +252,7 @@ If she'd done this...
 
 <code>こんなことにならなかったのに</code>
 
-![](media/image584.png)
+![](media/image584.webp)
 
 Now, <code>こんなこと</code> is <code>a state of affairs like this / this state of affairs</code> ;
 
@@ -286,7 +286,7 @@ even at the risk of disturbing a drunken senpai, this terrible thing wouldn't ha
 
 <code>彼女が自責の念でいっぱいになりながら.</code>
 
-![](media/image843.png)
+![](media/image843.webp)
 
 <code>自責</code> is <code>self-blame / self-reproach</code> --
 
@@ -308,7 +308,7 @@ So, while becoming full of feelings of self-blame,
 
 <code>昨日その部屋にいたことを警官に話すと</code> –
 
-![](media/image110.png)
+![](media/image110.webp)
 
 Now, <code>と</code> is giving us an if/when statement, but we'll just deal with this to start with.
 
@@ -336,7 +336,7 @@ So, when she told the police the fact that she'd been in the room yesterday...
 
 <code>部屋の奥から刑事が現れて...</code>
 
-![](media/image915.png)
+![](media/image915.webp)
 
 Now again, it's ending in the て-form; it's going to lead on to something else.
 
@@ -358,7 +358,7 @@ A police detective appeared from inside the room, and...
 
 <code>彼女に見て欲しい物があると言った</code>
 
-![](media/image1102.png)
+![](media/image1102.webp)
 
 Now, <code>見て欲しい</code> means <code>want someone else to see</code>
 
@@ -394,7 +394,7 @@ And in quotes these are the words of the detective:
 
 <code>こんなメモを見つけたんですが… – </code>this kind of memo (or really, this memo) we found, *but* –
 
-![](media/image435.png)
+![](media/image435.webp)
 
 <code>見つけた</code>, <code>found/discovered/saw</code> – we discovered this memo -- <code>んですが</code>.
 
@@ -410,7 +410,7 @@ That's what it is / this is the thing:
 
 -- <code>これの意味が分からなくて...</code>
 
-![](media/image1095.png)
+![](media/image1095.webp)
 
 Once again we're leading into something else.
 
@@ -428,7 +428,7 @@ And again that <code>んです</code> ending:
 
 <code>It is that because we can't understand its meaning, we're at a loss.</code>
 
-![](media/image578.png)
+![](media/image578.webp)
 
 ::: info
 The sentence may be a bit harder to read, but I cannot zoom-in more, else for some reason it will then permanently hide the end portion of the comment with <code>...</code> instead of the text..
@@ -437,7 +437,7 @@ The sentence may be a bit harder to read, but I cannot zoom-in more, else for so
 
 She looked at the memo and... <code>青ざめる</code>.
 
-![](media/image1058.png)
+![](media/image1058.webp)
 
 In English that usually gets translated as <code>turned pale</code>.
 
@@ -475,7 +475,7 @@ And what was written?
 
 <code>It's a good thing you didn't turn the lights on.</code>
 
-![](media/image582.png)
+![](media/image582.webp)
 
 So what do you make of that?
 

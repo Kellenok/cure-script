@@ -12,7 +12,7 @@ So we need to get a firm understanding of what it is and how it works.
 
 Now, last week *(Lesson 17)* we learned the volitional helper う and よう which makes a word end with the sound <code>おう</code> or <code>よう</code> and expresses will.
 
-![](media/image657.png)
+![](media/image657.webp)
 
 **If we're <code>trying</code> to do something we use the volitional for this.**
 
@@ -20,11 +20,11 @@ So if we say, <code>山に**のぼろうとする**</code>, this means <code>**t
 
 Why does it mean that? What's this construction actually doing?
 
-![](media/image71.png)
+![](media/image71.webp)
 
 Well, <code>のぼ**ろう**</code> **expresses the will to climb.**
 
-![](media/image1092.png)
+![](media/image1092.webp)
 
 If we say <code>山にのぼ**ろう**</code>, we're saying, <code>**Let's** climb the mountain</code>.
 
@@ -46,7 +46,7 @@ Some people find the distinction between <code>try climbing</code> and <code>try
 
 And that's really only because of the way it's expressed in English.
 
-![](media/image571.png)
+![](media/image571.webp)
 
 **In Japanese**, as we learned recently *(Lesson 16)*, **if we want to say,**
 
@@ -110,7 +110,7 @@ So, an important thing here is to see what the と-particle is doing.
 
 And we're going to find that in other cases.
 
-![](media/image999.png)
+![](media/image999.webp)
 
 For example, we may read that someone <code>ホッ**とした**</code> . Now, what does that mean?
 
@@ -134,7 +134,7 @@ What it means is, **<code>feel relief / be relieved</code>**.
 
 Now, similarly, if we say <code>さくらを**日本人と**する</code>, it means **regarding Sakura as a Japanese person.**
 
-![](media/image80.png)
+![](media/image80.webp)
 
 Now, we might also say, <code>さくらを**日本人に**する</code>, but that means something quite different.
 
@@ -148,11 +148,11 @@ A little while ago we had a lesson *(Lesson 8)* in which we talked about
 
 <code>さくらが**かえるになる**</code> - <code>Sakura **becomes a frog**</code>.
 
-![](media/image943.png)
+![](media/image943.webp)
 
 Now, we've also talked about *(Lesson 15)* the way that <code>ある</code> and <code>する</code> are the Eve and Adam of Japanese verbs,
 
-![](media/image662.png)
+![](media/image662.webp)
 
 <code>ある</code> being the primary self-move verb and <code>する</code> the primary other-move verb.
 
@@ -166,7 +166,7 @@ It means to <code>turn something into something</code>.
 
 So if we say, <code>まじょがさくらを**カエルにした**</code> - <code>the witch **turned** Sakura **into a frog**</code>.
 
-![](media/image290.png)
+![](media/image290.webp)
 
 ::: info
 カエル is just another way to write frog, via katakana. Animals are usually written that way.  
@@ -176,11 +176,11 @@ So if we say, <code>まじょがさくらを**カエルにした**</code> - <cod
 
 but <code>さくらを**日本人とする**</code> - **regarding** Sakura **as a Japanese person** / **taking** Sakura **as a Japanese person.**
 
-![](media/image653.png)
+![](media/image653.webp)
 
 <code>かばんをまくら**とする**.</code>
 
-![](media/image16.png)
+![](media/image16.webp)
 
 <code>かばん</code> is <code>bag</code>, <code>まくら</code> is <code>pillow</code> and this means <code>using your bag as a pillow</code>.
 
@@ -200,7 +200,7 @@ Now, **if we say <code>-として</code>, this isn't so much the act of regardin
 
 So, in English it would usually be translated simply as <code>**as**</code> or <code>**for**</code>. Or <code>**being in the role of**</code>
 
-![](media/image905.png)
+![](media/image905.webp)
 
 So, <code>こじん/個人**として**の いけん/意見</code> means <code>my opinion **as** a private person</code>, as opposed to, say, <code>my opinion **as** president of the Frog Jockey Society.</code> *- just another example sentence (contrast in words <code>private person</code> & <code>president</code>), not some difference in the function of として. The wording may delude to Dolly meaning it as if it was として that had an opposing role there.*
 
@@ -213,7 +213,7 @@ So we can see that **the quotation function of -と is used not only to quote id
 ::: info
 just in case, this comment may help some in regards to とする & として.
 
-![](media/image551.png)
+![](media/image551.webp)
 :::
 
 ## という / と言う
@@ -230,7 +230,7 @@ And **this again can be used not just in a literal quotation but also saying**
 
 So, <code>ふしぎの国のアリス**という**本</code>, means <code>book **called** ふしぎの国のアリス</code>
 
-![](media/image546.png)
+![](media/image546.webp)
 
 ### っていう / って言う
 
@@ -240,7 +240,7 @@ So we can say <code>-っていう</code> - <code>ふしぎの国のアリス**�
 
 **or it can be reduced down to just -って.**
 
-![](media/image1071.png)
+![](media/image1071.webp)
 
 <code>ふしぎの国のアリス**って**本</code> still means <code>The book **called** Alice in Wonderland</code>.
 
@@ -262,7 +262,7 @@ So when we say <code>さくら**は** *(zeroが)* 日本人だ</code>, we can pu
 
 Now, does that start to make things a little clearer?
 
-![](media/image501.png)
+![](media/image501.webp)
 
 <code>さくら**って**(zeroが)日本人だ</code> - <code>Sakura **-say**, (she) Japanese-person is</code> -
 

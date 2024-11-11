@@ -42,7 +42,7 @@ but they are the nuts and bolts that hold the language together.
 
 And there are a few -- a very few -- specialized words that don't fall into those three categories.
 
-![](media/image529.png)
+![](media/image529.webp)
 
 For example, there are conjunction words that join together two logical clauses to make a compound sentence.
 
@@ -58,7 +58,7 @@ Now, apart from these, everything you see is going to be a noun, a verb, or an a
 
 Fact 2: Verbs and adjectives are very easily recognized and distinguished.
 
-![](media/image858.png)
+![](media/image858.webp)
 
 Every verb ends in an -う row kana -- and it has to be a kana, it can't be included in kanji.
 
@@ -72,7 +72,7 @@ that this -う row kana and that this い can make.
 
 They can go into て-form or た-form, and the final -う row kana of a verb can change into the equivalent kana in the same row in order to attach a helper word such as the negative helper adjective <code>ない</code> or the causative helper verb <code>せる/させる</code>.
 
-![](media/image1009.png)
+![](media/image1009.webp)
 
 Now, once you know the basic permutations of verbs and adjectives, which you should do very early on, you know that if a word doesn't have one of those possible verb endings
 
@@ -106,7 +106,7 @@ The first group is adjectival nouns, which are horribly misnamed by the textbook
 
 They're not adjectives. They are nouns that can under certain circumstances be used adjectivally.
 
-![](media/image530.png)
+![](media/image530.webp)
 
 The superpower of adjectival nouns, the one thing they can do that makes them different
 
@@ -122,7 +122,7 @@ But we can also use that soft form of <code>だ</code>, which is <code>な</code
 
 and we can say <code>不思議な屋敷</code> - <code>mysterious-is mansion</code>.
 
-![](media/image432.png)
+![](media/image432.webp)
 
 You can't do that with a regular noun.
 
@@ -132,7 +132,7 @@ And that's the only difference between a regular noun and an adjectival noun.
 
 The second group is する nouns, which the dictionaries somewhat confusingly call <code>する verbs</code>. **What they are is nouns.**
 
-![](media/image65.png)
+![](media/image65.webp)
 
 **And their superpower is that they are allowed to drop the direct object marker, <code>を</code>.**
 
@@ -176,7 +176,7 @@ Now, there are a lot of these and an awful lot of them end in the kana <code>り
 
 but not all of them by any means.
 
-![](media/image945.png)
+![](media/image945.webp)
 
 So, we're going to look at two that do and one that doesn't,
 
@@ -211,7 +211,7 @@ and we can say
 
 But we can also say <code>ゆっくりする</code>, <code>ゆっくり歩く</code>. **We can drop that に**.
 
-![](media/image605.png)
+![](media/image605.webp)
 
 So, **that's the one and only superpower of the adverbial noun.**
 
@@ -237,7 +237,7 @@ So, we can say <code>悲しみのあまり泣いた</code>.
 
 Now, this means <code>from an excess of sadness, I cried.</code>
 
-![](media/image644.png)
+![](media/image644.webp)
 
 And, as you see, we can leave out the particle.
 
@@ -251,7 +251,7 @@ when we see it in other contexts and especially when we don't understand that it
 
 They show it being used adverbially in expressions like <code>あまり勉強しない</code>.
 
-![](media/image1120.png)
+![](media/image1120.webp)
 
 What does that literally mean?
 
@@ -295,7 +295,7 @@ And you may say, <code>Well, **sufficiently** isn't a noun</code>.
 
 And that's true -- in English it isn't a noun.
 
-![](media/image95.png)
+![](media/image95.webp)
 
 In Japanese it is, and if we look at the kanji <code>随分</code>, what it actually means is something like
 
@@ -311,7 +311,7 @@ What you actually mean is that the person is very skilful.
 
 And this is just the same in English. You might say <code>You're pretty good</code>.
 
-![](media/image395.png)
+![](media/image395.webp)
 
 And <code>ずいぶん</code>, like <code>pretty</code> or <code>fairly</code> in English can run the full range from its original meaning of <code>sufficiently</code> or <code>fairly</code>  
 to its more usual litotes meaning of <code>very / considerably</code>.
@@ -329,4 +329,4 @@ When you understand that, you have a much clearer understanding of what's going 
 ::: info
 Check this:
 :::
-![](media/image50.png)
+![](media/image50.webp)

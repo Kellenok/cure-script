@@ -10,7 +10,7 @@ Today we're going to talk about tenses. Up to now, we've only been using one ten
 
 The one we've been using up to now is not a present tense. It's called the non-past tense, and a lot of people think this is confusing. Why can't Japanese have a simple present tense like English instead of something vague and mysterious like a non-past tense?
 
-![](media/image765.png)
+![](media/image765.webp)
 
 Well, actually it isn't confusing at all, and what makes it confusing is, for a change, not the fact that Japanese is taught in a strange way, but the fact that English is taught in a strange way. The truth is that the Japanese non-past tense is very similar to the English non-past tense.
 
@@ -22,7 +22,7 @@ When else do we use the English non-past plain form of verbs? Well, sometimes we
 
 So, the Japanese non-past tense is very similar in the way it functions to the English non-past tense. If you understand one you can pretty much understand the other. **Most of the time, the Japanese non-past tense refers to future events.** <code>いぬがたべる</code> - <code>The dog will-eat</code>; <code>さくらがあるく</code> - <code>Sakura will-walk.</code>
 
-![](media/image861.png)
+![](media/image861.webp)
 
 The way we've been using it up to now - <code>Sakura walks</code> - is possible, but it isn't the most natural way. We've been using it that way because it was the only tense we knew.
 
@@ -34,11 +34,11 @@ Fortunately, in Japanese we don't have all these different forms of the word <co
 
 So, <code>Sakura is walking</code> – <code>さくらがあるいている</code>. <code>Dog is eating</code> – <code>いぬがたべている</code>
 
-![](media/image612.png)
+![](media/image612.webp)
 
 Now, let's notice that in a sentence like <code>いぬがたべている,</code> we have something we haven't yet seen, and that's a white engine. **A white engine is an element that could be an engine but in this case it's NOT the engine of this sentence. It's modifying, or telling us more about, one of the core elements of the sentence.**
 
-![](media/image1035.png)
+![](media/image1035.webp)
 
 So, the core of this sentence is <code>いぬがいる</code> - <code>the dog is</code>. But the dog isn't just existing – the dog is doing something. And that white engine tells us what it is doing. It is <code>eating</code>. And we're going to see this white engine structure over and over again as we go deeper into Japanese.
 
@@ -69,7 +69,7 @@ Sometimes I add zeroが even when Dolly does not say it in the transcript, BUT s
 
 Now, <code>tomorrow</code> is what we call a <code>**relative** time expression</code> because it's relative to today. Today is yesterday's tomorrow.
 
-![](media/image616.png)
+![](media/image616.webp)
 
 And with all relative time expressions like that: yesterday, last week, next year, and so forth, times that are relative to the present time, we just do what we did then. **We put the time expression at the beginning of the sentence and that puts that whole sentence into that time.**
 
@@ -79,7 +79,7 @@ However, when we have an <code>absolute time expression</code>, an expression th
 
 Tuesday is <code>火曜日/かようび</code> and we may may say <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>On Tuesday (I) will eat cake.</code>
 
-![](media/image441.png)
+![](media/image441.webp)
 
 The important thing here is that it can seem a bit complicated to have to work out, <code>Is the time absolute or relative?</code> And the good thing to know here is that it's not complicated at all, because it works exactly the same as English.
 
@@ -89,6 +89,6 @@ Now, Japanese works in exactly the same way except that we don't have to remembe
 
 But in English when we need one of those little words, <code>on</code>, <code>in</code> or <code>at</code>, then we need <code>に</code> in Japanese. And when we don't, then we don't need <code>に</code> in Japanese. **English and Japanese are identical in that respect.**
 
-![](media/image189.png)
+![](media/image189.webp)
 
 So rather than sitting down to work out <code>Is this relative, or is this absolute?</code>, **just think whether you need an <code>on</code>, <code>in</code> or <code>at</code> in English, and if you do, you need <code>に</code> in Japanese.** And if you don't, you don't need <code>に</code> in Japanese. It's really as simple as that.

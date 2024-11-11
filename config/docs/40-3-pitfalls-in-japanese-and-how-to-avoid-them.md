@@ -42,7 +42,7 @@ And if we want to say <code>the pretty flower</code>, we have to put <code>き�
 
 of the flower, so we say <code>きれいな花</code>.
 
-![](media/image888.png)
+![](media/image888.webp)
 
 And that <code>な</code>, as we know, is the connective form of <code>だ</code>.  
 But if we want to say <code>Sakura is pretty and kind</code>, we can't use <code>だ</code> and we can't use <code>な</code>,
@@ -56,7 +56,7 @@ And the て-form of <code>だ</code> is <code>で</code>.
 ::: info
 to avoid confusion of Dolly using the words ‘the connective form of the copula’ for both な and subsequently で.
 :::
-![](media/image712.png)
+![](media/image712.webp)
 
 So if you say <code>Sakura is beautiful and kind</code>, this is a true adjective, an <code>い-adjective</code>,
 
@@ -111,7 +111,7 @@ Right. So here's another one: <code>無事でよかった</code> is another very
 
 -- <code>無事でよかった</code>. What do we have here?
 
-![](media/image952.png)
+![](media/image952.webp)
 
 Once again, we have the て-form of the copula.
 
@@ -185,7 +185,7 @@ It's not possible to confuse this with the other <code>が</code>, the <code>が
 
 of the sentence, the A-car, because that <code>が</code>, the particle <code>が</code>, can only ever mark a noun.
 
-![](media/image185.png)
+![](media/image185.webp)
 
 And the clause-connector <code>が</code> can only ever mark a complete sentence.
 
@@ -216,7 +216,7 @@ So if we said something like <code>*(私は)* コーヒーがほしいが</code>
 
 <code>coffee is want-making (to me)</code> and then we've added <code>が</code>.
 
-![](media/image917.png)
+![](media/image917.webp)
 
 And what that <code>が</code> is doing is saying <code>but...</code> and it's implying a second clause but not stating it, so
 
@@ -240,7 +240,7 @@ And this other <code>に</code>, which is a slightly old usage -- it comes from 
 
 it means the same as <code>と</code>. It can be used to and-together two nouns or a list of nouns.
 
-![](media/image396.png)
+![](media/image396.webp)
 
 So in the folk tale Beauty and the Beast, when the father asks one of the less good sisters
 
@@ -260,10 +260,10 @@ what <code>に</code> means in these contexts.
 
 It's also more commonly used in the expression <code>それに</code>, which means <code>furthermore</code> or <code>in addition to that</code>.
 
-![](media/image1079.png)
+![](media/image1079.webp)
 
 ::: info
-There is a typo in the picture’s orange note. それにとても should be それにしても.*![](media/image173.png)
+There is a typo in the picture’s orange note. それにとても should be それにしても.*![](media/image173.webp)
 :::
 And, as you can see, this is made up of <code>それ</code>, which means <code>that</code>, plus <code>に</code> --
 

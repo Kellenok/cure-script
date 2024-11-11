@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about expression strategies in Japanese that are so different from their English equivalents that they can cause great difficulty once we get into the real world of Japanese. ![](media/image132.png)
+Today we're going to talk about expression strategies in Japanese that are so different from their English equivalents that they can cause great difficulty once we get into the real world of Japanese. ![](media/image132.webp)
 
 And this difficulty is made much worse by the way Japanese is taught in conventional textbooks and websites and the whole <code>英本語</code> Japanese model, which teaches
 
@@ -12,7 +12,7 @@ Japanese essentially by pretending that it's much more like English than it is a
 
 So, let's start with one of the things that causes the most difficulty because it's something that's really fundamental to English and doesn't exist in Japanese.
 
-![](media/image231.png)
+![](media/image231.webp)
 
 And that is, pronouns. In English, we can't get through a moderately complex sentence without using pronouns like <code>it</code>.
 
@@ -20,7 +20,7 @@ If we're talking about any kind of an object, from the Andromeda galaxy to an in
 
 And this is not how Japanese works. In fact, I'm going to say something that may seem unduly radical. I'm going to say that Japanese doesn't have simple pronouns at all, not in the sense that they're understood in English and other European languages. Now, that may seem a bit extreme, but let me explain what I mean.
 
-![](media/image1159.png)
+![](media/image1159.webp)
 
 ## Pronouns <code>it</code>, <code>I</code> and <code>you</code> in Japanese
 
@@ -56,7 +56,7 @@ In other words, this basic personal pronoun doesn't really exist.
 
 And although we can identify <code>私</code> and <code>あなた</code> as the most basic of them, it still isn't the same as a European personal pronoun.
 
-![](media/image611.png)
+![](media/image611.webp)
 
 Most of the time we don't use it. All this <code>私 this, 私 that, 私 the other</code> in the textbooks is ridiculously unnatural. Unless we're trying to stress a particular point, we don't say this.
 
@@ -94,7 +94,7 @@ with <code>私 this, 私 that, あなた this, あなた that</code>, you won't 
 
 So, Japanese doesn't have an <code>it</code> and it doesn't really have a <code>you</code> or an <code>I</code> in the sense that European languages do. What about <code>he</code> and <code>she</code>? At least it has <code>彼</code> and <code>彼女</code>, doesn't it?
 
-![](media/image922.png)
+![](media/image922.webp)
 
 Well, <code>彼</code> and <code>彼女</code> were introduced into Japanese in the late Edo and early Meiji era in order to translate nineteenth-century European novels into Japanese. That's what they were for.
 
@@ -118,7 +118,7 @@ We're taught, early on *([**Lesson 20**](https://www.youtube.com/watch?v=xLkY6wh
 
 If in English we say something like <code>that dog</code> or <code>that tree</code> we mean the one we're talking about, the one related to the current subject. But in Japanese it goes considerably further than this.
 
-![](media/image52.png)
+![](media/image52.webp)
 
 So, <code>さくらとその犬</code> means Sakura and a dog related to her, in other words, Sakura and her dog. And this ability of <code>その</code> to express things like possession and relatedness gives rise to a whole range of strategies. But once we understand what it means, they're much easier to understand.
 
@@ -130,7 +130,7 @@ Well, that's the nearest we can get in English without getting rather convoluted
 
 What does <code>that place</code> mean here? The only way to translate that properly into English would be to say something like <code>as a witness, go to the place which is whatever place is involved at the time – that place, the place to which you go as a witness</code>.
 
-![](media/image1051.png)
+![](media/image1051.webp)
 
 So this opens up a whole range of uses of <code>その</code> which don't really have any equivalent in English. <code>その</code> is the related thing, the thing in question at the time, the thing belonging to the person we're talking about, or whatever, and this gives strategies that are essentially the ones that displace English pronouns.
 
@@ -138,7 +138,7 @@ And there are various other strategies that displace pronouns.
 
 For example, we've talked in the past *(Lesson 48?)* about <code>くれる</code> and <code>あげる</code>, and I think we often get the impression that this has a lot to do with a more personal sense of relation.
 
-![](media/image1141.png)
+![](media/image1141.webp)
 
 We're not just talking about what's done but whether it's done as a favor to ourselves, whether it's done as a favor to someone else, and that kind of thing.
 
@@ -180,7 +180,7 @@ In English we say <code> a certain...</code> -- and what do we mean by that?
 
 Well, we mean that the place is certain. We know where it is, we know what it is, we're just not telling you. Which, when you think about it, is rather a strange way of putting it. The only reason we really say <code>a certain...</code> is that we want to introduce it without saying anything at all about it.
 
-![](media/image912.png)
+![](media/image912.webp)
 
 And Japanese, which is often more logical than English, does that in the most logical way possible. It doesn't tell us anything about it except the fact that it exists.
 

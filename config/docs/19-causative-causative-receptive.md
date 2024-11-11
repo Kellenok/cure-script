@@ -15,7 +15,7 @@ But first of all let's look at what the causative helper verb is.
 
 It's a helper verb which, like the receptive, goes onto the end of the あ-stem of another verb, and while the receptive helper is <code>れる/</code>られる<code></code>, **the causative helper is <code>せる/させる</code>**.
 
-![](media/image865.png)
+![](media/image865.webp)
 
 If they sound rather close to each other, there's a good reason for that.
 
@@ -29,7 +29,7 @@ Now, **the receptive <code>れる/</code>られる<code></code> is closely relat
 
 **the causative <code>せる/させる</code> is closely related to <code>する</code>.**
 
-![](media/image900.png)
+![](media/image900.webp)
 
 And while it's not exact to say that they are the self-move and other-move versions
 
@@ -57,7 +57,7 @@ And the real structure of how they work is completely destroyed and obscured by 
 
 **It's two verbs.**
 
-![](media/image809.png)
+![](media/image809.webp)
 
 **Not only is it two verbs, but the two verbs always have two separate subjects.**
 
@@ -65,7 +65,7 @@ So in a sentence like <code>**水が**犬に飲ま**れた**</code> – <code>**
 
 – we have **two verbs, two actions, and two different actors doing the two different verbs.**
 
-![](media/image767.png)
+![](media/image767.webp)
 
 **The main verb of the sentence, the core verb, is <code>れる</code> – <code>get</code>**
 
@@ -77,7 +77,7 @@ This becomes clearer in a slightly longer sentence:
 
 <code>**さくらが**だれかにかばんをぬすま**れた**</code> – <code>**Sakura** **got** her bag stolen by someone</code>.
 
-![](media/image710.png)
+![](media/image710.webp)
 
 Again, **there are two actions going on, and always in a receptive sentence the main action, the core action of the sentence, is <code>れる</code> – <code>receive</code>: <code>Sakura received</code>.**
 
@@ -95,7 +95,7 @@ So if we say, <code> *(zeroが)* 犬を食べ**させた**</code>, which means <
 
 there are **two actions going on.**
 
-![](media/image414.png)
+![](media/image414.webp)
 
 There is the action of eating, which is being done by the dog, **and then there is the main action, the core action of the sentence, the action of causing, which is done by me.**
 
@@ -111,7 +111,7 @@ receptive or the causative helper.
 
 Now let's also take a moment to understand what <code>せる/させる</code> actually means.
 
-![](media/image345.png)
+![](media/image345.webp)
 
 We're told that in English it can mean either <code>make</code> someone do something or
 
@@ -133,7 +133,7 @@ An example?
 
 Well, you've already had one: <code> *(zeroが)* 犬を食べさせた</code>
 
-![](media/image913.png)
+![](media/image913.webp)
 
 It doesn't mean <code>I forced the dog to eat</code>, does it?
 
@@ -164,7 +164,7 @@ And if you don't know what I'm talking about here, please watch the relevant vid
 
 So how is it that two different logical particles can apply to the thing or person we are causing to do something?
 
-![](media/image604.png)
+![](media/image604.webp)
 
 That is to say, the noun associated with <code>せる/させる</code>.
 
@@ -204,7 +204,7 @@ Secondly, when the action that is being compelled itself has a を-marked object
 
 – for example, <code> *(zeroが)* 犬に肉を食べさせた</code> – <code>(I) caused the dog to eat meat</code>.
 
-![](media/image128.png)
+![](media/image128.webp)
 
 You can see the implied, subordinate sentence here is <code>犬が肉を食べた</code>.
 
@@ -274,7 +274,7 @@ So **if we want to attach the receptive to the causative, we simply take the -�
 
 of the receptive.
 
-![](media/image1027.png)
+![](media/image1027.webp)
 
 And it's as simple as that.
 
@@ -300,12 +300,12 @@ No, **we have two subjects.**
 
 **There are always two subjects.**
 
-![](media/image258.png)
+![](media/image258.webp)
 
 ::: info
 In the video, the red <code>Secondary action: verb</code> has a typo <code>さらる</code>. Jisho, Yomichan with 27 dictionaries…nor anything else…do not even know that <code>さらる</code>. I fixed it.
 :::
-![](media/image623.png)**  
+![](media/image623.webp)**  
 **And is it difficult to understand what the two subjects are going to be?
 
 **No, it isn't, because the person receiving and the person eating are always going to**

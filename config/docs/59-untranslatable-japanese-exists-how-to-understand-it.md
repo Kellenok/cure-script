@@ -10,7 +10,7 @@ that makes quite a range of Japanese sentences
 
 difficult for English learners to understand.
 
-![](media/image598.png)
+![](media/image598.webp)
 
 And that is something that I call
 
@@ -53,7 +53,7 @@ As I've explained before, the Adam and Eve of Japanese verbs are <code>ある</c
 
 <code>ある</code> meaning <code>be</code> and <code>する</code> meaning <code>do</code>.
 
-![](media/image593.png)
+![](media/image593.webp)
 
 And while we call them the <code>Adam and Eve</code>,
 
@@ -91,7 +91,7 @@ and it doesn't mean that at all, because as we can see
 
 the book is the が-marked subject of the sentence.
 
-![](media/image21.png)
+![](media/image21.webp)
 
 So it's the book that's doing something, not me. I'm not doing anything.
 
@@ -141,7 +141,7 @@ and to any verb which has the potential helper attached.
 
 So if we say <code>日本語ができる</code>
 
-![](media/image911.png)
+![](media/image911.webp)
 
 it gets translated as <code>I can do Japanese</code> or <code>I can speak Japanese</code>, which is even stranger
 
@@ -181,7 +181,7 @@ For example, <code>乱れる</code> -- to be scattered or disordered;
 
 <code>映る</code> -- to be reflected or projected.
 
-![](media/image1006.png)
+![](media/image1006.webp)
 
 Each of those, as you see, I've translated with the English passive
 
@@ -223,7 +223,7 @@ they get translated as <code>becoming</code> a particular thing:
 
 <code>濁る</code> -- to become cloudy or muddy.
 
-![](media/image511.png)
+![](media/image511.webp)
 
 Again, in Japanese this isn't talked about as <code>becoming</code> anything.  
 It's simply an action in itself.

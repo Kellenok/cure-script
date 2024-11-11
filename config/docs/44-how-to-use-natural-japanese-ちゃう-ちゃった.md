@@ -59,14 +59,14 @@ So, instead of looking at the tail and the legs and the trunk, let's start by ta
 First of all, <code>-ちゃう</code> or <code>-ちゃった</code> is in fact a contraction of the past tense of the word  
 <code>しまう</code>, which means to finish or complete.
 
-![](media/image127.png)
+![](media/image127.webp)
 
 So, if you ever listen to Japanese fairy tales, you'll find that they often end with the formula  
 <code>おしまい</code>.
 
 And <code>しまい</code> is the い-stem, which makes it a noun of <code>しまう</code>, so it means <code>the finish / the ending / the end</code>.
 
-![](media/image1064.png)
+![](media/image1064.webp)
 
 Now, if you put that into the past tense, it's <code>しまった</code>,
 
@@ -82,7 +82,7 @@ And the way we do that is, we put the other word into て-form and then we add <
 
 And <code>-てしまった</code> gets contracted down to <code>-ちゃった</code>.
 
-![](media/image236.png)
+![](media/image236.webp)
 
 Now, if the て-form is <code>で</code> (as we know that it is in some words and if you don't understand that, I've explained it in a previous video *- Lesson 5 & 40*),
 
@@ -152,4 +152,4 @@ They work in the same way all the time if we only think about what is the way th
 
 rather than what their end result is if you translate it into English.
 
-![](media/image786.png)
+![](media/image786.webp)

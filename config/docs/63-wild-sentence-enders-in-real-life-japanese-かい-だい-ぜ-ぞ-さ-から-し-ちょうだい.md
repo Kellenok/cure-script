@@ -74,7 +74,7 @@ because it can mark either a question or a statement,
 
 but again that doesn't really matter because intonation works just as well.
 
-![](media/image1087.png)
+![](media/image1087.webp)
 
 However, we do have the informal, non-rough-sounding question-marker <code>かい</code>.
 
@@ -98,7 +98,7 @@ but you do sometimes hear older female speakers using it.
 So this is the form of <code>かい</code> that we use in  
 copula-ending sentences, <code>だ</code>-ending sentences.
 
-![](media/image318.png)
+![](media/image318.webp)
 
 And just about everything I've said about <code>かい</code> also applies to <code>だい</code>,  
 **except** that there is a particular collocation, <code>どうだい</code>, which is much more widely used.
@@ -123,7 +123,7 @@ So it's usually adding it to the て-form of a verb to ask someone to do somethi
 
 It's sometimes considered to be female speech **but it is not exclusively so.**
 
-![](media/image422.png)
+![](media/image422.webp)
 
 ## ぜ、ぞ、さ
 
@@ -141,7 +141,7 @@ lend a little force to whatever it is you're saying.
 
 **more in anime and manga than you will in real life.**
 
-![](media/image606.png)
+![](media/image606.webp)
 
 <code>さ</code> is similar but it's not nearly so rough.
 
@@ -159,7 +159,7 @@ All kinds of people use it.
 
 Now, there are also sentence-enders **that are not sentence-enders but effectively they are**, because people do pop them after the engine at the end of a sentence.
 
-![](media/image965.png)  
+![](media/image965.webp)  
 Here, Dolly also suggests watching this [**video**](https://www.youtube.com/watch?v=Au5JOtcwE7A&ab_channel=OrganicJapanesewithCureDolly) on pseudo-enders, のに & なのに respectively.
 
 One of these is <code>から</code>.
@@ -188,7 +188,7 @@ In fact, the <code>から</code> may be performing the function
 
 of either softening what it marks or hardening it.
 
-![](media/image456.png)
+![](media/image456.webp)
 
 It can soften it by making the statement feel explanatory;
 
@@ -214,7 +214,7 @@ but by adding the <code>から</code> to the end of it,
 
 they're kind of softening it, turning it into an explanation for you.
 
-![](media/image1070.png)
+![](media/image1070.webp)
 
 Conversely, they might say
 
@@ -224,7 +224,7 @@ and that has a different implication.
 
 There, the <code>禁止</code> is being rammed home all the harder for that <code>から</code>.
 
-![](media/image978.png)
+![](media/image978.webp)
 
 So, <code>から</code> can have a variety of uses, often depending on context,
 
@@ -301,7 +301,7 @@ and this time a friend comes up to you and says,
 
 <code>自転車に乗るのは禁止し</code>.
 
-![](media/image575.png)
+![](media/image575.webp)
 
 ::: info
 Yes, normally, after 禁止, there would be だ before し. But since this is casual, it is left off.
@@ -345,7 +345,7 @@ gives us a substantial boost in being able to make sense of our immersion.
 
 It's rather like a rope and climbing a mountain.
 
-![](media/image718.png)
+![](media/image718.webp)
 
 ::: info
 Indeed, ‘tis modified a bit …somewhat…\*cough\*…bizarrely… ╮(︶▽︶)╭  

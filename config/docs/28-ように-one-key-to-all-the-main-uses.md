@@ -21,7 +21,7 @@ That is, the same verb being still and moving in time.
 
 Now, we know that when we use a noun followed by <code>になる</code>, we mean that something turns into that noun.
 
-![](media/image1038.png)
+![](media/image1038.webp)
 
 <code>に</code> marks the target of the transformation and <code>なる</code> is the transformation itself, the becoming.
 
@@ -53,7 +53,7 @@ The textbooks sometimes say we're adding them to a verb, but what we're really d
 
 adding them to a logical clause with a verb-engine.
 
-![](media/image364.png)
+![](media/image364.webp)
 
 And <code>よう</code>, as we know, is a noun; the logical clause becomes the adjectival, the descriptor, for that noun, so we know that any verb-engine together with the logical clause it heads can become an adjectival so we're not saying <code>のよう</code>, we're NOT saying the likeness of something else here.
 
@@ -63,7 +63,7 @@ or entered the state of being or the form of that logical clause.
 
 So, for example, if we say <code>彼を信じるようになった</code>, we're saying <code>I came to believe him.</code>
 
-![](media/image893.png)
+![](media/image893.webp)
 
 <code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) --<code>I believe him</code> -- is a logical clause,
 
@@ -77,7 +77,7 @@ For example, we might say, <code>日本語のマンガが読めるようにな�
 
 <code>Japanese manga became readable (to me)</code>.
 
-![](media/image304.png)
+![](media/image304.webp)
 
 As you see, in both cases something is changing its state.
 
@@ -103,7 +103,7 @@ version of the <code>になる</code> construction.
 
 If we say <code>まじょがさくらをカエルにした</code>, we're saying <code>the witch turned Sakura into a frog</code>.
 
-![](media/image93.png)
+![](media/image93.webp)
 
 So <code>ようにする</code> is to make something enter a state.
 
@@ -120,7 +120,7 @@ So, we can say <code>ドアにかぎをかけるようにしてください</cod
 
 and that means <code>please make it so that you lock the door</code>.
 
-![](media/image771.png)
+![](media/image771.webp)
 
 And I think you can see the difference here between simply saying  
 <code>ドアにかぎをかけてください</code>, which is just <code>please lock the door</code>.
@@ -172,7 +172,7 @@ Now, <code>ように</code> can also be used with a clause behind it and a claus
 
 in order to say <code>do one thing in order that another thing may happen</code>.
 
-![](media/image756.png)
+![](media/image756.webp)
 
 The textbooks treat this as if it were a different piece of grammar, a different grammar point,
 
@@ -192,7 +192,7 @@ Now, let's change that to <code>よく見えるように口紅をつける</code
 
 she will look better (or I will look better, or someone will look better), apply lipstick".
 
-![](media/image992.png)
+![](media/image992.webp)
 
 Now, as you see, in English the ways of putting those two ideas are different, and that's why the textbooks and the conventional explanations talk as if we had two separate, unrelated grammar points.
 

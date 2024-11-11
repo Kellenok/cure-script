@@ -24,7 +24,7 @@ So, first of all, what is <code>そう</code>?
 
 *(Lesson 20)*
 
-![](media/image671.png)
+![](media/image671.webp)
 
 **So <code>そう</code> means <code>like that</code>**, which makes it of course a very good candidate  
 for **describing something seeming like something.**
@@ -33,7 +33,7 @@ for **describing something seeming like something.**
 
 **When it's used in that way, we use it by attaching it to any one of the three engines.**
 
-![](media/image509.png)
+![](media/image509.webp)
 
 And remember, as we've learned before, that each of the three engines can be moved behind other cars to turn them into adjectives. *(Lesson 6)*
 
@@ -109,7 +109,7 @@ This would align with Dolly’s orange comment just below about copula being use
 
 **With adjectives that end in <code>い</code>, we simply take off that -い and put -そう onto it.**
 
-![](media/image609.png)
+![](media/image609.webp)
 
 ::: info
 Do carefully note that orange comment above on the picture with そう + だ.  
@@ -150,7 +150,7 @@ Obviously, as always, in the case of ichidan verbs that's all we do.
 
 And **in the case of godan verbs we use the い-stem.**
 
-![](media/image264.png)
+![](media/image264.webp)
 
 And the い-stem is what you might call the pure stem of a verb.
 
@@ -178,7 +178,7 @@ What do they mean?
 
 Well, **generally speaking, they mean that something appears to be about to happen.**
 
-![](media/image996.png)
+![](media/image996.webp)
 
 ::: info
 Once again, the reminder comment about だ being used after そう.
@@ -217,7 +217,7 @@ When we're talking about hearsay,
 
 we use <code>**そうだ**</code> or <code>**そうです**</code> **after the entire, complete sentence.**
 
-![](media/image208.png)
+![](media/image208.webp)
 
 **So the complete sentence becomes the A-car of the sentence** and
 
@@ -227,7 +227,7 @@ And **the content of the sentence is now subordinate.**
 
 So let's take an example:
 
-![](media/image1017.png)
+![](media/image1017.webp)
 
 <code>さくらが日本人だ**そうだ**</code>.
 
@@ -237,7 +237,7 @@ So, **<code>Sakura is a Japanese person</code> is all taken together as Car A, t
 
 Why do we use <code>そうだ/そうです</code> to mean <code>I've heard</code>?
 
-![](media/image733.png)
+![](media/image733.webp)
 
 Well, if you think about it, it's similar to what we might say in English.
 

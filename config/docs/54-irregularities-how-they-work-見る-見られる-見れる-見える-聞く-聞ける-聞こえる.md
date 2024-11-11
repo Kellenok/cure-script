@@ -24,7 +24,7 @@ of <code>見る</code> and <code>聞く</code> -- <code>see</code> and <code>hea
 
 and one alternative or exceptional potential form.
 
-![](media/image822.png)
+![](media/image822.webp)
 
 Now, it looks like two in the case of <code>見る</code>, but it's actually one,
 
@@ -64,7 +64,7 @@ we simply remove the -る and put on whatever it is we're going to put on.
 
 In this case, the ichidan potential helper is <code></code>られる<code></code>.
 
-![](media/image384.png)
+![](media/image384.webp)
 
 So, as we can see, <code>見られる</code> is the regular potential form of <code>見る</code>,
 
@@ -78,7 +78,7 @@ Well, that's because the variant is <code>見える</code>, and we'll come back 
 
 <code>見れる</code> is in fact the ichidan form being affected by a phenomenon which we call <code>ら抜き</code>. <code>ら抜き</code> means literally <code>taking out the ら</code>.
 
-![](media/image123.png)
+![](media/image123.webp)
 
 And this is something that happens quite widely in Japanese.
 
@@ -154,7 +154,7 @@ It's the way of thinking that assumes that language is a completely irrational t
 
 that just happens to evolve in any way it chooses to evolve.
 
-![](media/image1081.png)
+![](media/image1081.webp)
 
 And it's not. Language is governed by logic.
 
@@ -206,7 +206,7 @@ The book is the actor and it's acting upon itself.
 
 It's making itself readable, it's <code>doing readable</code> literally.
 
-![](media/image792.png)
+![](media/image792.webp)
 
 ::: info
 The furigana of 私 should be わたし.
@@ -231,7 +231,7 @@ we might say <code>読める</code> or <code>(私は)私が読める</code>,
 
 and again we have a self-move verb.
 
-![](media/image1123.png)
+![](media/image1123.webp)
 
 In one case we're saying <code>I do readable (I am able to read)</code>,
 
@@ -259,7 +259,7 @@ For example, we might say <code>さくらを見られる日を楽しみにして
 
 This means <code>I'm looking forward to the day when I can see Sakura.</code>
 
-![](media/image157.png)
+![](media/image157.webp)
 
 And as you see, here we're saying <code>さくらを見られる</code>, using <code>見られる</code>, the potential,
 

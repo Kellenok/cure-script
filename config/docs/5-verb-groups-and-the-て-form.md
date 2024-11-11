@@ -12,17 +12,17 @@ Today we're going to talk about Japanese verb groups. Japanese verbs fall into t
 
 The first group of Japanese verbs is called ichidan verbs or <code>one-level</code> verbs. Some people call them <code>る-verbs</code>, which is a very silly name. If you're going to call them anything like that, we should probably call them <code>いる/える verbs</code>. They are the simplest and most basic kind of verb.
 
-![](media/image537.png)
+![](media/image537.webp)
 
 When we want to make any change, we always do it the same way. **All we do is take the -る off the end and put on whatever we want to put on.** Ichidan verbs can only end with either -いる or -える, that's to say, with one of the kana from the い-row or one of the kana from the え-row plus -る.
 
-![](media/image910.png)
+![](media/image910.webp)
 
 ## Godan verbs
 
 The second group of verbs is by far the largest and **any ending that a verb can have, verbs in this group can have.**
 
-![](media/image300.png)
+![](media/image300.webp)
 
 Verbs always end with the う-sound, but not all う-kana can make the end of a verb, but a lot of them can and all of them can make godan verbs. They are called godan verbs, or <code>five-level</code> verbs, for reasons that we'll see shortly, and as I say **they can end in any う-sound, including -いる or -える.** Unlike ichidan verbs, **they can also end in -おる, -ある or -うる.**
 
@@ -32,7 +32,7 @@ So the only time we have any ambiguity is when we have a verb ending in -いる 
 
 The third group of verbs is irregular verbs, and the good news here is that there are only two of them.
 
-![](media/image565.png)
+![](media/image565.webp)
 
 You know those pages and pages of irregular verbs in your Spanish or French textbook? Well, Japanese has just two. There are a couple of other verbs that are irregular in just one small respect, but very few. **The irregular verbs are くる (come) and する (do).**
 
@@ -48,7 +48,7 @@ All right, roll the video.
 
 Godan verbs have five kinds of possible ending – that's why they're called godan verbs: five-level verbs.
 
-![](media/image897.png)
+![](media/image897.webp)
 
 And although that seems a little bit difficult, it really isn't. We can combine two of the levels anyway, because they are so close that we only need to learn them once. And I'm going to go through the main groups.
 
@@ -64,7 +64,7 @@ and とる - take, becomes とって (Totte).
 
 Now, you'll notice that うつる has つ in the middle.
 
-![](media/image994.png)
+![](media/image994.webp)
 
 And the て-form of the うつる verbs is formed by using a small っ plus that て. **It's the only group that has つ in it, and it's the only group that has a つ in the て-form ending.**  
 
@@ -80,7 +80,7 @@ The second group is what I call the NEW BOOM group. In Japanese when something i
 
 So, this group I call the New Boom group because there isn't a Japanese word that you can make out of ぬ, ぶ and む that I know of, and what I want you to notice about this group of verbs is that **they all end in what I would call a dull sound – ぬ, ぶ, む.**
 
-![](media/image35.png)
+![](media/image35.webp)
 
 It's not a sharp sound like す, つ, く, and it's not a neutral sound like る or う. It's a dull sound – ぬ, ぶ, む (Nu, Bu, Mu). And this is important because the ending is also a dull sound. **The て-form ending is -んで, the た-form is -んだ.**
 
@@ -97,7 +97,7 @@ So あるく - walk, becomes あるいて / あるいた.
 
 Now, if we have a〃(ten-ten) on that -く, to make it into a -ぐ, it's exactly the same, except that there is also a ten-ten on the て-ending.
 
-![](media/image459.png)
+![](media/image459.webp)
 
 So あるく becomes あるいて, but およぐ - to swim, becomes およいで.
 
@@ -107,7 +107,7 @@ But, as you see, the two are more or less identical. It's just that if there's a
 
 And now we just have one left, and that is す. **And verbs ending in -す drop the -す and add -して.** As you will notice, if you have followed our last lesson *(Not sure which, but will be discussed),* we are just doing that regular thing of shifting the す kana to its い-row equivalent, し.
 
-![](media/image491.png)
+![](media/image491.webp)
 
 So はなす - talk, becomes はなして; the ます helper verb, which turns verbs into formal *(polite)* verbs, in the past tense becomes ました.
 
@@ -117,7 +117,7 @@ Whenever Dolly uses the term <code>formal</code> for です or ます, it should
 
 So now we have all the godan verbs. Didn't I look young in that old video?
 
-![](media/image94.png)
+![](media/image94.webp)
 
 ### The Exceptions 
 
@@ -127,6 +127,6 @@ And these are very simple. くる (come) becomes きて; する (do) becomes し
 
 And いく – the verb いく (to go) – because it ends in -く, you would expect it to become いいて, but it doesn't, it becomes **いって**.
 
-![](media/image1057.png)
+![](media/image1057.webp)
 
 And those are the only exceptions. So if you go over the video / *this lesson* a couple of times, I think you'll find it pretty easy to know exactly how to make the -て and -た forms in all cases.

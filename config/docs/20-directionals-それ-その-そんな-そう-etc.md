@@ -7,7 +7,7 @@
 Today we're going to talk about the Japanese system of directional words which use  
 こ-, そ-, あ-, ど-.
 
-![](media/image1020.png)
+![](media/image1020.webp)
 
 This is commonly called the こ-そ-あ-ど system and initially it simply marks physical locations, but it then expands out to more subtle and metaphorical uses.
 
@@ -23,7 +23,7 @@ So let's take the most basic meaning and use of こ-そ-あ-ど, and that is act
 
 **The most basic location use is <code>ここ</code>, <code>そこ</code>, <code>あそこ</code>, <code>どこ</code>.**
 
-![](media/image758.png)
+![](media/image758.webp)
 
 <code>ここ</code> means <code>here</code>.
 
@@ -77,7 +77,7 @@ But we do have the distinction, so let's look at those.
 
 ## これ, それ, あれ, どれ
 
-![](media/image5.png)
+![](media/image5.webp)
 
 **The れ-group is <code>これ</code>, <code>それ</code>, <code>あれ</code>, <code>どれ</code>.**
 
@@ -87,7 +87,7 @@ But we do have the distinction, so let's look at those.
 
 **-れ is related to <code>ある</code>.**
 
-![](media/image421.png)
+![](media/image421.webp)
 
 It's one of these things that's related to the fundamental <code>ある</code>, the mother of verbs.
 
@@ -107,7 +107,7 @@ and <code>どれ</code> means <code>which being/what thing?</code>
 
 Now, what these can get confused with is **the の-group: <code>この</code>, <code>その</code>, <code>あの</code>, <code>どの</code>.**
 
-![](media/image389.png)
+![](media/image389.webp)
 
 Now, -れ means a being and refers to a thing.
 
@@ -125,13 +125,13 @@ So if we take a very basic textbook phrase like <code>これは  *(zeroが)*  �
 
 <code>this - this being - *(it)* is a pen.</code>
 
-![](media/image736.png)
+![](media/image736.webp)
 
 But if we say, <code>**このペン** *(zeroが)* は赤い</code> - <code>**This pen** *(it)* is red</code>.
 
 <code>このペン</code> - the here pen, the pen that belongs to the class of things that are here.
 
-![](media/image463.png)
+![](media/image463.webp)
 
 <code>それは *(zeroが)* ペンだ</code> - <code>That thing over there or the thing you're holding ***(it)*** is a pen</code>.
 
@@ -147,7 +147,7 @@ So, once we've got used to how they work, I think those are very straightforward
 
 Now, **the next group is <code>こんな</code>,<code>そんな</code>, <code>あんな</code>, <code>どんな</code>.**
 
-![](media/image1148.png)
+![](media/image1148.webp)
 
 Now, **in this case we are using -な.**
 
@@ -170,11 +170,11 @@ And I'm not going to go into the details of this,
 
 So, we could say, <code>**こんな食べ物**が好きです</code> - <code>I like **food like this**</code>.
 
-![](media/image968.png)
+![](media/image968.webp)
 
 <code>**そんなこと**がひどい</code> - <code>**That kind of thing**'s unkind/cruel</code>.
 
-![](media/image603.png)
+![](media/image603.webp)
 
 And in fact you'll often find in anime or manga that someone just says, <code>そんな!</code>
 
@@ -190,7 +190,7 @@ You're saying, <code>that kind of thing</code>, and it would mean something like
 
 So **<code>そんな</code> is essentially a comparing adjectival:**
 
-![](media/image711.png)
+![](media/image711.webp)
 
 we're describing what something is like by comparing it to something else that we're referring to, something that's here, something that's over there or something that's way over there, either in physical space or conceptually.
 
@@ -202,7 +202,7 @@ Literally, what would we compare it to?
 
 ## こう, そう, ああ, どう
 
-![](media/image42.png)
+![](media/image42.webp)
 
 Now, when we use こ-そ-あ-ど on their own and lengthen them with -う  
 (or in the case of あ-, with an extra -あ) so they become **<code>こう</code>, <code>そう</code>, <code>ああ</code>, <code>どう</code>**,
@@ -211,7 +211,7 @@ then **we are talking about the way something is or happens.**
 
 So when we say <code> *(zeroが)* そうですね?</code> we're saying, <code>*(It)*That's right, isn't it?</code>
 
-![](media/image143.png)
+![](media/image143.webp)
 
 So what we are really saying is <code> *(zeroが)* **そう**だ/**そう**です</code> - <code>*(It)* is **like that**</code>.
 
@@ -223,7 +223,7 @@ If we say <code>**どう**する</code>, we say <code>do **like how?**</code>
 
 and we often say <code>**どう**すればいい?</code>
 
-![](media/image96.png)
+![](media/image96.webp)
 
 Now, **<code>すれば</code> is the conditional form of <code>する</code>.**
 
@@ -239,7 +239,7 @@ And **this is often used in relation to things that are not physical, concrete t
 
 in other words, **the kind of things which we call <code>こと</code>** rather than <code>もの</code>.
 
-![](media/image690.png)
+![](media/image690.webp)
 
 And we're going to hear an awful lot <code>そういうこと</code>, <code>こういうこと</code> and <code>どういうこと</code>.
 
@@ -247,7 +247,7 @@ We also hear <code>ああいうこと</code>.
 
 It's less commonly used than the others, but it is used.
 
-![](media/image737.png)
+![](media/image737.webp)
 
 So what do we mean when we say
 

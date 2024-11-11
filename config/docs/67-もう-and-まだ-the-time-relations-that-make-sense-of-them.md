@@ -8,7 +8,7 @@ Today we're going to talk about <code>もう</code> and <code>まだ</code>,
 
 two expressions which can be a little confusing, particularly <code>もう</code>.
 
-![](media/image1031.png)
+![](media/image1031.webp)
 
 If we look up <code>もう</code> in a Japanese-to-English dictionary,
 
@@ -34,7 +34,7 @@ So, <code>まだ</code> has a less confusing collection of definitions.
 
 Mostly we're told that it means either <code>still</code> or <code>not yet</code>.
 
-![](media/image281.png)
+![](media/image281.webp)
 
 So let's start by looking at what it really does mean, what it really does.
 
@@ -54,7 +54,7 @@ so we can say that it is in fact a way of saying <code>now</code>,
 
 but <code>now</code> in a particular relation to the past and the future.
 
-![](media/image674.png)
+![](media/image674.webp)
 
 What is that relation?
 
@@ -80,7 +80,7 @@ The section of time is contrasted with the future when it will or may change, bu
 
 the present moment is contrasted with the past when it might have been expected to change.
 
-![](media/image130.png)
+![](media/image130.webp)
 
 So what this means in English is essentially <code>still</code>.
 
@@ -94,7 +94,7 @@ we're saying <code>I haven't done my homework yet</code>
 
 or <code>I still haven't done my homework.</code>
 
-![](media/image935.png)
+![](media/image935.webp)
 
 Now, as you see, this means that we are in a section of time where I haven't done my homework.
 
@@ -106,7 +106,7 @@ But the present time is being contrasted
 
 with a time in the past where I might have or should have done my homework.
 
-![](media/image466.png)
+![](media/image466.webp)
 
 That's why we say <code>まだ</code> and that's why in English we would say <code>still</code> or <code>haven't yet</code>.
 
@@ -118,7 +118,7 @@ And this is what we mean by terms like <code>still</code> and <code>yet</code> i
 
 If we say <code>さくらはまだ若い</code>, we're saying <code>Sakura is still young.</code>
 
-![](media/image171.png)
+![](media/image171.webp)
 
 Now again, what we're saying is that  
 the present time is situated in a period where Sakura is young,  
@@ -132,7 +132,7 @@ with the future when she will get older.
 
 But the present moment is being contrasted with the past.
 
-![](media/image323.png)
+![](media/image323.webp)
 
 That's why we say <code>まだ</code> or why in English we would say <code>still</code>.
 
@@ -148,7 +148,7 @@ If we say <code>さくらはまだ大人ではない</code>,
 
 we're saying <code>Sakura is not yet grown-up</code>.
 
-![](media/image206.png)
+![](media/image206.webp)
 
 So now we're using the negative, and that's why <code>まだ</code> can mean <code>still</code> or <code>not yet</code>.
 
@@ -182,7 +182,7 @@ And even if your Japanese really is very good,
 
 you'll probably reply <code>いえまだまだです</code>.
 
-![](media/image1146.png)
+![](media/image1146.webp)
 
 <code>まだまだ</code> in this case means <code>not yet</code>.
 
@@ -206,7 +206,7 @@ Now, let's move on to <code>もう</code>, where we get a few more apparent comp
 
 but they aren't really complications, as we're going to see.
 
-![](media/image1126.png)
+![](media/image1126.webp)
 
 <code>もう</code> is essentially the opposite of <code>まだ</code>.
 
@@ -222,7 +222,7 @@ and now is compared to the future when the transition might have been expected t
 
 but in fact it's already happened.
 
-![](media/image141.png)
+![](media/image141.webp)
 
 So if someone says <code>宿題をしなさい。</code> (<code>Do your homework!</code>),
 
@@ -236,7 +236,7 @@ and the transition isn't going to happen in the future, as you might think;
 
 It's already happened in the past.
 
-![](media/image1121.png)
+![](media/image1121.webp)
 
 So why is it sometimes translated as having different meanings from <code>already</code>, such as <code>now</code>?
 
@@ -246,7 +246,7 @@ We're talking about now.
 
 We're just making different contrasts with the past and the future when we talk about now.
 
-![](media/image235.png)
+![](media/image235.webp)
 
 So, of course, <code>もう</code> does mean <code>now</code>, just as <code>already</code> does.
 
@@ -256,7 +256,7 @@ occupy exactly the same stretch of the [**meaning spectrum**](https://www.youtub
 
 sometimes we use <code>もう</code> in places where we would use <code>now</code> in English.
 
-![](media/image359.png)
+![](media/image359.webp)
 
 And because J-E dictionaries are Anglocentric
 
@@ -267,7 +267,7 @@ So, for example, if you've hurt yourself and you're getting up and somebody says
 and you reply <code>もう大丈夫</code>,  
 how you would translate this into English is usually <code>I'm all right now</code>.
 
-![](media/image416.png)
+![](media/image416.webp)
 
 In English you wouldn't usually say <code>I'm already all right</code>.
 
@@ -287,7 +287,7 @@ Logically we could, but in practice we usually don't.
 
 Now, it's perfectly true to say that <code>もう</code> is also used as an expression of annoyance or exasperation: <code>もう!</code>
 
-![](media/image1052.png)
+![](media/image1052.webp)
 
 And it compresses all kinds of complaints or grumbles, or it can just be on its own: <code>もう!</code>
 
@@ -323,7 +323,7 @@ This second <code>もう</code>, I think, is ultimately related to the particle 
 
 and it has the same additive kind of meaning of <code>another</code>.
 
-![](media/image129.png)
+![](media/image129.webp)
 
 So if we say <code>もう一つ</code>, we're saying <code>another one</code>.
 
@@ -361,7 +361,7 @@ So, for example, if we say <code>もうすぐ</code>, which means <code>soon</co
 
 it's already soon, it's not going to be soon at some point in the future, it's soon right now.
 
-![](media/image352.png)
+![](media/image352.webp)
 
 Now, we can also say <code>もう少し</code>.
 
@@ -373,7 +373,7 @@ which means <code>just a little more / just a little extra</code>.
 
 And it could mean <code>just a little more effort</code>, but it can also mean <code>just a little more time</code>.
 
-![](media/image639.png)
+![](media/image639.webp)
 
 So, you see, <code>もうすぐ</code> and <code>もう少し</code>, even though they're different words <code>もう</code>,
 
@@ -391,7 +391,7 @@ But it also is very often used with <code>一度</code>: one more time.
 
 <code>もう二度来ない</code> means <code>I'll never come again</code>, literally <code>I won't come for another second time</code>.
 
-![](media/image44.png)
+![](media/image44.webp)
 
 So we can see that the two <code>もう</code>s tread fairly closely toward the same territory.
 
@@ -403,9 +403,9 @@ But once we understand the two and how they work,
 
 I don't think there's going to be any more room for confusion…
 
-![](media/image735.png)
+![](media/image735.webp)
 
 ::: info
 Will add this here:*  
-![](media/image420.png)
+![](media/image420.webp)
 :::

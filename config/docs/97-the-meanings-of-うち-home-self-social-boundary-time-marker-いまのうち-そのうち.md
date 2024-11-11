@@ -18,7 +18,7 @@ comes to have so many other extended meanings.
 
 **The word is <code>うち</code> and it's one of the words you learn early on in Japanese.**
 
-![](media/image870.png)
+![](media/image870.webp)
 
 **Probably the first context in which you learn it is that it is**
 
@@ -68,7 +68,7 @@ And just as a little sidenote,
 
 **This is a very common abbreviation for <code>さくらのうち</code>.**
 
-![](media/image192.png)
+![](media/image192.webp)
 
 **So this really actually gives us the basis for all the other meanings of <code>うち</code>,**
 
@@ -84,7 +84,7 @@ when you encounter, in anime or something, a girl who's **using Kansai-ben**,
 
 **and typically she will say <code>うち</code> instead of <code>私</code>.**
 
-![](media/image309.png)
+![](media/image309.webp)
 
 **So <code>うち</code> can mean <code>me</code>, particularly feminine,**
 
@@ -118,7 +118,7 @@ They would tend to say <code>**うち**の妹</code>
 
 (the little sister of **our house** / the little sister of **our family** / the little sister of **our group**).
 
-![](media/image715.png)
+![](media/image715.webp)
 
 And even <code>**うち**のきょう</code>, which is
 
@@ -138,7 +138,7 @@ And even <code>**うち**のきょう</code>, which is
 
 **<code>そと</code> refers to everything outside that group.**
 
-![](media/image849.png)
+![](media/image849.webp)
 
 And this has wide-ranging implications for Japanese culture
 
@@ -194,7 +194,7 @@ which means <code>choose from a large number</code> or, strictly speaking,
 
 <code>choose from **a group consisting** of a large number</code>.
 
-![](media/image763.png)
+![](media/image763.webp)
 
 **So <code>うち</code> here refers to the group from which one's choosing.**
 
@@ -216,9 +216,9 @@ So **it's an enclosure defined by its contents, like the other kinds of <code>�
 
 **When does the <code>うち</code> end? It ends when the food stops being warm.**
 
-![](media/image991.png)
+![](media/image991.webp)
 
-![](media/image397.png)
+![](media/image397.webp)
 
 Similarly, <code>若い**うち**</code> (**while** one is young) --
 
@@ -240,7 +240,7 @@ For example, when an enemy is disabled and now is the time to do the
 
 magical purification, somebody might shout <code>**今のうち**!</code>
 
-![](media/image524.png)
+![](media/image524.webp)
 
 And what that means is literally
 
@@ -274,7 +274,7 @@ In other words, <code>**今のうち**</code> is
 
 And another one that can seem confusing is <code>そのうち</code>.
 
-![](media/image15.png)
+![](media/image15.webp)
 
 Now, **<code>そのうち</code>** is translated as meaning, and does mean,
 
@@ -298,7 +298,7 @@ So if we say <code>さくらと**その**犬</code>, we're **not** saying <code>
 
 We're saying <code>Sakura and **her** dog</code>.
 
-![](media/image1068.png)
+![](media/image1068.webp)
 
 **<code>その</code> often implies something related to what we're talking about.**
 
@@ -332,7 +332,7 @@ And **this is the kind of <code>その</code> that's being used in <code>その�
 
 **to whatever we're talking about (it will happen).**
 
-![](media/image305.png)
+![](media/image305.webp)
 
 **<code>そのうち</code> means it will happen within a period of time**
 
@@ -350,9 +350,9 @@ So this is really how <code>うち</code> extends its meaning from quite specifi
 
 to more and more abstract ones, all of which are closely related to the fundamental meaning.
 
-![](media/image885.png)
+![](media/image885.webp)
 
-![](media/image820.png)
+![](media/image820.webp)
 
 ::: info
 **If you came this far then I thank you and you are awesome!**

@@ -78,7 +78,7 @@ we see lots and lots of meanings for it like <code>ending a conversation</code>,
 
 <code>severing a relationship</code>, <code>crossing a field</code>.
 
-![](media/image643.png)
+![](media/image643.webp)
 
 And all of these just come from the basic meaning of <code>cut</code>.
 
@@ -107,7 +107,7 @@ but we can see what it does mean by looking at the kanji.
 The kanji is essentially the kanji of <code>入る / 入る / 入れる</code>  
 -- <code>go in</code> or <code>put in</code> -- and that's on a <code>road</code>.
 
-![](media/image347.png)
+![](media/image347.webp)
 
 It's a road that some people call <code>the water slide</code>.
 
@@ -141,7 +141,7 @@ And then it becomes attached as a helper verb to the i-stem of other verbs.
 
 So we have <code>飛び込む</code>, which means <code>jump in</code>.
 
-![](media/image752.png)
+![](media/image752.webp)
 
 It can mean literally jump into the water or something,
 

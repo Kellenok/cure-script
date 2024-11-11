@@ -6,11 +6,11 @@
 
 Today we are going to talk about adjectives. Now, Japanese adjectives are not the same thing as English adjectives. As we know, Japanese sentences come in three fundamental kinds, depending on the kind of engine they have.
 
-![](media/image874.png)
+![](media/image874.webp)
 
 We have the う-Train, verb sentences; the だ-Train, noun sentences; and the い-Train, which is the so-called adjectival sentences. **But the truth is that any one of the three kinds of engine can be used like an adjective.**
 
-![](media/image1059.png)
+![](media/image1059.webp)
 
 So let's start off with the most obvious one, the one that's called <code>adjective</code> in English.
 
@@ -18,11 +18,11 @@ So let's start off with the most obvious one, the one that's called <code>adject
 
 A simple い-Train sentence is <code>ペンがあかい</code>. As you know, <code>あかい</code> doesn't mean <code>red</code>, it means <code>is-red</code>.
 
-![](media/image789.png)
+![](media/image789.webp)
 
 Now, we can turn this black engine white and put it behind the pen. Now we have <code>あかいペンが</code>.
 
-![](media/image279.png)
+![](media/image279.webp)
 
 <code>あかいペン</code> means <code>is-red pen</code> or, as we say in English, <code>red pen</code>. As you see, **this isn't a full sentence in itself any more because a white engine doesn't pull the train, it just tells us more about whatever it is sitting behind.**
 
@@ -30,7 +30,7 @@ So <code>あかい</code>, once it becomes a white engine, is just telling us mo
 
 <code>あかいペンがちいさい</code> – <code>The red pen is small</code>. *(or I guess <code>is-red pen is-small</code>)*
 
-![](media/image114.png)
+![](media/image114.webp)
 
 So that's simple enough.
 
@@ -38,35 +38,35 @@ So that's simple enough.
 
 Now let's look at verbs. Now, if you're worrying about な-adjectives, as they are called, don't worry. **They are nouns**, and we'll get to them in a minute. **Any う-Engine, any verb, in any tense, can be used like an adjective.**
 
-![](media/image475.png)
+![](media/image475.webp)
 
 So, we can say, <code>しょうじょがうたった</code>. <code>歌った/うたった</code> means <code>sang</code>. The word for sing is <code>うたう</code>, so the た-form, as we know from our last lesson, is <code>うたった</code>.
 
 <code>しょうじょがうたった</code> – <code>The girl sang</code>,
 
-![](media/image288.png)
+![](media/image288.webp)
 
 and if we turn that engine white and put it behind the girl, we have <code>うたったしょうじょ</code> – <code>the girl who sang</code>.
 
-![](media/image29.png)
+![](media/image29.webp)
 
 And of course, once again this isn't a sentence. But we can put in into any sentence we like, such as <code>うたったしょうじょがねている</code> – <code>the girl who sang is sleeping</code>.
 
-![](media/image1140.png)
+![](media/image1140.webp)
 
 **And this is terribly important because a lot of Japanese is structured this way. We can use entire verb-sentences as adjectivals if we want to, and this happens very often.**
 
 For example, <code>いぬがじしょをたべた</code> – <code>the dog ate the dictionary</code>.
 
-![](media/image703.png)
+![](media/image703.webp)
 
 We can turn this around to <code>じしょをたべたいぬが</code> – <code>the dog who ate the dictionary</code>.
 
-![](media/image970.png)
+![](media/image970.webp)
 
 Or we can say, <code>いぬがたべたじしょ</code> – <code>the dictionary that was eaten by the dog</code>.
 
-![](media/image887.png)
+![](media/image887.webp)
 
 ::: info
 In Japanese, this is not a passive sentence obviously. It is just a bit hard to translate into English as it would be in Japanese. As can be seen, the Japanese parts are much simpler.
@@ -74,7 +74,7 @@ In Japanese, this is not a passive sentence obviously. It is just a bit hard to 
 
 And then this can build into the full sentence, <code>じしょをたべたいぬがやんちゃだ</code>. <code>やんちゃ</code> is a noun that means <code>naughty</code> or <code>bad</code>, so, <code>the dog who ate the dictionary is bad</code>.
 
-![](media/image91.png)
+![](media/image91.webp)
 
 ## Using adjectival-nouns as adjectives
 
@@ -82,13 +82,13 @@ This brings us to the noun-engine. If we just say <code>いぬがやんちゃだ
 
 **When we turn <code>だ</code> or <code>です</code> into a white engine, when we connect it to anything, it changes its form from <code>だ</code> to <code>な</code>.**
 
-![](media/image761.png)
+![](media/image761.webp)
 
 So we say <code>いぬがやんちゃだ</code>, but we say <code>やんちゃないぬ</code>, which is the same as saying <code>やんちゃだいぬ</code> – <code>is-bad dog / the dog that is bad / the bad dog</code>.
 
 So we can say <code>やんちゃないぬがねている</code> – <code>the bad dog is sleeping</code>.
 
-![](media/image907.png)
+![](media/image907.webp)
 
 **Now, the important thing to note here is that you can't do this with every noun. There are only some nouns that are frequently used in an adjectival way, that you can use in the way we showed here.**
 
@@ -104,13 +104,13 @@ It is just that they mostly resemble a form similar to proper nouns and take a c
 
 **Can we use other nouns as adjectives? Yes, we can, but we use them in a somewhat different way and they aren't engines.**
 
-![](media/image306.png)
+![](media/image306.webp)
 
 ## The の car
 
 To explain this we have to introduce a new type of car for our train. And this is the の car. **の \[no\] is a very simple particle because it works exactly like apostrophe-s \['s\] in English.**
 
-![](media/image1098.png)
+![](media/image1098.webp)
 
 So, <code>さくらのドレス</code> means <code>Sakura's dress</code>. <code>わたしのはな/鼻</code> means <code>my nose</code>. 
 ::: info
@@ -130,7 +130,7 @@ For example, <code>ピンクいろ</code>. <code>いろ/色</code> means <code>c
 
 So what we do with it is, we use <code>の</code>. <code>ピンクいろのドレス</code> – <code>pink dress</code>. And this means <code>**dress belonging to the class of pink things**</code>.
 
-![](media/image286.png)
+![](media/image286.webp)
 
 ::: info
 Dolly uses Hiragana here for <code>Pink</code>. Normally it is written in Katakana, as a loan word.
@@ -138,11 +138,11 @@ Dolly uses Hiragana here for <code>Pink</code>. Normally it is written in Kataka
 
 If we want to say <code>Oscar the Rabbit</code>, we say <code>ウサギのオスカル</code>, which literally means <code>rabbit's Oscar</code>, and what it means is <code>**Oscar who belongs to the class **rabbit**** </code>.
 
-![](media/image672.png)
+![](media/image672.webp)
 
 <code>ゼルダのでんせつ</code> means <code>the legend of Zelda</code>; <code>でんせつのせんし</code> means <code>legendary warrior / **warrior who belongs to the class of legendary things**</code>.
 
-![](media/image400.png)
+![](media/image400.webp)
 
 So we have four ways of forming adjectivals: **the three engines plus the の car.**
 
@@ -152,7 +152,7 @@ And I'm going to do some [**worksheets**](https://learnjapaneseonline.info/2022/
 
 Now, one thing you may be thinking is, <code>Since some nouns are used as adjectives with **な** and some with **の**, do I have to start learning lists of which ones go with **の** and which ones go with **な**?</code>
 
-![](media/image313.png)
+![](media/image313.webp)
 
 And my answer to that is, **I don't see any good reason to do so unless you are having to learn them for an exam.**
 

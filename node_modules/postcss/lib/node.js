@@ -1,9 +1,9 @@
 'use strict'
 
-let { isClean, my } = require('./symbols')
 let CssSyntaxError = require('./css-syntax-error')
 let Stringifier = require('./stringifier')
 let stringify = require('./stringify')
+let { isClean, my } = require('./symbols')
 
 function cloneNode(obj, parent) {
   let cloned = new obj.constructor()
@@ -30,6 +30,36 @@ function cloneNode(obj, parent) {
   }
 
   return cloned
+}
+
+function sourceOffset(inputCSS, position) {
+  // Not all custom syntaxes support `offset` in `source.start` and `source.end`
+  if (
+    position &&
+    typeof position.offset !== 'undefined'
+  ) {
+    return position.offset;
+  }
+
+  let column = 1
+  let line = 1
+  let offset = 0
+
+  for (let i = 0; i < inputCSS.length; i++) {
+    if (line === position.line && column === position.column) {
+      offset = i
+      break
+    }
+
+    if (inputCSS[i] === '\n') {
+      column = 1
+      line += 1
+    } else {
+      column += 1
+    }
+  }
+
+  return offset
 }
 
 class Node {
@@ -153,6 +183,11 @@ class Node {
     }
   }
 
+  /* c8 ignore next 3 */
+  markClean() {
+    this[isClean] = true
+  }
+
   markDirty() {
     if (this[isClean]) {
       this[isClean] = false
@@ -169,25 +204,29 @@ class Node {
     return this.parent.nodes[index + 1]
   }
 
-  positionBy(opts, stringRepresentation) {
+  positionBy(opts) {
     let pos = this.source.start
     if (opts.index) {
-      pos = this.positionInside(opts.index, stringRepresentation)
+      pos = this.positionInside(opts.index)
     } else if (opts.word) {
-      stringRepresentation = this.toString()
+      let stringRepresentation = this.source.input.css.slice(
+        sourceOffset(this.source.input.css, this.source.start),
+        sourceOffset(this.source.input.css, this.source.end)
+      )
       let index = stringRepresentation.indexOf(opts.word)
-      if (index !== -1) pos = this.positionInside(index, stringRepresentation)
+      if (index !== -1) pos = this.positionInside(index)
     }
     return pos
   }
 
-  positionInside(index, stringRepresentation) {
-    let string = stringRepresentation || this.toString()
+  positionInside(index) {
     let column = this.source.start.column
     let line = this.source.start.line
+    let offset = sourceOffset(this.source.input.css, this.source.start)
+    let end = offset + index
 
-    for (let i = 0; i < index; i++) {
-      if (string[i] === '\n') {
+    for (let i = offset; i < end; i++) {
+      if (this.source.input.css[i] === '\n') {
         column = 1
         line += 1
       } else {
@@ -211,20 +250,25 @@ class Node {
     }
     let end = this.source.end
       ? {
-        column: this.source.end.column + 1,
-        line: this.source.end.line
-      }
+          column: this.source.end.column + 1,
+          line: this.source.end.line
+        }
       : {
-        column: start.column + 1,
-        line: start.line
-      }
+          column: start.column + 1,
+          line: start.line
+        }
 
     if (opts.word) {
-      let stringRepresentation = this.toString()
+      let stringRepresentation = this.source.input.css.slice(
+        sourceOffset(this.source.input.css, this.source.start),
+        sourceOffset(this.source.input.css, this.source.end)
+      )
       let index = stringRepresentation.indexOf(opts.word)
       if (index !== -1) {
-        start = this.positionInside(index, stringRepresentation)
-        end = this.positionInside(index + opts.word.length, stringRepresentation)
+        start = this.positionInside(index)
+        end = this.positionInside(
+          index + opts.word.length,
+        )
       }
     } else {
       if (opts.start) {
@@ -241,7 +285,7 @@ class Node {
           column: opts.end.column,
           line: opts.end.line
         }
-      } else if (opts.endIndex) {
+      } else if (typeof opts.endIndex === 'number') {
         end = this.positionInside(opts.endIndex)
       } else if (opts.index) {
         end = this.positionInside(opts.index + 1)

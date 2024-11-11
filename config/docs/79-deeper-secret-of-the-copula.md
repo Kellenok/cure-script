@@ -18,7 +18,7 @@ of what we can say and communicate in language itself.
 
 It's crucial to how we conceptualize the world.
 
-![](media/image145.png)
+![](media/image145.webp)
 
 Now, Tae Kim never actually uses the C-word, <code>copula</code>,
 
@@ -34,7 +34,7 @@ I even less often use the word <code>**predicate**</code>.
 
 **I prefer to say <code>A-car</code> and <code>B-engine</code>.**
 
-![](media/image939.png)
+![](media/image939.webp)
 
 That way we all know what we're talking about.
 
@@ -62,7 +62,7 @@ Let's start off with <code>what is a copula?</code>
 
 The simplest way of defining a copula is that **it is a one way equals sign**.
 
-![](media/image1138.png)
+![](media/image1138.webp)
 
 **It tells us that A is B**, **although B is not necessarily A**.
 
@@ -76,7 +76,7 @@ But if we go a little deeper, **what the copula actually does is place things in
 
 <code>さくらは日本人**です**</code> **means that Sakura belongs to the set <code>Japanese person</code>**.
 
-![](media/image704.png)
+![](media/image704.webp)
 
 And this is fundamentally important for language,
 
@@ -140,7 +140,7 @@ which means that we would be very limited in our ability to conceptualize things
 
 **It has various forms: <code>is / am / are / was</code> etc.**
 
-![](media/image794.png)
+![](media/image794.webp)
 
 So, if we say <code>I **am** an American</code>, that's **the copula** at work.
 
@@ -176,11 +176,11 @@ That's a distinction that most languages don't make. **But the important distinc
 
 **is that <code>ser</code> and <code>estar</code> are not the same as <code>haber</code>, which is the verb of being.**
 
-![](media/image985.png)
+![](media/image985.webp)
 
 So if we say <code>Estos **son** huevos</code>, we're saying <code>These **are** eggs</code>; *(“son” should be copula here)*
 
-![](media/image1133.png)
+![](media/image1133.webp)
 
 if we say <code>**Hay** huevos</code>, we're saying <code>Eggs **exist**</code> -- two entirely different kinds of statement.
 
@@ -200,7 +200,7 @@ because Tae Kim argues so strongly that they aren't.
 
 I think I disposed of most of them. I didn't dispose of all of them because I wasn't trying to be exhaustive.
 
-![](media/image1013.png)
+![](media/image1013.webp)
 
 And I'm not going to deal with those arguments here either, because I think they're peripheral.
 
@@ -272,7 +272,7 @@ After all, **in older forms of the Japanese copula, like **である** and **で
 
 **even though the **で** changes them to copula."**
 
-![](media/image951.png)
+![](media/image951.webp)
 
 And the answer to that is absolutely yes.
 
@@ -338,7 +338,7 @@ As I demonstrated in that previous video *(Lesson 78)*,
 
 **it's just an empty formality** *(politeness)* **marker.**
 
-![](media/image512.png)
+![](media/image512.webp)
 
 ### です in adjectives is not just a random politeness marker
 
@@ -364,7 +364,7 @@ that is, **adjective sentences**, **that in their simple form have to end in -�
 
 and **copular sentences**, which have to **end in <code>だ</code> or <code>です</code>.
 
-![](media/image90.png)
+![](media/image90.webp)
 
 ::: info
  JUST IN CASE, [**this**](https://japanese.stackexchange.com/questions/43244/why-cant-%e3%81%a0-be-used-after-an-i-adjective/43246#43246) and [**this**](https://japanese.stackexchange.com/a/97338), it may be beneficial not to mistake the -い to be a copula proper like だ, but rather a predicative suffix for ADJECTIVES that can end a sentence in itself.  
@@ -404,7 +404,7 @@ It's doing something that is sometimes done in languages, and that is,
 
 **And that's the only actual case where <code>です</code> does something different from <code>だ</code>.**
 
-![](media/image563.png)
+![](media/image563.webp)
 
 ::: tip
  Recommend reading the comments [**under the video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) as usual. Zoom-in if anything.

@@ -10,7 +10,7 @@ and we're going to look at it from a different angle by contrasting it
 
 to something different from what we normally contrast it to.
 
-![](media/image1158.png)
+![](media/image1158.webp)
 
 And that is, we're going to look at what Tae Kim-sensei does with it.
 
@@ -20,7 +20,7 @@ which is the absolute core and center of every logical Japanese sentence.
 
 Today we're going to look at what he does with <code>だ</code>.
 
-![](media/image174.png)
+![](media/image174.webp)
 
 And in a way this is parallel to what he does with が.
 
@@ -30,7 +30,7 @@ That is to say, he essentially vagues it out of existence,
 
 takes away its logical function and gives it a vague kind of function.
 
-![](media/image98.png)
+![](media/image98.webp)
 
 Now, why does he do this?
 
@@ -40,7 +40,7 @@ because the conventional Eihongo grammar interpretation is a bit of an illogical
 
 and Tae Kim-sensei wants to tidy it up.
 
-![](media/image438.png)
+![](media/image438.webp)
 
 But essentially once again what he does is take the part of it that's wrong
 
@@ -58,7 +58,7 @@ And he also denies that <code>だ</code> and <code>です</code> are actually th
 
 and this is really for three reasons.
 
-![](media/image1075.png)
+![](media/image1075.webp)
 
 Firstly, if you deny the copula function it doesn't really much matter what they are.
 
@@ -80,7 +80,7 @@ which is a little bit confusing, but when you see it for what it is, it's just t
 
 So, how important is it that we misunderstand the <code>だ</code> copula?
 
-![](media/image259.png)
+![](media/image259.webp)
 
 It's not central to every Japanese sentence the way the が-particle is, so is it that bad?
 
@@ -142,7 +142,7 @@ And as we know, what the copula does is tell us that A is B.
 
 <code>さくらが日本人**だ**</code> means <code>Sakura **is** a Japanese person</code>.
 
-![](media/image319.png)
+![](media/image319.webp)
 
 It only works one way around.
 
@@ -158,7 +158,7 @@ Now, if we look at all the elements in Japanese, all the verbal elements, there 
 
 Unlike English, unlike European languages, there really are very few.
 
-![](media/image525.png)
+![](media/image525.webp)
 
 There are verbs, adjectives and the copula, and then, aside from that, we have nouns --
 
@@ -227,7 +227,7 @@ We know that <code>だ</code> can actually move into the past tense and become <
 
 but we don't realize that it's a fully, slightly limited, but a modulating element.
 
-![](media/image478.png)
+![](media/image478.webp)
 
 The fact that we know that it has one modulation just makes the whole thing more confusing.
 
@@ -243,7 +243,7 @@ and **it's the same て-form whether it's the <code>だ</code> version or the <c
 
 rather than after the noun it modifies.
 
-![](media/image972.png)
+![](media/image972.webp)
 
 We can say, <code>女の子は綺麗**だ**</code> (the girl **is** pretty), or we can say <code>綺麗**な**女の子</code>.
 
@@ -335,7 +335,7 @@ They're the most common forms, but **there are also two others.**
 
 Sometimes we use <code>である</code>, which is a bit of a fossil.
 
-![](media/image380.png)
+![](media/image380.webp)
 
 **It's an old form of the copula** and it's **used in formal but not necessarily polite contexts.**
 
@@ -364,7 +364,7 @@ but not particularly polite copula <code>である</code>.
 
 The other copula that we'll hear often is <code>でございます</code>, and **that's ultra-polite**.
 
-![](media/image43.png)
+![](media/image43.webp)
 
 **It's 敬語**, and you'll have this used to you in Japanese hotels and places like that.
 
@@ -395,7 +395,7 @@ And **a thing that <code>です</code> does in this case is that it can be added
 
 So we say <code>女の子がかわいい**です**</code>.
 
-![](media/image631.png)
+![](media/image631.webp)
 
 ::: info
 Although this will be touched upon in Lesson 79. It isn’t just a random empty marker.
@@ -418,7 +418,7 @@ And of course it's not just a question of adjectives.
 
 **in various places in Japanese to form a variety of different constructions.**
 
-![](media/image1023.png)
+![](media/image1023.webp)
 
 And I've included some of these in a video *(should be Lesson 40)* that I'll link above my head
 
@@ -442,7 +442,7 @@ And we should really touch here on the other problem with Tae Kim,
 
 which is not actually worse than the Eihongo textbooks, but it's no better.
 
-![](media/image307.png)
+![](media/image307.webp)
 
 And that is that he, like them, accepts the myth of <code>Japanese conjugation</code>.
 

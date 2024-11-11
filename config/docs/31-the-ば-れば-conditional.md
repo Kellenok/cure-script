@@ -22,7 +22,7 @@ First of all, what is ば/れば?
 
 ば/れば is a helper which we put on to the え-stem of a verb.
 
-![](media/image409.png)
+![](media/image409.webp)
 
 The え-stem is one of the lesser used stems but ば/れば is one of the things that uses it.
 
@@ -47,7 +47,7 @@ they just work like the ichidan verbs that they fundamentally are.
 
 For adjectives, we take off the -い and use the helper -ければ.
 
-![](media/image739.png)
+![](media/image739.webp)
 
 You might notice that when we do anything with an adjective other than simply
 
@@ -132,7 +132,7 @@ And this happens again in an even commoner Japanese construction.
 
 Now what we are actually saying here is <code>I must study</code>.
 
-![](media/image1010.png)
+![](media/image1010.webp)
 
 There actually isn't a word for <code>must</code> in Japanese, so we always construct it this way.
 
@@ -165,8 +165,8 @@ and I think this is to emphasize the nature of the <code>must</code>.
 if it helps, more literally something like <code>Why if (I) don’t go, (it’s) bad/it won’t do?</code>  
 Or as Dolly-先生 says in the comments for 行かなければいけない + what that いけない means:  
 :::
-*![](media/image1040.png)**  
-**![](media/image1003.png)
+*![](media/image1040.webp)**  
+**![](media/image1003.webp)
 
 In cases like that, where we're putting stress on it as opposed to cases where
 

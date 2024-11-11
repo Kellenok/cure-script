@@ -16,7 +16,7 @@ Japanese and English have very different world-outlooks. In some ways they are d
 
 My favorite example is: <code>わたしは**コーヒーが**すきだ.</code> Now, we can have the <code>わたし</code> or we can not have it *(or rather do not need to have it)*; it will be understood whether we say it or not.
 
-![](media/image227.png)
+![](media/image227.webp)
 
 What the textbooks and the schools and everybody else tells you is that this means <code>I like coffee</code>. And <code>I like coffee</code> may well be what we would say in English if we wanted to say something similar, **but it's not what this sentence means.** And if you've followed the course up to this point, you can see why it isn't.
 
@@ -24,15 +24,15 @@ What the textbooks and the schools and everybody else tells you is that this mea
 
 **The first and most important point here is – look where the が is. The が is marking the coffee.** **We know that the main actor** *(Subject in Active voice)*, **the doer or the be-er of a sentence, is always marked by が**, so we know that the main actor of this sentence **is not <code>わたし</code> –<code>I</code>**, **it is the coffee, which is marked by が.**
 
-![](media/image387.png)
+![](media/image387.webp)
 
 **<code>わたし</code> could have an invisible が after it, but in this case it can't**, because **we already know what the が is, it's the coffee. So the coffee is being or doing something.** **In English** we are told that it is an <code>A **does** B</code> sentence, but we only have to look at it to see that **it isn't**. **It ends with <code>だ</code>** – it's an <code>A **is** B</code> sentence, isn't it?
 
-![](media/image748.png)
+![](media/image748.webp)
 
 **The coffee is <code>すき</code>.** So, what does <code>すき</code> mean? **<code>すき</code> is a noun, and it's one of those adjectival nouns that we've talked about before.** So it's telling us something about the nature or condition of the coffee. In this case, **what it's telling us is that the coffee is pleasing. That's the core of the sentence: <code>Coffee is pleasing.</code>**
 
-![](media/image349.png)
+![](media/image349.webp)
 
 **The <code>わたしは</code>, implicit or explicit, is telling us in whose case it is pleasing:** <code>**As for me**, coffee is pleasing.</code> **Now, this is very very very important.** **Because if we don't know that, if we really believe that this sentence means <code>I like coffee</code>, our grasp of が and を is completely messed up.**
 
@@ -54,7 +54,7 @@ Well, frankly, it doesn't matter if there are many or not. Once your understandi
 
 For example, if we say <code>ほんがわかる</code>, or <code>わたしはほんがわかる</code>, we're saying **the book is understandable**, but the English texts tell you that this means <code>I understand the book</code>, and in this case it's even less forgivable, because there isn't really an equivalent to <code>すき</code> in English, but there is an equivalent to <code>わかる</code>. It means <code>understandable</code> or <code>clear</code>.
 
-![](media/image1153.png)
+![](media/image1153.webp)
 
 We could say <code>In relation to me, or just to me, the book is understandable</code>, **and then we wouldn't be completely messing up what が does or thinking that a noun that should be marked by を can be marked by が, at random.**
 
@@ -68,11 +68,11 @@ Later on, we're going to look at the potential form *(lesson 10)* and we're goin
 
 Well, suppose we want something. Let's say <code>こねこがほしい</code>.
 
-![](media/image14.png)
+![](media/image14.webp)
 
 <code>こねこ</code> is a kitten: <code>こ/子</code> is child or small thing and <code>ねこ</code> is cat. And <code>ほしい</code> is translated in English as <code>want</code>. Now, if you look at it, the first thing you can see is that **it's not a verb. It's an adjective.** It ends in <code>い</code>, not in <code>う</code>. And the second thing you can see, which is the most important, is that **the が-marked actor of this sentence is not me, who wants the cat. It's the cat, who is wanted.**
 
-![](media/image519.png)
+![](media/image519.webp)
 
 So, what does <code>ほしい</code> mean? Well, quite simply, it means <code>is wanted</code>. 
 ::: info
@@ -88,13 +88,13 @@ And again, if we seriously believe that this means <code>I want a cat</code>, we
 
 Now, suppose we want to do something. In Japanese we express wanting to do something differently from the way we express wanting to have something. **And the way we do it is by using the い-stem again.** The い-stem, as I told you before, is a very important stem. So in order to say we want something we have to add the **want-adjective**, which is <code>**たい**</code>. **So we now have an adjective.**
 
-![](media/image1137.png)
+![](media/image1137.webp)
 
 And what does this adjective mean? **It doesn't mean <code>want</code> in the English sense.** **It can't, because <code>want</code> is a verb and <code>たい</code>, ending in <code>い</code>, is an adjective, isn't it?** So let's take an example. This is a slightly notorious example.
 
 <code>わたしはクレープがたべたい</code>.
 
-![](media/image947.png)
+![](media/image947.webp)
 
 Now, the standard English translation of this is <code>I want to eat crepes</code>. But, as you see, the pattern here is just the same as in the other cases we've been considering. **The が-marked actor is not <code>わたし</code>, it's not <code>me</code>, it's the crepes.** **The desirability of the crepes is not a verb, it's an adjective.** And we need to understand this because if we don't it's not just going to mess up this kind of sentence – it's going to mess up our whole grasp of Japanese words, Japanese particles and Japanese structure.
 
@@ -108,25 +108,25 @@ Now, as I say, the pattern is the same in all these cases, and I don't think it'
 
 Well, the ironic thing is that in this case the zero-car is what the English textbooks thought it was all along. **It's <code>I</code>.**
 
-![](media/image881.png)
+![](media/image881.webp)
 
 I really am the actor of the sentence this time, and that may be part of the reason for a lot of the confusion that happens on this subject. <code>わたしがたべたい</code> means <code>I want to eat</code> – I don't want to eat crepes necessarily or Sakura's obento necessarily, I just want to eat. *(I eat-wanting-am)* And because there is no eat-inducing subject here, the want-to-eat is attributed directly to me. 
 
 And you may be asking – you should be asking – "So, what is this -たい? Is it an adjective describing the condition of something making you want to do something, or is it an adjective describing my desire?" **And the answer is that it can be either.** **Obviously when it is describing a cake it's also indirectly describing my feelings about the cake, it's describing the feelings the cake induces in me.** And when there's no cake there, or no crepe here, or no Sakura's obento there, we just describe my feelings directly. And this is often the case in Japanese with adjectives of desire. For example, <code>こわい</code>, which means either <code>scared</code> or <code>scary</code>. If I say, <code>おばけがこわい</code>, I'm saying, <code>Ghosts are scary</code>, but if I say just <code>こわい</code>, I'm saying, <code>I am scared</code>.
 
-![](media/image61.png)
+![](media/image61.webp)
 
 Now, is this confusing? It isn't confusing because we have a landmark that tells us what to do every time. And that landmark is が. **In these sentences and in much much more complicated sentences, if we watch the が and watch the other logical particles, we'll never go wrong, because the logical particles never ever ever change their function.** So we can use them as our compass. **And that's why it's so very destructive to induce people to believe they can change their function as the textbooks do.** 
 
 If you have a compass and I say to you, "Ah, well, most of the time the compass points north, but sometimes points south and actually quite a lot of the time it also points east", you might as well not have a compass. I have destroyed the value of your compass for you. **And it's the same with the logical particles. They are absolutely reliable. They always point north.** *(Or I guess, they always point to where they should point, one way)* **They never change their function.**
 
-![](media/image163.png)
+![](media/image163.webp)
 
 So, **if が marks the crepes then we know that the subject of the sentence, the thing about which the engine is telling us, is the crepes, nothing else.** **But if we don't have the が-marked subject there, we know that by default the zero-pronoun is usually <code>I</code> unless there's a reason to think it's something else.** It's just the same as in the eel example that we gave in the lesson on は. 
 
 Now, I'm going to tell you one more thing, and I hope I'm not overloading you with information in this lesson, but it will have the advantage of giving you even more confidence about what the zero pronoun is in these cases. And that is that **you cannot use these adjectives of desire, of feeling, about anyone but yourself.**
 
-![](media/image172.png)
+![](media/image172.webp)
 
 So **if I say <code>たべたい</code> and there is nothing to たべたい in the sentence or the context then I must be talking about me, I can't be talking about you and I can't be talking about Sakura.** Why not? Because Japanese doesn't permit us to do that. **You can't use <code>-たい</code> about someone else, or <code>こわい</code> or <code>ほしい</code> – we can't use any of these things about someone else.**
 
@@ -144,7 +144,7 @@ Note the word statement here, たい cannot be used when <code>exhibiting actual
 
 So what do I do? **I have to add to the adjective of desire a helper verb. I take the <code>い</code> off the い-adjective and I add the helper verb <code>がる</code>.** And <code>がる</code> means <code>to show signs of / to look as if it is the case</code>. So if I say, <code>さくらがケーキをほしがる</code> then I'm saying Sakura is showing signs of wanting cake. That's what I'm literally saying.
 
-![](media/image808.png)
+![](media/image808.webp)
 
 **And even if she's actually told me she wants cake, that's still what I say, because I can't feel her feelings.** I only know what she's doing and saying. 
 

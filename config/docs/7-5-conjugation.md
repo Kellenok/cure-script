@@ -44,7 +44,7 @@ In linguistics and grammar, things are not simple and so if you want to explain 
 ::: info
 This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjugation, so just keep it in mind:
 
-![](media/image408.png)
+![](media/image408.webp)
 :::
 
 **What we are doing all the time is attaching a simple helper verb – or helper adjective or helper noun – to the stems of the verb.**
@@ -63,13 +63,13 @@ All right. So, let's give you the master chart, which will show you how all of t
 
 So, here is the familiar Japanese kana chart, with all the sounds of Japanese.
 
-![](media/image321.png)
+![](media/image321.webp)
 
 I've turned it on its side, for reasons which will become apparent shortly. All Japanese verbs end with one of the kana in the middle row – it looks like a column because I've turned it on its side. That is the う-row – う, く, す, つ, ぬ etc.
 
 However, there is no verb ending in ゆ, so we can get rid of these two columns and simplify the chart.
 
-![](media/image263.png)
+![](media/image263.webp)
 
 Actually, there is only one verb that ends in ぬ – that's しぬ, to die – so we could get rid of that too and make it look even simpler, but I'm keeping it in for completeness.
 
@@ -78,7 +78,7 @@ So, **every verb ends with one of the kana in the red box.** Let's have an examp
 
 Now, as you can see, there are four other possible endings that the verbs could have, and in fact each of those endings is used.
 
-![](media/image778.png)
+![](media/image778.webp)
 
 **And when we use one of the other endings, the verb stops being a verb and becomes what I call a 'sticky stem', that is, a stem to which we stick something else.**
 
@@ -86,10 +86,10 @@ Now, as you can see, there are four other possible endings that the verbs could 
 
 So, here is the い-stem.
 
-![](media/image670.png)
+![](media/image670.webp)
 
 ::: info
-If you are wondering why そう is there, yet is not mentioned here. It'll be in Lesson 24. ![](media/image481.png)
+If you are wondering why そう is there, yet is not mentioned here. It'll be in Lesson 24. ![](media/image481.webp)
 :::
 
 With the い-sticky stem, we change the う-row kana to the corresponding い-row kana. So, かう becomes かい, きく becomes きき, はなす becomes はなし, and so forth.
@@ -100,7 +100,7 @@ What do we do with the **い** row sticky stem?
 
 Well, the thing that you have all seen, I'm sure, is we can attach the helper verb ます to the い-row sticky stem.
 
-![](media/image664.png)
+![](media/image664.webp)
 
 **ます is not a conjugation. It is a verb. It is a helper verb and it attaches to the い-row sticky stem**. **It does not change the meaning of the verb, but it makes it formal.** *(polite)*
 
@@ -133,7 +133,7 @@ So たべる becomes たべ; たべます is the formal form of the verb;
 There also exists a noun 買い (it is a noun), that means shopping, buying, product etc.  
 So it is similar in meaning, I don't know what the connection is between it and 買い物 or such, but just so that you know there are a few such cases. It also shows that not every word ending in い is automatically an Adjective, although the vast majority are... perhaps the い was some Kanji noun in the past too and now it no longer takes its Kanji form???, who knows…
 
-![](media/image473.png)
+![](media/image473.webp)
 :::
 
 
@@ -142,7 +142,7 @@ So it is similar in meaning, I don't know what the connection is between it and 
 
 So now we come to the あ-row sticky stem, and this has one exception.
 
-![](media/image269.png)
+![](media/image269.webp)
 
 And you'll say, <code>Ah, languages! Full of exceptions!</code>
 
@@ -162,7 +162,7 @@ So what do we use the あ-ending stem for?
 
 I've already mentioned it *(Lesson 7)* – probably the most common use is to attach the helper adjective ない to the sticky stem of a verb.
 
-![](media/image386.png)
+![](media/image386.webp)
 
 **It attaches to the あ-sticky stem**, so かう, buy, becomes かわない, not buy;  
 きく, hear, becomes きかない, not hear;  
@@ -178,7 +178,7 @@ Today we are just going to look at the structure.
 
 So, the causative form of a verb, which means **to allow someone to do something or make someone do something**, is formed **by attaching the helper verb せる / させる to the あ-row** sticky stem.
 
-![](media/image161.png)
+![](media/image161.webp)
 
 Now, I say せる / させる – what does that mean?
 
@@ -235,7 +235,7 @@ We just shift to the あ-row and add the helper adjective ない, the helper ver
 
 Now we come to the え-row sticky stem.
 
-![](media/image790.png)
+![](media/image790.webp)
 
 Just like the others, it's perfectly consistent. You just change the う-row kana into the corresponding え-row kana.
 
@@ -247,7 +247,7 @@ So かう becomes かえ, きく becomes きけ, はなす becomes はなせ, an
 
 The helper verb, which is stuck onto the え-row sticky stem, is る / られる.
 
-![](media/image102.png)
+![](media/image102.webp)
 
 **And yes, even though it's simply る, just that one character, it is a helper verb** – if you look it up in a Japanese dictionary (not a Japanese-English dictionary, but a real Japanese dictionary), you will find る there as a 助動詞/*じょどうし*, a helper verb – and it has these two forms, る and られる.
 
@@ -265,7 +265,7 @@ can as in <code>is possible / is able</code>, later on that in Lesson 10.
 
 So, now we come the last sticky stem, the お-row sticky stem, and just as with the others, it's perfectly consistent.
 
-![](media/image311.png)
+![](media/image311.webp)
 
 かう becomes かお; きく becomes きこ; はなす becomes はなそ.
 

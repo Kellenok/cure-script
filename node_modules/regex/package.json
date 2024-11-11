@@ -1,0 +1,52 @@
+{
+  "name": "regex",
+  "version": "4.4.0",
+  "description": "Regex template tag with extended syntax, context-aware interpolation, and always-on best practices",
+  "author": "Steven Levithan",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./types/regex.d.ts",
+      "import": "./dist/regex.mjs",
+      "require": "./dist/regex.cjs"
+    },
+    "./atomic": {
+      "types": "./types/atomic.d.ts",
+      "import": "./src/atomic.js"
+    }
+  },
+  "browser": "./dist/regex.min.js",
+  "types": "./types/regex.d.ts",
+  "scripts": {
+    "bundle:global": "esbuild src/regex.js --global-name=Regex --bundle --minify --sourcemap --outfile=dist/regex.min.js",
+    "bundle:esm": "esbuild src/regex.js --format=esm --bundle --sourcemap --outfile=dist/regex.mjs",
+    "bundle:cjs": "esbuild src/regex.js --format=cjs --bundle --sourcemap --outfile=dist/regex.cjs",
+    "types": "tsc src/regex.js --rootDir src --declaration --allowJs --emitDeclarationOnly --outDir types",
+    "prebuild": "rm -rf dist/* types/*",
+    "build": "npm run bundle:global && npm run bundle:esm && npm run bundle:cjs && npm run types",
+    "pretest": "npm run build",
+    "test": "jasmine && tsc --project spec/types/tsconfig.test.json",
+    "prepare": "npm test"
+  },
+  "files": [
+    "dist",
+    "src",
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slevithan/regex.git"
+  },
+  "keywords": [
+    "regex",
+    "regexp"
+  ],
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "expect-type": "^1.1.0",
+    "jasmine": "^5.4.0",
+    "regex-utilities": "^2.3.0",
+    "typescript": "^5.6.3"
+  }
+}

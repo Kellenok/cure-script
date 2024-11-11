@@ -18,7 +18,7 @@ If you look up <code>Japanese word order</code> on the Internet,
 
 you'll find that there are broadly two different opinions being promulgated.
 
-![](media/image787.png)
+![](media/image787.webp)
 
 The first is that Japanese is an SOV language, that's a Subject-Object-Verb language.
 
@@ -71,7 +71,7 @@ it isn't the only way of putting it.
 
 We could just as easily say <code>スーザンをメアリーがなぐった</code> *and we're still saying <code>Mary hit Susan</code>*, even though we've changed the order.
 
-![](media/image921.png)
+![](media/image921.webp)
 
 Because in Japanese the question of who did what to whom and most other logical questions like where it was done, what it was done with, and all those things are handled by logical particles.
 
@@ -117,7 +117,7 @@ even at a very basic level.
 
 The first rule of Japanese word order is: The Engine always goes at the end of the sentence.
 
-![](media/image292.png)
+![](media/image292.webp)
 
 Now, if I were talking in this very verb-centered English way, I would say
 
@@ -131,7 +131,7 @@ We also have <code>A is B</code> sentences.
 
 And whatever kind of sentence we have, the Engine always goes at the end of the sentence.
 
-![](media/image13.png)
+![](media/image13.webp)
 
 There are three possible kinds of Engine.
 
@@ -161,7 +161,7 @@ The second rule is this, and this is the one that can cause confusion if you don
 
 Anything that modifies any-THING must go before it.
 
-![](media/image154.png)
+![](media/image154.webp)
 
 Now what do I mean by <code>anything</code> and <code>any-THING</code> and what do I mean by <code>modify</code>?
 
@@ -183,7 +183,7 @@ So if we have a dress and then we put a modifier before it and say it's a <code>
 
 then we've modified it -- we've made it blue.
 
-![](media/image78.png)
+![](media/image78.webp)
 
 If we say it's a <code>big dress</code> then we've modified it and made it big.
 
@@ -211,7 +211,7 @@ We might say <code>an interesting-looking pale blue dress</code>,
 
 and all of it still comes before the noun <code>dress</code>, doesn't it?
 
-![](media/image1033.png)
+![](media/image1033.webp)
 
 However, when modifiers become more complex *in English*
 
@@ -249,7 +249,7 @@ and finally we put on the action button, the verb.
 
 And we always press the action button last.
 
-![](media/image601.png)
+![](media/image601.webp)
 
 So this is the order of Japanese sentences.
 
@@ -267,7 +267,7 @@ And from the word order we can always tell what's happening.
 
 If we have a clause that ends in one of the Engines, a Verb, an Adjective or a Noun plus Copula, we know that that is a logical clause.
 
-![](media/image332.png)
+![](media/image332.webp)
 
 But if it's turned around in any way, if it's ending in a noun and not in an Engine,
 
@@ -279,7 +279,7 @@ Let's take the example we've been looking at.
 
 If we say <code>いちばで *(zeroが)* 青いドレスを買った</code>, we're saying <code>I bought a blue dress at the market.</code>
 
-![](media/image1069.png)
+![](media/image1069.webp)
 
 And we know that that's a logical clause because of Rule One.
 
@@ -303,7 +303,7 @@ a modifier for that element that we've moved to the head.
 
 So, if we say, <code>いちばで *(zeroが)* 買ったドレス</code>, we're saying <code>the dress I bought at the market</code>.
 
-![](media/image802.png)
+![](media/image802.webp)
 
 This is no longer a logical clause. It's a modified noun, and the noun is the dress.
 
@@ -311,7 +311,7 @@ Now, we can just as easily bring the market to the head of the clause.
 
 We can say, <code> *(zeroが)* ドレスを買ったいちば</code>, and now we're saying <code>the market at which I bought the dress</code>.
 
-![](media/image217.png)
+![](media/image217.webp)
 
 And again, we know this isn't a logical clause because it doesn't have an Engine at the head.
 
@@ -332,7 +332,7 @@ And knowing what is modifying, what is being modified, knowing whether something
 So, the full clause here might be:  
 <code> *(zeroが)* いちばで買ったドレスをメガネをかけている少女にあげた.</code>
 
-![](media/image1056.png)
+![](media/image1056.webp)
 
 So then we're saying, <code>I gave the dress that I bought at the market to a girl wearing glasses.</code>
 

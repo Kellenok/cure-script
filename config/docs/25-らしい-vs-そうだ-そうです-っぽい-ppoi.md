@@ -16,7 +16,7 @@ So, we're going to look at **<code>らしい</code>, which is a helper adjective
 
 And **this is an adjective ending in -しい**, which is what we can call a **subclass of adjectives**.
 
-![](media/image117.png)
+![](media/image117.webp)
 
 All real adjectives, as you know, end in -い.
 
@@ -38,7 +38,7 @@ So, for example, <code>かな/悲しい</code> is <code>sad</code>; <code>うれ
 
 and <code>悲しい</code>, **it's still in some way a subjectivity because difficulty is relative to particular individuals.**
 
-![](media/image553.png)
+![](media/image553.webp)
 
 **Whether you find a thing difficult or easy depends to a large extent on**
 
@@ -53,7 +53,7 @@ Its use is very simple.
 
 **to a complete logical clause or sentence.**
 
-![](media/image9.png)
+![](media/image9.webp)
 
 And the attachment is absolutely simple, because we never do anything at all except
 
@@ -61,7 +61,7 @@ And the attachment is absolutely simple, because we never do anything at all exc
 
 **We don't change anything, we don't do anything, so it really couldn't be easier.**
 
-![](media/image126.png)
+![](media/image126.webp)
 
 Now, **as with <code>そう</code>, if we put it after a single word**
 
@@ -77,7 +77,7 @@ If we put <code>そうだ</code> after a completed clause, as you know, we compl
 
 **we've heard that that sentence is the case.**
 
-![](media/image167.png)
+![](media/image167.webp)
 
 ### らしい vs そうだ - after a complete clause
 
@@ -85,7 +85,7 @@ So if we say, <code>あの動物はウサギだそうだ</code>, we're saying <c
 
 Now, if we say, <code>あの動物はウサギだ**らしい**</code>, we're saying <code>**It seems** that animal is a rabbit</code>.
 
-![](media/image508.png)
+![](media/image508.webp)
 
 Now, **that can mean the same thing as** <code>ウサギだ**そうだ**</code>.
 
@@ -123,7 +123,7 @@ The rabbit's gone and I'm examining its footprints and you come up to me and say
 
 Again, <code>**It appears that** it was a rabbit</code>, or <code>**It seems that** it was a rabbit.</code>
 
-![](media/image845.png)
+![](media/image845.webp)
 
 In this case, you would probably conclude from what I'm doing that by saying
 
@@ -148,7 +148,7 @@ It's just the same as in English if you said
 **that you're talking about something you heard from other people**, then you say,  
 <code>ウサギだった**そうだ**</code>.
 
-![](media/image516.png)
+![](media/image516.webp)
 
 That is unambiguous. That can only mean <code>**I heard it from somebody**</code>.
 
@@ -162,7 +162,7 @@ the most immediate difference between <code>らしい</code> and <code>そうだ
 
 **We can only apply it to an adjectival noun**, and there's a good reason for that.
 
-![](media/image894.png)
+![](media/image894.webp)
 
 We'll get to it in a moment.
 
@@ -226,7 +226,7 @@ But if we know that she's a teacher and we say, <code>さくら先生は先生**
 
 we mean that she **behaves like** a teacher.
 
-![](media/image355.png)
+![](media/image355.webp)
 
 **She is a teacher and she has the right qualities and manner for being a teacher.**
 
@@ -234,7 +234,7 @@ we mean that she **behaves like** a teacher.
 
 Conversely, we could say, <code>さくら先生は、先生**らしくない**</code> and in that case, we're saying, <code>Well, we know she's a teacher, but she **doesn't behave like** one, she **doesn't act like** a teacher.</code>
 
-![](media/image84.png)
+![](media/image84.webp)
 
 So you see, **with <code>らしい</code> we are getting into much more subjective areas.**
 

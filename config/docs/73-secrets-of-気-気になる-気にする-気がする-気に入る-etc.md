@@ -10,7 +10,7 @@ and various expressions that incorporate it,
 
 like <code>気にする</code>, <code>気がする</code>, <code>気になる</code>, <code>気に入る</code> and so forth.
 
-![](media/image295.png)
+![](media/image295.webp)
 
 Now, people often find these confusing and
 
@@ -34,7 +34,7 @@ because if you are taught things like <code>コーヒーが好きだ</code> mean
 
 you never really understand what the unchanging nature of the が-particle, for example, is.
 
-![](media/image969.png)
+![](media/image969.webp)
 
 And if you do have any doubts about the nature of the five main logical particles,
 
@@ -51,14 +51,14 @@ All right. So what is <code>気</code>?
 <s>The kanji is the same kanji that we have in <code>tai chi</code>.</s>  
 ::: info
 Dolly erred here, 気 is not used in 太極. Luckily, one <code>nleseul</code> clears it up, kudos to them.*  
-![](media/image503.png)
+![](media/image503.webp)
 :::
 
 It's a Daoist concept and probably goes back to a time before what we now know as Daoism.
 
 To this day the concept is used in Chinese medicine, Chinese and Japanese martial arts, and other areas.
 
-![](media/image989.png)
+![](media/image989.webp)
 
 What it is is the fundamental spirit of fluid energy in a person or something else.
 
@@ -83,7 +83,7 @@ If we look at the kanji, interestingly, this part of it 气 ***([Radical 84](htt
 So, a <code>汽車</code> is a steam engine.
 
 And then we have this <code>メ</code>, as it were, and here <code>メ</code> really <code>marks the spot</code>. (気)  
-![](media/image592.png)
+![](media/image592.webp)
 
 We have the fixed cross portion and we have the fluid, vaporous portion.
 
@@ -101,7 +101,7 @@ Now, <code>元気</code>, as you know, is vigor or health.
 
 The <code>元</code> means original, fundamental.
 
-![](media/image267.png)
+![](media/image267.webp)
 
 So, one's original <code>気</code> is healthy and vigorous.
 
@@ -123,7 +123,7 @@ So we might say
 
 <code>海外で勉強する気がある</code>
 
-![](media/image410.png)
+![](media/image410.webp)
 
 And what we're saying here is that a particular <code>気</code> exists in us that is the <code>気</code> to study abroad.
 
@@ -131,7 +131,7 @@ So in this sense <code>気</code> is the will or inclination to do a particular 
 
 When we say <code>気を付ける</code>, this literally means attach or stick your spirit.
 
-![](media/image624.png)
+![](media/image624.webp)
 
 So if someone said <code>階段に気を付ける</code>,
 
@@ -159,21 +159,21 @@ Now, when we get on to things like <code>気になる</code> and <code>気にす
 
 we've dealt in a previous lesson with <code>になる</code> and <code>にする</code>.　*(not sure, possibly Lesson 8 & 18)*
 
-![](media/image39.png)
+![](media/image39.webp)
 
 So, for example, if we say <code>さくらがカエルになる</code>, we're saying Sakura turns into a frog.
 
-![](media/image6.png)
+![](media/image6.webp)
 
 If we say <code>魔女がさくらをカエルにする</code>, we're saying that a witch turns Sakura into a frog.
 
-![](media/image685.png)
+![](media/image685.webp)
 
 And of course we know who is doing what because of the logical particles.
 
 So what does it mean when we talk about <code>気になる</code> and <code>気にする</code>?
 
-![](media/image39.png)
+![](media/image39.webp)
 
 We're saying that something becomes our spirit. What would we mean by that?
 
@@ -213,7 +213,7 @@ Now, this is what we're saying when we say <code>気になる</code> and <code>�
 
 If we say <code>あの人は気になる</code>, we're saying that person turns into my spirit.
 
-![](media/image548.png)
+![](media/image548.webp)
 
 My spirit is remolded, as it were, a certain part of it, for a certain period,
 
@@ -255,7 +255,7 @@ what that person is doing, is turning into our spirit.
 
 Now, when we take <code>気にする</code>, we say <code>あの人を気にする</code>.
 
-![](media/image896.png)
+![](media/image896.webp)
 
 So now the doer of the action is not that person; the doer of the action is me.
 
@@ -319,7 +319,7 @@ what we're saying is <code>There's a good smell</code>,
 
 <code>There's a pretty sound / a pretty sound happened / a pretty sound acted</code>.
 
-![](media/image1037.png)
+![](media/image1037.webp)
 
 What we mean by <code>する</code> in the case of a smell or a sound
 
@@ -341,7 +341,7 @@ I've got a feeling we're being tricked" --
 
 such a <code>気</code>, such a feeling, is active.
 
-![](media/image850.png)
+![](media/image850.webp)
 
 If we say <code>強くなった気がする</code>,
 
@@ -363,7 +363,7 @@ If we say <code>それを気に入る</code>, we're saying <code>I like that</co
 :::
 Now, what we're really saying is that I'm letting that into my soul.
 
-![](media/image998.png)
+![](media/image998.webp)
 
 What's confusing here is that <code>入る/いる</code> is not being used in its normal way.
 
@@ -410,4 +410,4 @@ So, I hope this makes the whole <code>気</code> usage a little clearer…
 ::: info
 [**The Buddhist concept of <code>non-self</code>**](https://en.wikipedia.org/wiki/Anatt%C4%81) may be a good study to see how Japanese works.
 :::
-![](media/image99.png)
+![](media/image99.webp)

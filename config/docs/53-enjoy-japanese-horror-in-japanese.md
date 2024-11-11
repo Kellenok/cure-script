@@ -42,7 +42,7 @@ So, let's see what happened next.
 
 <code>部屋の中は電気がついておらず</code>
 
-![](media/image296.png)
+![](media/image296.webp)
 
 Now, so long as we understand that <code>電気をつける</code> means <code>turn on the lights</code>
 
@@ -54,7 +54,7 @@ What does that mean?
 
 Well, <code>おる</code> means the same as <code>いる</code>, which is to <code>be</code>.
 
-![](media/image32.png)
+![](media/image32.webp)
 
 Generally we're told that it means to <code>be</code> of animate beings, like animals and people.
 
@@ -77,7 +77,7 @@ Well, you also have to understand that <code>-ず</code> is also a piece of olde
 
 a literary feeling to a narrative and it's simply a negative helper like <code>-ない</code>.
 
-![](media/image506.png)
+![](media/image506.webp)
 
 So why is it <code>おらず</code>?
 
@@ -101,7 +101,7 @@ and we know that when we see an adjective without its -い on the end,
 
 if it makes a word at all, it will be a noun.
 
-![](media/image111.png)
+![](media/image111.webp)
 
 We also know that if we see a word that is all kanji, it's almost certainly going to be a noun.
 
@@ -123,7 +123,7 @@ and this is actually working in tandem with the <code>-らしい</code> at the e
 
 which also means <code>seems like, appears to be</code>.
 
-![](media/image940.png)
+![](media/image940.webp)
 
 And we've covered this in a previous lesson as well. *(Lesson 25)*
 
@@ -194,7 +194,7 @@ so <code>起こす</code> is to wake someone else up.
 
 <code>起こそうか</code> -- so, she's thinking about this action.
 
-![](media/image745.png)
+![](media/image745.webp)
 
 The <code>か</code>, as we know from another lesson *(Lesson 39)*, marks a question, that's to say, a proposition.
 
@@ -222,7 +222,7 @@ is the い-stem of <code>思い出す</code> -- <code>remember</code> --
 
 and the い-stem here *(the し)* is being used like the て-form to make this clause a part of a compound sentence.
 
-![](media/image1022.png)
+![](media/image1022.webp)
 
 So we have a three-fold compound sentence now.
 
@@ -232,7 +232,7 @@ and the second part we're using -し like the て-form as the connector for the 
 
 and the third part is <code>そっとしておくことにした</code>.
 
-![](media/image581.png)
+![](media/image581.webp)
 
 <code>そっと</code> is another one of these adverbial nouns, meaning <code>softly, gently or quietly</code>.
 
@@ -262,7 +262,7 @@ which is the kind of implication that <code>そっと</code> often tends to have
 
 <code>置く/おく</code> means to <code>place (something)</code>.
 
-![](media/image1000.png)
+![](media/image1000.webp)
 
 Attaching <code>おけ</code> to the て-form of a verb means putting that action in place.
 
@@ -282,7 +282,7 @@ So we've got this whole sentence here:
 
 <code>無用心だな、と思った彼女は電気をつけて先輩を起こそうかと思ったが、 *(zeroが)*  先輩がかなり酔っていたのを思い出し、 *(zeroが)*  そっとしておくことにした</code>
 
-![](media/image24.png)
+![](media/image24.webp)
 
 So, "**That**s dangerous, isn't it, leaving the door open,' she thought;
 
@@ -294,7 +294,7 @@ and so she decided to do what she had to do quietly."
 
 <code>真っ暗の中で自分の携帯電話を探し出すと</code> –
 
-![](media/image547.png)
+![](media/image547.webp)
 
 "In the pitch darkness -- 真っ暗の中で --
 

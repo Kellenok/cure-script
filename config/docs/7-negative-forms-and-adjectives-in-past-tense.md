@@ -8,11 +8,11 @@ Today we're going to talk about negatives. And in order to do that we're going t
 
 **The fundamental basis of negatives is the adjective <code>ない</code>.** This adjective means <code>non-exist / not-be</code>.
 
-![](media/image1007.png)
+![](media/image1007.webp)
 
 The word for <code>exist</code> for any object, any inanimate thing, the sky, the sea, the universe, a grain of rice, a flower, a tree, anything, is <code>ある</code>. So, if we want to say, <code>There is a pen / A pen exists</code>, we say <code>ペンがある</code>. But if we want to say there isn't a pen, we say <code>ペンがない</code>.
 
-![](media/image573.png)
+![](media/image573.webp)
 
 Now, why do we use a verb for being and an adjective for non-being? Because this happens throughout Japanese. Whenever we DO something we use a verb. Whether we walk, or sing, or run, or anything – that's a verb. **But if we don't do it, then we attach <code>ない</code> to the verb and that becomes the engine of the sentence.** So when we say we're **not** doing something, **we're not using a verb, we're using an adjective.**
 
@@ -22,18 +22,18 @@ So, if we want to say, <code>There is no pen</code>, we say <code>ペンがな�
 
 If we want to say <code>There is a pen</code>, as we know, we say <code>これは (</code>これ<code> – </code>this<code>)... これはペンだ</code>. <code>As for this, pen = / As for this, it's a pen.</code>
 
-![](media/image230.png)
+![](media/image230.webp)
 
 ::: info
 In the video, Dolly makes a mistake and shows a black が car in ペンだ.  
 I fixed it through my "highly professional" skills in Paint (•̀o•́)ง… anyway here is her comment.
 :::
 
-![](media/image37.png)
+![](media/image37.webp)
 
 But if we want to say, <code>This is not a pen</code>, we say, <code>これは *(zeroが)* ペンではない</code>.
 
-![](media/image213.png)
+![](media/image213.webp)
 
 So what does that mean? **Well, the <code>で</code> is the て-form of <code>だ</code> or <code>です</code>.** So we still have <code>これはペンだ</code> in the form of <code>これはペンで</code> and then we're attaching <code>ない</code>. So what we're saying is, <code>As for this, as for being a pen, it isn't / This is not a pen</code>. All right.
 
@@ -41,7 +41,7 @@ So what does that mean? **Well, the <code>で</code> is the て-form of <code>�
 
 So now let's move on to the largest part of this question, which is verbs. In order to put a verb into the negative, **we have to attach <code>ない</code>,** **and we do this by attaching it to the あ-stem.** 
 
-![](media/image488.png)
+![](media/image488.webp)
 
 What does that mean? Well, let's look at the stem system. The Japanese verb-stem system is the simplest, the most logical and the most beautiful verb transformation system in this world. It's almost absolutely regular. Once you know how to do it, you can make any transformation (except for the て- and た-form, which you already know). 
 
@@ -55,11 +55,11 @@ So let's look at it. As we've already learned, every verb ends in one of the う
 
 Now, as you can see, there are four other possible ways in which a verb could end. And each of those four ways is used, and they are called the verb-stems.
 
-![](media/image36.png)
+![](media/image36.webp)
 
 Today we are only going to look at the あ-stem, because that's the one we need for the negative. So, to form the あ-stem, we simply shift the last kana of the verb from the う-row to the あ-row. So <code>きく</code> (hear) becomes <code>きか</code>, <code>はなす</code> (speak) becomes <code>はなさ</code>, <code>もつ</code> (hold) becomes <code>もた</code>, and so forth.
 
-![](media/image816.png)
+![](media/image816.webp)
 
 There's only one exception in this system – and when I say that I mean the whole system, all the stems – there's only this one exception, which is that **when a word ends in the う-kana the stem doesn't change to <code>-あ</code>, it changes to <code>わ</code>.** So the negative of <code>かう</code> is not <code>かあない</code>, it's <code>かわない</code>. And it's only in the あ-stem that we have this exception, so that's the only exception in the whole system, and you can see why it exists: <code>かあない</code> is not as easy to say as <code>かわない</code>, is it?
 
@@ -71,15 +71,15 @@ And as we already know, **with ichidan verbs, they only ever drop that <code>-�
 
 Now, what about adjectives? How do we make adjectives negative? Well, when we make a transformation to an adjective, **what we always do is we turn the <code>-い</code> at the end of it into <code>-く</code>:** <code>あかい</code> (is-red) becomes <code>あかく</code>; <code>かわいい</code> (is-cute) becomes <code>かわいく</code>; こわい (is-scary) becomes <code>こわく</code>.
 
-![](media/image303.png)
+![](media/image303.webp)
 
 And this is the way we make the て-form of adjectives: <code>あかく</code> becomes <code>あかくて</code>. 
 
-![](media/image926.png)
+![](media/image926.webp)
 
 **And it's also the way we make the negative:** <code>あかい</code> becomes <code>あかくない</code> (not-red). 
 
-![](media/image860.png)
+![](media/image860.webp)
 
 Now interestingly, this -く is the opposite of what happens in the て-form, isn't it? If a word ends in -く, in the て-form we turn that -く into -い. **But in an adjective we turn the -い into -く.**
 
@@ -97,17 +97,17 @@ Notice the っ before た instead of just た, as given in Lesson 5 Godan Verb G
 
 and if we want to say <code>Sakura didn't run (in the past)</code>, we say <code>さくらがはしらなかった</code>. <code>はしらない</code>, and then we put <code>ない</code> into the past: <code>はしらなかった</code>. 
 
-![](media/image187.png)
+![](media/image187.webp)
 
 Now, as we all know. <code>さくらがはしる</code> is rather unnatural Japanese, just as it's rather unnatural English. We say <code>Sakura is running</code> in English, and in Japanese we say <code>さくらがはしっている</code>. So if we want to put all that in the past, what do we do? Well, all we have to do is put that <code>いる</code> into the past. 
 
 So we say <code>さくらがはしっていた</code> – <code>Sakura was running</code>.
 
-![](media/image554.png)
+![](media/image554.webp)
 
 And if we want to say <code>Sakura wasn't running</code>, we say <code>さくらがはしっていなかった</code>. That <code>いる</code> is a simple ichidan verb, so we just drop the -る and put on た *(positive past)* or ない *(negative)* and, in the past, なかった. *(since ない in the past becomes なかった)*
 
-![](media/image12.png)
+![](media/image12.webp)
 
 **I always say that Japanese is like Lego.** **Once you know the basic building blocks you can build anything.** **And there are almost no exceptions in Japanese.**
 
@@ -119,7 +119,7 @@ In the whole of what we've been talking about today there are really just two ex
 
 So, <code>はなす</code> becomes <code>はなします</code>, <code>きく</code> becomes <code>ききます</code> and so on. When you put <code>ます</code> into the negative, it does not become <code>まさない</code>, as you would expect – **it becomes <code>ません</code>.**
 
-![](media/image360.png)
+![](media/image360.webp)
 
 **Because it's formal, it's a bit old-fashioned and it uses the old Japanese negative <code>せん</code> instead of <code>ない</code>.**
 
@@ -127,10 +127,10 @@ So, <code>はなす</code> becomes <code>はなします</code>, <code>きく</c
 Dolly once again makes a typo here in the video, I fixed it again.
 :::
 
-![](media/image941.png)
+![](media/image941.webp)
 
 The only other apparent exception is that <code>いい</code> , the adjective <code>いい/良い</code>, which means <code>is-good</code>, has an older form, <code>よい/良い</code>, which is still used quite often. And **when we make any transformation to <code>いい</code>, it turns back to <code>よい</code>**, so in the past tense we don't say <code>いかった</code>, **we say** <code>**よ**かった</code> – and if you've seen much anime you've probably heard this quite often.
 
-![](media/image253.png)
+![](media/image253.webp)
 
 <code>よかった</code>, literally <code>(zeroが)よかった</code> – <code>(It) was good / That turned out well / That's great</code>. And if you want to say something is not good, you don't say <code>いくない</code>, **you say** <code>**よ**くない</code>. And those are the only exceptions.

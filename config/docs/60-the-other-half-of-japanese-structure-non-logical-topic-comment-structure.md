@@ -10,7 +10,7 @@ the most important subjects in Japanese structure.
 
 In fact this is the other half of Japanese structure.
 
-![](media/image544.png)
+![](media/image544.webp)
 
 We've referred to it on many occasions.
 
@@ -54,7 +54,7 @@ and that's why English uses so many pronouns.
 
 That's why it's saying <code>it</code> at the time.
 
-![](media/image241.png)
+![](media/image241.webp)
 
 So, we can say "I had a ball.  
 It rolled down the hill. It reached the bottom. It was a red ball."
@@ -95,7 +95,7 @@ So <code>it</code> is not tracking the subject, it's not tracking the object,
 
 it's tracking the topic, the thing we're talking about.
 
-![](media/image476.png)
+![](media/image476.webp)
 
 That's what a topic is.
 
@@ -109,7 +109,7 @@ we would have to map it as <code>**zeroは**zeroがアメリカ人です</code>,
 
 that is <code>I am the topic, I am the subject, and I'm an American.</code>
 
-![](media/image982.png)
+![](media/image982.webp)
 
 We don't have to go through all that every time, but it's important to know that it exists.
 
@@ -130,7 +130,7 @@ But while it's logically complete, it isn't grammatically complete without under
 
 that there is also an invisible は-marked topic:
 
-![](media/image889.png)
+![](media/image889.webp)
 
 <code>**zeroは**コーヒーが好きだ</code>; <code>**zeroは**頭が痛い</code>;  
 <code>**zeroは**おなかが空いた</code>; <code>**zeroは**クレープが食べたい</code>.
@@ -171,7 +171,7 @@ And the other thing we need to understand about topic-comment structure is that
 
 **the comment is always a complete logical clause.**
 
-![](media/image716.png)
+![](media/image716.webp)
 
 The topic is usually a noun (it could be something else)
 
@@ -217,7 +217,7 @@ about some of the implications of what is called the choice between は and が;
 
 what it means when we mark something with は, what it means when we mark it with が.
 
-![](media/image1127.png)
+![](media/image1127.webp)
 
 And there are a lot of implications involved here.
 

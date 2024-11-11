@@ -12,7 +12,7 @@ So, if you remember from last time, Alice had just entered the rabbit hole
 
 and quite surprisingly she finds herself falling very slowly down a vertical hole.
 
-![](media/image1084.png)
+![](media/image1084.webp)
 
 <code>落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた</code>
 
@@ -49,7 +49,7 @@ And **here it's an adverb describing the fact that the <code>ひま</code>, the 
 
 **So the free time exists in large quantities.**
 
-![](media/image853.png)
+![](media/image853.webp)
 
 So that's our first logical clause: <code>落ちる間に…</code> (**which simply sets the scene, the time, for the action - it's an absolute time expression because it's a particular time, so it takes に**)
 
@@ -59,7 +59,7 @@ So that's our first logical clause: <code>落ちる間に…</code> (**which sim
 
 Now, the next part - <code>まわりをゆっくり見まわせた</code> - is interesting because this is another example of what we were talking about last week: self-move/other-move pairs.
 
-![](media/image134.png)
+![](media/image134.webp)
 
 <code>回る</code> means to <code>go around/move around</code>.
 
@@ -97,13 +97,13 @@ It’s this Kanji - 周り.
 :::
 **It's still the noun-form of <code>around</code>, but in this case it's the surroundings, not the act of going around.**
 
-![](media/image486.png)
+![](media/image486.webp)
 
 ::: info
 **The top right orange まわる should be まわす.** (Dolly-先生 admits [**in the comments**](https://www.youtube.com/watch?v=H_jePzcPFAQ&lc=UgzlHz19j_bcvzKlnGl4AaABAg.9CT4jGElSLJ9CTDDRs1sOu))
 :::
 
-![](media/image984.png)
+![](media/image984.webp)
 So, <code> *(zeroが)*  まわりをゆっくり見まわせた</code> means <code>(she) could in a leisurely manner…</code>
 
 (<code>ゆっくり</code>, that adverb we learned last week - *Lesson 14*)...
@@ -138,7 +138,7 @@ So what this is saying is
 
 ***<code>落ちる間にひまがたっぷりあってまわりをゆっくり見まわせた</code>***
 
-![](media/image1045.png)
+![](media/image1045.webp)
 
 <code>まずは、下を見てみたけど、 暗すぎて何も見えなかった。</code>
 
@@ -146,7 +146,7 @@ So what this is saying is
 
 <code>まずは</code> means <code>first of all</code>. <code>まず</code> is <code>from the start / from the beginning</code>.
 
-![](media/image1139.png)
+![](media/image1139.webp)
 
 <code>まずは、下を 見てみた</code>.
 
@@ -176,7 +176,7 @@ and **you can say <code>してみる</code>, especially in more formal circumsta
 
 **but more often we say <code>やってみる</code>**: <code>Give it a try / give it a go / do it and see.</code>
 
-![](media/image726.png)
+![](media/image726.webp)
 
 **So here we're actually using <code>見る</code> with <code>みる</code>. <code>見てみる</code>**
 
@@ -194,7 +194,7 @@ In other words, it was **too** dark.
 
 It was **excessively** dark; it was **too** dark.
 
-![](media/image574.png)
+![](media/image574.webp)
 
 <code>暗すぎて何も見えなかった</code>.
 
@@ -229,7 +229,7 @@ And if we look at the trains here,
 
 <code>何も **(zeroが)** 見えなかった</code>.
 
-![](media/image633.png)
+![](media/image633.webp)
 
 What is the zero in this case?
 
@@ -254,7 +254,7 @@ While -ない, as its negative form is quite adjectival ([**see this**](https://
 
 And of course we've covered this, haven't we, in our lesson on the potential. *(Lesson 10)*
 
-![](media/image203.png)
+![](media/image203.webp)
 
 <code>その後</code>:
 
@@ -270,19 +270,19 @@ And **this time it's a relative time-expression, <code>after that / after a part
 
 **so it doesn't need に.**
 
-![](media/image827.png)
+![](media/image827.webp)
 
 <code>その後、穴のまわりを見て</code>
 
 So now she's not looking down. This means <code>the surroundings</code>, again, <code>まわり/***周り***</code>, of the hole, <code>をみて</code> - <code>after that, she looked at the surroundings of the hole</code>.
 
-![](media/image1142.png)
+![](media/image1142.webp)
 
 ---
 
 <code>目に止まるのはぎっしりならんだとだなや本だなだった.</code>
 
-![](media/image587.png)
+![](media/image587.webp)
 
 Right, so this is quite complex. The first clause is simple enough.
 
@@ -292,7 +292,7 @@ The second clause has quite a lot for us to consider.
 
 <code>目に止まるのは</code> means literally <code>the thing that stopped in her eye</code>.
 
-![](media/image734.png)
+![](media/image734.webp)
 
 Now this is a similar expression to, in English, <code>the thing that caught her eye</code>, isn't it?
 
@@ -304,7 +304,7 @@ As we've seen before, の is like apostrophe-s ('s) in English.
 
 So if we say <code>さくら**の**ドレス</code>, we're saying, <code>Sakura**'s** dress</code>.
 
-![](media/image813.png)
+![](media/image813.webp)
 
 Now also, just as in English, if you say, <code>Which dress do you like best?</code>
 
@@ -338,7 +338,7 @@ the thing that stopped in her eye was…"
 
 And what it was, was
 
-![](media/image717.png)
+![](media/image717.webp)
 
 <code> *(zeroが)*  ぎっしりならんだとだなや本だなだった</code>.
 
@@ -398,7 +398,7 @@ Well, as a matter of fact it's a very useful difference, and one that we could d
 
 **<code>と</code> is an exclusive <code>and</code>.** If I say, <code>What's in that box?</code> and you answer <code>ペンとえんぴつ</code> - <code>pens and pencils</code> - **you are telling me that there are pens and pencils and nothing else in that box.**
 
-![](media/image832.png)
+![](media/image832.webp)
 
 If you say <code>ペン**や**えんぴつ</code>, you're saying there are pens and pencils **and there might**
 
@@ -406,11 +406,11 @@ If you say <code>ペン**や**えんぴつ</code>, you're saying there are pens 
 
 So what <code>stopped in her eye</code> was the fact that cupboards and bookshelves **(among other things)** were tightly lined around the walls.
 
-![](media/image449.png)
+![](media/image449.webp)
 
 ---
 
-![](media/image334.png)
+![](media/image334.webp)
 
 ::: info
 取り下ろした in the video has an extra ろ in its 下 furigana. Read <code>とりおろした</code> only.  
@@ -432,7 +432,7 @@ notice here that <code>たなの**一つ**</code> is really just the same as Eng
 
 <code>たなの一つ</code>.
 
-![](media/image705.png)
+![](media/image705.webp)
 
 <code> *(zeroが)*  たなの一つからびんを取り下ろした.</code>
 
@@ -441,7 +441,7 @@ Now, <code>取る</code> means <code>take</code>, and <code>下す</code> - the 
 and again **this is part of a move-pair, self-move/other-move pair**,  
 which is why I introduced them early.
 
-![](media/image586.png)
+![](media/image586.webp)
 
 ::: info
 The earlier furigana note also applies for 下りる, in the video there is a typo, it should only have お. I fixed it here. No 下る for (下りる) here though, it is not its irregular form.  
@@ -462,7 +462,7 @@ And once again, **we know which is the other-move one**
 
 So <code>取り下ろす</code> means <code>take and bring down</code>.
 
-![](media/image586.png)
+![](media/image586.webp)
 
 <code> *(zeroが)*  たなの一つからびんを**取り下ろした**.</code> <code>From one of the shelves *(she)* **took down**...</code>
 

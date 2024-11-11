@@ -6,7 +6,7 @@
 
 Today we're going to talk about <code>わけ</code>,
 
-![](media/image1067.png)
+![](media/image1067.webp)
 
 which is a Japanese word that can cause quite a lot of confusion
 
@@ -32,7 +32,7 @@ judgement or calculation based on something read or heard;
 
 reason; cause; meaning; circumstances; situation".
 
-![](media/image932.png)
+![](media/image932.webp)
 
 So, what does it actually mean out of all that?
 
@@ -54,7 +54,7 @@ and also, more importantly for our present purposes,
 
 but in the sense of <code>break down, or analyze</code>.
 
-![](media/image209.png)
+![](media/image209.webp)
 
 So, when we say <code>本が分かる</code>, as I've pointed out in previous lessons,
 
@@ -76,13 +76,13 @@ But the real metaphor that underlies <code>分かる</code> is being broken down
 
 being analyzed or analyzable. *(check Lesson 59)*
 
-![](media/image959.png)
+![](media/image959.webp)
 
 And that's what <code>わけ/訳</code> means here.
 
 Now I know some of you may be thinking <code>but it's a different kanji</code>.
 
-![](media/image629.png)
+![](media/image629.webp)
 
 Well, that's true. We usually associate <code>分かる</code> with this kanji,
 
@@ -118,13 +118,13 @@ If I say <code>Sakura was out in the rain, and therefore she's wet</code>,
 
 we are taking two known facts and stating the causal, the reasoning, connection between the two.
 
-![](media/image687.png)
+![](media/image687.webp)
 
 If I say <code>Sakura is wet and therefore I reason that she was out in the rain</code>,
 
 we're taking exactly the same piece of reason, the same causality, and working in the other direction.
 
-![](media/image51.png)
+![](media/image51.webp)
 
 We're working from one known fact to another unknown fact that we use the reasoning to arrive at.
 
@@ -162,13 +162,13 @@ So, if someone says
 
 <code>that's why I was hiding under the bed</code> -- that's the reason.
 
-![](media/image1086.png)
+![](media/image1086.webp)
 
 If we find out the solution to what seemed like an impossible crime,
 
 we say, <code>そういうわけでした</code> -- <code>so that's how it happened</code>.
 
-![](media/image17.png)
+![](media/image17.webp)
 
 And we're not actually talking about the fact of the crime,
 
@@ -190,7 +190,7 @@ and that's what we're talking about.
 
 If we say <code>そんなわけで宿題を忘れました</code> – *By such a reasonality I forgot my homework*
 
-![](media/image781.png)
+![](media/image781.webp)
 
 we're saying <code>that's why I forgot my homework</code>,
 
@@ -204,7 +204,7 @@ Now, <code>わけ</code> is used in a lot of negative uses that are very importa
 
 One that you'll commonly hear is <code>わけが分からない</code>.
 
-![](media/image366.png)
+![](media/image366.webp)
 
 Now, that's very puzzling if we don't know what <code>わけ</code> means
 
@@ -246,7 +246,7 @@ from the fact that she always eats in cheap restaurants
 
 isn't that she's short of money; she isn't short of money.
 
-![](media/image116.png)
+![](media/image116.webp)
 
 Someone might say, <code>嫉妬したわけではありません</code> -- <code>it's not that I got jealous</code>.
 
@@ -254,7 +254,7 @@ Again,
 
 <code>don't draw from my actions or words the conclusion that I got jealous. That's not what it was</code>.
 
-![](media/image199.png)
+![](media/image199.webp)
 
 And, essentially, the dictionaries here say that <code>わけ</code> means a situation or a circumstance
 
@@ -274,7 +274,7 @@ For example, we might say <code>Just because she's fat doesn't mean she eats too
 
 <code>食べすぎるわけではない</code>, the reasonality isn't that she eats too much.
 
-![](media/image859.png)
+![](media/image859.webp)
 
 And we may not be saying that she doesn't eat too much.
 
@@ -302,7 +302,7 @@ the logical link that might be made in these cases.
 
 Now, another common negative use is <code>わけがない</code>, sometimes shortened to just <code>わけない</code>.
 
-![](media/image48.png)
+![](media/image48.webp)
 
 This tends to be strongly denying that something exists at all.
 
@@ -334,7 +334,7 @@ So, for example, <code>さくらはウソをつくわけがない</code> – *Sa
 
 <code>Sakura wouldn't tell a lie</code> -- there's no way she'd tell a lie.
 
-![](media/image862.png)
+![](media/image862.webp)
 
 The underlying logic or reasonality of Sakura telling a lie doesn't exist,
 
@@ -358,7 +358,7 @@ It's not to say it's not happening or it doesn't exist, but there's no reason fo
 
 So, for example, <code>そんなにお金の要るわけがない</code>
 
-![](media/image443.png)
+![](media/image443.webp)
 
 <code>there's no reason she would need that much money</code>
 
@@ -366,7 +366,7 @@ So, for example, <code>そんなにお金の要るわけがない</code>
 since this いる, as per what Dolly says means <code>need</code>, I put 要る in its Kanji form to reflect it, rather than just regular <code>to be</code> 居る/いる.
 :::
 *Also, this...just in case…  
-*![](media/image892.png)
+*![](media/image892.webp)
 
 She might be asking for it, she might get it, but there's really no reason why she would need it.
 
@@ -396,7 +396,7 @@ And that might be particularly useful, because there is a third use of this nega
 
 often reduced to just <code>わけない</code>, which is to say that something is simple or easy.
 
-![](media/image398.png)
+![](media/image398.webp)
 
 <code>日本語を話すのはわけがないことだ</code> --
 
