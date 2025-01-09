@@ -1,95 +1,60 @@
-# **28. ように - one key to all the main uses**
+# **29. ことにする & ことになる**
 
-[**Lesson 28: You ni- one key to all the main uses! It's easy when you know**](https://www.youtube.com/watch?v=IE7WgIOOGbM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=30&pp=iAQB)
+[**Lesson 29: Koto ni Suru, Koto ni Naru. The simple logic behind them.**](https://www.youtube.com/watch?v=sH3iGBkA93w&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=31&pp=iAQB)
 
 こんにちは。
 
-*Today* we're going to talk about <code>ようになる</code>, <code>ようにする</code>, ことにする<code>, </code>ことになる"*(nope)* Now, all the elements of these expressions we've already learned, so what we need to do now is to see how they fit together in these cases, what they mean, and why they mean what they mean. So let's just do a quick recap of <code>になる</code> and <code>にする</code>.
+Today we're going to discuss <code>ことにする</code> and <code>ことになる</code>. Last week we looked at <code>ようにする</code> and <code>ようになる</code> and we briefly recapitulated the fact that when we say <code>(something)になる</code> we mean that the thing we're speaking about turned into whatever is marked by に.
 
-As we know, the two primordial Japanese verbs are <code>ある</code> and <code>する</code>. <code>ある</code> is the mother of all self-move verbs and <code>する</code> is the father of all other-move verbs. <code>なる</code> is closely related to <code>ある</code> -- <code>ある</code> means <code>be</code>; <code>なる</code> means <code>become</code> -- so we can say that <code>ある</code> and <code>なる</code> are the static and dynamic versions of the same verb.
+So if we say <code>さくらはカエルになった</code>, we're saying Sakura turned into a frog.
 
-That is, the same verb being still and moving in time. Now, we know that when we use a noun followed by <code>になる</code>, we mean that something turns into that noun.
+![](media/image470.webp)
 
-![](media/image1038.webp)
+If we say <code>にする</code>, we're saying that someone deliberately turned what we're talking about into the に-marked noun. So, if we say <code>まじょがさくらをカエルにした</code>, we're saying <code>the witch turned Sakura into a frog.</code>
 
-<code>に</code> marks the target of the transformation and <code>なる</code> is the transformation itself, the becoming.
+![](media/image863.webp)
 
-## ようになる
+So, what about <code>ことにする</code> and <code>ことになる</code>? We know that <code>こと</code> means a <code>thing</code>, not a concrete thing like a book or pencil *(=もの)* but an abstract thing, a situation, or a circumstance. *(=こと)* So, if we say <code>けっこんすることにした</code>, we're saying literally: It became the thing of getting married.
 
-So, when we say <code>ようになる</code>... Well, we looked at <code>よう</code> last week, didn't we, and we saw that when we're comparing things or likening things <code>よう</code> means a <code>form</code> or a <code>likeness</code>. Its basic meaning is a form or a state of being.
+Obviously we have to have a zero-pronoun here, because something has to become something. So, what's <code>it</code>?
 
-When we say <code>りきしは山のようだ</code> -- <code>sumo wrestler is like a mountain</code> -- we're not saying that the sumo wrestler <code>is</code> a mountain, we're extracting the form or the state of being of the mountain and applying it to the sumo wrestler. We're not saying that the sumo wrestler is the mountain, we're saying that the wrestler is the mountain's <code>よう</code>, the mountain's form or state of being.
+![](media/image162.webp)
 
-So in English we say the wrestler is <code>like</code> the mountain; in Japanese we say the wrestler is the form or the state of being of the mountain -- we might say, the <code>likeness</code> of the mountain. Now, when we use <code>よう</code> in the expressions we're talking about today, we don't add them to a noun like <code>山</code>, we add them to a complete logical clause.
+Well, <code>it</code> is what it might be in English: <code>the situation / the circumstance</code>. <code>The circumstance turned into one in which we're getting married/in which getting married is the thing.</code> We have to use <code>こと</code> here because, as you know, we can't attach the logical particle に, or any other logical particle, to anything but a noun.
 
-The textbooks sometimes say we're adding them to a verb, but what we're really doing is adding them to a logical clause with a verb-engine.
+So, we use <code>けっこんする</code> as the modifier for <code>こと</code> in order to give us a noun of the situation or circumstance of getting married. So what does it mean? <code>We turned the situation into the thing of getting married</code> means <code>We decided to get married</code> / <code>We brought about a situation in which getting married was the thing</code>.
 
-![](media/image364.webp)
+And so the textbooks will tell you that <code>ことにする</code> means <code>decide (something)</code>, and it's not quite as simple as that, as we'll see in a moment. However, if we say <code>フランスで留学することになった</code>, we're saying <code>It became the thing of studying in France</code>, which really means <code>It came about that I am going to study in France</code>.
 
-And <code>よう</code>, as we know, is a noun; the logical clause becomes the adjectival, the descriptor, for that noun, so we know that any verb-engine together with the logical clause it heads can become an adjectival so we're not saying <code>のよう</code>, we're NOT saying the likeness of something else here. So when we have a logical clause plus <code>ようになる</code>, we're saying that something became or entered the state of being or the form of that logical clause.
+The situation turned from one in which I'm not going to study in France to one in which I am going to study in France.
 
-So, for example, if we say <code>彼を信じるようになった</code>, we're saying <code>I came to believe him.</code>
+![](media/image600.webp)
 
-![](media/image893.webp)
+Now because <code>ことにする</code> is a deliberate act done by whoever is making the decision, <code>ことになる</code> is taken to imply in many cases a deliberate decision. So we can translate this most of the time as <code>They're sending me to France to study</code> / <code>It's been decided that I'm going to France to study.</code>
 
-<code>彼を信じる</code> (or <code>zeroが彼を信じる</code>) --<code>I believe him</code> -- is a logical clause, and we're saying that I moved into the state, I became the state of that logical clause: <code>I came to believe him.</code> This is often used with a potential helper verb.
+The thing to notice here, though, is that there's no actual mention of a decision by anyone, and in this case it doesn't matter if we assume that that's what it means, because it probably does. Some people will say <code>けっこんすることになった</code>, which kind of means "It's been decided that we're getting married" or, more literally, "It's come about that we're getting married".
 
-For example, we might say, <code>日本語のマンガが読めるようになった</code> -- <code>Japanese manga became readable (to me)</code>.
+![](media/image268.webp)
 
-![](media/image304.webp)
+And the reason for saying this is that, even though in this day and age, the people who decide that they're getting married are almost always the people who are actually getting married, it sounds a little less forceful, a little less ego-centered, not to say <code>we've decided...</code> but just to say <code>It's been decided...</code> or <code>It's come about...</code> And I have to say that sounds a little bit more pleasant to me as well, but I'm just an android, so what do I know?
 
-As you see, in both cases something is changing its state. I change my state from not believing him to believing him; the manga changes its state from being non-readable to being readable. In all cases we are talking about a change of state, a change of the existing state in someone or something from one condition to another.
+However, we may also say <code>たいへんなことになった</code>, and what that means is <code>It became -- the situation became -- a terrible thing</code>. And this does not carry any implication that anybody decided it ought to be a terrible thing.
 
-And if you're wondering why we most often in Japanese speak of the manga changing state from being non-readable to readable rather than speaking, as in English we usually do, of the person changing state from not being able to read the manga to being able to read the manga, please watch the video lesson on the potential helper verb where I explain how this works. *(Lesson 10)*
+It does not imply a decision, and there's no reason it would, because there's no mention of decision anywhere in <code>ことにする</code> or <code>ことになる</code>.
 
-## ようにする
+![](media/image691.webp)
 
-Now, when we say <code>ようにする</code> we know that the <code>にする</code> construction is the other-move version of the <code>になる</code> construction. If we say <code>まじょがさくらをカエルにした</code>, we're saying <code>the witch turned Sakura into a frog</code>.
+In many cases a decision is implied, but in cases like this -- and there are many times when you'll see <code>ことになる</code> working in this way -- all it's telling us is that the situation came about, not that anybody decided that the situation should come about. So this is why it's important to learn structure in Japanese, because if we just get a handful of Japanese and a handful of English thrown at us -- <code>ことになる</code> means <code>it is decided</code> -- well, sometimes it does and sometimes it doesn't.
 
-![](media/image93.webp)
+The important thing to know is what's actually going on in the sentence. Then we can make a sensible assessment ourselves of what's being said when we see it in an anime or a book or in conversation.
 
-So <code>ようにする</code> is to make something enter a state. It doesn't enter it by itself; somebody's making it enter the state. So if we say <code>よく見えるにする</code> -- <code>よく見える</code> means to <code>look good</code>, so <code>よく見えるようにする</code> is to make someone or something look good.
+::: info
+I will just in case put up a further explanation by Dolly-先生, responding to a comment regarding this ことになる/する, which she later pinned, since I feel it can be a bit tricky.***  
+**![](media/image847.webp)**  
 
-Now, <code>ようにする</code> has an extended sense, and that is when we say something essentially equivalent to <code>please make sure that you do something</code>. So, we can say <code>ドアにかぎをかけるようにしてください</code> and that means <code>please make it so that you lock the door</code>.
+**![](media/image701.webp)  
+*Continuing with - the link is for the Lesson 28 by the way,  
+*![](media/image1049.webp)
 
-![](media/image771.webp)
-
-And I think you can see the difference here between simply saying <code>ドアにかぎをかけてください</code>, which is just <code>please lock the door</code>. In one case you're kind of assuming that the person will simply lock it as a matter of course; in the second case you're making a very special point of it: <code>Please make it so that you lock the door (this is important, so please make it be that way)</code>.
-
-<code>It</code> in this case is just the same as it would be in English -- the <code>situation</code>, the <code>circumstance</code> -- "Please turn the circumstance from one in which you don't lock the door into one in which you do lock the door." So this makes a very special point of this instruction or advice.
-
-Now, related to this is when you may say something about yourself, usually related to something you do regularly, such as saying <code>毎日歩くようにする</code>. And that means literally, <code>\[I\] (try to) make it so that \[I\] walk every day</code>. But when you put it this way, rather than just saying <code>毎日歩く</code>, which is simply saying <code>I walk every day</code>, the implication is that you try to do so.
-
-You might not necessarily always succeed. And, you see, as with the other usage, there's some doubt as to whether you will do it. You don't say <code>Please make it so that you lock the door</code> unless there is in your mind a certain doubt as to whether this is going to happen and you're trying to make it so that it does.
-
-## ことにする
-
-When you say it about yourself -- <code>毎日歩くようにする</code> -- there is also another factor in play in that when it's yourself you could also use <code>ことにする</code>, and that expresses a firm decision which we'll talk about next week in the second half of this lesson. So if you choose <code>ようにする</code> over <code>ことにする</code> you're inherently leaving a little room for doubt.
-
-## <code>Cause-and-effect</code> usage of ように
-
-Now, <code>ように</code> can also be used with a clause behind it and a clause in front of it, in order to say <code>do one thing in order that another thing may happen</code>.
-
-![](media/image756.webp)
-
-The textbooks treat this as if it were a different piece of grammar, a different grammar point, but in fact it isn't, it's the same as plain <code>ようにする</code>, and the only reason it seems a bit different is because we put it a little differently in English. But we shouldn't be thinking about English; we should be thinking about Japanese. So let's take a look at how this works.
-
-Let's take a sentence that we've already had: <code>よく見えるようにする</code> -- <code>make something (or someone) look better</code>. Now, let's change that to <code>よく見えるように口紅をつける</code> -- "in order that she will look better (or I will look better, or someone will look better), apply lipstick".
-
-![](media/image992.webp)
-
-Now, as you see, in English the ways of putting those two ideas are different, and that's why the textbooks and the conventional explanations talk as if we had two separate, unrelated grammar points. But if you look at what's going on, you can see that they're actually the same thing.
-
-In one case we're saying <code>make someone or something look better</code> without specifying the means. We're just using the neutral, catch-all verb <code>する</code>, which is the fundamental other-move verb. When we say <code>よく見えるように口紅をつける</code>, <code>口紅をつける</code> is simply replacing the <code>する</code>.
-
-Instead of unspecifically saying simply <code>make someone look better</code>, it's saying <code>do a specific thing in order to make someone look better</code>. Now, <code>する</code> is also an action; it's just an unspecified action. It's just <code>do/act/make something happen</code>.
-
-<code>口紅をつける</code> specifies what that <code>する</code> might be in a particular case. So you see, we have exactly the same construction here, not two separate <code>grammar points</code>, as they like to call them.
-
-## ように at the end of a sentence
-
-And one final note is that you will sometimes hear <code>ように</code> at the end of a sentence, usually a ます-ending sentence. This is used primarily for prayers and petitions. So you might say <code>日本に行けますように</code>.
-
-And you might say that at a shrine or when you're wishing on a falling star or perhaps just when you're expressing a wish that a friend might be able to go to Japan. Why do we use this? Well, obviously it's a kind of shortening of <code>ようにする</code>.
-
-If you're talking to a deity or a fairy, it might be short for <code>ようにしてください</code>. So, next week we move on to <code>ことになる</code> and <code>ことにする</code>.
+*Hopefully this helps a bit in case the lesson explanation was a bit confusing, you can read the other comments [**under the video**](https://www.youtube.com/watch?v=sH3iGBkA93w&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=31&pp=iAQB) if you want, perhaps some other one may also help.*
+:::
