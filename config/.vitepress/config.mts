@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Cure Dolly",
   description: "in markdown",
   srcDir: 'docs',
-  base: '/cure-script/',
+  base: process.env.VITE_BASE_URL || '/',
   ignoreDeadLinks: true,
   markdown: {
     image: {

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.DvpCT43G.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"media_png/image816.md","filePath":"media_png/image816.md"}'),n={name:"media_png/image816.md"};function r(i,o,m,s,c,p){return t(),a("div")}const f=e(n,[["render",r]]);export{d as __pageData,f as default};
