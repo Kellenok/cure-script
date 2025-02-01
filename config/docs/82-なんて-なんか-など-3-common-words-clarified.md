@@ -455,7 +455,7 @@ Wanted to make it a bit easier to search, if anything. Also, this is quite inter
 
 ![](media/image750.webp)
 
-![](media/image855.webp)
+![](media/image28.webp)
 
 Sorry for the microscopic font, Youtube again hides the text parts if I zoom-in for some reason...
 :::
