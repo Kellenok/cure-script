@@ -120,6 +120,8 @@ If in English we say something like <code>that dog</code> or <code>that tree</co
 
 ![](media/image52.webp)
 
+![](media/image453.webp)
+
 So, <code>さくらとその犬</code> means Sakura and a dog related to her, in other words, Sakura and her dog. And this ability of <code>その</code> to express things like possession and relatedness gives rise to a whole range of strategies. But once we understand what it means, they're much easier to understand.
 
 So, for example, the simple Sanseido Japanese dictionary defines the word <code>立ち会う</code>, which can't really be translated into any particular English word because what it means is go to a particular place in the capacity of a witness or act in the capacity of a witness.
