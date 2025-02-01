@@ -389,5 +389,9 @@ How many Spanish ones? This is the biggest language in the world after English.
 
 ::: info
 Recommend reading through [**the comments**](https://www.youtube.com/watch?v=bPWt-8Ecd7Y&ab_channel=OrganicJapanesewithCureDolly) as always.
-:::
+
 ![](media/image1118.webp)
+
+![](media/image469.webp)
+
+:::
