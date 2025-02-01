@@ -96,6 +96,8 @@ So, Japanese doesn't have an <code>it</code> and it doesn't really have a <code>
 
 ![](media/image922.webp)
 
+![](media/image418.webp)
+
 Well, <code>彼</code> and <code>彼女</code> were introduced into Japanese in the late Edo and early Meiji era in order to translate nineteenth-century European novels into Japanese. That's what they were for.
 
 Since then, they've become integrated into the language and they're used sometimes in everyday speech, but not nearly as much as the zero-pronoun is used.
