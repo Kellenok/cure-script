@@ -406,6 +406,9 @@ I don't think there's going to be any more room for confusion…
 ![](media/image735.webp)
 
 ::: info
-Will add this here:*  
+Will add this here:
+
 ![](media/image420.webp)
+
+![](media/image542.webp)
 :::
