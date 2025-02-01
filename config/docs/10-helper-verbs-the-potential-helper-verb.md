@@ -31,7 +31,9 @@ People can be a little disconcerted by **the godan form of the helper-verb** bec
 ::: info
 change to え-stem and then the godan potential form る. Also note this…  
 
-*![](media/image588.webp)*
+![](media/image588.webp)
+
+![](media/image824.webp)
 
 **There is some difference in their implication, Dolly clears them up further in LESSON 54.  
 Dolly SEEMS to make an error here by calling 聞こえる other-move, but it should be self-move as she implies in the beginning of the comment (+in comparison to other sources like Imabi).**
