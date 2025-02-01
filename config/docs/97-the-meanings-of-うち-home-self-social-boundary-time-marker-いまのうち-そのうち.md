@@ -354,6 +354,9 @@ to more and more abstract ones, all of which are closely related to the fundamen
 
 ![](media/image820.webp)
 
+![](media/image607.webp)
+
+
 ::: info
 **If you came this far then I thank you and you are awesome!**
 
