@@ -95,7 +95,7 @@ This isn't correct grammar - you ought to say <code>みたいだ</code> - but it
 ::: info
 I will just in case add that this adjectival noun みたい is NOT the same as 見たい (an adjective meaning <code>see-inducing</code>). These are two different <code>みたいs</code>. You can’t write this みたい as 見たい, else it will be an adjective <code>see-inducing</code>. What Dolly-先生 says in the comments:  
 
-*![](media/image602.webp)
+![](media/image602.webp)
 
-*![](media/image596.webp)
+![](media/image596.webp)
 :::
