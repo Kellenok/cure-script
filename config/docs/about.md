@@ -8,7 +8,7 @@ For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, ch
 
 1. Changed the <u>underlined text</u> to **bold** due to personal preference.
 2. All text in "quotes" became `highlighted` in color
-3. Changed note type from *italic text* to speсial containers
+3. Changed note type from *italic text* to special containers
 
 ::: info
 Example of new note

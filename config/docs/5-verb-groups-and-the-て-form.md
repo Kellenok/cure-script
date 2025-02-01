@@ -1,5 +1,3 @@
-Вот улучшенная версия текста с более крупными абзацами:
-
 # **5. Verb Groups and the て-form**
 
 [**Lesson 5: Japanese verb groups and the te-form. Verb groups 1, 2, 3 made easy. Organic Japanese**](https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5)
