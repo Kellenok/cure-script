@@ -452,6 +452,10 @@ to how they work, what they mean, how they're used.
 ::: info
 Damn, quite a few sub-titles in this one, heh* (ノ\*°▽°\*)  
 Wanted to make it a bit easier to search, if anything. Also, this is quite interesting:  
-*![](media/image750.webp)*  
+
+![](media/image750.webp)
+
+![](media/image855.webp)
+
 Sorry for the microscopic font, Youtube again hides the text parts if I zoom-in for some reason...
 :::
