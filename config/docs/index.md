@@ -6,7 +6,7 @@ hero:
   name: <code>Cure Dolly script</code>
   text: <code>in Markdown</code>
   tagline: Read all Dolly's japanese course on a handy and fast website
-  image: /public/background.webp
+  image: /background.webp
   actions:
     - theme: brand
       text: Read from 1st lesson
