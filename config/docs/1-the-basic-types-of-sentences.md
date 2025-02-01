@@ -26,25 +26,25 @@ Walk in Japanese is <code>あるく</code>. We need one more thing to make the c
 
 ## Copula sentences
 
-Now let's take an A is B sentence: <code>Sakura is Japanese</code>, or, as we say, <code>Sakura is a Japanese person</code>. So, A again is Sakura, B is にほんじん/日本人, which means Japanese person, and **once again we need が to link them together. So we're going to picture the A car, the main carriage, with a が on it, because the main carriage, the subject of the sentence, always carries a が, to link it to the engine.**
+Now let's take an A is B sentence: <code>Sakura is Japanese</code>, or, as we say, <code>Sakura is a Japanese person</code>. So, A again is Sakura, B is にほんじん / [日本人]{に ほん じん}, which means Japanese person, and **once again we need が to link them together. So we're going to picture the A car, the main carriage, with a が on it, because the main carriage, the subject of the sentence, always carries a が, to link it to the engine.**
 
-So, さくらが日本人 – and we need one more thing. There's one other thing that I want you to make friends with, and that's だ (da). <code>さくらが日本人だ</code> = <code>Sakura is a Japanese person</code>.
+So, さくらが[日本人]{に ほん じん} – and we need one more thing. There's one other thing that I want you to make friends with, and that's だ (da). <code>さくらが[日本人]{に ほん じん}だ</code> = <code>Sakura is a Japanese person</code>.
 
 ![](media/image632.webp)
 
 Now, you may have met this だ in its fancy form, です, but there are very good reasons for learning the plain, simple form first. So we're going to learn だ. Now if you look at だ, it's like an equals sign boxed off to the left. And this is a perfect mnemonic for what it does, because **だ tells us that A is B.**
 
-Why is it boxed off to the left? Because it only works one way. Think about this logically: さくらが日本人だ means <code>Sakura = Japanese person.</code> But it doesn't work the other way: Japanese people are Sakura – they're not all Sakura. Sakura is a Japanese person, but a Japanese person is not necessarily Sakura.
+Why is it boxed off to the left? Because it only works one way. Think about this logically: さくらが[日本人]{に ほん じん}だ means <code>Sakura = Japanese person.</code> But it doesn't work the other way: Japanese people are Sakura – they're not all Sakura. Sakura is a Japanese person, but a Japanese person is not necessarily Sakura.
 
 ## Adjective sentences
 
 So now we have an <code>A is B</code> sentence and an <code>A does B</code> sentence. There is one more form of the Japanese core sentence, for it has three forms. The third form is when we have a describing word, an adjective.
 
-**In Japanese, describing words end with い** (i), just as they often do in English: happy, sunny, cloudy, silly. In Japanese it's just the same: happy – うれしい/嬉しい; sad – かなしい/悲しい; blue – あおい/青い.
+**In Japanese, describing words end with い** (i), just as they often do in English: happy, sunny, cloudy, silly. In Japanese it's just the same: happy – うれしい / [嬉]{うれ}しい; sad – かなしい / [悲]{かな}しい; blue – あおい / [青]{あお}い.
 
-Now, we don't have to learn all these, but we do need to know about Japanese adjectives ending in い because they make the third kind of sentence. So let's take an easy one: ペン (that's a nice easy word because it means pen) – <code>ペンが赤い/あかい</code> = <code>pen is red</code>.
+Now, we don't have to learn all these, but we do need to know about Japanese adjectives ending in い because they make the third kind of sentence. So let's take an easy one: ペン (that's a nice easy word because it means pen) – <code>ペンが[赤]{あか}い</code> = <code>pen is red</code>.
 
-Now, you notice that we don't have a だ on this sentence. Why is that? **Because the い-adjective あかい/赤い (red) – it doesn't mean red, it means is-red. The だ function, the equals function, is built into those い-adjectives.**
+Now, you notice that we don't have a だ on this sentence. Why is that? **Because the い-adjective [赤]{あか}い (あかい, red) – it doesn't mean red, it means is-red. The だ function, the equals function, is built into those い-adjectives.**
 
 ![](media/image557.webp)
 
