@@ -489,5 +489,8 @@ But obviously there are cases,
 
 ::: info
 As always, you can check the [**comments**](https://www.youtube.com/watch?v=WUmByRnrx_U&ab_channel=OrganicJapanesewithCureDolly) of the video for some interesting bits.
-:::
+
 ![](media/image439.webp)
+
+![](media/image829.webp)
+:::
