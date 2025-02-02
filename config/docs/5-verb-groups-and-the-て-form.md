@@ -110,7 +110,7 @@ And now we just have one left, and that is す. **And verbs ending in -す drop 
 So はなす - talk, becomes はなして; the ます helper verb, which turns verbs into formal *(polite)* verbs, in the past tense becomes ました.
 
 ::: info
-Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite. **They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.**
+Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite. **They are part of the [丁寧語]{てい ねい ご} (polite language). So it is more accurate to call them polite instead.**
 :::
 
 So now we have all the godan verbs. Didn't I look young in that old video?
