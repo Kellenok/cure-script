@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about tenses. Up to now, we've only been using one tense, and that is the one represented by the plain dictionary form of verbs: 食べる/たべる - eat; 歩く/あるく - walk, and so forth. To use natural-sounding Japanese, we need three tenses. You might think they would be past, present and future, but in fact they're not.
+Today we're going to talk about tenses. Up to now, we've only been using one tense, and that is the one represented by the plain dictionary form of verbs: [食]{た}べる - eat; [歩]{ある}く - walk, and so forth. To use natural-sounding Japanese, we need three tenses. You might think they would be past, present and future, but in fact they're not.
 
 ## The non-past tense
 
@@ -14,13 +14,13 @@ The one we've been using up to now is not a present tense. It's called the non-p
 
 Well, actually it isn't confusing at all, and what makes it confusing is, for a change, not the fact that Japanese is taught in a strange way, but the fact that English is taught in a strange way. The truth is that the Japanese non-past tense is very similar to the English non-past tense.
 
-What is the English non-past tense? Well, it is the plain dictionary form of English words: eat, walk, etc. Why do I call it a non-past tense? Well, let's take an example. Suppose you get a message on your 携帯/けいたい (phone) saying, <code>I walked to the cafe and now I eat cake and drink coffee</code>. What would you know about the person who sent that message? Well, you'd know that it was not a native English speaker, wouldn't you? Because no native English speaker says <code>I eat cake and I drink coffee</code> when they mean <code>I am eating cake and drinking coffee right now</code>.
+What is the English non-past tense? Well, it is the plain dictionary form of English words: eat, walk, etc. Why do I call it a non-past tense? Well, let's take an example. Suppose you get a message on your [携帯]{けいたい} (phone) saying, <code>I walked to the cafe and now I eat cake and drink coffee</code>. What would you know about the person who sent that message? Well, you'd know that it was not a native English speaker, wouldn't you? Because no native English speaker says <code>I eat cake and I drink coffee</code> when they mean <code>I am eating cake and drinking coffee right now</code>.
 
 When so we say <code>I eat cake</code>? Well, we might say it when we mean that we eat cake sometimes: "I eat cake. I'm not one of these people who doesn't eat cake. I do eat cake. Whenever there's any cake around, I eat it. But that doesn't mean I'm eating cake right at this moment."
 
 When else do we use the English non-past plain form of verbs? Well, sometimes we use them for future events: <code>Next week I fly to Tokyo.</code> <code>Next month I have an exam.</code> And sometimes we use them for something that's going on right now, but not mostly. For example, in a literary description: "The sun sinks over the sea and a small happy robot runs across the beach." But that isn't the way we use it most of the time in everyday speech, is it?
 
-So, the Japanese non-past tense is very similar in the way it functions to the English non-past tense. If you understand one you can pretty much understand the other. **Most of the time, the Japanese non-past tense refers to future events.** <code>いぬがたべる</code> - <code>The dog will-eat</code>; <code>さくらがあるく</code> - <code>Sakura will-walk.</code>
+So, the Japanese non-past tense is very similar in the way it functions to the English non-past tense. If you understand one you can pretty much understand the other. **Most of the time, the Japanese non-past tense refers to future events.** <code>[犬]{いぬ}がたべる</code> - <code>The dog will-eat</code>; <code>さくらがあるく</code> - <code>Sakura will-walk.</code>
 
 ![](media/image861.webp)
 
@@ -32,21 +32,21 @@ If we want to say something more natural, like <code>Sakura is walking</code>, w
 
 Fortunately, in Japanese we don't have all these different forms of the word <code>to be</code>. We use the same word every time, and the word is <code>いる</code>. <code>いる</code> means <code>be</code> **in relation to animals and people**, and to make this continuous present tense, we always use <code>いる</code>.
 
-So, <code>Sakura is walking</code> – <code>さくらがあるいている</code>. <code>Dog is eating</code> – <code>いぬがたべている</code>
+So, <code>Sakura is walking</code> – <code>さくらがあるいている</code>. <code>Dog is eating</code> – <code>[犬]{いぬ}がたべている</code>
 
 ![](media/image612.webp)
 
-Now, let's notice that in a sentence like <code>いぬがたべている,</code> we have something we haven't yet seen, and that's a white engine. **A white engine is an element that could be an engine but in this case it's NOT the engine of this sentence. It's modifying, or telling us more about, one of the core elements of the sentence.**
+Now, let's notice that in a sentence like <code>[犬]{いぬ}がたべている,</code> we have something we haven't yet seen, and that's a white engine. **A white engine is an element that could be an engine but in this case it's NOT the engine of this sentence. It's modifying, or telling us more about, one of the core elements of the sentence.**
 
 ![](media/image1035.webp)
 
-So, the core of this sentence is <code>いぬがいる</code> - <code>the dog is</code>. But the dog isn't just existing – the dog is doing something. And that white engine tells us what it is doing. It is <code>eating</code>. And we're going to see this white engine structure over and over again as we go deeper into Japanese.
+So, the core of this sentence is <code>[犬]{いぬ}がいる</code> - <code>the dog is</code>. But the dog isn't just existing – the dog is doing something. And that white engine tells us what it is doing. It is <code>eating</code>. And we're going to see this white engine structure over and over again as we go deeper into Japanese.
 
-And just as in English we don't say <code>the dog is eat</code>, we use a special form of the verb that goes along with the verb of being. So in English we say <code>is walking</code>, <code>is eating</code>. In Japanese we say <code>食べている/たべている</code>, <code>歩いている/あるいている</code>.
+And just as in English we don't say <code>the dog is eat</code>, we use a special form of the verb that goes along with the verb of being. So in English we say <code>is walking</code>, <code>is eating</code>. In Japanese we say <code>[食]{た}べている</code>, <code>[歩]{ある}いている</code>.
 
 ---
 
-Now, how do we form this <code>て-form</code>, which is the form we use for making the continuous present? With a word like <code>食べる/たべる</code>, it's very easy indeed. All we have to do is take off the <code>る</code> and put <code>て</code> in its place. たべる becomes たべて.
+Now, how do we form this <code>て-form</code>, which is the form we use for making the continuous present? With a word like <code>[食]{た}べる</code>, it's very easy indeed. All we have to do is take off the <code>る</code> and put <code>て</code> in its place. [食]{た}べる becomes [食]{た}べて.
 
 The bad news is that with other verbs, we do have slightly different ways of attaching the <code>て</code>. Apart from the plain る-form, there are four other ways. The textbooks will say five, but in fact two of them are so similar that we can treat them as four. And I've made a video on exactly what these ways are *(Lesson 5, so the next lesson).* And it makes it much simpler than most explanations.
 
@@ -54,15 +54,15 @@ So it's very important to watch that so that you can learn how to form the conti
 
 ## Past tense
 
-So, how do we put things into the past tense? Fortunately that's very easy indeed. **All we do is add <code>た</code> – that's the whole thing.** So, <code>いぬがたべる</code> – <code>dog will-eat</code> / <code>いぬがたべた</code> – <code>dog ate</code>.
+So, how do we put things into the past tense? Fortunately that's very easy indeed. **All we do is add <code>た</code> – that's the whole thing.** So, <code>[犬]{いぬ}がたべる</code> – <code>dog will-eat</code> / <code>[犬]{いぬ}がたべた</code> – <code>dog ate</code>.
 
 Now, there are different ways of attaching <code>た</code> to different kinds of verb, verbs with different endings, but the good news here is that they are exactly the same as the ways that you attach <code>て</code>. So once you've learned the ways that <code>て</code> attaches, you've also learned the ways that <code>た</code> attaches. So if you watch that て-form video ***(Lesson 5)***, you'll be able to do both the continuous present and the past.
 
-Now, there's one more thing about time expressions that is useful to learn now. If we want to make it clear, when we say <code>私はケーキを食べる</code>, we're talking about a future event, we can say <code>明日/あした</code> (which means <code>tomorrow</code>) <code>あしたケーキを食べる</code>. That's all we have to do.
+Now, there's one more thing about time expressions that is useful to learn now. If we want to make it clear, when we say <code>[私]{わたし}はケーキを[食]{た}べる</code>, we're talking about a future event, we can say <code>[明日]{あした}</code> (which means <code>tomorrow</code>) <code>[明日]{あした}ケーキを[食]{た}べる</code>. That's all we have to do.
 
 ## Time expressions
 
-We just say <code>tomorrow</code> before we say the rest of the sentence, just as we do in English. <code>Tomorrow I'm going to eat cake</code> – <code>あした *(zeroが)* ケーキを食べる</code>.  
+We just say <code>tomorrow</code> before we say the rest of the sentence, just as we do in English. <code>Tomorrow I'm going to eat cake</code> – <code>あした *(zeroが)* ケーキを[食]{た}べる</code>.
 ::: info
 Sometimes I add zeroが even when Dolly does not say it in the transcript, BUT she shows it in the videos, I obviously only add it then if it is shown by her, I do not do it on my own…
 :::
@@ -77,7 +77,7 @@ And with all relative time expressions like that: yesterday, last week, next yea
 
 However, when we have an <code>absolute time expression</code>, an expression that is not relative to the present, such as Tuesday or six o'clock, then **we have to use <code>に</code>**.
 
-Tuesday is <code>火曜日/かようび</code> and we may may say <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>On Tuesday (I) will eat cake.</code>
+Tuesday is <code>[火曜日]{かようび}</code> and we may say <code>[火曜日]{かようび}に *(zeroが)* ケーキを[食]{た}べる</code> – <code>On Tuesday (I) will eat cake.</code>
 
 ![](media/image441.webp)
 
