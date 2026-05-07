@@ -20,7 +20,7 @@ Nếu chúng ta muốn nói <code>Sakura đi bộ</code> (A làm B: Sakura đi b
 
 ![](../media/image1055.webp)
 
-Đi bộ trong tiếng Nhật là <code>あるく</code>. Chúng ta cần thêm một thứ nữa để tạo thành câu tiếng Nhật cơ bản, và **đó chính là hạt nhân của mọi câu, が** (ga).
+Đi bộ trong tiếng Nhật là <code>あるく</code>. Chúng ta cần thêm một thứ nữa để tạo thành câu tiếng Nhật cơ bản, và **đó chính là cốt lõi của mọi câu, が** (ga).
 
 **が là cốt lõi của ngữ pháp tiếng Nhật. Mọi câu tiếng Nhật đều xoay quanh が. Trong một số câu, chúng ta sẽ không nhìn thấy が, nhưng nó luôn ở đó, và nó luôn làm cùng một công việc. Nó liên kết A và B lại với nhau và biến chúng thành một câu.** Vậy, câu <code>A làm B</code> cơ bản của chúng ta là <code>**さくらが**あるく</code> = <code>**Sakura** đi bộ</code>.
 
@@ -32,22 +32,24 @@ Vậy nhìn lại, さくらが日本人 – và chúng ta cần thêm một th�
 
 ![](../media/image632.webp)
 
-Các bạn có thể đã gặp dạng lịch sự hơn của だ, đó là です, nhưng có những lý do rất chính đáng để học dạng đơn giản trước. Vì vậy, chúng ta sẽ học だ. Nhìn vào だ, nó giống như một dấu bằng nằm gọn về bên trái. Và đây là cách ghi nhớ hoàn hảo cho chức năng của nó, bởi vì **だ cho chúng ta biết A là B.**
+Các bạn có thể đã gặp dạng lịch sự hơn của だ, đó là です, nhưng trước hết chúng ta sẽ học dạng đơn giản trước: だ. だ giống như một dấu bằng nằm gọn về bên trái. Và đây là cách ghi nhớ hoàn hảo cho chức năng của nó, bởi vì **だ cho chúng ta biết A là B.**
 
-Tại sao nó lại được đóng khung ở bên trái? Bởi vì nó chỉ hoạt động theo một chiều. Hãy suy nghĩ một cách logic: さくらが日本人だ có nghĩa là <code>Sakura = người Nhật</code>. Nhưng nó không hoạt động theo chiều ngược lại: người Nhật là Sakura – không phải tất cả người Nhật đều là Sakura. Sakura là một người Nhật, nhưng một người Nhật chưa chắc đã là Sakura.
+Tại sao だ lại nằm bên trái? Bởi vì nó chỉ hoạt động theo một chiều. Cùng suy nghĩ logic nhé: さくらが日本人だ có nghĩa là <code>Sakura = người Nhật</code>. Nhưng ngược lại thì không: người Nhật là Sakura – không phải tất cả người Nhật đều là Sakura. Sakura là một người Nhật, nhưng người Nhật chưa chắc đã là Sakura.
 
 ## Câu có tính từ
 
-Vậy, chúng ta đã có câu <code>A là B</code> và câu <code>A làm B</code>. Còn một dạng câu tiếng Nhật cơ bản nữa, bởi vì nó có ba dạng. Dạng thứ ba là khi chúng ta có một từ mô tả, một tính từ.
+Vậy, chúng ta đã có câu <code>A là B</code> và câu <code>A làm B</code>. Còn một dạng câu tiếng Nhật cơ bản nữa. Dạng thứ ba là khi chúng ta có một từ mô tả, một tính từ.
 
 **Trong tiếng Nhật, các từ mô tả thường kết thúc bằng い** (i), giống như trong tiếng Anh: happy, sunny, cloudy, silly. Trong tiếng Nhật cũng tương tự: happy – うれしい/嬉しい; sad – かなしい/悲しい; blue – あおい/青い.
 
-Chúng ta không cần phải học tất cả những từ này, nhưng chúng ta cần biết về các tính từ tiếng Nhật kết thúc bằng い vì chúng tạo thành dạng câu thứ ba. Vì vậy, hãy lấy ví dụ đơn giản: ペン (nghĩa là bút) – <code>ペンが赤い/あかい</code> = <code>Cây bút màu đỏ</code>.
+Chúng ta không cần phải học tất cả những từ này, nhưng chúng ta cần biết về các tính từ tiếng Nhật kết thúc bằng い vì chúng tạo thành dạng câu thứ ba. Ví dụ:
 
-Các bạn có để ý rằng chúng ta không có だ trong câu này không. Tại sao lại như vậy? **Bởi vì tính từ いL あかい/赤い (đỏ) – nó không có nghĩa là đỏ, nó có nghĩa là "là đỏ". Chức năng だ, chức năng bằng, đã được tích hợp vào các tính từ い này.**
+ペン (nghĩa là bút) – <code>ペンが赤い/あかい</code> = <code>Cây bút màu đỏ</code>.
+
+Các bạn có để ý rằng chúng ta không có だ trong câu này không. Tại sao lại như vậy? **Bởi vì tính từ い あかい/赤い (đỏ) – nó không có nghĩa là "đỏ", nó có nghĩa là "là đỏ". Chức năng だ, chức năng bằng, đã được tích hợp vào các tính từ い này.**
 
 ![](../media/image557.webp)
 
-Vậy là chúng ta đã xem ba dạng câu tiếng Nhật. **Tất cả đều bắt đầu bằng chủ ngữ, tất cả đều được kết nối với が**, và chúng có thể kết thúc theo ba cách: với một động từ, kết thúc bằng う, với trợ từ だ, hoặc với một tính từ い. Thế là các bạn đã biết những điều cơ bản của tiếng Nhật.
+Vậy là chúng ta đã xem ba dạng câu tiếng Nhật. **Tất cả đều bắt đầu bằng chủ ngữ, tất cả đều được kết nối với が**, và chúng có thể kết thúc theo ba cách: với một động từ kết thúc bằng う, với trợ từ だ, hoặc với một tính từ い. Thế là các bạn đã biết những điều cơ bản của tiếng Nhật.
 
 ![](../media/image464.webp)
