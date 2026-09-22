@@ -88,7 +88,7 @@ I guess it isn’t how the Japanese tend to speak. It could be called <code>Engl
 Not our place to work out whether it is or isn't bad Japanese. The point is that most of the time you will see <code>**ほんがよめる**</code>, and **<code>(わたしは)ほんがよめる</code> can't literally mean <code>I can read the book</code>.** **It means <code>The book is readable</code>.**
 
 ::: info
-Can say わたしは to imply book does readable TO ME - a topic, but it’s usually not mentioned
+Can say わたしは to set yourself as the topic (“as for me, the book does readable”), but it’s usually not mentioned
 :::
 
 So that's simple enough, and provided we remember that, we don't send all those particles into crazy illogicality.
