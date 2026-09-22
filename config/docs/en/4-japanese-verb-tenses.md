@@ -16,7 +16,7 @@ Well, actually it isn't confusing at all, and what makes it confusing is, for a 
 
 What is the English non-past tense? Well, it is the plain dictionary form of English words: eat, walk, etc. Why do I call it a non-past tense? Well, let's take an example. Suppose you get a message on your 携帯/けいたい (phone) saying, <code>I walked to the cafe and now I eat cake and drink coffee</code>. What would you know about the person who sent that message? Well, you'd know that it was not a native English speaker, wouldn't you? Because no native English speaker says <code>I eat cake and I drink coffee</code> when they mean <code>I am eating cake and drinking coffee right now</code>.
 
-When so we say <code>I eat cake</code>? Well, we might say it when we mean that we eat cake sometimes: "I eat cake. I'm not one of these people who doesn't eat cake. I do eat cake. Whenever there's any cake around, I eat it. But that doesn't mean I'm eating cake right at this moment."
+When do we say <code>I eat cake</code>? Well, we might say it when we mean that we eat cake sometimes: "I eat cake. I'm not one of these people who doesn't eat cake. I do eat cake. Whenever there's any cake around, I eat it. But that doesn't mean I'm eating cake right at this moment."
 
 When else do we use the English non-past plain form of verbs? Well, sometimes we use them for future events: <code>Next week I fly to Tokyo.</code> <code>Next month I have an exam.</code> And sometimes we use them for something that's going on right now, but not mostly. For example, in a literary description: "The sun sinks over the sea and a small happy robot runs across the beach." But that isn't the way we use it most of the time in everyday speech, is it?
 
