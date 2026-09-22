@@ -4,18 +4,19 @@
     "@types/node": "^20.19.9",
     "prettier": "^3.2.5",
     "typescript": "^5.8.3",
-    "vitepress": "^1.5.0",
-    "vitepress-export-pdf": "^1.0.0"
+    "vitepress": "^1.5.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev config",
     "docs:build": "vitepress build config",
-    "docs:pdf": "press-export-pdf export config",
     "docs:preview": "vitepress preview config"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
     "glob": "^10.3.10",
     "path": "^0.12.7"
+  },
+  "overrides": {
+    "vite": "^6.4.3"
   }
 }
