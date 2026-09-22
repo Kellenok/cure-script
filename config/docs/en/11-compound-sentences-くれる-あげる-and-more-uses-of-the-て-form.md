@@ -44,7 +44,7 @@ So why are we doing all that? Let's take a look. `おねえちゃんはつまら
 
 ![](../media/image451.webp)
 
-**And if we turn that final う-engine into the て-form, what we're saying is that something else is going to follow this clause.** **We are indicating that we're making a complex sentence made up of more than one clause.** So it's like saying, `Big sister was reading a boring book **and...**` And that something else comes: `あそんでくれなかった`. 
+**And if we turn that final う-engine into the て-form, what we're saying is that something else is going to follow this clause.** **We are indicating that we're making a complex sentence made up of more than one clause.** So it's like saying, <code>Big sister was reading a boring book **and...**</code> And that something else comes: `あそんでくれなかった`. 
 
 ![](../media/image1113.webp)
 
@@ -68,7 +68,7 @@ Well, it's not the book. In fact, it's not any actual object. **She is giving th
 
 What do we mean by that? **Well, we say `くれる` not only for giving a thing – a book, a present, a candy – we also say it for giving an action, for doing something for our benefit.** **This is very very often used in Japanese, so it's important to understand it.** If someone does something for our benefit, we turn that action to て-form and we add `くれる`. **If we do something for someone else's benefit, we turn that action into te-form and add `あげる`, which means to `give upward`, in other words, to give to you, to give to another person.**
 
-`くれる` and `あげる` – give down to me or my group / `**あげる**` **give up to you or someone else or your group or their group.**
+`くれる` and `あげる` – give down to me or my group / <code>**あげる**</code> **give up to you or someone else or your group or their group.**
 
 So what is this second part of the sentence? It's `あそんでくれなかった` – "she didn't play / she didn't give Alice playing-with / she didn't play for Alice's benefit".
 

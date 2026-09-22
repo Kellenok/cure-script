@@ -112,10 +112,10 @@ In fact, in English we could say <code>子ども**らしい**</code> means <code
 It can get a bit tricky to say which translation parts I should highlight so as to correspond to what Dolly gives in 日本語, but hopefully it helps, I try to deduce it as best as I can (p^-^)p
 **Anyway, from here on, I will not use these underlines until around Lesson 78.**
 
-**The later lessons will have them again, these lessons in-between do not have them because I used just bolding back then and did not add underlines until later, hence no lines on them for now.****
+**The later lessons will have them again, these lessons in-between do not have them because I used just bolding back then and did not add underlines until later, hence no lines on them for now.**
 
 **Also, lessons from now up to 64 are among the first I edited, and I have not reviewed the notes there yet, so keep that in mind and take them with salt as usual just in case since my Japanese is still very limited and I have not got any more professional / advanced people’s feedback on them.**
-**The reason also then being that I was (and still sort am) not entirely sure whether I should or should not use them (Yomichan does not want to properly scan differently styled parts, 10ten does though…)
+**The reason also then being that I was (and still sort am) not entirely sure whether I should or should not use them (Yomichan does not want to properly scan differently styled parts, 10ten does though…)**
 
 It took a lot of time and work to underline the important parts, so maybe I will return to it later to make it consistent at least.
 If you can, please let me know through Discord or Mail whether you prefer underlined important parts or simply non-underlined text since sometimes the amount of <code>important stuff</code> may be a bit harder to read when everything is underlined. With bold it was even worse, hence why I stopped using it and converted.

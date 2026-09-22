@@ -59,7 +59,7 @@ In a pull-sentence, where the receiver is the が-marked actor, then the に-mar
 
 It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else. And this similarity, this likeness, between <code>もらう</code> and <code>-れる/-</code>られる<code></code> is not pointed out by conventional Japanese grammar, although it's really by far the best way of understanding it, because of course they confuse the whole issue by calling the receptive <code>-れる/-られる</code> helper <code>passive</code>.
 
-It's not passive, **it's receptive, just like *<code>もらう</code>****.*
+It's not passive, **it's receptive, just like *<code>もらう</code>***.
 
 ::: info
 Btw. you can’t use both of these receptives at once. Dolly explains in the* [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).

@@ -128,7 +128,7 @@ But there's another point that we have to consider here, and that is that while 
 
 ***Like I mentioned earlier, です / ます are rather politeness markers, not formality markers.*** ***They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.***
 
-As we know, **there are only two kind of sentences, A-is-B sentences and A-does-B sentences**, and **in Japanese there are two kinds of A-is-B sentences**, that is, **adjective sentences**, **that in their simple form have to end in -い**, and **copular sentences**, which have to **end in <code>だ</code> or <code>です</code>.
+As we know, **there are only two kind of sentences, A-is-B sentences and A-does-B sentences**, and **in Japanese there are two kinds of A-is-B sentences**, that is, **adjective sentences**, **that in their simple form have to end in -い**, and **copular sentences**, which have to **end in <code>だ</code> or <code>です</code>**.
 
 ![](../media/image90.webp)
 

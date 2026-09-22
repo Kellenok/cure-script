@@ -251,7 +251,7 @@ The helper verb, which is stuck onto the え-row sticky stem, is る / られる
 
 **And yes, even though it's simply る, just that one character, it is a helper verb** – if you look it up in a Japanese dictionary (not a Japanese-English dictionary, but a real Japanese dictionary), you will find る there as a 助動詞/*じょどうし*, a helper verb – and it has these two forms, る and られる.
 
-**られる is, you will have noticed, the same as the so-called passive** *(the receptive)*, れる / られる, so the ichidan form of the passive and the potential are the same** – but because they are used very differently, there are very very few occasions on which you would confuse the two, so it's not really a problem.
+**られる is, you will have noticed, the same as the so-called passive** *(the receptive)*, れる / られる, so the ichidan form of the passive and the potential are the same – but because they are used very differently, there are very very few occasions on which you would confuse the two, so it's not really a problem.
 
 ---
 

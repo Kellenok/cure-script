@@ -76,7 +76,7 @@ It's telling us what kind of こと it is, and in this case 見る means `see`, 
 
 ![](../media/image240.webp)
 
-So what this is saying is, `Alice had never seen a talking rabbit`. ( `**The fact of having seen a talking rabbit does not exist**`)
+So what this is saying is, `Alice had never seen a talking rabbit`. ( <code>**The fact of having seen a talking rabbit does not exist**</code>)
 
 > しゃべるウサギを見たことがない
 
@@ -174,7 +174,7 @@ Now, **も declares the topic of the sentence as well, but it always changes it.
 
 ---
 
-If we'd used が: 「**アリスが**お姉ちゃんのところに戻った」, we'd simply have been saying, `The rabbit jumped into the rabbit-hole and **Alice** went back to her sister.`
+If we'd used が: 「**アリスが**お姉ちゃんのところに戻った」, we'd simply have been saying, <code>The rabbit jumped into the rabbit-hole and **Alice** went back to her sister.</code>
 
 ::: info
 Alice = subject of its clause here, marked by が.
@@ -187,7 +187,7 @@ Now, **if we say も instead of は, then we are making the opposite point: we a
 
 ![](../media/image365.webp)
 
-`The rabbit jumped into the rabbit-hole and Alice **also** jumped into the rabbit-hole.` 
+<code>The rabbit jumped into the rabbit-hole and Alice **also** jumped into the rabbit-hole.</code> 
 
 So, there are various uses of も, which we'll look at later, but this is the most fundamental one. **It's the topic-marking particle that tells us that the comment on the new topic is the same as the comment on the old topic.** 
 
@@ -221,9 +221,9 @@ So **`驚いたこと` here doesn't mean a `surprised thing`, it means a `surpri
 
 ---
 
-And に ( `こと**に**`), **is once again that technique of putting a に**, putting に, **after a noun to turn it into an adverb.** 
+And に ( <code>こと**に**</code>), **is once again that technique of putting a に**, putting に, **after a noun to turn it into an adverb.** 
 
-So, `驚いたことに落ちた.` (We'll come to `ゆっくり` in just a moment.) It means `surprisingly fell / she fell in a surprising manner`. And what kind of a surprising manner was this? `**ゆっくりゆっくり**`.
+So, `驚いたことに落ちた.` (We'll come to `ゆっくり` in just a moment.) It means `surprisingly fell / she fell in a surprising manner`. And what kind of a surprising manner was this? <code>**ゆっくりゆっくり**</code>.
 
 ## ゆっくり adverb
 

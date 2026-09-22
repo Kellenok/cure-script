@@ -52,7 +52,7 @@ So, let's go back to a somewhat complex sentence that we analyzed last week. <co
 
 ![](../media/image610.webp)
 
-Now, I colored this in order to show the process of noun modification. In this sentence we have the A-car, which is invisible (it's "I****, zeroが), and we have the engine, which is <code>あげた</code>. And that is the sentence core: <code>I gave</code>.
+Now, I colored this in order to show the process of noun modification. In this sentence we have the A-car, which is invisible (it's "I", zeroが), and we have the engine, which is <code>あげた</code>. And that is the sentence core: <code>I gave</code>.
 
 Now, inside the sentence we have two nouns and they're both modified by more information. And in both cases that information is given by taking a logical clause and pulling out one element and putting it at the head of the sentence, at the engine end of the sentence.
 

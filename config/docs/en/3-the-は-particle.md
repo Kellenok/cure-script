@@ -28,7 +28,7 @@ So, <code>わたし/私は</code> means <code>as for me</code>. <code>アメリ�
 
 ![](../media/image487.webp)
 
-<code>私は(**zeroが)**アメリカ人だ</code> – <code>As for me, (**I)** am an American.</code>
+<code>私は<b>(zeroが)</b>アメリカ人だ</code> – <code>As for me, (**I)** am an American.</code>
 
 Now, some of you may be saying, "Isn't it over-complicated? Can't we just pretend that **わたしは** is the main car of the sentence?" And the answer to that is <code>**No**</code>. Because although it works in this case and some other cases, it doesn't work in every case and that is why we really mustn't do it.
 
@@ -40,7 +40,7 @@ As we know, the default value of the invisible car, the zero pronoun, is <code>�
 
 ---
 
-In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは(**zeroが)**うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
+In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは<b>(zeroが)</b>うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
 
 ![](../media/image377.webp)
 
@@ -74,7 +74,7 @@ If I say, <code>ボールがわたしにさくらをなげる</code>, I'm saying
 
 ![](../media/image106.webp)
 
-Now let's give the は to the ball: <code>ボールは私がさくらに**(zeroを)**なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
+Now let's give the は to the ball: <code>ボールは私がさくらに<b>(zeroを)</b>なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
 
 ![](../media/image877.webp)
 

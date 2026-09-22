@@ -12,7 +12,7 @@ What we're going to talk about starts out with something you already know about,
 
 ::: info
 As you know, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, as given in the Lesson 7.5 note screenshot citation from Dolly’s book.
-***Verbs just make a small change to the one kana on the end,*
+*Verbs just make a small change to the one kana on the end,*
 :::
 
 **changing it from an う-row kana to one of the four other rows.**
@@ -149,7 +149,7 @@ so generally we add something to that.
 
 **We can add the small っ, to make the stem だ~**, *(I think by ~ here is meant っ = だっ)* **which can then have the -た past helper added to it to make <code>だった</code>.** We can add -ろ, so it can have the volitional helper added to make <code>だろう</code>.
 
-**And in the て-form, the だ itself changes — of course having only one kana, だ is the last kana — ** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
+**And in the て-form, the だ itself changes — of course having only one kana, だ is the last kana —** **and that can become <code>で</code> to make the て-form.** It's a little bit less regular than the others, but that's really because **there is only one copula**, so it doesn't have lots of other things in the same group for it to be regular with.
 
 ## Summary
 

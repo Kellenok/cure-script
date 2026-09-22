@@ -7,7 +7,7 @@
 Today we're going to talk about **formal** *(polite)* Japanese: です/ます.
 
 ::: info
-Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite.**
+Whenever Dolly uses the term <code>formal</code> for です or ます, it should be POLITE instead, there is a difference between the two terms in Japanese, not sure why she did not bring this one up, but it is quite important to distinguish, if you look into their definitions, dictionaries mark them as polite.
 :::
 
 ***They are part of the 丁寧語 (polite language). So it is more accurate to call them polite instead.***

@@ -74,7 +74,7 @@ So we can say 「ほんがよめる」 and although よめる, which is the pote
 
 ---
 
-Now, **let's also notice that the A-car, the actor of the sentence, is not necessarily a person.** So, if we say, 「**水**がのまれた」 (のむ/飲む＝drink; のま＝ あ stem of drink; れた＝ got), we're saying `**The water** got drunk`. **And the actor of that sentence is the water.** 
+Now, **let's also notice that the A-car, the actor of the sentence, is not necessarily a person.** So, if we say, 「**水**がのまれた」 (のむ/飲む＝drink; のま＝ あ stem of drink; れた＝ got), we're saying <code>**The water** got drunk</code>. **And the actor of that sentence is the water.** 
 
 ![](../media/image649.webp)
 
@@ -137,7 +137,7 @@ Now, there's one other area in which the receptive sometimes confuses people, an
 
 ---
 
-「さくらはだれかに**かばんが**ぬすまれた。」means `Sakura's **bag** got stolen by someone` or, literally, `In relation to Sakura, **bag** got stolen by someone`. 
+「さくらはだれかに**かばんが**ぬすまれた。」means <code>Sakura's **bag** got stolen by someone</code> or, literally, <code>In relation to Sakura, **bag** got stolen by someone</code>. 
 ::: info
 Normal receptive.
 :::
@@ -194,7 +194,7 @@ So what's happening here? **The が marked actor is now Sakura, isn't it? She is
 ![](../media/image368.webp)
 :::
 
-So what does this sentence mean in English? Very simple: `**Sakura** got her bag stolen`. That's what we say in English; our old English teacher might not like it, but we say it in English, it makes sense in English, and it's exactly what we say in Japanese. `Sakura got her bag stolen by someone.`
+So what does this sentence mean in English? Very simple: <code>**Sakura** got her bag stolen</code>. That's what we say in English; our old English teacher might not like it, but we say it in English, it makes sense in English, and it's exactly what we say in Japanese. `Sakura got her bag stolen by someone.`
 
 So, you can see that there is in fact no problem, no difficulty, no confusion about the receptive helper verb, just so long as you know that it is a receptive helper verb and not something else.
 

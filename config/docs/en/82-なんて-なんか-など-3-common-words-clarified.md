@@ -76,7 +76,7 @@ So we might say, <code>タバコ**など**不要だ</code>, which means <code>I'
 
 And it’s the denigrating one we'll hear sometimes very strongly in cases where... well, let's say in an anime a younger sister is angry with her older sister. She may say, <code>お姉ちゃん**なんか**大嫌い!</code> (I really hate **stuff like** my big sister).
 
-Now, of course, **that's not literally what she means.** **She doesn't mean she hates <code>stuff like</code> her big sister,** **but by using this expression — <code>stuff like you</code>, <code>stuff like my big sister</code> — ** **you're throwing a very disparaging light on what it is you're talking about.**
+Now, of course, **that's not literally what she means.** **She doesn't mean she hates <code>stuff like</code> her big sister,** **but by using this expression — <code>stuff like you</code>, <code>stuff like my big sister</code> —** **you're throwing a very disparaging light on what it is you're talking about.**
 
 ---
 

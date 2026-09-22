@@ -57,8 +57,8 @@ And because it is indeed a very long-winded way of saying something common like 
 if it helps, more literally something like <code>Why if (I) don’t go, (it’s) bad/it won’t do?</code>
 Or as Dolly-先生 says in the comments for 行かなければいけない + what that いけない means:
 :::
-*![](../media/image1040.webp)**
-**![](../media/image1003.webp)
+![](../media/image1040.webp)
+![](../media/image1003.webp)
 
 In cases like that, where we're putting stress on it as opposed to cases where we're just saying casually <code>行かなきゃ</code> — <code>I've got to go</code>.
 

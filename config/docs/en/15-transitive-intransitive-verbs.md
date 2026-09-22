@@ -30,7 +30,7 @@ They both use the same kanji which means <code>come out</code>. **The base form 
 
 ::: info
 Not to confuse the translation <code>cause something to</code> as denoting causative<sup>[[19]](./19-causative-causative-receptive.md)</sup>,  
-出す has its own <code>causative</code> form - 出させる(ださせる) that denotes **[its causative form](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B).  
+出す has its own <code>causative</code> form - 出させる(ださせる) that denotes **[its causative form](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B)**.  
 *Here, you are doing the action of moving something. You are not making someone else do it.*
 :::
 

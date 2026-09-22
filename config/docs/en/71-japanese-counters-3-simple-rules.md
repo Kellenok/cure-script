@@ -186,8 +186,8 @@ So if we take <code>階 / かい</code>, the counter for floors in a building, w
 
 If we take <code>歳 / さい</code>, the counter for years of age,
 ::: info
-there is also 才, which seems to be a <code>kid</code> alternative to 歳 (but [**is not its simplified ver.**](https://japanese.stackexchange.com/a/1844)).**
-**However, 歳 seems to be the only one that is actually used in official communication.
+there is also 才, which seems to be a <code>kid</code> alternative to 歳 (but [**is not its simplified ver.**](https://japanese.stackexchange.com/a/1844)).
+**However, 歳 seems to be the only one that is actually used in official communication.**
 :::
 
 we don't say <code>いちさい</code> — we say <code>いっさい</code>.

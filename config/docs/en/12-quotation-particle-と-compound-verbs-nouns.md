@@ -36,7 +36,7 @@ So, 「おもしろいことがない」means `There's nothing interesting going
 
 **There are actually two と particles:** one means `and` and it's very simple; **the other one is what we call the `quotation particle`**, and that's what we're dealing with here. **When we quote someone as saying something or even as thinking something, we use this particle と. It's kind of like a quotation mark that you can hear.** 
 
-As you see, we use the square quotation marks in Japanese, which are the equivalent to English quotation marks, **but we also use the と.** So we don't just say, ` 'Nothing interesting is happening,' Alice said`. We say, ` 'Nothing interesting is happening,' **と** Alice said`. Now, と is a very interesting particle structurally and we're going to look into that a little more deeply in a few minutes.
+As you see, we use the square quotation marks in Japanese, which are the equivalent to English quotation marks, **but we also use the と.** So we don't just say, ` 'Nothing interesting is happening,' Alice said`. We say, <code> 'Nothing interesting is happening,' **と** Alice said</code>. Now, と is a very interesting particle structurally and we're going to look into that a little more deeply in a few minutes.
 
 >そのとき、白いウサギがとおりすぎた。
 
@@ -144,7 +144,7 @@ In the Disney version, of course, it was `I'm late!`
 
 『「おそい！おそい！」と言って…』
 
-( `The rabbit said, **I**m late! I'm late!'`)
+( <code>The rabbit said, **I**m late! I'm late!'</code>)
 
 And that 言って is another compound 言って, so this time we have a three deep compound sentence.
 

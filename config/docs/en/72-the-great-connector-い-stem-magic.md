@@ -201,8 +201,8 @@ If you have any questions or comments *(again, it’s a good idea to read video 
 I'd like to thank my Gold Kokeshi patrons and all of my patrons and supporters on Patreon and everywhere, who make all of this possible.
 ::: info
 In the comments, there is this rather interesting comment by one shary0 about て-form.  
-If anyone wants to read up on い-stem in a more <code>text-booky</code> language - here is **[the source link](https://jref.com/articles/renyoukei.107/).  
+If anyone wants to read up on い-stem in a more <code>text-booky</code> language - here is **[the source link](https://jref.com/articles/renyoukei.107/)**.  
 :::
-**Also, check [**this comment discussion under this video.**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)*
+**Also, check [this comment discussion under this video.](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)**
 
 ![](../media/image67.webp)

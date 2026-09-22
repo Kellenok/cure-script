@@ -123,7 +123,7 @@ So, "**That**s dangerous, isn't it, leaving the door open,' she thought; she con
 
 "In the pitch darkness — 真っ暗の中で — 自分の携帯電話 — her own telephone — 探し出す". <code>探し出す</code>: <code>探す</code> as we know, is <code>search</code>; <code>探し出す</code> is literally <code>search out</code>, so she sought it out, she found it — <code>と</code>.
 
-****「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
+"「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
 
 So she said something aloud here, but presumably quite quietly so that she wouldn't wake senpai. She said: <code>忘れ物</code> — <code>forgotten thing</code> — <code>をしたので</code> — "I did a forgotten thing / I forgot a thing / I left a thing behind<code> — </code>忘れ物をしたので" — because of that — <code>取りに戻りました</code> — <code>I came back to take it / in order to take it, I returned</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> is to say something to someone, to engage them in conversation, here <code>ひと声</code> — she just said that single word, she just said that single voice, literally, she just said that — <code>部屋を後にした</code> — so she just said that, presumably quietly so that senpai wouldn't even hear her, but she felt she ought to say something — <code>部屋を後にした</code> — <code>後にする</code> literally means to <code>turn it into behind</code>, in other words, put it behind you, in other words, leave — she left the room — <code>部屋を後にした</code> — she made the room the thing behind her by leaving it.
 

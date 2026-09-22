@@ -201,8 +201,8 @@
 Я хотела бы поблагодарить моих патронов Gold Kokeshi и всех моих патронов и сторонников на Patreon и везде, кто делает всё это возможным.
 ::: info
 В комментариях есть довольно интересный комментарий от некоего shary0 о て-форме.
-Если кто-то хочет почитать об い-основе на более <code>учебниковом</code> языке — вот **[ссылка на источник](https://jref.com/articles/renyoukei.107/).
+Если кто-то хочет почитать об い-основе на более <code>учебниковом</code> языке — вот **[ссылка на источник](https://jref.com/articles/renyoukei.107/)**.
 :::
-**Также, проверьте [**это обсуждение в комментариях под этим видео.**](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)*
+**Также, проверьте [это обсуждение в комментариях под этим видео.](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)**
 
 ![](../media/image67.webp)

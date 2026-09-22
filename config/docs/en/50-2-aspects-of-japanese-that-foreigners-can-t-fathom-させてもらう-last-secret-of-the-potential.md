@@ -64,7 +64,7 @@ Now, sometimes of course it can actually mean <code>allow</code>, so for example
 
 It's rather like saying in English <code>With your permission, I'll leave now</code>, which could very well mean <code>I'll leave now, with or without your permission</code>, but it puts a veneer of politeness over the matter. And whether it's genuinely polite or whether it's just informing someone that you're going with a thin veneer of politeness, this is something you'll obviously grasp from context and tone of voice etc., just as you would in English.
 
-There's a considerable difference between saying "With your permission I'll go home now**** \[softly\] and saying "With your permission I'll go home now**** \[harshly\] — and that's just the same in Japanese as in English. So, as you see, there are many ways in which these elements can be combined, but if we understand each of them and we understand how they fit together, we have the tools necessary to assimilate from immersion how these things are used.
+There's a considerable difference between saying "With your permission I'll go home now \[softly\] and saying "With your permission I'll go home now \[harshly\] — and that's just the same in Japanese as in English. So, as you see, there are many ways in which these elements can be combined, but if we understand each of them and we understand how they fit together, we have the tools necessary to assimilate from immersion how these things are used.
 
 Remember, *structure doesn't teach us how to understand Japanese.* **It gives us the basic tools we need in order to pick it up from the only place you can** **really learn how a language works** — and that is **direct immersion**.
 

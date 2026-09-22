@@ -29,8 +29,7 @@ And, as we see, **the adjective <code>たい</code>**,
 
 ---
 
-And confusion ensues<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> when we actually translate this as literally meaning **  
-<code>I want to eat cake</code>, because that's not what it means.**
+And confusion ensues<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> when we actually translate this as literally meaning **<code>I want to eat cake</code>, because that's not what it means.**
 
 ****It means** <code>cake is want-inducing (to me)</code>.** *(私は) ケーキが食べたい。*
 
