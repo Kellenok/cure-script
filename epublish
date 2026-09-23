@@ -1,0 +1,20 @@
+#!/bin/sh
+releasedate=$(date +%Y%m%d-%H%M%S)
+for dir in config/docs/*/; do
+  [ "$(find "$dir" -maxdepth 1 -name '*.md' -print -quit)" != "" ] || continue
+  lang=$(basename "$dir")
+  ref=""
+  [ "$lang" = "en" ] || ref=" ($lang)"
+  echo "Binding $lang book..."
+  {
+    echo "<dc:title>Cure Dolly Transcript$ref</dc:title>"
+    echo "<dc:description>Hello, everyone. My name is Cure Dolly and I am here to teach you Organic Japanese. What is Organic Japanese? It is Japanese pure and simple, with no harmful additives. Japanese is the simplest, most logical, most easily understandable language I have ever encountered – much easier than Western languages.</dc:description>"
+    echo "<dc:language>ja</dc:language>"
+    echo "<dc:language>$lang</dc:language>"
+    echo "<dc:creator>Cure Dolly</dc:creator>"
+    echo "<dc:contributor>nunko/dinuz</dc:contributor>"
+    echo "<dc:contributor>Kellenok</dc:contributor>"
+    echo "<dc:publisher>coffeepebble</dc:publisher>"
+  } >/tmp/epub-tags.xml
+  find config/docs/"$lang" -name '*.md' | sort -V | xargs pandoc -f markdown+rebase_relative_paths+east_asian_line_breaks --toc --split-level=1 --epub-metadata=/tmp/epub-tags.xml --css=./config/stylesheet.css -o "cure-dolly-$releasedate$ref.epub"
+done
