@@ -16,6 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: pandoc/actions/setup@v1
+
       - name: Build
         run: |
           chmod +x epublish
