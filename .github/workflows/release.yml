@@ -22,10 +22,14 @@ jobs:
         run: |
           chmod +x epublish
           ./epublish
+          
+      - name: Determine tag
+        id: tag
+        run: echo "name=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Create release & upload
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || github.sha }}
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || steps.tag.outputs.name }}
           files: |
             **/*.epub
