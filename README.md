@@ -1,5 +1,6 @@
-**[Read from 1st lesson
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)**
+**[Read from 1st lesson Online
+](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; [Download for Offline reading
+](https://github.com/Kellenok/cure-script/releases/latest)
 
 # Intro
 
@@ -8,6 +9,15 @@ First and foremost, this project only exists because Mordraug and Nunko spent a 
 For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, changed the formatting slightly, and published it using Vitepress, which I find more convenient than Google Docs or PDF.
 
 <img src="https://i.imgur.com/YOWRijj.png">
+
+The full transcript is available as EPUBs in [releases](https://github.com/Kellenok/cure-script/releases/). You can also (modify the material and) build locally:
+
+```sh
+git clone https://github.com/Kellenok/cure-script
+brew install pandoc
+chmod 755 epublish
+./epublish
+```
 
 ## What's changed
 
