@@ -12,7 +12,8 @@ for dir in config/docs/*/; do
     echo "<dc:language>ja</dc:language>"
     echo "<dc:language>$lang</dc:language>"
     echo "<dc:creator>Cure Dolly</dc:creator>"
-    echo "<dc:contributor>nunko/dinuz</dc:contributor>"
+    echo "<dc:contributor>nunko</dc:contributor>"
+    echo "<dc:contributor>Mordraug</dc:contributor>"
     echo "<dc:contributor>Kellenok</dc:contributor>"
     echo "<dc:publisher>coffeepebble</dc:publisher>"
   } >/tmp/epub-tags.xml
