@@ -1,11 +1,12 @@
 #!/bin/sh
+trap : INT
 releasedate=$(date +%Y%m%d-%H%M%S)
 for dir in config/docs/*/; do
   [ "$(find "$dir" -maxdepth 1 -name '*.md' -print -quit)" != "" ] || continue
   lang=$(basename "$dir")
   ref=""
   [ "$lang" = "en" ] || ref=" ($lang)"
-  echo "Binding $lang book..."
+  echo "Binding $lang book... [ctrl+c to skip]"
   {
     echo "<dc:title>Cure Dolly Transcript$ref</dc:title>"
     echo "<dc:description>Hello, everyone. My name is Cure Dolly and I am here to teach you Organic Japanese. What is Organic Japanese? It is Japanese pure and simple, with no harmful additives. Japanese is the simplest, most logical, most easily understandable language I have ever encountered – much easier than Western languages.</dc:description>"
