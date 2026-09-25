@@ -1,3 +1,4 @@
 /node_modules
 /config/.vitepress/dist
 /config/.vitepress/cache
+*.epub
