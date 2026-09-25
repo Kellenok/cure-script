@@ -1,6 +1,6 @@
 **[Read from 1st lesson Online
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; [Download for Offline reading
-](https://github.com/Kellenok/cure-script/releases/latest)
+](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)** &nbsp;&nbsp;&nbsp;&nbsp; **[Download for Offline reading
+](https://github.com/Kellenok/cure-script/releases/latest)**
 
 # Intro
 
