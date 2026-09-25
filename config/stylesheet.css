@@ -226,3 +226,6 @@ code {
   color: #3451b2;
   font-family: monospace;
 }
+pre code {
+  padding: 3px 6px;
+}
