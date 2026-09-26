@@ -158,7 +158,7 @@ which again can introduce a story.
 
 Why are we saying <code>のこと</code> here?
 
-Well, it's worth remembering that <code>こと/事</code> not only means a situation or a circumstance but is a kind of cousin to the <code>こと/言</code> of <code>言葉</code>.
+Well, it's worth remembering that <code>[事]{こと}</code> not only means a situation or a circumstance but is a kind of cousin to the <code>[言]{こと}</code> of <code>言葉</code>.
 ::: info
 Check Lesson 74 for this.
 :::

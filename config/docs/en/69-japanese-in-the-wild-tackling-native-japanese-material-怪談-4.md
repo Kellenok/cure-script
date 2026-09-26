@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to go back to the 怪談/かいだん, the scary Japanese story that we started a few episodes ago, so that we can tackle some more of the challenges of reading real native Japanese. I've gathered all these episodes together in one playlist, so you can look at the whole 怪談 in one place, and I'm putting that in a link just above my head right here.
+Today we're going to go back to the [怪談]{かいだん}, the scary Japanese story that we started a few episodes ago, so that we can tackle some more of the challenges of reading real native Japanese. I've gathered all these episodes together in one playlist, so you can look at the whole 怪談 in one place, and I'm putting that in a link just above my head right here.
 
 Now, to recap the story so far, our heroine went to a drinking party at her Senpai's apartment and, walking home late at night, she discovered that she'd left her 携帯 (her portable telephone) in Senpai's apartment. So, she went back, knocked on the door, and there was no answer. She tried the handle and the door was unlocked, so she walked in.
 
@@ -65,13 +65,13 @@ When she asked about the situation, it was that the senpai had been killed in th
 
 <code>荒らす</code> is <code>storm or violate or mess up</code>. So, the room received the action of being messed up or violated.
 
-And the helper receptive verb is in て-form and followed by <code>おり</code>. Now, <code>居る / おる</code> — as we talked about in a previous episode in this series, <code>居る / おる</code> is a literary, slightly old-fashioned way of saying <code>居る / いる</code>. So <code>荒らされておる</code> is the same as <code>荒らされている</code>: <code>was in a state of having received being violated or messed up</code>.
+And the helper receptive verb is in て-form and followed by <code>おり</code>. Now, <code>[居]{お}る</code> — as we talked about in a previous episode in this series, <code>[居]{お}る</code> is a literary, slightly old-fashioned way of saying <code>[居]{い}る</code>. So <code>荒らされておる</code> is the same as <code>荒らされている</code>: <code>was in a state of having received being violated or messed up</code>.
 
 And then that <code>おる</code> is put into its い-stem, <code>おり</code>, which again, as we discussed before, is a slightly more literary way of joining two clauses in a compound sentence. So this joins this clause to the next clause, which gives a conjecture about the situation: <code>The room was in a state of having received being messed up or violated, and...</code>
 
 <code>物取りの犯行かもしれないという</code> :
 
-<code>物取り</code> is <code>もの/物</code> (thing) + <code>取る</code> (take), so <code>物取る</code> — <code>take thing</code>; <code>物取り</code> — the noun of taking things, so <code>物取り</code> here is <code>theft</code>; <code>犯行</code> is a <code>criminal act</code>, a <code>criminal going</code>, literally, but a criminal act.  
+<code>物取り</code> is <code>[物]{もの}</code> (thing) + <code>取る</code> (take), so <code>物取る</code> — <code>take thing</code>; <code>物取り</code> — the noun of taking things, so <code>物取り</code> here is <code>theft</code>; <code>犯行</code> is a <code>criminal act</code>, a <code>criminal going</code>, literally, but a criminal act.  
 So this was perhaps or probably a crime of theft, a burglary...
 
 <code>という</code> — <code>was said</code>. And who said it? Well, presumably the police.

@@ -24,7 +24,7 @@ That's right, it's a flag. Why do we depict it as a flag? Because that is what �
 
 Now, some of the textbooks will tell you that a sentence like <code>わたしはアメリカ人だ</code> literally means <code>As for me, I am an American</code>, and that is exactly correct. If they would stick with that logic and carry it through, we wouldn't have the trouble we have.
 
-So, <code>わたし/私は</code> means <code>as for me</code>. <code>アメリカ人だ</code> means <code>=American</code> or <code>am American</code>. So as you see, with a sentence like this something is missing, both from the Japanese and the English. We can't say <code>as for me, am American</code>. Neither can we have a sentence without an A car, without a が-marked doer. So if we put the A car in, it makes sense in both English and Japanese.
+So, <code>[私]{わたし}は</code> means <code>as for me</code>. <code>アメリカ人だ</code> means <code>=American</code> or <code>am American</code>. So as you see, with a sentence like this something is missing, both from the Japanese and the English. We can't say <code>as for me, am American</code>. Neither can we have a sentence without an A car, without a が-marked doer. So if we put the A car in, it makes sense in both English and Japanese.
 
 ![](../media/image487.webp)
 
@@ -36,11 +36,11 @@ Let's take an example. There's an old joke among Japanese learners and it's only
 
 After all, if <code>わたしはアメリカ人だ</code> means <code>I am an American</code>, then <code>わたしはうなぎだ</code> must mean <code>I am an eel</code>. That's absolutely perfect logic – **except that <code>わたしはアメリカ人だ</code> doesn't mean <code>I am an American</code>. It means <code>As for me, I am an American</code>.**
 
-As we know, the default value of the invisible car, the zero pronoun, is <code>私/わたし</code>, but that isn't its only value. Its value depends on context.
+As we know, the default value of the invisible car, the zero pronoun, is <code>[私]{わたし}</code>, but that isn't its only value. Its value depends on context.
 
 ---
 
-In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは<b>(zeroが)</b>うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
+In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>[私]{わたし}</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは<b>(zeroが)</b>うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
 
 ![](../media/image377.webp)
 

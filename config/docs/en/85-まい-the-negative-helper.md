@@ -26,7 +26,7 @@ The first unusual thing about it is that unlike most helpers, **it doesn't attac
 
 **This is always the case with godan verbs because there's no other way of attaching <code>まい</code>.**
 
-**With ichidan verbs we can attach it to the universal ichidan stem** (as you know, with ichidan verbs we always, whatever we're doing with them, we always just take off the -る and put on whatever we want to put on). So, for example, <code>見る</code> can become <code>見まい / みまい</code>, **but just as often it's** <code>見るまい</code>.
+**With ichidan verbs we can attach it to the universal ichidan stem** (as you know, with ichidan verbs we always, whatever we're doing with them, we always just take off the -る and put on whatever we want to put on). So, for example, <code>見る</code> can become <code>[見]{み}まい</code>, **but just as often it's** <code>見るまい</code>.
 
 **With the two irregulars**, <code>来る</code> and <code>する</code>, **they can be** <code>来るまい</code> and <code>するまい</code>, **but they can also be** <code>こまい</code> and <code>しまい</code>.
 

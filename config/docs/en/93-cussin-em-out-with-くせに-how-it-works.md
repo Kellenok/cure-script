@@ -10,7 +10,7 @@ Today we're going to talk about an expression that you see all the time in anime
 
 ![](../media/image261.webp)
 
-Now, the etymological problem is that whereas we all know what <code>くせ / 癖</code> means **— it means a <code>habit or idiosyncrasy</code> —** **but it's not very clear what that has to do with the expression <code>くせに</code>.** **And the answer is: nothing.**
+Now, the etymological problem is that whereas we all know what <code>[癖]{くせ}</code> means **— it means a <code>habit or idiosyncrasy</code> —** **but it's not very clear what that has to do with the expression <code>くせに</code>.** **And the answer is: nothing.**
 
 **Some Japanese etymological sources tell us that** **this <code>くせ</code> was actually a different <code>くせ</code> originally,** **but nobody really seems to know for sure.** **But the point is that it really** **has very little to do with the modern usage.**
 

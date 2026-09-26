@@ -58,7 +58,7 @@ So, let's take a simple example: 「さくらがしかられた。」
 
 ![](../media/image1162.webp)
 
-**叱る/しかる means `scold` or `tell off`, and the あ-stem is 叱ら, so when we add to that れる and put it into the past tense we get しかれた/叱られた.** **叱る is `scold`, 叱られる is `get scolded`, 叱られた is `got scolded`, so, `Sakura got scolded`.**
+**[叱]{しか}る means `scold` or `tell off`, and the あ-stem is 叱ら, so when we add to that れる and put it into the past tense we get [叱]{しか}られた.** **叱る is `scold`, 叱られる is `get scolded`, 叱られた is `got scolded`, so, `Sakura got scolded`.**
 
 ---
 
@@ -74,7 +74,7 @@ So we can say 「ほんがよめる」 and although よめる, which is the pote
 
 ---
 
-Now, **let's also notice that the A-car, the actor of the sentence, is not necessarily a person.** So, if we say, 「**水**がのまれた」 (のむ/飲む＝drink; のま＝ あ stem of drink; れた＝ got), we're saying <code>**The water** got drunk</code>. **And the actor of that sentence is the water.** 
+Now, **let's also notice that the A-car, the actor of the sentence, is not necessarily a person.** So, if we say, 「**水**がのまれた」 ([飲]{の}む＝drink; のま＝ あ stem of drink; れた＝ got), we're saying <code>**The water** got drunk</code>. **And the actor of that sentence is the water.** 
 
 ![](../media/image649.webp)
 
@@ -92,7 +92,7 @@ Let's get a fuller sentence so we can see all the particles working together in 
 
 ![](../media/image100.webp)
 
-(盗む/ぬすむ＝ steal; 盗ま＝ あ stem of steal; 盗まれる＝ get stolen; 盗まれた＝ got stolen). **誰か/だれか means `someone`** (誰＝ who, か＝ question). Who was it? We don't know, no one in particular, but someone. **誰か＝Someone**.
+([盗]{ぬ}すむ＝ steal; 盗ま＝ あ stem of steal; 盗まれる＝ get stolen; 盗まれた＝ got stolen). **[誰]{だれ}か means `someone`** (誰＝ who, か＝ question). Who was it? We don't know, no one in particular, but someone. **誰か＝Someone**.
 
 ---
 
@@ -133,7 +133,7 @@ If you think of it as <code>passive conjugation</code>, all the particles do a s
 
 ## <code>Nuisance Receptive/Passive</code>/迷惑受け身
 
-Now, there's one other area in which the receptive sometimes confuses people, and that is in the so-called <code>suffering passive</code> or <code>adversity passive</code>, which is actually called in Japanese the 迷惑受け身/*めいわくうけみ*, which means the `nuisance receptive`. And that's what it is. It's the nuisance receptive.
+Now, there's one other area in which the receptive sometimes confuses people, and that is in the so-called <code>suffering passive</code> or <code>adversity passive</code>, which is actually called in Japanese the [迷惑受け身]{めいわくうけみ}, which means the `nuisance receptive`. And that's what it is. It's the nuisance receptive.
 
 ---
 

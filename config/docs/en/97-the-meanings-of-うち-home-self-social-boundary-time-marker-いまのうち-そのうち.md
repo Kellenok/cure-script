@@ -54,7 +54,7 @@ And even <code>**うち**のきょう</code>, which is <code>the religion of **o
 
 ## うち vs そと
 
-**Now, from this we get a very fundamental distinction in Japanese,** **which is between the concepts of <code>うち / 内</code> and <code>そと / 外</code>.** **<code>うち</code> refers to the group one belongs to, the in-group;** **<code>そと</code> refers to everything outside that group.**
+**Now, from this we get a very fundamental distinction in Japanese,** **which is between the concepts of <code>[内]{うち}</code> and <code>[外]{そと}</code>.** **<code>うち</code> refers to the group one belongs to, the in-group;** **<code>そと</code> refers to everything outside that group.**
 
 ![](../media/image849.webp)
 

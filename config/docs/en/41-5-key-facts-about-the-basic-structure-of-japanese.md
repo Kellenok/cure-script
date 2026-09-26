@@ -101,7 +101,7 @@ So, we'll take one that ends in the typical <code>り</code>: <code>ゆっくり
 
 So, **that's the one and only superpower of the adverbial noun.** And it's important to understand this because when you start trying to explain them without recognizing this fundamental fact, you can get into all kinds of difficulty.
 
-Let's take another one: <code>余り/あまり</code>.
+Let's take another one: <code>[余]{あま}り</code>.
 
 #### あまり
 
@@ -135,7 +135,7 @@ And it's just the same with <code>あまり</code>. If we say <code>あまり勉
 
 #### 随分
 
-So, let's just take one more that doesn't end in <code>り</code>, and that's <code>随分/ずいぶん</code>. What it really means is <code>sufficiently</code>.
+So, let's just take one more that doesn't end in <code>り</code>, and that's <code>[随分]{ずいぶん}</code>. What it really means is <code>sufficiently</code>.
 
 And you may say, <code>Well, **sufficiently** isn't a noun</code>. And that's true — in English it isn't a noun.
 

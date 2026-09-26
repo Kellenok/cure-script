@@ -29,7 +29,7 @@ So, let's look at some of the ways in which it's used. We can say <code>自然�
 
 <code>自然</code> is nature<code> and </code>まま<code> is </code>unchanged state<code> or </code>unchanged condition". So, <code>自然のまま</code> is the <code>unchanged condition of nature</code>. <code>自然のままの森</code> is <code>the forest in the unchanged condition of nature</code>.
 
-Now, when you're in Japan somebody may offer you 枝豆/えだまめ, which are beans which grow from the branches of trees, which is why they're called 枝豆 (which means <code>branch bean</code>). And you might look at them, they're not cooked or anything, you might say <code>そのままで食べられるの?</code> — <code>Can you eat them just as they are / can you eat them in their unchanged condition?</code>
+Now, when you're in Japan somebody may offer you [枝豆]{えだまめ}, which are beans which grow from the branches of trees, which is why they're called 枝豆 (which means <code>branch bean</code>). And you might look at them, they're not cooked or anything, you might say <code>そのままで食べられるの?</code> — <code>Can you eat them just as they are / can you eat them in their unchanged condition?</code>
 
 ![](../media/image981.webp)
 
@@ -73,7 +73,7 @@ So <code>思いのまま</code> is <code>in the unchanged condition of one's tho
 
 ![](../media/image898.webp)
 
-Why does it mean that? Well, <code>我が/わが</code> means <code>I</code> or <code>we</code> and it can be put next to a noun to denote possession of it. So we can say <code>わが家</code>, which means <code>my house</code> or <code>our house</code>.
+Why does it mean that? Well, <code>[我]{わ}が</code> means <code>I</code> or <code>we</code> and it can be put next to a noun to denote possession of it. So we can say <code>わが家</code>, which means <code>my house</code> or <code>our house</code>.
 
 <code>わがまま</code> means <code>my unchanged condition</code>, but this clearly is influenced by expressions like <code>思いのまま</code> or <code>心のまま</code>. So this <code>わがまま</code> means <code>my unchanged condition</code> implying <code>my will</code>, <code>wanting the world to go in accordance with my will,</code> wanting the world to be <code>思いのまま</code>, <code>心のまま</code>.
 

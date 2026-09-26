@@ -20,7 +20,7 @@ So you see this is in です/ます-style Japanese, so if you're a little bit un
 
 ![](../media/image641.webp)
 
-So, <code>犬が肉をくわえた</code> is <code>a dog held meat in its mouth</code>, but <code>肉をくわえた犬</code> is <code>a dog that was holding meat in its mouth</code>. So, that dog is the subject of our sentence, marked with が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>橋/はし</code> is <code>bridge</code> and <code>わたる</code> is <code>cross</code>. So, the dog was in the process (<code>-ている</code>) of crossing the bridge. <code>肉をくわえた犬がはしをわたっていました.</code> So that set the scene. We know what's happening.
+So, <code>犬が肉をくわえた</code> is <code>a dog held meat in its mouth</code>, but <code>肉をくわえた犬</code> is <code>a dog that was holding meat in its mouth</code>. So, that dog is the subject of our sentence, marked with が. <code>肉をくわえた犬がはしをわたっていました.</code> <code>[橋]{はし}</code> is <code>bridge</code> and <code>わたる</code> is <code>cross</code>. So, the dog was in the process (<code>-ている</code>) of crossing the bridge. <code>肉をくわえた犬がはしをわたっていました.</code> So that set the scene. We know what's happening.
 
 <code>ふと下を見ると、川の中にも肉をくわえた犬がいます.</code>
 
@@ -102,7 +102,7 @@ The fact is that it was... the fact is that the previous dog in the river was on
 
 ![](../media/image331.webp)
 
-<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Now, first of all, that <code>見え</code> is the <code>連用形/れんようけい</code>, the い-stem of <code>見える</code>, to <code>be visible or look like</code>. It doesn't look like an い-stem because it's an ichidan verb and, as we know, all the stems of the ichidan verb look the same. But the い-stem of a verb can be used, especially in literary contexts, like the て-form, to connect two logical clauses within a compound sentence. So, that <code>見え</code> is completing a logical clause and then leading onto the second logical clause which is the other moral of the story.
+<code>同じ物を持っていても人が持っている物のほうが良く見え、</code> Now, first of all, that <code>見え</code> is the <code>[連用形]{れんようけい}</code>, the い-stem of <code>見える</code>, to <code>be visible or look like</code>. It doesn't look like an い-stem because it's an ichidan verb and, as we know, all the stems of the ichidan verb look the same. But the い-stem of a verb can be used, especially in literary contexts, like the て-form, to connect two logical clauses within a compound sentence. So, that <code>見え</code> is completing a logical clause and then leading onto the second logical clause which is the other moral of the story.
 
 So, let's look at the first moral first. <code>同じ物を持っていても</code> — now, the <code>-ても</code> ending, as we know, means <code>even though</code>, so we're saying <code>同じ物</code> — <code>the same thing</code> — <code>を持っていても</code> — <code>is in a state of carrying</code> (or holding or possessing). So, even though they possess the same thing (<code>同じ物</code>) <code>人が持っている物</code> — <code>the thing that people have</code> — and <code>人</code> here means <code>other people</code>.
 

@@ -46,7 +46,7 @@ And it's important to understand that when we add the logical particle or the co
 
 ---
 
-So for example when we add the soft copula <code>な</code> to an adjectival noun like <code>綺麗/きれい</code> we have <code>綺麗な</code>, and <code>綺麗な</code> is regarded as a unit in itself.
+So for example when we add the soft copula <code>な</code> to an adjectival noun like <code>[綺麗]{きれい}</code> we have <code>綺麗な</code>, and <code>綺麗な</code> is regarded as a unit in itself.
 
 ![](../media/image434.webp)
 

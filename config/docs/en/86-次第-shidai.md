@@ -34,7 +34,7 @@ So if we want to talk about the third episode of an anime we say <code>団三話
 
 ![](../media/image255.webp)
 
-So, we have the <code>次 / つぎ</code> kanji, the <code>next</code> kanji, whose regular on-reading is <code>し</code>, and we have <code>第 / だい</code>, meaning <code>ordinal / sequence / number in sequence</code>.
+So, we have the <code>[次]{つぎ}</code> kanji, the <code>next</code> kanji, whose regular on-reading is <code>し</code>, and we have <code>[第]{だい}</code>, meaning <code>ordinal / sequence / number in sequence</code>.
 
 **So what it means is <code>next thing in sequence / next thing in order</code>.**
 
@@ -48,7 +48,7 @@ So, we have the <code>次 / つぎ</code> kanji, the <code>next</code> kanji, wh
 
 **<code>腕時計</code> is an <code>arm-clock</code> (a wristwatch).**
 
-If we attach <code>砂 / すな</code> to <code>時計</code> then we have a <code>sand-clock</code> (an hourglass) - 砂時計.
+If we attach <code>[砂]{すな}</code> to <code>時計</code> then we have a <code>sand-clock</code> (an hourglass) - 砂時計.
 **And similarly we form these noun-compounds with <code>次第</code> and whatever it's attached to.**
 
 ## 次第 as <code>as soon as</code> or <code>immediately upon</code>
@@ -69,7 +69,7 @@ So, if we say, <code>分かり**次第**お電話します</code>, we're saying,
 
 <code>食事の用意が出来次第食べる.</code>
 
-So, although **here we actually have a logical clause**: <code>食事の用意が出来る</code> (preparations for the meal are completed; literally, come out), **we actually have the stem of できる here, which is <code>出来 / でき</code>,** **and that's attached to <code>次第</code>.**
+So, although **here we actually have a logical clause**: <code>食事の用意が出来る</code> (preparations for the meal are completed; literally, come out), **we actually have the stem of できる here, which is <code>[出]{で}き</code>,** **and that's attached to <code>次第</code>.**
 
 ![](../media/image210.webp)
 

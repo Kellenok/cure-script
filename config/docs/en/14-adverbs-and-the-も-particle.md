@@ -12,7 +12,7 @@ Today we're going to go back to Alice's adventures. If you remember, Alice had s
 
 ![](../media/image1015.webp)
 
-The first verb here is とぶ/飛ぶ, which means either `jump` or `fly`. In this case, it obviously means `jump`, since Alice can't fly. And 上がる means `rise up`. So when you put them together, 飛び上がる means `jump up`. 
+The first verb here is [飛]{と}ぶ, which means either `jump` or `fly`. In this case, it obviously means `jump`, since Alice can't fly. And 上がる means `rise up`. So when you put them together, 飛び上がる means `jump up`. 
 
 ![](../media/image798.webp)
 
@@ -50,7 +50,7 @@ We talk about the `on` of the table, the `under` of the table, the `beside` of t
 
 ![](../media/image1088.webp)
 
-しゃべる/喋るmeans `talk` or `chatter`. It's a bit like `jabber` in English, isn't it? 「しゃべるウサギ」in this case obviously **しゃべる, the verb, is being used, as any verb-engine can be used, as an adjective.** 
+[喋]{しゃべ}るmeans `talk` or `chatter`. It's a bit like `jabber` in English, isn't it? 「しゃべるウサギ」in this case obviously **しゃべる, the verb, is being used, as any verb-engine can be used, as an adjective.** 
 
 ![](../media/image144.webp)
 
@@ -120,7 +120,7 @@ Now, 走る, as we know, is `run`; 早い is an adjective meaning `fast` or `ear
 
 > ...急にウサギの穴にとび込んだ。
 
-Now,「ウサギの穴」: 穴 means `hole`, so ウサギの穴 means `rabbit-hole`. とび込む is another one of these compound verbs. とぶ/飛ぶ, as we know, means `jump`, and 込む means to `go into` something. **It's not just like `enter`; it tends to be to `put into`, to `force into`, to do an action into something.** So we have a lot of verbs actually which are made up with **`込む`, which is `doing an action into` something.** So `とび込む` means `jump into`, quite simply `jump into`. So, the rabbit `jumped into a rabbit-hole.`
+Now,「ウサギの穴」: 穴 means `hole`, so ウサギの穴 means `rabbit-hole`. とび込む is another one of these compound verbs. [飛]{と}ぶ, as we know, means `jump`, and 込む means to `go into` something. **It's not just like `enter`; it tends to be to `put into`, to `force into`, to do an action into something.** So we have a lot of verbs actually which are made up with **`込む`, which is `doing an action into` something.** So `とび込む` means `jump into`, quite simply `jump into`. So, the rabbit `jumped into a rabbit-hole.`
 
 ---
 
@@ -197,7 +197,7 @@ So, there are various uses of も, which we'll look at later, but this is the mo
 
 ![](../media/image714.webp)
 
-中 means `the inside`, either the middle or the inside of something, so 穴の中 is the inside of the hole. たて穴/縦穴: the word たて/縦 means `vertical` or `upright` (and you can see it's related to 立つ – to stand). So, 「穴の中は竪穴だった」`the inside of the hole was a vertical hole` – it went straight down. 
+中 means `the inside`, either the middle or the inside of something, so 穴の中 is the inside of the hole. たて穴/縦穴: the word [縦]{たて} means `vertical` or `upright` (and you can see it's related to 立つ – to stand). So, 「穴の中は竪穴だった」`the inside of the hole was a vertical hole` – it went straight down. 
 
 > アリスは**すぐ**下に落ちた。
 

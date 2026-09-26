@@ -146,7 +146,7 @@ Yet even here, I'd have to say that I've only ever heard **male characters use t
 **So <code>くれる</code> (to give down / to me) becomes <code>くれ</code>.**
 
 ::: info
-Obviously, as shown, the くれ is a form of **くれる**; not くる/来る (that one has こい/来い)
+Obviously, as shown, the くれ is a form of **くれる**; not [来]{く}る (that one has [来]{こ}い)
 :::
 ---
 

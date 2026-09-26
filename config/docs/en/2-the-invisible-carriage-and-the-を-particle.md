@@ -54,7 +54,7 @@ We can say that <code>I</code> is the default value of the zero pronoun, the inv
 
 ![](../media/image617.webp)
 
-If I say, <code>土曜日だ</code> (土曜日/どようび means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
+If I say, <code>土曜日だ</code> ([土曜日]{どようび} means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
 
 ![](../media/image490.webp)
 

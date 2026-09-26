@@ -16,7 +16,7 @@ This is commonly called the こ-そ-あ-ど system and initially it simply marks
 
 ![](../media/image758.webp)
 
-<code>ここ</code> means <code>here</code>. If you know the Japanese word <code>こころ/心</code> - <code>heart</code> - it's here, right where I am, right where my heart is. That's not the etymology of the word, but it's a mnemonic. <code>そこ</code> means <code>there</code>. Now, **often <code>ここ</code> means the speaker's place and <code>そこ</code> means the place of the listener.** **<code>あそこ</code> means <code>over there</code> and it often means distant from both the speaker and the listener.** So the あ word means over there, somewhat in the distance, so it's a bit far away, you have to aaaah - shout - to be heard over there. **<code>どこ</code> means <code>where</code>, so that's a question word.** So, **こ words mean here**, possibly near to me, the **そ words mean there**, often near to you, the **あ words mean over there**, and **the ど words form a question**. So, in anime or manga you'll often see someone saying, <code>ここはどこ?</code> - <code>Where is this?</code> Literally, <code>**Speaking of this place, where (is it)?**</code> And that seems to be the most usual way for a Japanese person to ask that question finding herself suddenly in an unknown location. The English way of asking it is more likely to be — <code>Wahere m I?</code> but **the Japanese way is <code>Where is this place?</code>** <code>ここはどこ?</code> - <code>As for this place, where?</code>
+<code>ここ</code> means <code>here</code>. If you know the Japanese word <code>[心]{こころ}</code> - <code>heart</code> - it's here, right where I am, right where my heart is. That's not the etymology of the word, but it's a mnemonic. <code>そこ</code> means <code>there</code>. Now, **often <code>ここ</code> means the speaker's place and <code>そこ</code> means the place of the listener.** **<code>あそこ</code> means <code>over there</code> and it often means distant from both the speaker and the listener.** So the あ word means over there, somewhat in the distance, so it's a bit far away, you have to aaaah - shout - to be heard over there. **<code>どこ</code> means <code>where</code>, so that's a question word.** So, **こ words mean here**, possibly near to me, the **そ words mean there**, often near to you, the **あ words mean over there**, and **the ど words form a question**. So, in anime or manga you'll often see someone saying, <code>ここはどこ?</code> - <code>Where is this?</code> Literally, <code>**Speaking of this place, where (is it)?**</code> And that seems to be the most usual way for a Japanese person to ask that question finding herself suddenly in an unknown location. The English way of asking it is more likely to be — <code>Wahere m I?</code> but **the Japanese way is <code>Where is this place?</code>** <code>ここはどこ?</code> - <code>As for this place, where?</code>
 
 Now, that's quite simple, I think. And now we're going to look at something that does occasionally confuse people, and that's because when we come to the れ- and the の-group, in English we express both with the same word. But we do have the distinction, so let's look at those.
 
@@ -36,7 +36,7 @@ Now, what these can get confused with is **the の-group: <code>この</code>, <
 
 ![](../media/image389.webp)
 
-Now, -れ means a being and refers to a thing. の, as we know, is used to make adjectivals or descriptors. So if we say, <code>さくらのドレス</code>, we're saying, <code>Sakura's dress</code>. If we say, <code>でんせつのせんし/伝説の戦士</code>, we're saying, <code>legendary warrior/warrior that belongs to the class of legend</code>.
+Now, -れ means a being and refers to a thing. の, as we know, is used to make adjectivals or descriptors. So if we say, <code>さくらのドレス</code>, we're saying, <code>Sakura's dress</code>. If we say, <code>[伝説の戦士]{でんせつのせんし}</code>, we're saying, <code>legendary warrior/warrior that belongs to the class of legend</code>.
 
 ---
 
@@ -94,7 +94,7 @@ So what we are really saying is <code> *(zeroが)* **そう**だ/**そう**で�
 
 ![](../media/image96.webp)
 
-Now, **<code>すれば</code> is the conditional form of <code>する</code>.** Saying <code>どうすればいい?</code> means <code>how **if** I do will be good?</code> And we often find these combined with <code>いう/言う</code> meaning <code>say</code>. It's another example of the wider application of the concept of quotation in Japanese, which we discussed recently. And **this is often used in relation to things that are not physical, concrete things** - in other words, **the kind of things which we call <code>こと</code>** rather than <code>もの</code>.
+Now, **<code>すれば</code> is the conditional form of <code>する</code>.** Saying <code>どうすればいい?</code> means <code>how **if** I do will be good?</code> And we often find these combined with <code>[言]{い}う</code> meaning <code>say</code>. It's another example of the wider application of the concept of quotation in Japanese, which we discussed recently. And **this is often used in relation to things that are not physical, concrete things** - in other words, **the kind of things which we call <code>こと</code>** rather than <code>もの</code>.
 
 ![](../media/image690.webp)
 

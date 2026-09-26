@@ -16,7 +16,7 @@ It has a very clearly defined use which we introduced in Lesson 8b. Like all log
 
 However, there is another <code>で</code>, which is not a particle, which is also used very frequently in Japanese, and the textbooks make no attempt to distinguish these two completely different but identical-looking elements. The first time most of us will meet the second of these <code>で</code>s is in the use of adjectival nouns, which are very confusingly and misleadingly called <code>な-adjectives</code> by the textbooks.
 
-So if we say <code>さくらがきれいで優しい</code>, what we're saying is that Sakura is pretty and kind. <code>綺麗/きれいだ</code> is an adjectival noun.
+So if we say <code>さくらがきれいで優しい</code>, what we're saying is that Sakura is pretty and kind. <code>[綺麗]{きれい}だ</code> is an adjectival noun.
 
 If we want to say <code>The flower is pretty</code>, we say <code>花がきれいだ</code>. And if we want to say <code>the pretty flower</code>, we have to put <code>きれいだ</code> on the other side of the flower, so we say <code>きれいな花</code>.
 
@@ -50,7 +50,7 @@ Now, it's exactly the same with <code>で</code>, which is the て-form of the c
 
 <code>元気で</code> is telling them to \*be\* genki or lively. <code>お元気で</code> — <code>be healthy / be lively / keep up the good spirits</code>.
 
-### 無事/ぶじで
+### [無事]{ぶじ}で
 
 Right. So here's another one: <code>無事でよかった</code> is another very common expression and it means <code>I'm glad that you're all right / it's good that you weren't harmed / it's good that you're safe</code> — <code>無事でよかった</code>.
 

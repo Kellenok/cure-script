@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress';
+import furigana from 'furigana-markdown-it';
 import { sidebar } from './sidebar.mts'; 
 
 export default defineConfig({
@@ -38,6 +39,9 @@ export default defineConfig({
   markdown: {
     image: {
       lazyLoading: true
+    },
+    config: (md) => {
+      md.use(furigana());
     }
   },
   

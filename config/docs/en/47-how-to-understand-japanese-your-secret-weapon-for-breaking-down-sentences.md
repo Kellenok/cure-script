@@ -122,7 +122,7 @@ And let's notice that everything, everything in this sentence apart from the cor
 
 ![](../media/image523.webp)
 
-So, <code>コク/国</code> is the on-reading of <code>くに/国</code> — <code>country</code>. <code>外国</code> — in <code>外国</code>, <code>外</code> modifies <code>国</code>. What kind of a country was it? An <code>outside</code> country, a <code>foreign</code> country. And then, <code>ジン/人</code>, which is the on-reading of <code>ひと/人</code> — <code>person</code> — is modified by these two together.
+So, <code>[国]{コク}</code> is the on-reading of <code>[国]{くに}</code> — <code>country</code>. <code>外国</code> — in <code>外国</code>, <code>外</code> modifies <code>国</code>. What kind of a country was it? An <code>outside</code> country, a <code>foreign</code> country. And then, <code>[人]{ジン}</code>, which is the on-reading of <code>[人]{ひと}</code> — <code>person</code> — is modified by these two together.
 
 What kind of a person was it? An <code>outside-country</code> person, a person <code>from a foreign country</code> — <code>外国人</code>.
 

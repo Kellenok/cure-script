@@ -70,11 +70,11 @@ Remember, *structure doesn't teach us how to understand Japanese.* **It gives us
 
 ---
 
-And I'll just add before we go... I'm not teaching 敬語/けいご at this point. 敬語 is hyper-polite Japanese, which is almost a little sub-language of its own. It's not that difficult, but it will take a few lessons to go into it.
+And I'll just add before we go... I'm not teaching [敬語]{けいご} at this point. 敬語 is hyper-polite Japanese, which is almost a little sub-language of its own. It's not that difficult, but it will take a few lessons to go into it.
 
-But I want to mention here that there is a 敬語 word for <code>もらう</code>. And that is <code>頂く/いただく</code>. Because it's hyper-polite, it's usually used in ます-form, so it's usually <code>いただきます</code>. And undoubtedly you'll be familiar with that as being the thing people say before they eat: <code>いただきます!</code>
+But I want to mention here that there is a 敬語 word for <code>もらう</code>. And that is <code>[頂]{いただ}く</code>. Because it's hyper-polite, it's usually used in ます-form, so it's usually <code>いただきます</code>. And undoubtedly you'll be familiar with that as being the thing people say before they eat: <code>いただきます!</code>
 
-But what it literally means is something like <code>I humbly receive</code>. It obviously means <code>I receive</code>, because <code>いただく</code> means <code>もらう</code>, but it is a form of 敬語 called <code>謙譲語/けんじょうご</code>or <code>humble language</code>, so you're saying <code>I humbly receive</code>. And I'm mentioning this at this point because you will probably see some of these <code>させてもらう</code>-type forms used with <code>いただく</code>: <code>させていただきます</code> etc.
+But what it literally means is something like <code>I humbly receive</code>. It obviously means <code>I receive</code>, because <code>いただく</code> means <code>もらう</code>, but it is a form of 敬語 called <code>[謙譲語]{けんじょうご}</code>or <code>humble language</code>, so you're saying <code>I humbly receive</code>. And I'm mentioning this at this point because you will probably see some of these <code>させてもらう</code>-type forms used with <code>いただく</code>: <code>させていただきます</code> etc.
 
 And this piece of 敬語 can get used a little more often than regular 敬語 because it adds politeness to the concept of <code>もらう</code>.
 

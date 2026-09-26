@@ -70,7 +70,7 @@ Well, suppose we want something. Let's say <code>こねこがほしい</code>.
 
 ![](../media/image14.webp)
 
-<code>こねこ</code> is a kitten: <code>こ/子</code> is child or small thing and <code>ねこ</code> is cat. And <code>ほしい</code> is translated in English as <code>want</code>. Now, if you look at it, the first thing you can see is that **it's not a verb. It's an adjective.** It ends in <code>い</code>, not in <code>う</code>. And the second thing you can see, which is the most important, is that **the が-marked actor of this sentence is not me, who wants the cat. It's the cat, who is wanted.**
+<code>こねこ</code> is a kitten: <code>[子]{こ}</code> is child or small thing and <code>ねこ</code> is cat. And <code>ほしい</code> is translated in English as <code>want</code>. Now, if you look at it, the first thing you can see is that **it's not a verb. It's an adjective.** It ends in <code>い</code>, not in <code>う</code>. And the second thing you can see, which is the most important, is that **the が-marked actor of this sentence is not me, who wants the cat. It's the cat, who is wanted.**
 
 ![](../media/image519.webp)
 

@@ -40,7 +40,7 @@ Now let's look at verbs. Now, if you're worrying about な-adjectives, as they a
 
 ![](../media/image475.webp)
 
-So, we can say, <code>しょうじょがうたった</code>. <code>歌った/うたった</code> means <code>sang</code>. The word for sing is <code>うたう</code>, so the た-form, as we know from our last lesson, is <code>うたった</code>.
+So, we can say, <code>しょうじょがうたった</code>. <code>[歌]{うた}った</code> means <code>sang</code>. The word for sing is <code>うたう</code>, so the た-form, as we know from our last lesson, is <code>うたった</code>.
 
 <code>しょうじょがうたった</code> – <code>The girl sang</code>,
 
@@ -112,7 +112,7 @@ To explain this we have to introduce a new type of car for our train. And this i
 
 ![](../media/image1098.webp)
 
-So, <code>さくらのドレス</code> means <code>Sakura's dress</code>. <code>わたしのはな/鼻</code> means <code>my nose</code>. 
+So, <code>さくらのドレス</code> means <code>Sakura's dress</code>. <code>わたしの[鼻]{はな}</code> means <code>my nose</code>. 
 ::: info
 Or as shown, literally <code>Me's nose</code>.
 :::
@@ -126,7 +126,7 @@ Now, because <code>の</code> is the possessive particle, it can be used in anot
 
 And we can use this more widely for defining the group or class to which anything belongs. So, <code>あかい</code> means <code>red</code> because we can turn the noun <code>あか</code> into the adjectival form <code>あかい</code>. **But we can't do that with all colors.**
 
-For example, <code>ピンクいろ</code>. <code>いろ/色</code> means <code>color</code>, and we say <code>ピンクいろ</code>, that means <code>pink</code>. **But that doesn't have an い-form. And it doesn't count as an adjectival noun, a な-adjective, as they are called in English, either.**
+For example, <code>ピンクいろ</code>. <code>[色]{いろ}</code> means <code>color</code>, and we say <code>ピンクいろ</code>, that means <code>pink</code>. **But that doesn't have an い-form. And it doesn't count as an adjectival noun, a な-adjective, as they are called in English, either.**
 
 So what we do with it is, we use <code>の</code>. <code>ピンクいろのドレス</code> – <code>pink dress</code>. And this means <code>**dress belonging to the class of pink things**</code>.
 

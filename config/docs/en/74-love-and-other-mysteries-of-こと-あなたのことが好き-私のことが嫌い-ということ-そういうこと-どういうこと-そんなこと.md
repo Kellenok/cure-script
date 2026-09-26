@@ -71,7 +71,7 @@ But a lot of people have asked me to explain expressions like <code>どういう
 
 ![](../media/image949.webp)
 
-<code>言う/いう</code> and <code>こと</code> in a way belong together, because a <code>こと</code> is a situation, a circumstance, by implication something that actually requires a bit of explanation. And the idea of explanation, the idea of expression, and the idea of a <code>こと</code>, I think, have always been very close in Japanese.
+<code>[言]{い}う</code> and <code>こと</code> in a way belong together, because a <code>こと</code> is a situation, a circumstance, by implication something that actually requires a bit of explanation. And the idea of explanation, the idea of expression, and the idea of a <code>こと</code>, I think, have always been very close in Japanese.
 
 That's why the kun-reading of the kanji that we use in <code>言う</code>, the other kun-reading, the one when it's a noun, is <code>こと</code>.
 ::: info

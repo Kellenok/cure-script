@@ -26,7 +26,7 @@ Walk in Japanese is <code>あるく</code>. We need one more thing to make the c
 
 ## Copula sentences
 
-Now let's take an A is B sentence: <code>Sakura is Japanese</code>, or, as we say, <code>Sakura is a Japanese person</code>. So, A again is Sakura, B is にほんじん/日本人, which means Japanese person, and **once again we need が to link them together. So we're going to picture the A car, the main carriage, with a が on it, because the main carriage, the subject of the sentence, always carries a が, to link it to the engine.**
+Now let's take an A is B sentence: <code>Sakura is Japanese</code>, or, as we say, <code>Sakura is a Japanese person</code>. So, A again is Sakura, B is [日本人]{にほんじん}, which means Japanese person, and **once again we need が to link them together. So we're going to picture the A car, the main carriage, with a が on it, because the main carriage, the subject of the sentence, always carries a が, to link it to the engine.**
 
 So, さくらが日本人 – and we need one more thing. There's one other thing that I want you to make friends with, and that's だ (da). <code>さくらが日本人だ</code> = <code>Sakura is a Japanese person</code>.
 
@@ -40,11 +40,11 @@ Why is it boxed off to the left? Because it only works one way. Think about this
 
 So now we have an <code>A is B</code> sentence and an <code>A does B</code> sentence. There is one more form of the Japanese core sentence, for it has three forms. The third form is when we have a describing word, an adjective.
 
-**In Japanese, describing words end with い** (i), just as they often do in English: happy, sunny, cloudy, silly. In Japanese it's just the same: happy – うれしい/嬉しい; sad – かなしい/悲しい; blue – あおい/青い.
+**In Japanese, describing words end with い** (i), just as they often do in English: happy, sunny, cloudy, silly. In Japanese it's just the same: happy – [嬉]{うれ}しい; sad – [悲]{かな}しい; blue – [青]{あお}い.
 
-Now, we don't have to learn all these, but we do need to know about Japanese adjectives ending in い because they make the third kind of sentence. So let's take an easy one: ペン (that's a nice easy word because it means pen) – <code>ペンが赤い/あかい</code> = <code>pen is red</code>.
+Now, we don't have to learn all these, but we do need to know about Japanese adjectives ending in い because they make the third kind of sentence. So let's take an easy one: ペン (that's a nice easy word because it means pen) – <code>ペンが[赤]{あか}い</code> = <code>pen is red</code>.
 
-Now, you notice that we don't have a だ on this sentence. Why is that? **Because the い-adjective あかい/赤い (red) – it doesn't mean red, it means is-red. The だ function, the equals function, is built into those い-adjectives.**
+Now, you notice that we don't have a だ on this sentence. Why is that? **Because the い-adjective [赤]{あか}い (red) – it doesn't mean red, it means is-red. The だ function, the equals function, is built into those い-adjectives.**
 
 ![](../media/image557.webp)
 

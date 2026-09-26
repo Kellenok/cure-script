@@ -53,7 +53,7 @@ Now, [**I did a video**](https://www.youtube.com/watch?v=6Kh1AJx77Ng) a little w
 
 **And I said at the time there are in fact more.** I didn't introduce them because they're not all that common, and this one *(覧る)* isn't a common way of writing <code>見る</code> either.
 
-But with its on-reading <code>らん</code> it is used, and **<code>ごらん / ご覧</code> is an honorific way of saying <code>the act of looking or seeing</code>.**
+But with its on-reading <code>らん</code> it is used, and **<code>ご[覧]{らん}</code> is an honorific way of saying <code>the act of looking or seeing</code>.**
 
 **So <code>ご覧の通り</code>, rather like <code>その通り</code>**, means **<code>as you can see / along the lines of your seeing is correct</code>,** just as along the lines of your saying or thinking is correct.
 
@@ -61,7 +61,7 @@ But with its on-reading <code>らん</code> it is used, and **<code>ごらん / 
 
 ### 思い通り
 
-**Another <code>通り</code> expression is <code>おもいどおり / 思い通り</code>.**
+**Another <code>通り</code> expression is <code>[思]{おも}い[通]{どお}り</code>.**
 
 ![](../media/image291.webp)
 

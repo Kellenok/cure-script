@@ -37,7 +37,7 @@ copula-ending sentences, <code>だ</code>-ending sentences.
 ![](../media/image318.webp)
 
 And just about everything I've said about <code>かい</code> also applies to <code>だい</code>,  
-**except** that there is a particular collocation, <code>どうだい</code>, which is much more widely used. So, if somebody's eating something and you say <code>どうだい?</code> — <code>what's it like? / how is it?</code> — and they might say <code>おいしい/美味しい!</code> or they might say <code>まずい/不味い</code>, but **asking it in that form is something anybody can do provided it's an informal setting.**
+**except** that there is a particular collocation, <code>どうだい</code>, which is much more widely used. So, if somebody's eating something and you say <code>どうだい?</code> — <code>what's it like? / how is it?</code> — and they might say <code>[美味]{おい}しい!</code> or they might say <code>[不味]{まず}い</code>, but **asking it in that form is something anybody can do provided it's an informal setting.**
 
 ## ちょうだい
 

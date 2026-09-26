@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about the concept of <code>place</code> in everyday Japanese, because this is something that often confuses people, and I've seen even quite good amateur translators getting it wrong. The word for <code>place</code> in Japanese is, of course, <code>所/ところ</code>, and we learn this from quite early on.
+Today we're going to talk about the concept of <code>place</code> in everyday Japanese, because this is something that often confuses people, and I've seen even quite good amateur translators getting it wrong. The word for <code>place</code> in Japanese is, of course, <code>[所]{ところ}</code>, and we learn this from quite early on.
 
 It means a literal place and it quickly takes on slightly metaphorical uses. For example, we can say <code>私のところ</code>, which means "my apartment or house / the place where I live". <code>Come and hang out at my place.</code>
 

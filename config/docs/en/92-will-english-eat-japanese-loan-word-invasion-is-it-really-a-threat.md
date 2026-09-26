@@ -70,15 +70,15 @@ So why do people worry about this more in Japanese than in other languages?
 
 ![](../media/image562.webp)
 
-**Japanese has its own word for lion, which is <code>獅子 / しし</code>, but these days it tends to sound a bit literary, a bit old-fashioned,** and if we're going to talk about a lion, we tend to say <code>ライオン</code>. **That is a bit of an exception.**
+**Japanese has its own word for lion, which is <code>[獅子]{しし}</code>, but these days it tends to sound a bit literary, a bit old-fashioned,** and if we're going to talk about a lion, we tend to say <code>ライオン</code>. **That is a bit of an exception.**
 
-**If we talk about an elephant, we say <code>象 / ぞう</code>.** **If we talk about a tiger, we say <code>虎 / とら</code>.** **Most wild animals are known by their Japanese names even if the English name is also known in Japan.**
+**If we talk about an elephant, we say <code>[象]{ぞう}</code>.** **If we talk about a tiger, we say <code>[虎]{とら}</code>.** **Most wild animals are known by their Japanese names even if the English name is also known in Japan.**
 
 **There's a baseball team called the 阪神タイガース,**
 
 ![](../media/image895.webp)
 
-**but this is a typical case of using the foreign word because it sounds kind of cool.** **Normally if you're just talking about a tiger, you say <code>虎 / とら</code>.**
+**but this is a typical case of using the foreign word because it sounds kind of cool.** **Normally if you're just talking about a tiger, you say <code>[虎]{とら}</code>.**
 
 ## To what extent is English really moving into Japanese?
 

@@ -34,9 +34,9 @@ To give an example of its **formal use**, a dictionary definition of the word <c
 
 **They're really just like phrases and this one is very close to the English phrase <code>car window</code>, which isn't a word, it's just a phrase.** If we know <code>car</code> and we know <code>window</code>, we know what a <code>car window</code> is.
 
-So if we know <code>車</code> and we know <code>窓</code> and we know the on-readings of the two, which are <code>しゃ</code> and <code>そう</code>, then <code>しゃそう</code> really presents no problems, except that **we need to remember that <code>しゃ</code>, the on-reading of <code>車/くるま</code>, refers to a broader range of vehicle.** <code>くるま</code> usually simply means a <code>自動車/じどうしゃ</code> (an automobile) **while <code>しゃ</code> can refer to any kind of surface vehicle.**
+So if we know <code>車</code> and we know <code>窓</code> and we know the on-readings of the two, which are <code>しゃ</code> and <code>そう</code>, then <code>しゃそう</code> really presents no problems, except that **we need to remember that <code>しゃ</code>, the on-reading of <code>[車]{くるま}</code>, refers to a broader range of vehicle.** <code>くるま</code> usually simply means a <code>[自動車]{じどうしゃ}</code> (an automobile) **while <code>しゃ</code> can refer to any kind of surface vehicle.**
 
-A bicycle is a <code>自転車/じてんしゃ</code>, a train is a <code>電車/でんしゃ</code>, etcetera. And the definition is: <code>自動車**など**の窓</code>.
+A bicycle is a <code>[自転車]{じてんしゃ}</code>, a train is a <code>[電車]{でんしゃ}</code>, etcetera. And the definition is: <code>自動車**など**の窓</code>.
 
 So essentially that means <code>the window of an automobile, **etcetera**</code>, which **in this case means any kind of a surface vehicle that has windows**, so not a <code>自転車</code> but a <code>電車</code>, etcetera: <code>the window of a vehicle</code>.
 
@@ -70,7 +70,7 @@ So we might say, <code>タバコ**など**不要だ</code>, which means <code>I'
 
 ## なんか
 
-**So, <code>なんか</code> is really a contraction of <code>何か/なにか</code> (something)**, but it has quite a few colloquial uses.
+**So, <code>なんか</code> is really a contraction of <code>[何]{なに}か</code> (something)**, but it has quite a few colloquial uses.
 
 ![](../media/image348.webp)
 
@@ -88,13 +88,13 @@ And what we're saying there is "*(Stuff/Something like)* Rain doesn't bother me 
 
 And **it often gets used of oneself**, as in <code>私なんか</code>, and **this is often used to stress a perceived inferior position** **or a difficult position that one finds oneself in**, for example, <code>私なんかまるで子供扱いだ</code> (I'm treated just like a child).
 
-### なんか - contraction of なにか / 何か
+### なんか - contraction of [何]{なに}か
 
-**Now, the fundamental meaning of <code>なんか</code>, as I said, is actually** **a contraction of <code>なにか / 何か</code>, which is <code>something</code>.**
+**Now, the fundamental meaning of <code>なんか</code>, as I said, is actually** **a contraction of <code>[何]{なに}か</code>, which is <code>something</code>.**
 
 ![](../media/image661.webp)
 
-And **it can be used simply as a contraction of <code>なにか / 何か</code>** in, for example, <code>**なんか**心配はある?</code>, which just means <code>**何か**心配はある</code> or (Is there **some** worry? Is **anything** worrying you?).
+And **it can be used simply as a contraction of <code>[何]{なに}か</code>** in, for example, <code>**なんか**心配はある?</code>, which just means <code>**何か**心配はある</code> or (Is there **some** worry? Is **anything** worrying you?).
 
 ### なんか as <code>something</code>, <code>somewhat</code> to make things vaguer
 
@@ -144,7 +144,7 @@ Now, you'll also see it a lot with a meaning of <code>what</code> in English as 
 
 ![](../media/image1004.webp)
 
-**And this is an abbreviation of <code>なんという / 何という</code>, but it's more often than not,** **even in not particularly casual speech, used as <code>なんて</code>.** <code>**なんて**美しい景色だ!</code> (**What** beautiful scenery!)
+**And this is an abbreviation of <code>[何]{なん}という</code>, but it's more often than not,** **even in not particularly casual speech, used as <code>なんて</code>.** <code>**なんて**美しい景色だ!</code> (**What** beautiful scenery!)
 
 And, just as in English, **this <code>なんて</code> can be used to introduce** **any fairly strong reaction to anything.** **It can be negative; it can be positive.** **We're saying <code>what a (this)</code> or <code>what a (that)</code>.**
 

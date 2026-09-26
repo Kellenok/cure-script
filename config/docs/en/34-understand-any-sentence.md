@@ -8,7 +8,7 @@ Today we are going to discuss the most fundamental thing in Japanese. And, if we
 
 What we are going to do today is start talking about how we can apply this to any Japanese sentence that we find in the wild. Now, the fundamental core of Japanese, as you know, is the core Japanese sentence. It's what I call the A-car and the B-engine. Both of those elements have to be there in every sentence.
 
-We can always see the B-engine. We can't always see the A-car, but it's always there. In English these are called the subject and the predicate and in Japanese they are called the 主語/しゅご and 述語/じゅつご, but we are going to continue calling them the A-car and the B-engine because this way we can visualize exactly what's going on in a sentence by using trains.
+We can always see the B-engine. We can't always see the A-car, but it's always there. In English these are called the subject and the predicate and in Japanese they are called the [主語]{しゅご} and [述語]{じゅつご}, but we are going to continue calling them the A-car and the B-engine because this way we can visualize exactly what's going on in a sentence by using trains.
 
 Now this lesson begins with a question asked by my Gold Kokeshi patron Pantelis Chrysafis-sama (and I hope I'm pronouncing your name right). It was a very simple question, but a very good one, a very fundamental one. It was simply, <code>How do we know where a logical clause ends?</code>
 
@@ -66,7 +66,7 @@ It doesn't matter. It doesn't matter in Japanese and it doesn't matter in Englis
 
 But we can't do without it. We can't do without it in Japanese and we can't do without it in English. Because in both Japanese and English we have to have an A-car and a B-engine.
 
-A subject and a predicate. A 主語/しゅご and a 述語/じゅつご. In English we always have to be able to see both of them.
+A subject and a predicate. A [主語]{しゅご} and a [述語]{じゅつご}. In English we always have to be able to see both of them.
 
 In Japanese we don't need to see the first one. We do need to see the second one. But the first one is always there, and if we don't understand that we're going to have great difficulty picking out the core sentence, especially as things get more complex.
 

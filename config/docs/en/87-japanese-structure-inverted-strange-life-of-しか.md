@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today, I'm afraid I don't have any reindeer for you, but I do have a few deer. We're going to talk about the word <code>シカ / 鹿</code>, which, as you probably know, means <code>deer</code>,
+Today, I'm afraid I don't have any reindeer for you, but I do have a few deer. We're going to talk about the word <code>[鹿]{シカ}</code>, which, as you probably know, means <code>deer</code>,
 ::: info
 Just in case, this しか is different to the particle しか of this lesson, hence the Katakana, there is a lot of different しか nouns and whatnot with their own Kanji, but only one particle しか
 :::

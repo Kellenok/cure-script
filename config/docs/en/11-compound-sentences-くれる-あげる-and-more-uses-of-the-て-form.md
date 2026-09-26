@@ -8,7 +8,7 @@ Now let's go into a story that I believe we all know.
 
 `ある日アリスは川のそばにいた.`
 
-Now, this is a simple sentence. The word `川/かわ` means `river`, and **`そば` means `beside` and it's a noun.** 
+Now, this is a simple sentence. The word <code>[川]{かわ}</code> means `river`, and **`そば` means `beside` and it's a noun.** 
 
 ![](../media/image937.webp)
 

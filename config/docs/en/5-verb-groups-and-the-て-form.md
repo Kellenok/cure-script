@@ -40,7 +40,7 @@ So now that we know the three groups, we're going to take a look at how you make
 
 And as I demonstrated last week, ichidan verbs are always very easy. **You never do anything except take off the -る and put on whatever you're going to put on, in this case a て or a た.**
 
-As for the godan verbs, they fall into five groups, as you would expect (五段/ごだん, five-level verbs), and I made a video about this a while ago. So what I'm going to do is run that video right now, because it explains things pretty clearly.
+As for the godan verbs, they fall into five groups, as you would expect ([五段]{ごだん}, five-level verbs), and I made a video about this a while ago. So what I'm going to do is run that video right now, because it explains things pretty clearly.
 
 All right, roll the video.
 

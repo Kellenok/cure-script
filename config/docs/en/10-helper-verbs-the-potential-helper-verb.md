@@ -45,7 +45,7 @@ Dolly SEEMS to make an error here by calling 聞こえる other-move, but it sho
 
 ![](../media/image1089.webp)
 
-And **this is an interesting word because it also means <code>come out</code>** – literally it's made up of the kanji <code>out</code> and <code>come</code> – <code>出来る/できる</code>, 出る (exit) 来る (come)
+And **this is an interesting word because it also means <code>come out</code>** – literally it's made up of the kanji <code>out</code> and <code>come</code> – <code>[出]{で}きる</code>, 出る (exit) 来る (come)
 
 ![](../media/image656.webp)
 
@@ -145,7 +145,7 @@ So: <code>あるける</code> – can walk; <code>あるけない</code> – can
 And it's really as easy as that.
 
 ::: info
-I got quite confused, since I looked up 出来る/できる in Jisho and they actually show that it has a potential form of <code>できられる</code> which is interesting since できる should already imply the potential form. I looked up some [**Japanese forums**](https://ja.hinative.com/questions/6326424) (and others) and it seems that even the Japanese?? found できられる weird. Or it could be an honorific form?… Correct me if wrong…  
+I got quite confused, since I looked up [出]{で}きる in Jisho and they actually show that it has a potential form of <code>できられる</code> which is interesting since できる should already imply the potential form. I looked up some [**Japanese forums**](https://ja.hinative.com/questions/6326424) (and others) and it seems that even the Japanese?? found できられる weird. Or it could be an honorific form?… Correct me if wrong…  
 E.g. 分かる also has no potential form, as it implies it. [**Dolly explains**](https://japanese.stackexchange.com/questions/5988/why-doesnt-%e5%88%86%e3%81%8b%e3%82%8b-have-a-potential-form/48809#48809) <code>分かれる</code> is another word
 :::
 

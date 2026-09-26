@@ -19,6 +19,6 @@ for dir in config/docs/*/; do
     echo "<dc:contributor>coffeepebble</dc:contributor>"
     echo "<dc:publisher>Organic Japanese with Cure Dolly</dc:publisher>"
   } >"$metadata_file"
-  find config/docs/"$lang" -name '*.md' | sort -V | xargs pandoc -f markdown+rebase_relative_paths+east_asian_line_breaks --toc --split-level=1 --epub-metadata="$metadata_file" --css=./config/stylesheet.css -o "cure-dolly-$lang.epub"
+  find config/docs/"$lang" -name '*.md' | sort -V | xargs pandoc -f markdown+rebase_relative_paths+east_asian_line_breaks --toc --split-level=1 --epub-metadata="$metadata_file" --css=./config/stylesheet.css --lua-filter=./config/furigana.lua -o "cure-dolly-$lang.epub"
   rm -f "$metadata_file"
 done

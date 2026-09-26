@@ -88,7 +88,7 @@ So this is: `It was not an ordinary rabbit, it was a wearing-a-vest rabbit / it 
 
 ---
 
-So the parts of this noun, 「かいちゅうどけい」: かいちゅう/懐中 is a slightly unusual noun – it means `in one's pocket or the inside of one's pocket` and とけい/時計 is a very common word – it means `clock or watch` (we have the same word for a clock in Japanese whether it's a small one or a big one), so かいちゅうどけい/懐中時計 is a pocket watch.
+So the parts of this noun, 「かいちゅうどけい」: [懐中]{かいちゅう} is a slightly unusual noun – it means `in one's pocket or the inside of one's pocket` and [時計]{とけい} is a very common word – it means `clock or watch` (we have the same word for a clock in Japanese whether it's a small one or a big one), so [懐中時計]{かいちゅうどけい} is a pocket watch.
 
 And the reason we say 「**ど**けい」instead of 「とけい」 is what Alice in "Alice in Kanji Land calls "ten-ten hooking", **and this is that when you push two nouns together, in the way that we are doing here, and the second one begins with a sharp sound like `t` or `k`, we turn it into its equivalent dull sound like `d` or `b`.** *(=Rendaku - sequential voicing)*
 
@@ -162,7 +162,7 @@ The rabbit looked at his watch, he said 「おそい！おそい！」, and then
 
 ![](../media/image480.webp)
 
-Well, **that 出す when it's connected to a verb means that the action of the verb `erupted`.** So we can say that someone 泣き出した: 泣く/なく is `cry`, and we connect the い stem of 泣くto 出す, and 泣き出す means `burst out crying`. We can say 笑い出す: 笑う is `laugh` and if we connect the い-stem of 笑う to 出す, we're saying `burst out laughing`. And in this case what happened? The rabbit suddenly burst out running – it broke into a run.
+Well, **that 出す when it's connected to a verb means that the action of the verb `erupted`.** So we can say that someone 泣き出した: [泣]{な}く is `cry`, and we connect the い stem of 泣くto 出す, and 泣き出す means `burst out crying`. We can say 笑い出す: 笑う is `laugh` and if we connect the い-stem of 笑う to 出す, we're saying `burst out laughing`. And in this case what happened? The rabbit suddenly burst out running – it broke into a run.
 
 ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
@@ -176,7 +176,7 @@ Well, **that 出す when it's connected to a verb means that the action of the v
 
 「ちょっとまってください」is a phrase you're going to hear a lot in Japanese. Sometimes the ください will get left off. What does it mean? 
 
-ちょっと means `a little`; まって is the て-form of `待つ/まつ`, which means to `wait`; and ください means `please`. It's actually connected with くれる, which we talked about last time *(lesson 11)*; which also refers to giving down – it's `please give down to me / please lower down to my level`, so that's a polite way of saying `please give`. But it's not just giving a thing, just as with くれる and あげる, it's not just giving a thing, **it can also be, if you connect it to the て-form of a verb, giving the action of that verb.** So you can see it's very related to that くれる and あげる that we learned last week.
+ちょっと means `a little`; まって is the て-form of <code>[待]{ま}つ</code>, which means to `wait`; and ください means `please`. It's actually connected with くれる, which we talked about last time *(lesson 11)*; which also refers to giving down – it's `please give down to me / please lower down to my level`, so that's a polite way of saying `please give`. But it's not just giving a thing, just as with くれる and あげる, it's not just giving a thing, **it can also be, if you connect it to the て-form of a verb, giving the action of that verb.** So you can see it's very related to that くれる and あげる that we learned last week.
 
 > ちょっとまってください
 
@@ -199,7 +199,7 @@ If you remember from our て and た form lesson<sup>[[5]](./5-verb-groups-and-t
 ![](../media/image836.webp)
 
 ::: tip
-If you want to type 続ける/つづける, you must type tsuDUkeru. Dzu gives `ｄず`.
+If you want to type [続]{つづ}ける, you must type tsuDUkeru. Dzu gives `ｄず`.
 :::
 
 でも means `but`. はしる means `run`. And we're going to leave out ピョンピョン for just a moment here. つづける means to `continue`. So again we've got this form of taking the い-stem of a verb, はしる becomes はしり and then we add onto it the verb つづける (to continue). So 「ウサギははしりつづけた」means `The rabbit continued running`. 

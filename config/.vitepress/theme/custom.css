@@ -4,3 +4,9 @@
   }
 
 sup a {text-decoration:none!important}
+
+.vp-doc ruby > rt {
+  font-size: 0.65em;
+  user-select: none;
+}
+

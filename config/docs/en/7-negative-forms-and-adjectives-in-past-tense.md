@@ -131,7 +131,7 @@ Dolly once again makes a typo here in the video, I fixed it again.
 ![](../media/image941.webp)
 :::
 
-The only other apparent exception is that <code>いい</code> , the adjective <code>いい/良い</code>, which means <code>is-good</code>, has an older form, <code>よい/良い</code>, which is still used quite often. And **when we make any transformation to <code>いい</code>, it turns back to <code>よい</code>**, so in the past tense we don't say <code>いかった</code>, **we say** <code>**よ**かった</code> – and if you've seen much anime you've probably heard this quite often.
+The only other apparent exception is that <code>いい</code> , the adjective <code>[良]{い}い</code>, which means <code>is-good</code>, has an older form, <code>[良]{よ}い</code>, which is still used quite often. And **when we make any transformation to <code>いい</code>, it turns back to <code>よい</code>**, so in the past tense we don't say <code>いかった</code>, **we say** <code>**よ**かった</code> – and if you've seen much anime you've probably heard this quite often.
 
 ![](../media/image253.webp)
 

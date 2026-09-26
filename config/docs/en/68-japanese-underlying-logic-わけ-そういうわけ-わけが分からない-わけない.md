@@ -10,7 +10,7 @@ Today we're going to talk about <code>わけ</code>,
 
 which is a Japanese word that can cause quite a lot of confusion because it's used in a variety of different ways and situations in Japanese and in English dictionaries it has a whole string of definitions that seem particularly disjointed and confusing. However, once we understand the real logic, the underlying meaning of the word, it all falls into place rather nicely. So, what is <code>わけ</code>?
 
-## わけ/訳
+## [訳]{わけ}
 
 First of all, let's look at the English dictionary definition. In the online dictionary it says <code>わけ</code> means "conclusion from reasoning;
 judgement or calculation based on something read or heard;
@@ -32,7 +32,7 @@ But when we say <code>clear</code> we are using slightly the wrong metaphor if w
 
 ![](../media/image959.webp)
 
-And that's what <code>わけ/訳</code> means here. Now I know some of you may be thinking <code>but it's a different kanji</code>.
+And that's what <code>[訳]{わけ}</code> means here. Now I know some of you may be thinking <code>but it's a different kanji</code>.
 
 ![](../media/image629.webp)
 
@@ -40,7 +40,7 @@ Well, that's true. We usually associate <code>分かる</code> with this kanji, 
 
 The point is that <code>わけ / 分かる</code> is not tied to any one kanji. It's a fundamental Japanese word that goes back further than the kanji used to represent it, and the fundamental idea in all these cases is the same: the idea of separation, division, analysis, breakdown.
 
-So, what actually is a <code>わけ/訳</code>? Let's take the most prominent English definitions, which are: cause, reason, and conclusion based on something we've seen or heard.
+So, what actually is a <code>[訳]{わけ}</code>? Let's take the most prominent English definitions, which are: cause, reason, and conclusion based on something we've seen or heard.
 
 Now, let's note that cause, reason, and conclusion generally speaking refer to the same thing. The main difference is whether the process is going backward or whether the process is going forward.
 
@@ -56,7 +56,7 @@ We're working from one known fact to another unknown fact that we use the reason
 
 In one case we're working it forward, in the other case we're working it backward, but that fundamental underlying causal logical reasonality, to coin a phrase, is the same. And I coined the phrase <code>reasonality</code> because there isn't really a word for this in English.
 
-But in Japanese there is, and the word is <code>わけ/訳</code>. So <code>わけ</code>, as we see, expresses a cause, a reason, and a conclusion or a logical judgement — all of those things.
+But in Japanese there is, and the word is <code>[訳]{わけ}</code>. So <code>わけ</code>, as we see, expresses a cause, a reason, and a conclusion or a logical judgement — all of those things.
 
 What it really expresses is the underlying causality or reasonality, and when the dictionaries say that it also expresses a circumstance or situation or something like that, in fact it doesn't really do that, but what it does is express the underlying reasonality of a circumstance or a situation.
 
@@ -122,7 +122,7 @@ We're saying that that rational connection doesn't exist. Whether the fact that 
 
 But the important thing that we're denying is the underlying reasonality, the logical link that might be made in these cases.
 
-## わけない / 訳ない (訳がない)
+## [訳]{わけ}ない (訳がない)
 
 Now, another common negative use is <code>わけがない</code>, sometimes shortened to just <code>わけない</code>.
 
@@ -157,7 +157,7 @@ So, for example, <code>そんなにお金の要るわけがない</code>
 <code>there's no reason she would need that much money</code>
 
 ::: info
-since this いる, as per what Dolly says means <code>need</code>, I put 要る in its Kanji form to reflect it, rather than just regular <code>to be</code> 居る/いる.
+since this いる, as per what Dolly says means <code>need</code>, I put 要る in its Kanji form to reflect it, rather than just regular <code>to be</code> [居]{い}る.
 
 *Also, this...just in case…*
 

@@ -24,7 +24,7 @@ Literally, <code>まるで</code> means <code>roundly</code>.
 
 ![](../media/image137.webp)
 
-<code>まる/丸</code> means a <code>circle</code> or a <code>round</code>, so when we say <code>まるで</code> we mean <code>roundly/wholly/completely</code>. And this is a hyperbole, which is common to many languages, certainly including English. We might say, in English, <code>That wrestler is exactly like a mountain.</code>
+<code>[丸]{まる}</code> means a <code>circle</code> or a <code>round</code>, so when we say <code>まるで</code> we mean <code>roundly/wholly/completely</code>. And this is a hyperbole, which is common to many languages, certainly including English. We might say, in English, <code>That wrestler is exactly like a mountain.</code>
 
 We might even say <code>I literally froze to death.</code> Now, that's the opposite of what we really mean: we don't mean that we <code>literally</code> froze to death, we mean that we figuratively froze to death. In literal reality we appear still to be alive. We don't mean that the wrestler is <code>exactly</code> like a mountain.
 

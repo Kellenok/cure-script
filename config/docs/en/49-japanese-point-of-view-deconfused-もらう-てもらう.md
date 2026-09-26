@@ -26,7 +26,7 @@ And the reason for that is that <code>あげる</code> is not in fact honorific 
 
 ![](../media/image693.webp)
 
-**So if you talk to a superior in such a way as to imply that you're doing them a favor,** **this is going to cause offence**, so we should not regard <code>あげる</code> and <code>くれる</code> as being actually honorific or humble. **They're not けいご/敬語.**
+**So if you talk to a superior in such a way as to imply that you're doing them a favor,** **this is going to cause offence**, so we should not regard <code>あげる</code> and <code>くれる</code> as being actually honorific or humble. **They're not [敬語]{けいご}.**
 
 **<code>くれる</code> can imply gratitude but it doesn't imply humility.** **And <code>あげる</code> doesn't imply honoring the person to whom it's applied.** All right. So now let's move on to <code>もらう</code>.
 ::: info
@@ -80,7 +80,7 @@ I don't know why they do this exactly. I think it's because they feel that the l
 
 <code>お医者さんに見てもらう</code> doesn't mean <code>I will see a doctor</code>; it means <code>I will have a doctor see me / I will get examined by a doctor</code>. Now, we can see this much more clearly if we're talking about hairdressing or a haircut.
 
-<code>さんぱつ/散髪</code> means <code>hairdressing</code> or <code>haircut</code>. And if we say <code>散髪をしてもらう</code>, we're saying <code>have someone cut my hair</code>.
+<code>[散髪]{さんぱつ}</code> means <code>hairdressing</code> or <code>haircut</code>. And if we say <code>散髪をしてもらう</code>, we're saying <code>have someone cut my hair</code>.
 
 ![](../media/image417.webp)
 

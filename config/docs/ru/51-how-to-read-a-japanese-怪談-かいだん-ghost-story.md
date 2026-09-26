@@ -1,4 +1,4 @@
-# **51. Как читать японскую 怪談 / かいだん (историю о привидениях)**
+# **51. Как читать японскую [怪談]{かいだん} (историю о привидениях)**
 
 [**Hands-on Japanese: How to read a Japanese Kaidan (ghost story) | Lesson 51**](https://www.youtube.com/watch?v=uO1rHcwjADA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=53&pp=iAQB)
 

@@ -67,7 +67,7 @@ So, <code> *(zeroが)*  まわりをゆっくり見まわせた</code> means <co
 
 she could in a leisurely manner <code>見まわす</code>
 
-What does <code>見まわす</code> mean? We know what <code>まわす</code> means - it means to <code>make (something) go around</code>. <code>**見**まわす</code> **is attaching <code>まわす</code> to the い-stem of <code>見る</code>.** We can't actually tell it's the い-stem, because this is an ichidan verb, and all ichidan stems look the same, as we know, **but we know that this is in fact the れんようけい/連用形, the い-stem, because that's the one that gets used for attaching verbs to other verbs.**
+What does <code>見まわす</code> mean? We know what <code>まわす</code> means - it means to <code>make (something) go around</code>. <code>**見**まわす</code> **is attaching <code>まわす</code> to the い-stem of <code>見る</code>.** We can't actually tell it's the い-stem, because this is an ichidan verb, and all ichidan stems look the same, as we know, **but we know that this is in fact the [連用形]{れんようけい}, the い-stem, because that's the one that gets used for attaching verbs to other verbs.**
 
 ---
 
@@ -158,7 +158,7 @@ While -ない, as its negative form is quite adjectival ([**see this**](https://
 
 ![](../media/image827.webp)
 
-<code>その後、穴のまわりを見て</code> So now she's not looking down. This means <code>the surroundings</code>, again, <code>まわり/***周り***</code>, of the hole, <code>をみて</code> - <code>after that, she looked at the surroundings of the hole</code>.
+<code>その後、穴のまわりを見て</code> So now she's not looking down. This means <code>the surroundings</code>, again, <code>[周]{まわ}り</code>, of the hole, <code>をみて</code> - <code>after that, she looked at the surroundings of the hole</code>.
 
 ![](../media/image1142.webp)
 

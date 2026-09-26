@@ -116,7 +116,7 @@ Now, **one where we're going to talk about a false etymology is <code>やっぱ�
 
 ![](../media/image275.webp)
 
-**It's rather like <code>日本 / にほん</code>, which also can be said as <code>にっぽん</code>.** **<code>やはり</code> can be said as <code>やっぱり</code>.**
+**It's rather like <code>[日本]{にほん}</code>, which also can be said as <code>にっぽん</code>.** **<code>やはり</code> can be said as <code>やっぱり</code>.**
 
 ---
 

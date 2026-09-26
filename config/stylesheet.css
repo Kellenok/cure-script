@@ -229,3 +229,11 @@ code {
 pre code {
   padding: 3px 6px;
 }
+ruby {
+  ruby-align: center;
+}
+rt {
+  font-size: 0.6em;
+  line-height: 1;
+}
+

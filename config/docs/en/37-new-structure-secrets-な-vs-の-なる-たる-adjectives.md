@@ -32,7 +32,7 @@ They're very simple. If we take the word <code>勉強</code> from Chinese, which
 
 We have, in effect, by welding <code>する</code> onto the noun turned the combination into a true verb. So, in this particular case, we can say that a noun came in from Chinese and really became naturalized as a する verb.
 
-However, if we want to use a noun as an adjective, let's say the noun <code>綺麗/きれい</code>, which means <code>prettiness</code> or <code>cleanness</code>, it never stops being a noun.
+However, if we want to use a noun as an adjective, let's say the noun <code>[綺麗]{きれい}</code>, which means <code>prettiness</code> or <code>cleanness</code>, it never stops being a noun.
 
 ![](../media/image655.webp)
 
@@ -40,25 +40,25 @@ The dictionaries and textbooks tell us about <code>な-adjectives</code>, but th
 
 There is an adjectival noun which continues to act in almost every respect like any other noun. The only difference between an adjectival noun and any other noun is that we can use <code>な</code> with it.
 
-And <code>な</code>, as we know, is simply the connective form of <code>だ</code>. So, we can say <code>女の子は 綺麗/きれい だ</code> — <code>the child is pretty</code> — or we can say <code>きれいな女の子</code>, which means <code>pretty child</code>.
+And <code>な</code>, as we know, is simply the connective form of <code>だ</code>. So, we can say <code>女の子は [綺麗]{きれい} だ</code> — <code>the child is pretty</code> — or we can say <code>きれいな女の子</code>, which means <code>pretty child</code>.
 
 <code>きれいだ</code> means <code>is pretty</code> and <code>きれいな</code> also means <code>is pretty</code>, so we're saying <code>child is pretty</code> or <code>is-pretty child</code>. <code>な</code> and <code>だ</code> are the same copula.
 
 Now, the reason these are called adjectival nouns is that we can't do this exact thing with other nouns. But we can do something very close, and we'll come to that very shortly.
 
-But I'll just note before passing on that we can say that there are essentially two types of adjectival noun, and that is, the ones like <code>綺麗/きれい</code>, which really are not used as ordinary nouns at all; they're almost entirely dedicated to being adjectival: we don't talk about a person's <code>きれい</code>. And then there are the ones which continue to work as independent nouns, like <code>元気</code>.
+But I'll just note before passing on that we can say that there are essentially two types of adjectival noun, and that is, the ones like <code>[綺麗]{きれい}</code>, which really are not used as ordinary nouns at all; they're almost entirely dedicated to being adjectival: we don't talk about a person's <code>きれい</code>. And then there are the ones which continue to work as independent nouns, like <code>元気</code>.
 
 So we can say <code>子どもが元気だ</code> — <code>the child is lively</code>; we can say <code>元気な子ども</code> — <code>lively child</code>. But we can also say things like <code>元気を出して</code>, which loosely translated means <code>cheer up</code>, but literally translated means <code>get out your 元気</code>.
 
 <code>元気</code> is a thing here: it's marked by the を-particle, and you can't put a logical particle onto anything but a noun. So, <code>元気</code>, even though it's primarily adjectival and is classed as an adjectival noun, works as both an adjectival and a noun.
 
-Now, if a noun is not classed as an adjectival noun we can still use it adjectivally. So, the word <code>魔法/まほう</code>, which means <code>magic</code>, can be used as a noun just as it can in English.
+Now, if a noun is not classed as an adjectival noun we can still use it adjectivally. So, the word <code>[魔法]{まほう}</code>, which means <code>magic</code>, can be used as a noun just as it can in English.
 
 We can talk about magic as a thing. But we can also say <code>魔法の帽子</code> — <code>magic hat</code>.
 
 It's not an adjectival noun, but as you see, we can achieve pretty much the same effect just by using <code>の</code> instead of <code>な</code>. There are also some words that can be either の- or な-adjectivals.
 
-A good example of this is <code>不思議/ふしぎ</code>, which means a <code>mystery</code> or a <code>wonder</code>. It tends to get used very often as an adjective as in <code>不思議な屋敷/やしき</code> — <code>mysterious mansion</code> – but it's also used quite often as a noun.
+A good example of this is <code>[不思議]{ふしぎ}</code>, which means a <code>mystery</code> or a <code>wonder</code>. It tends to get used very often as an adjective as in <code>不思議な[屋敷]{やしき}</code> — <code>mysterious mansion</code> – but it's also used quite often as a noun.
 
 We can talk about the school <code>七不思議</code> — which means literally the ****seven wonders**** or <code>seven mysteries</code> of the school, and what it usually refers to is in fact ghost stories connected to the school, such as <code>トイレのはなこさん</code>, who you may have heard of — the girl who haunts the lavatory.
 
@@ -82,15 +82,15 @@ they're less common, but there are <code>なる-adjectives</code> and <code>た�
 
 ### なる
 
-So, if we take a book that my little sister likes... it's called <code>アリスとペンギん:華麗なる探偵</code>, which means <code>Alice and Penguin: The Magnificent Detectives</code>. Actually, <code>華麗/かれい</code> is an adjectival noun, so we can use it with <code>な</code>, but in this case the author has chosen to use <code>なる</code> instead.
+So, if we take a book that my little sister likes... it's called <code>アリスとペンギん:華麗なる探偵</code>, which means <code>Alice and Penguin: The Magnificent Detectives</code>. Actually, <code>[華麗]{かれい}</code> is an adjectival noun, so we can use it with <code>な</code>, but in this case the author has chosen to use <code>なる</code> instead.
 
 What does <code>なる</code> mean here? Is it the <code>なる</code> that means <code>become</code>? No, it isn't.
 
 It's a contraction of <code>のある</code>. And as I have explained in another video, <code>の</code> can be used in place of <code>が</code> in adjectival phrases.
 
-And I've explained why that is in the other [**video**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). So <code>華麗なる探偵</code> means <code>華麗のある探偵</code> which means <code>華麗がある探偵</code> which means <code>detectives possessing **華麗/かれい**</code>. (lit. 華麗-exists detectives)
+And I've explained why that is in the other [**video**](https://www.youtube.com/watch?v=wxX6poiuyAI&ab_channel=OrganicJapanesewithCureDolly). So <code>華麗なる探偵</code> means <code>華麗のある探偵</code> which means <code>華麗がある探偵</code> which means <code>detectives possessing **[華麗]{かれい}**</code>. (lit. 華麗-exists detectives)
 
-What is <code>華麗/かれい</code>? Well, it's <code>splendor</code> or <code>magnificence</code>.
+What is <code>[華麗]{かれい}</code>? Well, it's <code>splendor</code> or <code>magnificence</code>.
 
 ::: info
 there is [**a recent comment**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly) made by one Nihil, who gives a highly useful & detailed breakdown of this なる being short for にある and not のある. From my look into japanese dictionaries, I also found it referring to にある (from archaic なり) instead of のある. Thus, I highly recommend reading through Nihil’s comments under [**the video**](https://www.youtube.com/watch?v=GB8fWjQuz9A&lc=UgzSIge_mK0a_8dz6s14AaABAg.9e0E5zhgA3t9fc3pGOOLln&ab_channel=OrganicJapanesewithCureDolly). Unfortunately, since Dolly is no longer around, we may not entirely know what she meant here, but she does admit in the comments also that she did not find what なる actually means (in full form). Of course, this may not be some huge thing in the grand scheme of understanding for some, but I think it is good to know and Nihil’s answers are just incredible, so they deserve some recognition:)
@@ -134,13 +134,13 @@ And this works exactly the same way as in English. For example, in English we ha
 
 In Japanese we can do exactly the same thing. So we have <code>本棚</code> — <code>本</code> is <code>book</code>, <code>棚</code> is <code>shelf</code>: <code>本棚</code> is <code>bookshelf</code>.
 
-<code>海草</code> — <code>海/かい</code> is the 音読み-reading of <code>海/うみ</code>, <code>sea</code>; <code>草/そう</code> is the 音読み-reading of <code>草/くさ</code>, <code>grass</code>, and together they make <code>海草</code> — <code>seaweed</code>, because <code>grass</code> can mean any kind of plant-life, which is why we have Grass Pokemon.
+<code>海草</code> — <code>[海]{かい}</code> is the 音読み-reading of <code>[海]{うみ}</code>, <code>sea</code>; <code>[草]{そう}</code> is the 音読み-reading of <code>[草]{くさ}</code>, <code>grass</code>, and together they make <code>海草</code> — <code>seaweed</code>, because <code>grass</code> can mean any kind of plant-life, which is why we have Grass Pokemon.
 
-And this also happens in the case of combinations that don't exist in English, such as <code>指輪</code>. <code>指/ゆび</code> is <code>finger</code>, <code>輪/わ</code> is a <code>ring</code>, so <code>指輪</code> is a finger ring.
+And this also happens in the case of combinations that don't exist in English, such as <code>指輪</code>. <code>[指]{ゆび}</code> is <code>finger</code>, <code>[輪]{わ}</code> is a <code>ring</code>, so <code>指輪</code> is a finger ring.
 
 However, we can see larger combinations too, for things that would be phrases rather than words in English. And again this is done in exactly the same way as it happens in English, so it should really be no cause for alarm.
 
-For example, we have <code>大学教育</code> — <code>大学</code> means <code>university</code>; <code>教育</code> means <code>education</code> or <code>training</code>. So <code>大学教育/だいがくきょういく</code> is <code>university education</code>.
+For example, we have <code>大学教育</code> — <code>大学</code> means <code>university</code>; <code>教育</code> means <code>education</code> or <code>training</code>. So <code>[大学教育]{だいがくきょういく}</code> is <code>university education</code>.
 
 And, as you see, again it works exactly the same way as in English. We don't need, in English, to say <code>education at a university</code> every time; we can say <code>university education</code>.
 

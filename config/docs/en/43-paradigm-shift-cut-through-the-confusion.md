@@ -66,7 +66,7 @@ For example, the potential. When we say <code>本が読める</code>, we're sayi
 
 ![](../media/image684.webp)
 
-We can't translate this directly into English because it's a verb and <code>readable</code> isn't a verb in English, but in Japanese we're saying <code>The book does readable.</code> Now this is the subjectivity in a certain sense because it's not talking about the fact that it's in general possible to read the book. That would be <code>可能性/かのうせい</code>.
+We can't translate this directly into English because it's a verb and <code>readable</code> isn't a verb in English, but in Japanese we're saying <code>The book does readable.</code> Now this is the subjectivity in a certain sense because it's not talking about the fact that it's in general possible to read the book. That would be <code>[可能性]{かのうせい}</code>.
 
 It's talking about the fact that the book is readable to a person or people in particular. But again, the が-marked subject is the book. So saying <code>I can read the book</code> or <code>We can read the book</code> is simply false.
 

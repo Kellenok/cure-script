@@ -106,13 +106,13 @@ just in case, this comment may help some in regards to とする & として.
 ![](../media/image551.webp)
 :::
 
-## という / と言う
+## と[言]{い}う
 
-Of course, **the most basic thing that can follow -と is <code>いう</code>,** **in which case it's a literal quotation,** **-という/と言う** (it's usually pronounced not so much <code>-という</code> but as <code>-とゆ</code>). And **this again can be used not just in a literal quotation but also saying how something is said or what it's called.** So, <code>ふしぎの国のアリスという本</code>, means <code>book **called** ふしぎの国のアリス</code>
+Of course, **the most basic thing that can follow -と is <code>いう</code>,** **in which case it's a literal quotation,** **-と[言]{い}う** (it's usually pronounced not so much <code>-という</code> but as <code>-とゆ</code>). And **this again can be used not just in a literal quotation but also saying how something is said or what it's called.** So, <code>ふしぎの国のアリスという本</code>, means <code>book **called** ふしぎの国のアリス</code>
 
 ![](../media/image546.webp)
 
-### っていう / って言う
+### って[言]{い}う
 
 **And the -と in <code>-という</code> can be reduced simply to -って.** So we can say <code>-っていう</code> - <code>ふしぎの国のアリスっていう本</code>, **or it can be reduced down to just -って.**
 

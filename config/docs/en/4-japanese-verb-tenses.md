@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Today we're going to talk about tenses. Up to now, we've only been using one tense, and that is the one represented by the plain dictionary form of verbs: 食べる/たべる - eat; 歩く/あるく - walk, and so forth. To use natural-sounding Japanese, we need three tenses. You might think they would be past, present and future, but in fact they're not.
+Today we're going to talk about tenses. Up to now, we've only been using one tense, and that is the one represented by the plain dictionary form of verbs: [食]{た}べる - eat; [歩]{ある}く - walk, and so forth. To use natural-sounding Japanese, we need three tenses. You might think they would be past, present and future, but in fact they're not.
 
 ## The non-past tense
 
@@ -14,7 +14,7 @@ The one we've been using up to now is not a present tense. It's called the non-p
 
 Well, actually it isn't confusing at all, and what makes it confusing is, for a change, not the fact that Japanese is taught in a strange way, but the fact that English is taught in a strange way. The truth is that the Japanese non-past tense is very similar to the English non-past tense.
 
-What is the English non-past tense? Well, it is the plain dictionary form of English words: eat, walk, etc. Why do I call it a non-past tense? Well, let's take an example. Suppose you get a message on your 携帯/けいたい (phone) saying, <code>I walked to the cafe and now I eat cake and drink coffee</code>. What would you know about the person who sent that message? Well, you'd know that it was not a native English speaker, wouldn't you? Because no native English speaker says <code>I eat cake and I drink coffee</code> when they mean <code>I am eating cake and drinking coffee right now</code>.
+What is the English non-past tense? Well, it is the plain dictionary form of English words: eat, walk, etc. Why do I call it a non-past tense? Well, let's take an example. Suppose you get a message on your [携帯]{けいたい} (phone) saying, <code>I walked to the cafe and now I eat cake and drink coffee</code>. What would you know about the person who sent that message? Well, you'd know that it was not a native English speaker, wouldn't you? Because no native English speaker says <code>I eat cake and I drink coffee</code> when they mean <code>I am eating cake and drinking coffee right now</code>.
 
 When do we say <code>I eat cake</code>? Well, we might say it when we mean that we eat cake sometimes: "I eat cake. I'm not one of these people who doesn't eat cake. I do eat cake. Whenever there's any cake around, I eat it. But that doesn't mean I'm eating cake right at this moment."
 
@@ -42,11 +42,11 @@ Now, let's notice that in a sentence like <code>いぬがたべている,</code>
 
 So, the core of this sentence is <code>いぬがいる</code> - <code>the dog is</code>. But the dog isn't just existing – the dog is doing something. And that white engine tells us what it is doing. It is <code>eating</code>. And we're going to see this white engine structure over and over again as we go deeper into Japanese.
 
-And just as in English we don't say <code>the dog is eat</code>, we use a special form of the verb that goes along with the verb of being. So in English we say <code>is walking</code>, <code>is eating</code>. In Japanese we say <code>食べている/たべている</code>, <code>歩いている/あるいている</code>.
+And just as in English we don't say <code>the dog is eat</code>, we use a special form of the verb that goes along with the verb of being. So in English we say <code>is walking</code>, <code>is eating</code>. In Japanese we say <code>[食]{た}べている</code>, <code>[歩]{ある}いている</code>.
 
 ---
 
-Now, how do we form this <code>て-form</code>, which is the form we use for making the continuous present? With a word like <code>食べる/たべる</code>, it's very easy indeed. All we have to do is take off the <code>る</code> and put <code>て</code> in its place. たべる becomes たべて.
+Now, how do we form this <code>て-form</code>, which is the form we use for making the continuous present? With a word like <code>[食]{た}べる</code>, it's very easy indeed. All we have to do is take off the <code>る</code> and put <code>て</code> in its place. たべる becomes たべて.
 
 The bad news is that with other verbs, we do have slightly different ways of attaching the <code>て</code>. Apart from the plain る-form, there are four other ways. The textbooks will say five, but in fact two of them are so similar that we can treat them as four. And I've made a video on exactly what these ways are.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup> And it makes it much simpler than most explanations. 
 
@@ -58,7 +58,7 @@ So, how do we put things into the past tense? Fortunately that's very easy indee
 
 Now, there are different ways of attaching <code>た</code> to different kinds of verb, verbs with different endings, but the good news here is that they are exactly the same as the ways that you attach <code>て</code>. So once you've learned the ways that <code>て</code> attaches, you've also learned the ways that <code>た</code> attaches. So if you watch that て-form video **<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>**, you'll be able to do both the continuous present and the past.
 
-Now, there's one more thing about time expressions that is useful to learn now. If we want to make it clear, when we say <code>私はケーキを食べる</code>, we're talking about a future event, we can say <code>明日/あした</code> (which means <code>tomorrow</code>) <code>あしたケーキを食べる</code>. That's all we have to do.
+Now, there's one more thing about time expressions that is useful to learn now. If we want to make it clear, when we say <code>私はケーキを食べる</code>, we're talking about a future event, we can say <code>[明日]{あした}</code> (which means <code>tomorrow</code>) <code>あしたケーキを食べる</code>. That's all we have to do.
 
 ## Time expressions
 
@@ -77,7 +77,7 @@ And with all relative time expressions like that: yesterday, last week, next yea
 
 However, when we have an <code>absolute time expression</code>, an expression that is not relative to the present, such as Tuesday or six o'clock, then **we have to use <code>に</code>**.
 
-Tuesday is <code>火曜日/かようび</code> and we may may say <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>On Tuesday (I) will eat cake.</code>
+Tuesday is <code>[火曜日]{かようび}</code> and we may may say <code>かようびに *(zeroが)* ケーキをたべる</code> – <code>On Tuesday (I) will eat cake.</code>
 
 ![](../media/image441.webp)
 

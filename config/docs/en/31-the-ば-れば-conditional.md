@@ -48,7 +48,7 @@ And this happens again in an even commoner Japanese construction. <code>勉強�
 
 There actually isn't a word for <code>must</code> in Japanese, so we always construct it this way. We say <code>If I don't... (whatever it is)</code> and then we can say <code>it won't be good / it will be bad / it'll be a disaster...</code>
 
-Whatever we say, some negative construction then follows this, and what we're saying is <code>I must go / I've got to go / I've got to do this / I've got to do that</code>, and this is because we don't have that construction <code>got to</code> and we don't have <code>must</code> in Japanese. It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do / If I don't do, it's bad" — <code>無ければ / なければダメ</code>.
+Whatever we say, some negative construction then follows this, and what we're saying is <code>I must go / I've got to go / I've got to do this / I've got to do that</code>, and this is because we don't have that construction <code>got to</code> and we don't have <code>must</code> in Japanese. It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do / If I don't do, it's bad" — <code>[無]{な}ければダメ</code>.
 
 And because it is indeed a very long-winded way of saying something common like <code>must</code> or <code>got to</code>, it often gets cut down in casual speech to just <code>しなければ</code> or even <code>しなきゃ</code>, which is short for <code>しなければ</code>, without adding the negative ending, because that's just implied. However, even in very casual speech it's often said in full, and I think this is to emphasize the nature of the <code>must</code>.
 

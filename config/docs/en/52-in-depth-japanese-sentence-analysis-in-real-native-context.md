@@ -98,7 +98,7 @@ So she returned to senpai's apartment. <code>引き返し</code>, that means <co
 
 So, she returned to senpai's apartment — <code>先輩の部屋に戻って呼び鈴を押す</code>. She returned to senpai's room and pushed the bell.
 
-<code>呼び鈴</code>: <code>呼ぶ</code> is <code>call</code>, <code>鈴/りん</code> is the on-reading of <code>鈴/すず</code>, <code>a small bell</code>, so <code>呼び鈴</code> is a <code>call-bell / a bell for calling</code>.
+<code>呼び鈴</code>: <code>呼ぶ</code> is <code>call</code>, <code>[鈴]{りん}</code> is the on-reading of <code>[鈴]{すず}</code>, <code>a small bell</code>, so <code>呼び鈴</code> is a <code>call-bell / a bell for calling</code>.
 
 <code>押す</code>: she presses the bell. And as we've seen before, in Japanese narrative it is allowable to use present-tense sentences within a past-tense narrative to add immediacy. And the sense here is that we've come to a point here, to a point almost like a landing on the stairs where we rest for a moment and make this our present.
 

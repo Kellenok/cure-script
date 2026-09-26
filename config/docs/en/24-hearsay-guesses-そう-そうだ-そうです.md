@@ -60,7 +60,7 @@ Now, **with a verb we cut off the う-row kana.** Obviously, as always, in the c
 
 ![](../media/image264.webp)
 
-And the い-stem is what you might call the pure stem of a verb. In Japanese it's called **<code>れんようけい/連用形</code>, which means <code>connective-use form</code>.** And that might sound strange because we know that all four stems actually connect things, but while the other three have particular uses, **the <code>れんようけい/連用形</code>, the い-stem, as well as its particular uses,** **can be used to connect almost anything.** **It can connect verbs to nouns to make new nouns;** **it can link verbs to verbs to make new verbs; and so on.**
+And the い-stem is what you might call the pure stem of a verb. In Japanese it's called **<code>[連用形]{れんようけい}</code>, which means <code>connective-use form</code>.** And that might sound strange because we know that all four stems actually connect things, but while the other three have particular uses, **the <code>[連用形]{れんようけい}</code>, the い-stem, as well as its particular uses,** **can be used to connect almost anything.** **It can connect verbs to nouns to make new nouns;** **it can link verbs to verbs to make new verbs; and so on.**
 
 ---
 

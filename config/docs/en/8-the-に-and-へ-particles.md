@@ -104,7 +104,7 @@ Now, you may be thinking, <code>Mmm, how often do people turn into frogs these d
 
 ---
 
-For example, <code>ことし(zeroが)十八さいになる</code>: <code>ことし</code> is <code>this year</code>, <code>十八さい/じゅうはっさい</code> is <code>18 years of age</code>. So we're saying, <code>This year (I) become 18</code>. *Or as given: <code>This year (I) 18 years old-to become</code>.*
+For example, <code>ことし(zeroが)十八さいになる</code>: <code>ことし</code> is <code>this year</code>, <code>[十八]{じゅうはっ}さい</code> is <code>18 years of age</code>. So we're saying, <code>This year (I) become 18</code>. *Or as given: <code>This year (I) 18 years old-to become</code>.*
 
 ![](../media/image1157.webp)
 
