@@ -155,7 +155,8 @@
 
 ::: info
 Это интересно, хотя и трудночитаемо, посмотрите это* [**здесь**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Рекомендую прочитать все комментарии.
-:::
+
 ![](../media/image212.webp)
 
 ![](../media/image764.webp)
+:::

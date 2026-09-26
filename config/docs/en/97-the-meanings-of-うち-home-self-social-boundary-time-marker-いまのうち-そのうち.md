@@ -92,7 +92,9 @@ So **it's an enclosure defined by its contents, like the other kinds of <code>�
 
 ![](../media/image991.webp)
 
+::: info
 ![](../media/image397.webp)
+:::
 
 Similarly, <code>若い**うち**</code> (**while** one is young) — one should do this, do that, **while** one is young. **The <code>うち</code>, the enclosure of time, is defined by its contents.**
 
@@ -150,13 +152,13 @@ And **this is the kind of <code>その</code> that's being used in <code>その�
 
 So this is really how <code>うち</code> extends its meaning from quite specific ones to more and more abstract ones, all of which are closely related to the fundamental meaning.
 
+::: info
 ![](../media/image885.webp)
 
 ![](../media/image820.webp)
 
 ![](../media/image607.webp)
 
-::: info
 **If you came this far then I thank you and you are awesome!**
 
 *Thus, we have reached the end at last… took me roughly 1.5 years to edit so I will get some rest soon, made it just in time for 2024:D Though I will yet need to update 26-78 I guess later.

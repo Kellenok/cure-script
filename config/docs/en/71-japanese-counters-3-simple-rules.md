@@ -177,10 +177,10 @@ What do we know about these? Well, first of all, we know that in the first and l
 
 ![](../media/image340.webp)
 
-![](../media/image272.webp)
-
 ::: info
 [**The video link there**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), if you wanted to watch it, since it is not in the transcript (I think).
+
+![](../media/image272.webp)
 :::
 So if we take <code>階 / かい</code>, the counter for floors in a building, we don't say <code>いちかい</code> — we say <code>いっかい</code>.
 

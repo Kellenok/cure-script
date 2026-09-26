@@ -322,7 +322,9 @@ we use the three-engine structure.
 
 We regard verbs, adjectives and the copula as three unique entities.
 
+::: info
 ![](../media/image1008.webp)
+:::
 
 **This is not a statement about the etymology of Japanese.**
 **It's not even a statement about the <code>real truth</code> of Japanese grammar,**

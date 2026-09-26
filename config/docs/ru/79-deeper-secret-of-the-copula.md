@@ -157,8 +157,8 @@
 
 **И это единственный реальный случай, когда <code>です</code> делает что-то отличное от <code>да</code>.**
 
-![](../media/image563.webp)
+::: info
+Рекомендуется, как обычно, читать комментарии [**под видео**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly). Увеличьте, если что.
 
-::: tip
- Рекомендуется, как обычно, читать комментарии [**под видео**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly). Увеличьте, если что.
- :::
+![](../media/image563.webp)
+:::

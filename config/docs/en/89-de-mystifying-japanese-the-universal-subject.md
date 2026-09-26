@@ -160,7 +160,8 @@ Yours, on the other hand, is best kept on the strait and narrow of straightforwa
 
 ::: info
 This is interesting, if hard to read, see it* [**here**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Recommend reading through all comments.
-:::
+
 ![](../media/image212.webp)
 
 ![](../media/image764.webp)
+:::

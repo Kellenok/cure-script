@@ -56,10 +56,10 @@ Is this a completely different kind of <code>だけ</code>? No, it's exactly the
 
 <code>できるだけ勉強します</code> — <code>I will study if I can</code> or <code>I will study as much as I can</code> / <code>to the limit of the possibility I will study.</code>
 
-![](../media/image837.webp)
-
 ::: info
 In case someone may have been wondering…
+
+![](../media/image837.webp)
 :::
 
 Another use which you'll certainly see quite often is <code>だけあって</code>. Now this <code>あって</code> is <code>ある</code> — to <code>be</code>. And we're often told that it means something like <code>not for nothing</code>.

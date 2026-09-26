@@ -48,4 +48,6 @@ Again, it's the same idea but in Japanese we can project that idea into the futu
 
 So if we understand how these work, we don't have to have a lot of complicated explanations of all their different cases. They work in the same way all the time if we only think about what is the way they work rather than what their end result is if you translate it into English.
 
+::: info
 ![](../media/image786.webp)
+:::

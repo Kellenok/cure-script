@@ -158,9 +158,11 @@ So, for example, <code>そんなにお金の要るわけがない</code>
 
 ::: info
 since this いる, as per what Dolly says means <code>need</code>, I put 要る in its Kanji form to reflect it, rather than just regular <code>to be</code> 居る/いる.
+
+*Also, this...just in case…*
+
+![](../media/image892.webp)
 :::
-*Also, this...just in case…
-*![](../media/image892.webp)
 
 She might be asking for it, she might get it, but there's really no reason why she would need it.
 

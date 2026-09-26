@@ -71,9 +71,10 @@ So then we have: <code>...料理をみんなに教えてもらう</code> Now, we
 
 The <code>選手</code> are marked with が, but we know they're not the subject of the sentence; they're just helping to modify <code>料理</code>.
 
-![](../media/image1076.webp)  
 ::: info
 Just put this here…the link is for Lesson 47. Check also Lesson 46.
+
+![](../media/image1076.webp)
 :::
 <code>料理</code> can't be the subject of the sentence because it's marked with を, not が.
 

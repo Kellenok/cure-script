@@ -132,7 +132,9 @@ I used Kanji form for ケンカ (喧嘩), but both are fine.
 
 And it's translated into English as <code>quarrels should not be continued</code>.
 
+::: info
 ![](../media/image597.webp)
+:::
 
 Sometimes it's even translated as <code>let not the sun settle on your wrath</code>, which of course is nothing to do with what it's really saying.
 
@@ -146,13 +148,13 @@ So this is a range of the circumstances in which the <code>限り / 限る</code
 
 There are others, of course, but with this information I think you'll be in a better position to see what's going on.
 
+::: info
 ![](../media/image1091.webp)
 
 ![](../media/image855.webp)
 
 ![](../media/image879.webp)
 
-::: info
 The links referred are [**くらい vs ほど**](https://www.youtube.com/watch?v=6PEQTcDnbBk&ab_channel=OrganicJapanesewithCureDolly) and Lesson 68 for わけ. You can check other comments under the video as usual.
 Anyway, this is where Dolly’s Grammar playlist of 93 videos officially ends. We are reaching the end. There are a few other converted videos by Dolly below this yet.*
 :::

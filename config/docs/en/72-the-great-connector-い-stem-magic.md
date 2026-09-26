@@ -202,7 +202,8 @@ I'd like to thank my Gold Kokeshi patrons and all of my patrons and supporters o
 ::: info
 In the comments, there is this rather interesting comment by one shary0 about て-form.  
 If anyone wants to read up on い-stem in a more <code>text-booky</code> language - here is **[the source link](https://jref.com/articles/renyoukei.107/)**.  
-:::
+
 **Also, check [this comment discussion under this video.](https://www.youtube.com/watch?v=_qj9ZkAC2tE&lc=Ugy_D9a0k-_X9AujzO94AaABAg&ab_channel=OrganicJapanesewithCureDolly)**
 
 ![](../media/image67.webp)
+:::

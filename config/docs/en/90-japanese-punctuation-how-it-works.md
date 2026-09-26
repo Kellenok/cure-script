@@ -147,7 +147,9 @@ But **in informal Japanese we can use <code>か</code> but mostly we don't.** **
 
 **And so the question mark has become a very useful tool for indicating that rising intonation, for telling us that this is a question, not a statement.**
 
+::: info
 ![](../media/image579.webp)
+:::
 
 **In English, you have to use the question mark at the end of a question if you're writing proper English. In Japanese, there's no such rule.**
 
@@ -193,6 +195,7 @@ And I suspect they came into Japanese in the first place to render italicization
 
 **This emphasis and the indication that something's being used in a special sense can also be indicated by katakana, but you will see this from time to time in Japanese texts and that's what it means.**
 
+::: info
 ![](../media/image559.webp)
 
 ![](../media/image260.webp)
@@ -200,3 +203,4 @@ And I suspect they came into Japanese in the first place to render italicization
 ![](../media/image437.webp)
 
 *Dolly’s link is for Lesson 80.*
+:::

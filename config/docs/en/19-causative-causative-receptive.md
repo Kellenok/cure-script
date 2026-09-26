@@ -83,9 +83,9 @@ And it's as simple as that. Nothing complicated about it at all. But somebody's 
 
 ::: info
 In the video, the red <code>Secondary action: verb</code> has a typo <code>さらる</code>. Jisho, Yomichan with 27 dictionaries…nor anything else…do not even know that <code>さらる</code>. I fixed it.
-:::
 
 ![](../media/image623.webp)
+:::
 
 **And is it difficult to understand what the two subjects are going to be? No, it isn't, because the person receiving and the person eating are always going to be the same.** <code>I received being made to eat...</code> – **I was the one that received being made to eat,** **and therefore, I must have been also the one that ate.**
 

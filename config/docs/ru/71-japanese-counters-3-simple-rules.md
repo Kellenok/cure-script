@@ -177,10 +177,10 @@
 
 ![](../media/image340.webp)
 
-![](../media/image272.webp)
-
 ::: info
 [**Ссылка на видео**](https://www.youtube.com/watch?v=nsDS5xalWGg&ab_channel=OrganicJapanesewithCureDolly), если вы захотите его посмотреть, так как его нет в транскрипции (я думаю).
+
+![](../media/image272.webp)
 :::
 Так что, если мы возьмём <code>階 / かい</code>, счётное слово для этажей в здании, мы не говорим <code>いちかい</code> — мы говорим <code>いっかい</code>.
 

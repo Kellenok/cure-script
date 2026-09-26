@@ -157,8 +157,8 @@ We're doubling that copular. **So while <code>です</code> is an empty formalit
 
 **And that's the only actual case where <code>です</code> does something different from <code>だ</code>.**
 
-![](../media/image563.webp)
+::: info
+Recommend reading the comments [**under the video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) as usual. Zoom-in if anything.
 
-::: tip
- Recommend reading the comments [**under the video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) as usual. Zoom-in if anything.
- :::
+![](../media/image563.webp)
+:::

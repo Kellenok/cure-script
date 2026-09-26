@@ -167,4 +167,6 @@ So, that's the overall structure of Japanese.
 
 When we understand that, the whole thing becomes a great deal easier to conceptualize and deal with.
 
+::: info
 ![](../media/image1053.webp)
+:::

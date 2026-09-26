@@ -143,4 +143,6 @@ And again, this <code>かける</code> as a helper verb can be used in various c
 
 Now, these aren't all the meanings of <code>かける</code>, but I think they're the main, important ones and I think they give you the idea of how this metaphor works and why it works and should allow you to work out how the others work.
 
+::: info
 ![](../media/image811.webp)
+:::

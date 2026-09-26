@@ -172,10 +172,10 @@ Once again we're leading into something else. "Its meaning does not do understan
 
 <code>困ってんですよ」</code> — <code>困る</code> is <code>be at a loss / not know what to do</code> so <code>because its meaning does not do understandable...</code> because we can't understand its meaning, as we say in English, <code>...we're at a loss</code>. And again that <code>んです</code> ending: <code>It is that because we can't understand its meaning, we're at a loss.</code>
 
-![](../media/image578.webp)
-
 ::: info
 The sentence may be a bit harder to read, but I cannot zoom-in more, else for some reason it will then permanently hide the end portion of the comment with <code>...</code> instead of the text..
+
+![](../media/image578.webp)
 :::
 <code>彼女はそのメモを見て青ざめた</code>
 
