@@ -55,7 +55,7 @@ And if we say <code>にほんごが**できる**</code>, we're not saying <code>
 
 And if we say or imply <code>わたしはにほんごが**できる**</code>, we're saying, <code>To me, Japanese **is possible**</code>. 
 
-:::info
+::: info
 *(Dolly gives <code>does possible</code> to imply it’s A does B; not A is B)* 
 :::
 
