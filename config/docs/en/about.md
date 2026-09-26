@@ -4,6 +4,8 @@ First and foremost, this project only exists because Mordraug and Nunko spent a 
 
 For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, changed the formatting slightly, and published it using Vitepress, which I find more convenient than Google Docs or PDF.
 
+Offline EPUB reading support and generation was built by [coffeepebble](https://github.com/coffeepebble).
+
 ## What's changed
 
 1. Changed the <u>underlined text</u> to **bold** due to personal preference.
@@ -26,5 +28,6 @@ Badoom
 5. Merge line-by-line text into readable paragraph text.
 6. Interlinked all lessons.
 7. Added readable translation in Russian.
+8. Added offline EPUB downloads for English and Russian versions.
 
 Something else may have broken during all the changes, but there shouldn't be any critical breaks.

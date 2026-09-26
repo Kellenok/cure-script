@@ -1,11 +1,19 @@
-name: Release
+name: Build & Release EPUBs
 
 on:
+  schedule:
+    # Daily at 12:00 UTC (15:00 MSK)
+    - cron: '0 12 * * *'
   push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+  pull_request:
     branches: [main]
-    tags: ['v*']
-    paths-ignore:
-      - config/.vitepress/**
+    paths:
+      - 'config/docs/**'
+      - 'config/stylesheet.css'
+      - 'epublish'
 
 permissions:
   contents: write
@@ -15,21 +23,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for recent changes (cron only)
+        id: check_changes
+        if: github.event_name == 'schedule'
+        run: |
+          if [ -z "$(git log --since='24 hours ago' --oneline)" ]; then
+            echo "No commits in the last 24 hours. Skipping."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - uses: pandoc/actions/setup@v1
+        if: steps.check_changes.outputs.skip != 'true'
 
-      - name: Build
+      - name: Build EPUBs
+        if: steps.check_changes.outputs.skip != 'true'
         run: |
           chmod +x epublish
           ./epublish
-          
-      - name: Determine tag
-        id: tag
-        run: echo "name=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
 
       - name: Create release & upload
+        if: github.event_name != 'pull_request' && steps.check_changes.outputs.skip != 'true'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || steps.tag.outputs.name }}
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || 'latest' }}
+          name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || 'Latest EPUB build' }}
           files: |
-            **/*.epub
+            cure-dolly-*.epub
