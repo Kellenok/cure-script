@@ -57,18 +57,18 @@ In a push-sentence, the に marks the indirect object, the ultimate receiver of 
 
 In a pull-sentence, where the receiver is the が-marked actor, then the に-marked person is the ultimate giver, the ultimate source of the action. So it's actually much more useful to compare <code>もらう</code> to <code>-れる/-られる</code>, the receptive helper, because it does almost exactly the same thing.
 
-It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else. And this similarity, this likeness, between <code>もらう</code> and <code>-れる/-</code>られる<code></code> is not pointed out by conventional Japanese grammar, although it's really by far the best way of understanding it, because of course they confuse the whole issue by calling the receptive <code>-れる/-られる</code> helper <code>passive</code>.
+It takes a verb, adds another, helper verb to it which tells us that the action is being received and the actor of the sentence is doing the action of receiving the action from somebody else. And this similarity, this likeness, between <code>もらう</code> and <code>-れる/-られる</code> is not pointed out by conventional Japanese grammar, although it's really by far the best way of understanding it, because of course they confuse the whole issue by calling the receptive <code>-れる/-られる</code> helper <code>passive</code>.
 
 It's not passive, **it's receptive, just like *<code>もらう</code>***.
 
 ::: info
-Btw. you can’t use both of these receptives at once. Dolly explains in the* [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
+Btw. you can’t use both of these receptives at once. Dolly explains in the [**comments**](https://www.youtube.com/watch?v=CESFJaFp8FI&lc=UgwTi3XYA1fzqe30n-14AaABAg.8x4VnfQdsss8x57oxMYR66&ab_channel=OrganicJapanesewithCureDolly).
 
 ![](../media/image890.webp)
 :::
 
 
-And they work very similarly. The difference between them is that <code>-れる/-</code>られる<code></code> implies that the action just happened to us. We may or may not have wanted it, but it wasn't really our doing.
+And they work very similarly. The difference between them is that <code>-れる/-られる</code> implies that the action just happened to us. We may or may not have wanted it, but it wasn't really our doing.
 
 <code>もらう</code> implies that we took the action, that we actively brought the action upon ourself from somebody else; we got them to do it for us. So let's talk about receiving a service.
 

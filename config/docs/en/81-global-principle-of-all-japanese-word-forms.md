@@ -12,10 +12,9 @@ What we're going to talk about starts out with something you already know about,
 
 ::: info
 As you know, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, as given in the Lesson 7.5 note screenshot citation from Dolly’s book.
-*Verbs just make a small change to the one kana on the end,*
 :::
 
-**changing it from an う-row kana to one of the four other rows.**
+**Verbs just make a small change to the one kana on the end, changing it from an う-row kana to one of the four other rows.**
 
 **And then we attach various kinds of helpers, helper nouns, helper verbs, helper adjectives.**
 

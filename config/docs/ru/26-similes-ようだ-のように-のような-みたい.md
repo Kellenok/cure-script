@@ -1,6 +1,6 @@
 # **26. Сравнения: ようだ・のように・のような ・みたい**
 
-[**Урок 26: Кристально чистая логика японских сравнений: のように・のような ・みたいграмматика**](https://www.youtube.com/watch?v=Ft_zw0mdeyI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=28&pp=iAQB)
+[**Урок 26: Кристально чистая логика японских сравнений: のように・のような ・みたい грамматика**](https://www.youtube.com/watch?v=Ft_zw0mdeyI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=28&pp=iAQB)
 
 こんにちは。
 

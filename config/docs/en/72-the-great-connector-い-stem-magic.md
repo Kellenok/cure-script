@@ -183,7 +183,7 @@ If we say <code>お店にパンを買いに行く</code>, we're saying <code>I'm
 And that's important, because as I taught in our lesson on the logical particles<sup>[[8b]](./8b-particles-explained.md)</sup>, the five main logical particles can only be attached to nouns. *(が, を, の, に, へ, で)*
 
 ::: info
-Just like Dolly remarks in Lesson 8b, の is also part of the logical particles,
+Just like Dolly remarks in Lesson 8b, の is also part of the logical particles.
 :::
 
 So if it's not explained that the <code>遊び</code> here and the <code>買い</code> here are nouns, I'm not sure what most learners think the structure actually is.

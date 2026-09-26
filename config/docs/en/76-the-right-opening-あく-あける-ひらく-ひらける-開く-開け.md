@@ -75,7 +75,7 @@ So, for example, a French door can <code>あく</code> (open) or <code>ひらく
 
 There's more sense of the actual process of the opening, of the spreading out. So this gives a subtlety that we don't have in English that can be infused into speech or writing just by choosing <code>ひらく</code> instead of <code>あく</code>.
 
-Now, when we come to more metaphorical or abstract uses, the distinction is important again. For example, we can say <code>店をあらく</code> or <code>店をひらく</code> and they both mean <code>open a shop</code>, but <code>店を 開ける</code> implies simply opening in the morning for business or opening after the lunch break or something like that, simply literally opening the shop, just opening the doors so the customers can come in.
+Now, when we come to more metaphorical or abstract uses, the distinction is important again. For example, we can say <code>店をあける</code> or <code>店をひらく</code> and they both mean <code>open a shop</code>, but <code>店をあける</code> implies simply opening in the morning for business or opening after the lunch break or something like that, simply literally opening the shop, just opening the doors so the customers can come in.
 
 ![](../media/image60.webp)
 
@@ -85,7 +85,7 @@ And just a side note here: with an umbrella, which also spreads out and you migh
 
 ![](../media/image1062.webp)
 
-## 開ける
+## 開ける (ひらける)
 
 Now, what about <code>ひらける</code>?
 

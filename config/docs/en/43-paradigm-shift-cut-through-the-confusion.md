@@ -40,7 +40,7 @@ Now, both of these are fairly natural. A subjectivity is in fact something that 
 
 So, for example, Japanese is very happy to say <code>水が犬に飲まれた</code> which means <code>The water drink-received from the dog</code>. The key actor of this sentence is the water, not the dog. The water is receiving the act of drinking from the dog. English is so biased against this that it's almost impossible to translate this into English without turning it passive. It's not passive in Japanese.
 
-And this bias goes so deep that the entire <code>-れる/-</code>られる<code></code> helper verb, which is the verb of receiving an action, is called <code>the passive</code> by this pseudo-Japanese grammar that gets taught in English. It's not passive — it's just that the only way to translate it into English is to turn it passive. Now, let's get back to our crepes.
+And this bias goes so deep that the entire <code>-れる/-られる</code> helper verb, which is the verb of receiving an action, is called <code>the passive</code> by this pseudo-Japanese grammar that gets taught in English. It's not passive — it's just that the only way to translate it into English is to turn it passive. Now, let's get back to our crepes.
 
 If we say <code>クレープが食べたい</code>, the center of the action is the crepes. They are inducing desire in me. If we say <code>お腹が空いた、 *(zeroが)* 早く食べたい</code>, we're saying <code>I'm hungry; I want to eat soon.</code> Now, <code>早く食べたい</code> doesn't have a visible actor, but the actor of this - the zero - is <code>me</code>, so it's <code>(zeroが) 早く食べたい</code> — <code>I want to eat soon.</code>
 
@@ -111,5 +111,5 @@ So you see this whole flipping of polarity, which is based in a more unified vie
 And if we can grasp that, the final problem is solved and a whole area of Japanese is unlocked and released from the necessity of routing it through English.
 
 ::: info
-As usual, if this lesson feels confusing or complex, I recommend looking into the comments of* [**the video**](https://www.youtube.com/watch?v=X_HlngOAvX8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=47&ab_channel=OrganicJapanesewithCureDolly) *where Dolly discusses some stuff in more depth.
+As usual, if this lesson feels confusing or complex, I recommend looking into the comments of [**the video**](https://www.youtube.com/watch?v=X_HlngOAvX8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=47&ab_channel=OrganicJapanesewithCureDolly) where Dolly discusses some stuff in more depth.
 :::

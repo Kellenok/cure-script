@@ -38,7 +38,7 @@ What is meant is the 後 part being a noun, since 後を追う should be a verb.
 
 We talk about the `on` of the table, the `under` of the table, the `beside` of the river. And here we're talking about the `behind` or the `after` of the rabbit. So Alice followed the `rabbit's after` or the `rabbit's behind`. This is how we put it in Japanese.
 
-> アルスは飛び上がって、ウサギの後を追った。
+> アリスは飛び上がって、ウサギの後を追った。
 
 (Alice jumped up and followed after the rabbit.)
 

@@ -59,7 +59,7 @@ So, <code>ある女の子が先輩のアパートで行われた飲み会に参�
 
 ![](../media/image142.webp)
 
-So this sentence, again, we can break down into its A-car, which is obviously <code>女の子が</code>, and its engine, which is <code>した</code> — <code>did</code>. And then <code>参加した</code> — <code>'参加 did — </code>took part".
+So this sentence, again, we can break down into its A-car, which is obviously <code>女の子が</code>, and its engine, which is <code>した</code> — <code>did</code>. And then <code>参加した</code> — "<code>参加</code> did" — 'took part'.
 
 And then all the rest of this sentence is successively modifying elements which modify <code>参加した</code>: <code>先輩のアパートで行われた飲み会</code>. So, <code>飲み会</code> is <code>a drinking party / a drinking meeting</code>.
 

@@ -10,7 +10,7 @@ Now, <code>行く</code> and <code>来る</code> are two of the first words we l
 
 Essentially, <code>iku</code> means <code>go from where the speaker is to somewhere else</code>, and <code>kuru</code> means <code>come from somewhere else to where the speaker is</code>.
 
-> ![](../media/image1005.webp)
+![](../media/image1005.webp)
 
 Isn't that just the same as English <code>come</code> and <code>go</code>? Well, not quite.
 

@@ -59,8 +59,8 @@ The second group is する nouns, which the dictionaries somewhat confusingly ca
 **And their superpower is that they are allowed to drop the direct object marker, <code>を</code>.** So, **if we take the noun <code>勉強</code>, which means <code>study</code>, we can say <code>勉強をする</code>**, which means <code>do study</code> but we can also say <code>勉強する</code>, which means <code>*to* study</code> (**the verb**).
 
 ::: info
-It’s just a very nuanced difference, basically.* *
-The を is the Direct Object (noun) + verb (勉強を + する) & the 勉強する is a する verb.
+It’s just a very nuanced difference, basically.
+<code>を</code> is the Direct Object (noun) + verb (勉強を + する) & the 勉強する is a する verb.
 :::
 
 **We can use the を to mark a direct object of any verb, but we can only drop that を in the case of する nouns.** That is their superpower. So when we do that, **we fuse together <code>勉強</code> with <code>する</code>** **and make what we really can call a <code>する verb</code>.**

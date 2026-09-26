@@ -1,6 +1,6 @@
 # **78. Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review** 
 
-[**Real Japanese Structure vs Tae Kim - Structural Review of Tae Kim's Japanese Grammar | Lesson 77**](https://www.youtube.com/watch?v=-JuHi-yKGFc&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=80&ab_channel=OrganicJapanesewithCureDolly)
+[**Breaking the Core: Tae Kim vs the Copula | Japanese Structure-Based Critical Review | Lesson 78**](https://www.youtube.com/watch?v=u2RBlHxD7fk)
 
 こんにちは。
 
@@ -245,7 +245,7 @@ Unfortunately, instead of sweeping it into the trash can, he's swept it onto the
 
 And that's not surprising, because nobody's teaching it, nobody's telling anybody.
 
-So I hope I've helped to set things a little bit straight here..
+So I hope I've helped to set things a little bit straight here.
 ::: info
-Have been trying the underlines again, in this style I feel it looks quite good and can help show the important parts better. But you can of course let me know your view on it* (o≧▽゜)o
+Have been trying the underlines again, in this style I feel it looks quite good and can help show the important parts better. But you can of course let me know your view on it (o≧▽゜)o
 :::

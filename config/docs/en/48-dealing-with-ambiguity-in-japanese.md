@@ -84,7 +84,7 @@ To take a specific example in Japanese, something that sometimes troubles people
 
 ::: info
 For Potential, check Lesson 10, Godan potential is え-stem + -る. For Receptive L13.
-*![](../media/image125.webp)
+![](../media/image125.webp)
 :::
 
 ::: info
@@ -125,7 +125,7 @@ It doesn't have to be defining the subject of the sentence. It may be just stand
 
 And the answer to that is a knowledge of how Japanese works. Although は-statements are not logical, they are in fact grammatical. They're part of Japanese grammar. When we make a は-statement it has to be related directly to the rest of what we're saying.
 
-Even in English, for example, if we were to say, <code>Speaking of the Andromeda galaxy, Sakura's got a pimple on her nose</code>, you'd be taken aback, wouldn't you? What has Sakura's pimple got to do with the Andromeda galaxy? But in Japanese it's even more so, because the は-statement isn't just saying <code>speaking of</code>. It's actually **a grammatical connection***.*
+Even in English, for example, if we were to say, <code>Speaking of the Andromeda galaxy, Sakura's got a pimple on her nose</code>, you'd be taken aback, wouldn't you? What has Sakura's pimple got to do with the Andromeda galaxy? But in Japanese it's even more so, because the は-statement isn't just saying <code>speaking of</code>. It's actually **a grammatical connection**.
 
 So if I were to say, "Speaking of that ugly foreigner who hit Sakura, I gave the dress I bought at the market to a girl wearing glasses", that makes no sense. Why are we saying <code>speaking of the ugly foreigner who hit Sakura</code>? Now, it's possible, just as it's possible for <code>私はうなぎだ</code> to mean <code>I am an eel</code> under certain circumstances, it's just possible, given surrounding circumstances, given something the listener knows that connects the two things together, that it could actually be working this way.
 

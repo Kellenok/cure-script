@@ -125,13 +125,7 @@ So you might hear people say in an anime <code>黙れ!</code> **That is the verb
 
 **And this is really pretty forceful.** **It's stronger and potentially more offensive than <code>うるさい!</code>** (And [**I made a video on <code>うるさい</code>**](https://www.youtube.com/watch?v=1jBOq1EHwvs) if you want to follow that up.)
 
-**It's not inherently offensive,** 
-
-::: info
-the 命令形 form
-:::
-
-**If someone really has the right to be giving orders, they may use it.** **And people who talk rough may use it among friends or to enemies.**
+**It's not inherently offensive** *(the 命令形 form)*. **If someone really has the right to be giving orders, they may use it.** **And people who talk rough may use it among friends or to enemies.**
 
 You may hear it a lot in shounen anime, where people do tend to talk rough. **It can also express urgency in a few cases.** **One case that you'll often hear is when a character is in serious trouble** **and calls out <code>助けてくれ！</code> which is like <code>助けてください！</code>** **but turning it into a real order, a command.**
 

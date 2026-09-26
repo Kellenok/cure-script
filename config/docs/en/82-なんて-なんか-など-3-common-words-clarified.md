@@ -207,7 +207,7 @@ Well, <code>山田**という**人は知らない</code> is like saying in Engli
 So, we've covered the main usages of these three words or expressions here. It's not completely exhaustive, but I think it gives you the basic keys to how they work, what they mean, how they're used.
 
 ::: info
-Damn, quite a few sub-titles in this one, heh* (ノ\*°▽°\*)  
+Damn, quite a few sub-titles in this one, heh (ノ\*°▽°\*)  
 Wanted to make it a bit easier to search, if anything. Also, this is quite interesting:  
 
 ![](../media/image750.webp)

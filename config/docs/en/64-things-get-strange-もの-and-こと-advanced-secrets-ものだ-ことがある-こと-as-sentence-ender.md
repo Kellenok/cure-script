@@ -22,11 +22,13 @@ My Patron said that she looked it up on various Japanese learning sites and they
 
 This isn't the case at all. What <code>もの</code> really designates is a <code>thing</code>. And a thing is a noun, so it can be a concrete thing like an apple or a book or a universe, but it can also be an abstract thing like love or happiness. These are all nouns.
 
-So <code>愛はすばらしいいものど</code> is the only way you can say it, because <code>ai</code> is a <code>もの</code>, not a <code>koto</code>. It's a noun. It's a thing. It's not a state, it's not an action, it's not a condition. It's a thing.
+So <code>愛はすばらしいものだ</code> is the only way you can say it, because <code>ai</code> is a <code>もの</code>, not a <code>koto</code>. It's a noun. It's a thing. It's not a state, it's not an action, it's not a condition. It's a thing.
 
 And we need to bear this in mind as we look at some of the more extended meanings of <code>もの</code> and <code>こと</code>, as we start to see <code>もの</code> and <code>こと</code> on occasion being used as something like sentence enders.
 
-But before we get to that, let's look at some of the other extended uses of <code>こと</code>. Now, one of the most common ones is <code>したことがある</code>.![](../media/image455.webp)
+But before we get to that, let's look at some of the other extended uses of <code>こと</code>. Now, one of the most common ones is <code>したことがある</code>.
+
+![](../media/image455.webp)
 
 For example, we might say <code>日本に行ったことがある</code>. And that means <code>I have been to Japan</code>.
 
@@ -82,9 +84,13 @@ It doesn't make logical sense, but what you're doing is making that statement an
 
 Now, interestingly, that's when we have <code>ものだ</code> in the present; when we put it in the past it has a different implication. And again, this isn't some strange rule we have to learn.
 
-![](../media/image372.webp)Just as with <code>することがある</code> versus <code>したことがある</code>, there are perfectly good reasons why it has to be like that. The <code>ものだ</code> we've just discussed has to be in the present tense because we're talking about generalization, and the present tense, as we know, isn't really a present tense.
+![](../media/image372.webp)
 
-It covers the present and the future, and it can, even though it's called the non-past tense![](../media/image680.webp) — it's really the indefinite tense – it can cover the past as well so long as it's also covering the present and the future. So it's a generalization tense in this case. But when we say it in the past it has a different meaning.
+Just as with <code>することがある</code> versus <code>したことがある</code>, there are perfectly good reasons why it has to be like that. The <code>ものだ</code> we've just discussed has to be in the present tense because we're talking about generalization, and the present tense, as we know, isn't really a present tense.
+
+It covers the present and the future, and it can, even though it's called the non-past tense (it's really the indefinite tense), cover the past as well so long as it's also covering the present and the future. So it's a generalization tense in this case. But when we say it in the past it has a different meaning.
+
+![](../media/image680.webp)
 
 If we say <code>子供のころには、よくこちらに来たものだ</code>, what we're saying is <code>When I was a child I often used to come to this place.</code>
 

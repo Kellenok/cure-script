@@ -165,15 +165,15 @@ So this is really how <code>うち</code> extends its meaning from quite specifi
 Quite a journey indeed I guess (\*^ω^)八(⌒▽⌒)
 Dolly has 204 videos in total so there are still around 100-ish videos, but alas that is beyond the scope of my energy currently, I may add some videos from time to time if I feel like it if I find a good way to copy the subs and all (these 97 lessons were here before I became an editor).*
 
-*I would like to add some of Dolly’s [****immersion videos****](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) and [****vocabulary / kanji acquisition videos****](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) especially, since I feel they are very useful. Though now I would like to focus on inputting a lot.
+*I would like to add some of Dolly’s [**immersion videos**](https://www.youtube.com/watch?v=xhEnMieHtec&list=PLg9uYxuZf8x_iLm90ie4ewro0lFedXncO&ab_channel=OrganicJapanesewithCureDolly) and [**vocabulary / kanji acquisition videos**](https://www.youtube.com/watch?v=3rT1zaHSmog&list=PLg9uYxuZf8x-W5kcce4zVNwK_JHjxHK5x&ab_channel=OrganicJapanesewithCureDolly) especially, since I feel they are very useful. Though now I would like to focus on inputting a lot.
 Anyway, this Transcript should get you well covered in terms of general stuff that you can then reinforce on your own, you should have the basics laid down already quite well at this point.*
 
 *---
-Keep it up and go consuming tons and tons of actual Japanese content & if you can go to actually USE the language.That is how one acquires it. Just keep going & it gets easier.*
+Keep it up and go consuming tons and tons of actual Japanese content & if you can go to actually USE the language. That is how one acquires it. Just keep going & it gets easier.*
 
-*Obviously, for all kinds of resources you can check [****my Resource document****](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) on the first page.
+*Obviously, for all kinds of resources you can check [**my Resource document**](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#heading=h.pl6re36m6uy2) on the first page.
 Again, the only way you <code>Git Gud</code> is if you put in the time and ACTIVE effort! 頑張ります!
-You can contact me on [****Discord****](https://discord.com/users/501133947044888605) or through mail if anything.*
+You can contact me on [**Discord**](https://discord.com/users/501133947044888605) or through mail if anything.*
 
 *Especially if you find a typo or wrong information / note or if you have some tips etc.*
 
@@ -184,7 +184,7 @@ I appreciate it a ton! Definitely visit MoeWay and join their Discord! Amazing c
 Obviously I would also like to thank every single editor that worked on this transcript, whether it was before I came, or after, providing some assistance with the editing!
 I thank you all and thank you for your contribution!***
 
-***Fin** (for now at least…)*
+***Fin*** *(for now at least…)*
 
 :::
 

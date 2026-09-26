@@ -132,7 +132,9 @@ I put the name Hanako into Katakana in the second example sentence.
 
 **<code>恥ずかしくなったハナコ</code> — We're not saying <code>Hanako became embarrassed</code>, we're saying <code>Embarrassed Hanako</code>.**
 ::: info
-Or I guess <code>Hanako, **who became embarrassed**…</code>* ![](../media/image925.webp)
+Or I guess <code>Hanako, **who became embarrassed**…</code>
+
+![](../media/image925.webp)
 :::
 ::: info
 Sorry for the bad zoom, got <code>Youtubed</code> again. This kind of modifying can be basically translated into English as sort-of a relative clause. The link by Dolly references Lesson 46.
@@ -159,7 +161,7 @@ Well, that doesn't really matter because their audience is fundamentally Japanes
 Yours, on the other hand, is best kept on the strait and narrow of straightforward subject-predicate analysis. Thank you for watching this lesson…
 
 ::: info
-This is interesting, if hard to read, see it* [**here**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Recommend reading through all comments.
+This is interesting, if hard to read, see it [**here**](https://www.youtube.com/watch?v=CEgGnitwXGA&lc=UgxdWaF1pzid_StWEB14AaABAg&ab_channel=OrganicJapanesewithCureDolly). Recommend reading through all comments.
 
 ![](../media/image212.webp)
 

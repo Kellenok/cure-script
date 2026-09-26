@@ -156,5 +156,5 @@ There are others, of course, but with this information I think you'll be in a be
 ![](../media/image879.webp)
 
 The links referred are [**くらい vs ほど**](https://www.youtube.com/watch?v=6PEQTcDnbBk&ab_channel=OrganicJapanesewithCureDolly) and Lesson 68 for わけ. You can check other comments under the video as usual.
-Anyway, this is where Dolly’s Grammar playlist of 93 videos officially ends. We are reaching the end. There are a few other converted videos by Dolly below this yet.*
+Anyway, this is where Dolly’s Grammar playlist of 93 videos officially ends. We are reaching the end. There are a few other converted videos by Dolly below this yet.
 :::

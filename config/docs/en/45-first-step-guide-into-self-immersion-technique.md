@@ -64,7 +64,7 @@ And then we have a quotation from the dog: <code>そうだ、あいつを脅か�
 
 ![](../media/image388.webp)
 
-<code>そうだ</code> — <code>Okay then/that's the case</code>; <code>あいつを脅かして</code> — <code>脅かす</code> is to ****intimidate**** or to <code>scare (someone)</code>, so: <code>I'm going to scare that fellow and... あの肉を取ってやろう.</code>
+<code>そうだ</code> — <code>Okay then/that's the case</code>; <code>あいつを脅かして</code> — <code>脅かす</code> is to **intimidate** or to <code>scare (someone)</code>, so: <code>I'm going to scare that fellow and... あの肉を取ってやろう.</code>
 
 <code>あの肉</code>, of course, is <code>that meat</code>; <code>取る</code> is <code>take</code>. <code>取ってやろう</code> is related to <code>-てあげる</code>, to <code>do an action up to someone / to give someone the benefit of your action</code>.
 
@@ -96,7 +96,7 @@ And again we've switched into the present tense to give more immediacy to this. 
 
 <code>さっきの川の中の犬は水に映った自分の顔だったのです</code> <code>のです</code> — <code>The fact is that it was...</code> The fact is that it was what?
 
-The fact is that... さっきの川の中の犬は" — <code>さっき</code> in this case means <code>just before</code> or <code>previous</code>. So <code>さっきの川の中の犬</code> is <code>the dog in the river from just before</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> is <code>oneself</code>, so it's <code>one's own face reflected in the water</code>: <code>水に映った自分の顔だったのです.</code>
+The fact is that... <code>さっきの川の中の犬は</code> — <code>さっき</code> in this case means <code>just before</code> or <code>previous</code>. So <code>さっきの川の中の犬</code> is <code>the dog in the river from just before</code>; <code>水に映った自分の顔だった</code> — <code>自分</code> is <code>oneself</code>, so it's <code>one's own face reflected in the water</code>: <code>水に映った自分の顔だったのです.</code>
 
 The fact is that it was... the fact is that the previous dog in the river was one's own face reflected in the water. And now there are two morals that follow this story. And they're put into one long compound sentence, which looks a bit difficult, so let's just break it into two parts.
 

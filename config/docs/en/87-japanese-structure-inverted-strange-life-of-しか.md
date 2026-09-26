@@ -80,7 +80,7 @@ Now, **there's also an implicit relevance clause in this**, so when we say <code
 
 ![](../media/image1034.webp)
 
-**Now, the <code>いない</code> partly tells us that**, but it isn't just that, because **it also **doesn't mean** that there are no bunny rabbits here**, **there are no birds, there are no capybara** (did I pronounce that right?)
+**Now, the <code>いない</code> partly tells us that**, but it isn't just that, because **it also doesn't mean that there are no bunny rabbits here, there are no birds, there are no capybara** (did I pronounce that right?)
 
 ![](../media/image1029.webp)
 
@@ -146,7 +146,7 @@ Well, of course it does exist, **this is very colloquial**, but as far as we're 
 
 **In English** we might say, <code>**It's run or nothing**</code>, and again, **that's ungrammatical and for the same reason** **that the Japanese is ungrammatical, that <code>run</code> isn't a noun.**
 
-**But, when that thing's coming after you, who cares about grammar?.**
+**But, when that thing's coming after you, who cares about grammar?**
 ::: info
 Some useful comments I guess under the video…
 
@@ -154,5 +154,7 @@ Some useful comments I guess under the video…
 
 ![](../media/image477.webp)
 
-*One miscellaneous about くせに (癖に?), for the full lesson, she made [**this video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lesson 93*![](../media/image556.webp)
+*One miscellaneous about くせに (癖に?), for the full lesson, she made [**this video**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Lesson 93*
+
+![](../media/image556.webp)
 :::

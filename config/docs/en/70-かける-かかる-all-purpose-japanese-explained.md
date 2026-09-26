@@ -10,7 +10,7 @@ The impetus for this video came from a question from one of my Gold Kokeshi patr
 
 And as a unit who's been a Nintendo fan since I was a cogwheel, I really appreciate that. (That's just a joke — I never really was a cogwheel.)
 
-So the question is: <code>I often hear the word </code>かける" and when I look it up in a J-E dictionary, there are over twenty different definitions of it. Is there any logic that ties all these definitions together? Or is it really just a word with a ton of different meanings?"
+So the question is: "I often hear the word <code>かける</code> and when I look it up in a J-E dictionary, there are over twenty different definitions of it. Is there any logic that ties all these definitions together? Or is it really just a word with a ton of different meanings?"
 
 Well yes, there is a logic that ties it all together, but that logic has a number of metaphorical extensions, so we'll take a look at it and see how it all works. The base meaning of this word could be translated into English as <code>hang</code> or possibly <code>hook</code>,
 

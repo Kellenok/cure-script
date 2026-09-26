@@ -1,6 +1,6 @@
 # **50. 2 аспекта японского языка, которые иностранцы не могут постичь: させてもらう Последний секрет потенциала**
 
-[**2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential | Lesson 50**](https://www.youtube.com/watch?v=r2j1o9wj2oA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=52&pp=iAQB)
+[**Урок 50: 2 аспекта японского языка, которые иностранцы не могут постичь: させてもらう Последний секрет потенциала**](https://www.youtube.com/watch?v=r2j1o9wj2oA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=52&pp=iAQB)
 
 こんにちは。
 

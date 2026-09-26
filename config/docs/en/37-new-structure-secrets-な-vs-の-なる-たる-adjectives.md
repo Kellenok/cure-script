@@ -82,7 +82,7 @@ they're less common, but there are <code>なる-adjectives</code> and <code>た�
 
 ### なる
 
-So, if we take a book that my little sister likes... it's called <code>アリスとペンギん:華麗なる探偵</code>, which means <code>Alice and Penguin: The Magnificent Detectives</code>. Actually, <code>[華麗]{かれい}</code> is an adjectival noun, so we can use it with <code>な</code>, but in this case the author has chosen to use <code>なる</code> instead.
+So, if we take a book that my little sister likes... it's called <code>アリスとペンギン:華麗なる探偵</code>, which means <code>Alice and Penguin: The Magnificent Detectives</code>. Actually, <code>[華麗]{かれい}</code> is an adjectival noun, so we can use it with <code>な</code>, but in this case the author has chosen to use <code>なる</code> instead.
 
 What does <code>なる</code> mean here? Is it the <code>なる</code> that means <code>become</code>? No, it isn't.
 

@@ -180,5 +180,5 @@ And it's really only because he's that important and that intelligent that I mad
 ::: info
 To reiterate, this is NOT Dolly putting down Tae-Kim-sensei or saying her way is superior, because language is not black and white... It just compares Dolly’s understanding to Tae-Kim’s.  
 And it is completely okay to have different kinds of mindsets about things in language. This happens all the time in linguistics. It is not meant to cause ill-will or ridicule whatsoever.  
+*We are all different and for each of us, something else works, so there is benefit in it.*
 :::
-We are all different and for each of us, something else works, so there is benefit in it.*

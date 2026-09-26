@@ -142,4 +142,3 @@ The sadness, the fleetingness, the <code>儚い</code> nature of life and the ne
 ::: info
 This hits quite differently when we realise Dolly passed away that year… R.I.P. 🙁
 :::
-.

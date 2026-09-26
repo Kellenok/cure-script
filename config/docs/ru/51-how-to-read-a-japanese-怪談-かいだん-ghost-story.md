@@ -1,6 +1,6 @@
 # **51. Как читать японскую [怪談]{かいだん} (историю о привидениях)**
 
-[**Hands-on Japanese: How to read a Japanese Kaidan (ghost story) | Lesson 51**](https://www.youtube.com/watch?v=uO1rHcwjADA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=53&pp=iAQB)
+[**Урок 51: Практический японский: как читать японскую кайдан (историю о привидениях)**](https://www.youtube.com/watch?v=uO1rHcwjADA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=53&pp=iAQB)
 
 こんにちは。
 
@@ -58,7 +58,7 @@
 
 ![](../media/image142.webp)
 
-Итак, это предложение, опять же, мы можем разбить на его А-вагон, который, очевидно, <code>女の子が</code>, и его локомотив, который <code>した</code> — <code>сделал</code>. И затем <code>参加した</code> — <code>'参加 сделал — </code>принял участие'.
+Итак, это предложение, опять же, мы можем разбить на его А-вагон, который, очевидно, <code>女の子が</code>, и его локомотив, который <code>した</code> — <code>сделал</code>. И затем <code>参加した</code> — «<code>参加</code> сделал» — 'принял участие'.
 
 И затем вся остальная часть этого предложения последовательно модифицирует элементы, которые модифицируют <code>参加した</code>: <code>先輩のアパートで行われた飲み会</code>. Итак, <code>飲み会</code> — это <code>вечеринка с выпивкой / встреча с выпивкой</code>.
 

@@ -175,15 +175,15 @@ And the answer to this is really very simple.
 ![](../media/image980.webp)
 
 **And what's going on in a sentence like <code>パンを食べたい</code> is that  
-**<code>たい</code> is no longer being attached simply to the verb <code>食べる</code>.****
+<code>たい</code> is no longer being attached simply to the verb <code>食べる</code>.**
 
 ---
 
 **We're not saying <code>パンを</code> and then <code>食べたい</code>,**
 
-****we're saying <code>パンを食べ...</code> and <code>たい</code> is being attached to that entire unit.****
+**we're saying <code>パンを食べ...</code> and <code>たい</code> is being attached to that entire unit.**
 
-****What we want is the action <code>パンを食べる</code>, so we can attach the <code>たい</code> to that entire unit.****
+**What we want is the action <code>パンを食べる</code>, so we can attach the <code>たい</code> to that entire unit.**
 
 **That's what makes sense of these constructions.**
 
@@ -227,7 +227,7 @@ Well, essentially **I think the reason is that we are not talking about an impul
 
 **And in the case of people, it's more respectful to say**
 
-<code>さくら****を****守りたい</code> than <code>さくら**が**守りたい</code>,
+<code>さくら**を**守りたい</code> than <code>さくら**が**守りたい</code>,
 
 **because we're not saying that Sakura is an object** *(implication-wise, grammar-wise she is:D)*
 
@@ -241,15 +241,15 @@ Well, essentially **I think the reason is that we are not talking about an impul
 
 **But in the case of, say, the country, or peace, or justice, or even a house or a park,**
 
-****we're talking about something less impulsive and more a decision of our own,****
+**we're talking about something less impulsive and more a decision of our own,**
 
 **if not a conscious decision, then a mindset, a way of thinking that is ours.**
 
-**So we talk about that action **as our own** rather than something induced by the external cause.**
+**So we talk about that action as our own rather than something induced by the external cause.**
 
 ---
 
-If we do say <code>パン****を****食べたい</code>,
+If we do say <code>パン**を**食べたい</code>,
 
 **this is likely to be in conditions where we're talking a little bit more generally,**
 
@@ -259,7 +259,7 @@ If we do say <code>パン****を****食べたい</code>,
 
 **We're not talking about some candy we've just seen that's making us want to eat it.**
 
-****We're talking about the general desire to eat bread.****
+**We're talking about the general desire to eat bread.**
 
 ---
 
@@ -267,11 +267,11 @@ So **we're more likely to say** <code>**パンを**食べたい時</code> (when 
 ::: info
 In the sentence above, <code>I</code> should be the Subject, which is hidden in Japanese as zeroが.
 :::
-****than**** <code>**パンが**食べたい時</code> (when **bread***=Subject* makes me want to eat it).
+**than** <code>**パンが**食べたい時</code> (when **bread***=Subject* makes me want to eat it).
 
 ![](../media/image239.webp)
 
-****And this isn't a firm and definite rule but this is the kind of tendency,****
+**And this isn't a firm and definite rule but this is the kind of tendency,**
 
 **the kind of reason, the nuance, which decides which way**
 
@@ -298,16 +298,16 @@ So I hope this time we really laid to rest the final question of polarity switch
 
 ![](../media/image908.webp)
 
-****And it happens for reasons which are a little subtle, that will probably take time to ingest****
+**And it happens for reasons which are a little subtle, that will probably take time to ingest**
 
-****and immersion to ingest, because you can't learn everything through raw structure.****
+**and immersion to ingest, because you can't learn everything through raw structure.**
 
 ::: info
 ![](../media/image361.webp)
 
 ![](../media/image844.webp)
 
-Read [****THIS COMMENT TREE****](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly) where Dolly gives some useful info about が use.  
+Read [**THIS COMMENT TREE**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgyOhoQLaj1rzfKcTWV4AaABAg&ab_channel=OrganicJapanesewithCureDolly) where Dolly gives some useful info about が use.  
 It also slightly touches over the cases where there are 2 visible logical particles like が or を in a single clause, since it can happen at times such as with a compound Adjective like 頭がいい.
 *Also, [**this one**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgziEAPSnr0SnhrQT8Z4AaABAg.9I_i6CnMTAb9I_ko3FwzJU&ab_channel=OrganicJapanesewithCureDolly) can be useful if the たい stuff used with を is a bit confusing, [**same for ない**](https://www.youtube.com/watch?v=Gi3BmIRZZPs&lc=UgzdlJPBSPKfEnC5CTt4AaABAg.9KGUKbPabp79KHKmr1rRl_&ab_channel=OrganicJapanesewithCureDolly).*
 

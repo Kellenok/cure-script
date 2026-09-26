@@ -92,9 +92,9 @@ And there are a lot of implications involved here. I won't go into them in this 
 But the thing to remember here because we're talking about the actual structure, is that when people talk about the choice between は and が, it's confusing and somewhat misleading because it implies that は and が are somewhat similar,  
 that they do a similar kind of job.
 
-**And we know that they don't. We know that** **they're absolutely different species of particle.**
+**And we know that they don't. We know that they're absolutely different species of particle.**
 
-And what we know from this lesson is that what we're actually doing **when we're making** **a choice between は and が is that we're choosing** **which of two elements which are always present to make visible, whether we make the は visible, the が visible, or neither visible.**
+And what we know from this lesson is that what we're actually doing **when we're making a choice between は and が is that we're choosing which of two elements which are always present to make visible, whether we make the は visible, the が visible, or neither visible.**
 
 So we can say <code>アメリカ人です</code>, we can say <code>私はアメリカ人です</code>, and we can say <code>私がアメリカ人です</code>. And each of those has a slightly different implication.
 

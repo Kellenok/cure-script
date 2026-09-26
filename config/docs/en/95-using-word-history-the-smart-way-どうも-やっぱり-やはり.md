@@ -214,7 +214,7 @@ I didn't see it **either**."
 
 <code>僕も**やはり**行きました</code> (I went **too** / I **also** went).
 
-Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went,** <code>well, ****やはり**** — **original focus** — I went **too**.</code>
+Again, **the other person has said that they went and we stress the も by saying <code>やはり</code>**, **returning to the original focus of this part of the conversation, to the fact that you went:** "well, **やはり** — **original focus** — I went **too**."
 
 ---
 

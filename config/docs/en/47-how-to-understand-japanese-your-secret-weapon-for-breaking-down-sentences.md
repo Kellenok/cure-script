@@ -101,7 +101,7 @@ I think what she means is simply that this would not work without the mentioned 
 :::
 
 Here instead it is just a pre-modifier, and the head verb of the clause is あげた at the end.
-*So if we wanted to modify both elements of the sentence we'd need to make the first one visible.
+So if we wanted to modify both elements of the sentence we'd need to make the first one visible.
 
 Let's try doing that. <code>あのさくらをなぐったみにくい外国人は *(zeroが)* 私がいちばでかったドレスをメガネをかけている少女にあげた.</code> — <code>That ugly foreigner who hit Sakura gave the dress I bought at the market to a girl wearing glasses.</code>
 
@@ -109,13 +109,13 @@ Let's try doing that. <code>あのさくらをなぐったみにくい外国人�
 
 Now we're starting the sentence out with a non-logical topic marked by は. But what that topic is doing is defining for us the zero pronoun, the が-marked A-car of the sentence, which is zeroが.
 
-Now, we could say, <code>みにくい外国人がさくらをなぐった</code> — <code>An ugly foreigner hit Sakura</code> — but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause***,* **it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
+Now, we could say, <code>みにくい外国人がさくらをなぐった</code> — <code>An ugly foreigner hit Sakura</code> — but what we're doing here once again is we're pulling out one of the elements, in this case <code>外国人</code>, and putting it at the end of the clause, **so it isn't a functional logical clause, it's a modified noun:** <code>the ugly 外国人 who hit Sakura</code>. So it's telling us more about that 外国人: <code>As for that ugly 外国人 who hit Sakura, he did...</code>
 
 What did he do? <code>He did..</code> — that's <code>zeroが</code> — <code>he did...</code> and then we say what he did.
 
 ::: info
 I am going to put this comment here.
-*![](../media/image825.webp)
+![](../media/image825.webp)
 :::
 
 And let's notice that everything, everything in this sentence apart from the core consists of what we might call <code>serial modification</code>. Even the word <code>外国人</code>, which is so often seen together that we tend to regard it as a word in itself, and it is a word in itself, is in fact an example of *serial modification*, one thing modifying the thing that comes after it.
