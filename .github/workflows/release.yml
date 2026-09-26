@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+    paths-ignore:
+      - config/.vitepress/**
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pandoc/actions/setup@v1
+
+      - name: Build
+        run: |
+          chmod +x epublish
+          ./epublish
+          
+      - name: Determine tag
+        id: tag
+        run: echo "name=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Create release & upload
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || steps.tag.outputs.name }}
+          files: |
+            **/*.epub
