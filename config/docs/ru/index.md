@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: О проекте
       link: /about
+    - theme: alt
+      text: Скачать EPUB
+      link: https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-ru.epub
 
 
 ---

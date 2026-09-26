@@ -6,6 +6,10 @@ For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, ch
 
 Offline EPUB reading support and generation was built by [coffeepebble](https://github.com/coffeepebble).
 
+::: tip Offline reading
+You can download the full course as an EPUB book for e-readers and smartphones: [**Download EPUB**](https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-en.epub).
+:::
+
 ## What's changed
 
 1. Changed the <u>underlined text</u> to **bold** due to personal preference.

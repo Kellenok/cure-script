@@ -6,6 +6,10 @@
 
 Поддержка офлайн-чтения в формате EPUB и генератор книг созданы [coffeepebble](https://github.com/coffeepebble).
 
+::: tip Чтение офлайн
+Вы можете скачать весь курс в формате книги для ридеров и смартфонов: [**Скачать EPUB**](https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-ru.epub).
+:::
+
 ## Что изменилось
 
 1.  Изменён <u>подчёркнутый текст</u> на **жирный** из личных предпочтений.

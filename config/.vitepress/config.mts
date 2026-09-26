@@ -14,10 +14,24 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'About', link: '/about' },
+          { text: 'Download EPUB', link: 'https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-en.epub' }
+        ]
+      }
     },
     ru: {
       label: 'Russian',
       lang: 'ru',
+      themeConfig: {
+        nav: [
+          { text: 'Главная', link: '/ru/' },
+          { text: 'О проекте', link: '/ru/about' },
+          { text: 'Скачать EPUB', link: 'https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-ru.epub' }
+        ]
+      }
     }
   },
 
@@ -69,7 +83,8 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about/about' }
+      { text: 'About', link: '/about' },
+      { text: 'Download EPUB', link: 'https://github.com/Kellenok/cure-script/releases/latest/download/cure-dolly-en.epub' }
     ],
     footer: {
       message: 'Created by <a href="https://bento.me/kln">Kellen</a>',
