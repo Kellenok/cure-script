@@ -221,10 +221,15 @@ q {
 code {
   border-radius: 4px;
   padding: 3px 6px;
-  background-color: rgba(142, 150, 170, 0.14);
+  background-color: rgba(0, 0, 0, 0.06);
   font-size: 0.875em;
-  color: #3451b2;
+  color: inherit;
   font-family: monospace;
+}
+@media (prefers-color-scheme: dark) {
+  code {
+    background-color: rgba(255, 255, 255, 0.14);
+  }
 }
 pre code {
   padding: 3px 6px;
